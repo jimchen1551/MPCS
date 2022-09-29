@@ -20,4 +20,3 @@ Tags:
 | [[Database systems]]      | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Machine learning]]      | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Deep learning]]         | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-Hi!
