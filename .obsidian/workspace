@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science.md",
+            "file": "Computer Science/Machine learning.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science.md",
+                "file": "Computer Science/Machine learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science.md",
+                "file": "Computer Science/Machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science.md"
+                "file": "Computer Science/Machine learning.md"
               }
             }
           },
@@ -152,6 +152,8 @@
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
+    "Mathematics/Probability/Distribution/Normal distribution.md",
+    "Computer Science.md",
     "Computational Neuroscience.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
@@ -159,8 +161,6 @@
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Searching algorithms.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-    "Computer Science/Algorithms/Analysis/Lower bound.md",
-    "Computer Science/Algorithms/Analysis/Upper bound.md",
-    "Computer Science/Algorithms/Analysis/Best case.md"
+    "Computer Science/Algorithms/Analysis/Lower bound.md"
   ]
 }
