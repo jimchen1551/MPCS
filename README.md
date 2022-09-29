@@ -1,7 +1,7 @@
 # MPCS
 Notes with links for math, physics, and computer science
 
-Highly recommend to open in Obsidian
+Highly recommend to open with Obsidian
 
 https://obsidian.md
 
