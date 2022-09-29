@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "1aed9c904136b3c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ade7a57857e5a74",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d4a6096260a5bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4710656f8a857e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fabde2f305e21f03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d2f4d200e6f140b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ace4c4a0d1af679",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb5391542beeecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa34c041a2ffc468",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4ade7a57857e5a74",
+  "lastOpenFiles": [
+    "Computer Science.md"
+  ]
+}

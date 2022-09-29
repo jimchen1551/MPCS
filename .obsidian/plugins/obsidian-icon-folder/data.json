@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabLinux",
+      "FasCode",
+      "RiFunctions",
+      "FasLungs",
+      "FasC"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "3. Cardiovascular system": "🫀",
+  "1. Bones and joints": "🦴",
+  "5. Nervous system": "🧠",
+  "0. Cells and tissues": "🧫",
+  "4. Lymphatic system": "🛡",
+  "8. Respiratory system": "🫁",
+  "10. Reproductive system": "⚤",
+  "2. Muscles": "💪",
+  "7. Digestive system": "👄",
+  "9. Urinary system": "🚽",
+  "6. Endocrine system": "🩸",
+  "Computer Science": "RiComputerLine",
+  "Mathematics": "RiFunctions",
+  "Physics": "FasAtom",
+  "Computational Neuroscience": "FasBrain",
+  "Computer Science/C.md": "FasCode",
+  "Computer Science/C++.md": "FasCode",
+  "Computer Science/Data structures.md": "RiNodeTree",
+  "Computer Science/Algorithms.md": "RiFlowChart",
+  "Computer Science/Database systems.md": "RiDatabase2Line",
+  "Computer Science/Deep learning.md": "RiMindMap",
+  "Computer Science/Digital systems.md": "FasMicrochip",
+  "Computer Science/Machine learning.md": "RiFunctions",
+  "Computer Science/Python.md": "FasCode",
+  "Computer Science/Operating systems.md": "FabLinux",
+  "Computer Science/Formal languages.md": "FasLanguage",
+  "Computer Science/Computer organization.md": "FasMemory",
+  "Computer Science/Computer architecture.md": {
+    "iconName": null,
+    "inheritanceIcon": "FasMicrochip"
+  }
+}

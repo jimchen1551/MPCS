@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "89198390a564a198",
+    "type": "split",
+    "children": [
+      {
+        "id": "f24650f38a2d90cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Computer organization/Instruction/Instruction set architecture.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d103ef7f550c9ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6887dbfa0193971a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ae84209cd603a71d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b904533068069579",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9c1e8fb9d12cfd49",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Computer Science/Computer organization/Instruction/Instruction set architecture.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "f24650f38a2d90cb",
+  "lastOpenFiles": [
+    "Computer Science/Computer organization/Instruction/Instruction set architecture.md",
+    "Computer Science/Computer organization/Abstractions.md",
+    "Computer Science/Computer organization.md",
+    "Pasted image 20220707161000.png"
+  ]
+}
