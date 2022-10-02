@@ -33,6 +33,15 @@ $$=\sigma_1u_1v_1^T+\sigma_2u_2v_2^T+\dots+\sigma_mu_mv_m^T+0$$
 - $UU^T=U^TU=I_{n\times n}$ ; $VV^T=V^TV=I_{m\times m}$ ; $\sigma_1\geq\sigma_2\geq\dots\geq\sigma_m\geq0$
 - Importance: $u_1\geq u_2\geq\dots$ ; $v_1\geq v_2\geq\dots$
 
+## Correlation matrix
+$$X^TX=\begin{bmatrix}
+x_1^Tx_1&x_1^Tx_2&\cdots&x_1^Tx_m\\
+x_2^Tx_1&x_2^Tx_2&\cdots&x_2^Tx_m\\
+\vdots&\vdots&\ddots&\vdots\\
+x_m^Tx_1&x_m^Tx_2&\cdots&x_m^Tx_m\\
+\end{bmatrix}$$
+$$x_i^Tx_j=\langle x_i,x_j\rangle$$
+
 ## Eckand-Young theorem
 $$X\approx \tilde U\tilde \Sigma\tilde V^T=\tilde X$$
 $$\arg\min_{ rank(\tilde X)=r}\|X-\tilde X\|_F$$
