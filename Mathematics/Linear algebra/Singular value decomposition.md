@@ -12,8 +12,8 @@ Tags:
 $$X=\begin{bmatrix}
 x_1&x_2&\dots&x_m
 \end{bmatrix}
-=U\Sigma V^T=
-\begin{bmatrix}
+=U\Sigma V^T$$
+$$=\begin{bmatrix}
 u_1&u_2&\dots&u_n
 \end{bmatrix}
 \begin{bmatrix}
@@ -25,6 +25,6 @@ u_1&u_2&\dots&u_n
 \vdots&\vdots&\vdots&\vdots
 \end{bmatrix}
 \begin{bmatrix}
-v_1&v_2&\dots
-\end{bmatrix}$$
+v_1&v_2&\dots&v_m
+\end{bmatrix}^T$$
 $U,V$: unitary matrix (orthogonal); $\Sigma$: diagonal matrix
