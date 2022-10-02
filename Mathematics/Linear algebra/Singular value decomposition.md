@@ -49,13 +49,14 @@ $$X^TXV=V\Sigma^2$$
 de ja vu? Exactlt, $U$ or $V$ is the eigen vectors of $XX^T$ or $X^TX$ and $\Sigma^2$ is the corresponding eigen values. 
 
 ## Eckand-Young theorem
-$$X\approx \tilde U\tilde \Sigma\tilde V^T=\tilde X$$
-$$\arg\min_{\tilde X\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde \Sigma\tilde V^T$$
+$$X\approx \tilde U\tilde \Sigma V^T=\tilde X$$
+$$\arg\min_{\tilde X\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde \Sigma V^T$$
 - After truncating $U$, $\Sigma$, and $V$ at rank r, we have $\tilde U$, $\tilde \Sigma$, and $\tilde V$ (economy)
 - $\tilde U\tilde \Sigma\tilde V^T$ is pretty approximate to $X$
 - $\tilde U^T\tilde U=I_{r\times r}$ ;  $\tilde U\tilde U^T\neq I$
 Ps. Frobenius norm: $\|A\|_F=\sqrt{\sum_{i,j}(A_{ij})^2}$
 
 ## Method of Snapshots
-$$U=XV\Sigma^{-1}$$
+$$X=\tilde U\tilde\Sigma V^T$$
+$$U=XV\tilde\Sigma^{-1}$$
 ## Unitary transformation
