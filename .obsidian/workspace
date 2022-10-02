@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Machine learning.md",
+            "file": "Mathematics/Linear algebra/Singular value decomposition.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning.md"
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
+    "Mathematics/Linear algebra.md",
+    "Mathematics/Linear algebra/Singular value decomposition.md",
+    "Computer Science/Machine learning.md",
     "Mathematics/Probability/Distribution/Normal distribution.md",
     "Computer Science.md",
     "Computational Neuroscience.md",
-    "Computer Science/Machine learning.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
-    "Computer Science/Algorithms/Searching algorithms.md",
-    "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-    "Computer Science/Algorithms/Analysis/Lower bound.md"
+    "Computer Science/Algorithms/Searching algorithms.md"
   ]
 }

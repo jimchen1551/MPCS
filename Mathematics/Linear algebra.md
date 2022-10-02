@@ -10,3 +10,5 @@ Tags:
 | Content | Study | Test | Review |
 | :------ | :---: | :--: | :----: |
 |         |<input type="checkbox" />|<input type="checkbox" />|<input type="checkbox" />|
+
+[[Singular value decomposition]]
