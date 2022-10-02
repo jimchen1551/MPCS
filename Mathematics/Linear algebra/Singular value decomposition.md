@@ -57,3 +57,5 @@ $$\arg\min_{\tilde X\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde
 Ps. Frobenius norm: $\|A\|_F=\sqrt{\sum_{i,j}(A_{ij})^2}$
 
 ## Method of Snapshots
+$$U=XV\Sigma^{-1}$$
+## Unitary transformation
