@@ -41,6 +41,10 @@ x_2^Tx_1&x_2^Tx_2&\cdots&x_2^Tx_m\\
 x_m^Tx_1&x_m^Tx_2&\cdots&x_m^Tx_m\\
 \end{bmatrix}$$
 $$x_i^Tx_j=\langle x_i,x_j\rangle$$
+$$\text{if }X=U\Sigma V^T,X^T=V\Sigma U^T$$
+$$X^TX=V\Sigma U^TU\Sigma V^T=V\Sigma^2V^T$$
+$$X^TXV=V\Sigma^2$$
+de ja vu? Yes, V is the eigenvector of $X_TX
 
 ## Eckand-Young theorem
 $$X\approx \tilde U\tilde \Sigma\tilde V^T=\tilde X$$
