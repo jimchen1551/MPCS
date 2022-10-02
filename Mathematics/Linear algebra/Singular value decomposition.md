@@ -28,8 +28,8 @@ u_1&u_2&\dots&u_n
 v_1&v_2&\dots&v_m
 \end{bmatrix}^T$$
 $$=\sigma_1u_1v_1^T+\sigma_2u_2v_2^T+\dots+\sigma_mu_mv_m^T+0$$
-- $U,V$: unitary matrix (orthogonal); $\Sigma$: diagonal matrix
 - $U$: left singular vectors, $V$: right singular vectors, $\Sigma$: singular values
+- $U,V$: unitary matrix (orthogonal); $\Sigma$: diagonal matrix
 - $UU^T=U^TU=I_{n\times n}$ ; $VV^T=V^TV=I_{m\times m}$ ; $\sigma_1\geq\sigma_2\geq\dots\geq\sigma_m\geq0$
 - Importance: $u_1\geq u_2\geq\dots$ ; $v_1\geq v_2\geq\dots$
 
@@ -43,10 +43,10 @@ x_m^Tx_1&x_m^Tx_2&\cdots&x_m^Tx_m\\
 $$x_i^Tx_j=\langle x_i,x_j\rangle$$
 $$\text{if }X=U\Sigma V^T,X^T=V\Sigma U^T$$
 $$XX^T=U\Sigma V^TV\Sigma U^T=U\Sigma^2U^T$$
-$$X^TXV=V\Sigma^2$$
+$$XX^TU=U\Sigma^2$$
 $$X^TX=V\Sigma U^TU\Sigma V^T=V\Sigma^2V^T$$
 $$X^TXV=V\Sigma^2$$
-de ja vu? Exactlt, $V$ is the eigen vectors of $X_TX$ and $\Sigma^2$ is the corresponding eigen values. 
+de ja vu? Exactlt, $U$ or $V$ is the eigen vectors of $XX^T$ or $X^TX$ and $\Sigma^2$ is the corresponding eigen values. 
 
 ## Eckand-Young theorem
 $$X\approx \tilde U\tilde \Sigma\tilde V^T=\tilde X$$
