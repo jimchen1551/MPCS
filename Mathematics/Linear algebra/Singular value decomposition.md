@@ -34,6 +34,8 @@ $$=\sigma_1u_1v_1^T+\sigma_2u_2v_2^T+\dots+\sigma_mu_mv_m^T+0$$
 - Importance: $u_1\geq u_2\geq\dots$ ; $v_1\geq v_2\geq\dots$
 
 ## Eckand-Young theorem
-- After truncating $U$, $\Sigma$, and $V$ at rank r, we have $\tilde U$, $\tilde \Sigma$, and $\tilde V$
-- $X\approx \tilde U\tilde \Sigma\tilde V^T$
-- $$\DeclareMathOperator{\argmin}{arg\,min} \argmin{\tilde X s.t. rank(\tilde X)=r}\|X-\tilde X\|$$
+$$X\approx \tilde U\tilde \Sigma\tilde V^T=\tilde X$$
+$$\arg\min_{ rank(\tilde X)=r}\|X-\tilde X\|_F$$
+- After truncating $U$, $\Sigma$, and $V$ at rank r, we have $\tilde U$, $\tilde \Sigma$, and $\tilde V$ (economy)
+- $\tilde U\tilde \Sigma\tilde V^T$ is pretty approximate to $X$
+- $\tilde U^T\tilde U=I_{r\times r}$ ;  $\tilde U\tilde U^T\neq I$
