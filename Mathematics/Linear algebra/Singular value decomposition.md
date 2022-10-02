@@ -8,3 +8,4 @@ Tags:
 # Singular value decomposition
 - a useful **data reduction** tool
 - data-driven generalization of Fourier transform (FFT)
+- tailored to specific problem
