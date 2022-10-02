@@ -55,3 +55,5 @@ $$\arg\min_{\tilde X\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde
 - $\tilde U\tilde \Sigma\tilde V^T$ is pretty approximate to $X$
 - $\tilde U^T\tilde U=I_{r\times r}$ ;  $\tilde U\tilde U^T\neq I$
 Ps. Frobenius norm: $\|A\|_F=\sqrt{\sum_{i,j}(A_{ij})^2}$
+
+## Method of Snapshots
