@@ -42,9 +42,11 @@ x_m^Tx_1&x_m^Tx_2&\cdots&x_m^Tx_m\\
 \end{bmatrix}$$
 $$x_i^Tx_j=\langle x_i,x_j\rangle$$
 $$\text{if }X=U\Sigma V^T,X^T=V\Sigma U^T$$
+$$XX^T=U\Sigma V^TV\Sigma U^T=U\Sigma^2U^T$$
+$$X^TXV=V\Sigma^2$$
 $$X^TX=V\Sigma U^TU\Sigma V^T=V\Sigma^2V^T$$
 $$X^TXV=V\Sigma^2$$
-de ja vu? Yes, V is the eigen vector of $X_TX$ and $\Sigma^2$ is the corresponding eigen value. 
+de ja vu? Exactlt, $V$ is the eigen vectors of $X_TX$ and $\Sigma^2$ is the corresponding eigen values. 
 
 ## Eckand-Young theorem
 $$X\approx \tilde U\tilde \Sigma\tilde V^T=\tilde X$$
