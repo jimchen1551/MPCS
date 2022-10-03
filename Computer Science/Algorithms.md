@@ -59,6 +59,7 @@ Tags:
 $$S_n=\{s_i|i\in[1,n]\}\quad\text{,where } s_i\text{ is an instance (input) of the algorithm}$$
 $$\sum_{s_i\in S_n} Pr\{s_i\}=1$$
 $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
+### Asymptotic notation
 | Case             | Bound           | Asymptotic notation                                                                                       |
 | ---------------- | --------------- | --------------------------------------------------------------------------------------------------------- |
 | [[Worst case]]   | [[Upper bound]] | $O(f(n))=\DeclareMathOperator*{\argmax}{arg\,max\ }T_{wc}(n)\equiv\argmax_t t(s_i),\forall s_i\in S$      |
@@ -84,6 +85,18 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 - **Transpose symmetry**: 
   $f(n)=O(g(n))\leftrightarrow g(n)=\Omega(f(n))$
   $f(n)=o(g(n))\leftrightarrow g(n)=\omega(f(n))$
+### Standard notation
+1. Monotonicity
+   monoto
+2. Floors and ceilings
+3. Modular arithmetic
+4. Polynomials
+5. Exponentials
+6. Logarithms
+7. Factorials
+8. Functional iteration
+9. Iterated algorithm function
+10. Fibonacci numbers
 
 ## Design
 ### Greedy approach
