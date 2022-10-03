@@ -47,6 +47,7 @@ $$XX^TU=U\Sigma^2$$
 $$X^TX=V\Sigma U^TU\Sigma V^T=V\Sigma^2V^T$$
 $$X^TXV=V\Sigma^2$$
 de ja vu? Exactlt, $U$ or $V$ is the eigen vectors of $XX^T$ or $X^TX$ and $\Sigma^2$ is the corresponding eigen values. 
+$$(XX^T)u_i=\sigma_i^2u_i=\lambda_iu_i\Rightarrow\sigma_i^2=\lambda_i$$
 $$(X^TX)v_i=\sigma_i^2v_i=\lambda_iv_i\Rightarrow\sigma_i^2=\lambda_i$$
 
 ## Economy SVD
@@ -73,6 +74,7 @@ $$U=X\tilde V\tilde\Sigma^{-1}$$
 $$Y=CX\text{, where C is a left unitary transformation}$$
 $$Y=XP^T\text{, where P is a right unitary transformation}$$
 $$X=U_X\Sigma_XV_X^T; Y=U_Y\Sigma_YV_Y^T$$
+$$V_Y\Sigma_Y^2V_Y^T=Y^TY=X^TC^TCX=X^TX=V_X\Sigma_X^2V_X^T$$
 
 
 ## Reference
