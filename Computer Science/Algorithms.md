@@ -87,7 +87,7 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
   $f(n)=o(g(n))\leftrightarrow g(n)=\omega(f(n))$
 ### Standard notation
 1. Monotonicity
-   monoto
+   monotonically $\leq$ strictly
 2. Floors and ceilings
 3. Modular arithmetic
 4. Polynomials
