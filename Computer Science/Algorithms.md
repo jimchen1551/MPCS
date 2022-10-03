@@ -12,9 +12,9 @@ Tags:
 1. Name
 2. Synopsis: A high-level description of the algorithms and what it is designed to do. 
 3. Context: A description of a problem that illustrate the"sweet spot" for the algorithm.
-4. Forces: A description of th
-5. Solution
-6. Consequences
+4. Forces: A description of the properties of the problem/solution that must be addressed and maintained for a successful implementation. 
+5. Solution: The algorithm description using real working code with documentation. 
+6. Consequences: Identifies and discuss the advantages/disadvantages and anti-patterns for this algorithm. 
 7. Analysis
 8. Related algorithms
 
@@ -76,7 +76,7 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 - ignoring the leading term's constant coefficient
 - The equal sign means **set membership**. 
 - When asymptotic notation appears in a formula, it stands for an **anonymous function**. (the right-hand side is coarser than the left-hand side)
-- [ ] performance families
+
 
 ## Design
 ### Incremental approach
