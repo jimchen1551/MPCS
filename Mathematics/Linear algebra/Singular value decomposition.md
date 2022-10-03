@@ -57,10 +57,6 @@ $$X=U\Sigma V^T=\begin{bmatrix}
 =\hat U\hat\Sigma V^T$$
 - After truncating $U$ and $\Sigma$ at rank r, we have $\hat U$ and $\hat \Sigma$
 - $span(\hat U^\perp)$ is complementary and orthogonal to $span(\hat U)$
-- $col(A)=col(\hat U)$ (range)
-- $ker(A)$ is orthogonal complement to $col(A)$
-- $row(A)=col(V)$
-- 
 
 ## Eckart-Young theorem
 $$X\approx \tilde U\tilde \Sigma \tilde V^T=\tilde X$$

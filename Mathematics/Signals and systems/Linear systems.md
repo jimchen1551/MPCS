@@ -21,3 +21,8 @@ If [[Singular value decomposition#Eckart-Young theorem]] is considered,
 $$A=\tilde U\tilde\Sigma V^T\Rightarrow A\tilde x=\tilde U\tilde\Sigma V^TV\tilde\Sigma^{-1}\tilde U^Tb=\tilde U\tilde U^Tb$$
 - $\tilde U\tilde U^Tb$ is the projection of $b$ onto $span(\tilde U)=span(A)$
 - This helps us to find the minimal two norm error for overdetermined cases $\|A\tilde x-b\|_2=\|\tilde U\tilde U^Tb-b\|_2$
+- $col(A)=col(\tilde U)$ (range)
+- $ker(A)$ is orthogonal complement to $col(A)$
+- $row(A)=col(V)$
+- $ker(A)$ is the set of all $x$ and also know as the null space s.t. $Ax=0$
+- If $dim(ker(A))\neq0$, there're $\infty$ solutions $\because A(x+x_{null})=b$ also solutions. 
