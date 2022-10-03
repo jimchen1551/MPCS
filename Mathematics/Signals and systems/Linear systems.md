@@ -8,6 +8,7 @@ Tags:
 # Linear systems
 $$Ax=b$$
 $$A\in R^{m\times n};x\in R^m; b\in R^n$$
+- Solutions of this equation only exist if $b$ is in the column space of $A$
 - Underdetermined, n < m (short-fat $A$), $\infty$ solutions of $x$ given $b$
 - Overdetermined, n > m (tall-skinny $A$), 0 solution of $x$ given $b$
 While considering [[Singular value decomposition]], 
@@ -19,4 +20,4 @@ $$A^\dagger\text{ is called pseudo-inverse of }A\text{ or Moore-Penrose pseudoin
 If [[Singular value decomposition#Eckand-Young theorem]] is considered, 
 $$A=\tilde U\tilde\Sigma V^T\Rightarrow A\tilde x=\tilde U\tilde\Sigma V^TV\tilde\Sigma^{-1}\tilde U^Tb=\tilde U\tilde U^Tb$$
 - $\tilde U\tilde U^Tb$ is the projection of $b$ onto $span(\tilde U)=span(A)$
-- this helps us to find the minimal 
+- This helps us to find the minimal two norm error for overdetermined cases $\|A\tilde x-b\|_2=\|\tilde U\tilde U^Tb-b\|_2$
