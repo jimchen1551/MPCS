@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "805df6af3a5f21f2",
+        "id": "abc874177ce77df1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics/Signals and systems/Linear systems.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f25cae2b8c7022f0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mathematics/Linear algebra/Singular value decomposition.md",
+            "file": "Computer Science/Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Signals and systems/Linear systems.md",
+                "file": "Computer Science/Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Signals and systems/Linear systems.md",
+                "file": "Computer Science/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Signals and systems/Linear systems.md"
+                "file": "Computer Science/Algorithms.md"
               }
             }
           },
@@ -160,19 +149,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "805df6af3a5f21f2",
+  "active": "abc874177ce77df1",
   "lastOpenFiles": [
-    "Mathematics/Linear algebra/Singular value decomposition.md",
-    "Mathematics/Signals and systems/Linear systems.md",
-    "Mathematics/Signals and systems.md",
-    "Mathematics/Linear algebra.md",
-    "Computer Science/Machine learning.md",
-    "Mathematics/Probability/Distribution/Normal distribution.md",
-    "Computer Science.md",
-    "Computational Neuroscience.md",
+    "Computer Science/Algorithms.md",
+    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms.md"
+    "Mathematics/Probability/Distribution/Standard normal distribution.md",
+    "Mathematics/Probability/Distribution/Poisson distribution.md",
+    "Mathematics/Probability/Distribution/Pascal distribution.md",
+    "Mathematics/Probability/Distribution/Normal distribution.md",
+    "Mathematics/Probability/Distribution/Bernoulli distribution.md",
+    "Mathematics/Linear algebra/Singular value decomposition.md",
+    "Computer Science/Algorithms/Searching algorithms.md"
   ]
 }

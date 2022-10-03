@@ -22,7 +22,6 @@ Tags:
 | [[Alphanumeric codes]]         | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Parity bit]]                 | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 
-
 ### Complement
 | Content | Study | Test | Review |
 | :------ | :---: | :--: | :----: |
