@@ -77,10 +77,21 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 - ignoring the leading term's constant coefficient
 - The equal sign means **set membership**. 
 - When asymptotic notation appears in a formula, it stands for an **anonymous function**. (the right-hand side is coarser than the left-hand side)
-- Transitivity: $f(n)=\Theta(g(n))\cap$
-- Reflexivity
-- Symmetry
-- Transpose symmetry
+- **Transitivity**: 
+  $f(n)=\Theta(g(n))\text{ and }g(n)=\Theta(h(n))\Rightarrow f(n)=\Theta(h(n))$
+  $f(n)=O(g(n))\text{ and }g(n)=O(h(n))\Rightarrow f(n)=O(h(n))$
+  $f(n)=\Omega(g(n))\text{ and }g(n)=\Omega(h(n))\Rightarrow f(n)=\Omega(h(n))$
+  $f(n)=o(g(n))\text{ and }g(n)=o(h(n))\Rightarrow f(n)=o(h(n))$
+  $f(n)=\omega(g(n))\text{ and }g(n)=\omega(h(n))\Rightarrow f(n)=\omega(h(n))$
+- **Reflexivity**: 
+  $f(n)=\Theta(f(n))$
+  $f(n)=O(f(n))$
+  $f(n)=\Omega(f(n))$
+- **Symmetry**: 
+  $f(n)=\Theta(g(n))\leftrightarrow g(n)=\Theta(f(n))$
+- **Transpose symmetry**: 
+  $f(n)=O(g(n))\leftrightarrow g(n)=\Omega(f(n))$
+  $f(n)=o(g(n))\leftrightarrow g(n)=\omega(f(n))$
 
 ## Design
 ### Incremental approach
@@ -97,7 +108,6 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 | [[Searching algorithms]]    |         |
 | [[Graph algorithms]]        |         |
 | [[Network flow algorithms]] |         |
-
 
 ## Reference book
 - Algorithms in a nutshell by George T. Heineman, Gary Pollice, and Stanley Selkow
