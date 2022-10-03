@@ -57,13 +57,16 @@ $$X=U\Sigma V^T=\begin{bmatrix}
 =\hat U\hat\Sigma V^T$$
 - After truncating $U$ and $\Sigma$ at rank r, we have $\hat U$ and $\hat \Sigma$
 - $span(\hat U^\perp)$ is complementary and orthogonal to $span(\hat U)$
+- $col(A)=col(\hat U)$ (range)
+- $ker(A)$ is orthogonal complement to $col(A)$
+- $row(A)=col(V)$
+- 
 
 ## Eckart-Young theorem
 $$X\approx \tilde U\tilde \Sigma \tilde V^T=\tilde X$$
 $$\arg\min_{\tilde X,\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde \Sigma \tilde V^T$$
 - $\tilde U\tilde \Sigma\tilde V^T$ is pretty approximate to $X$
 - $\tilde U^T\tilde U=I_{r\times r}$ ;  $\tilde U\tilde U^T\neq I$
-- $col(A)=col(\tilde U)$ (range); $ker(A)$
 Ps. Frobenius norm: $\|A\|_F=\sqrt{\sum_{i,j}(A_{ij})^2}$
 
 ## Method of Snapshots
