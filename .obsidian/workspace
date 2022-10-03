@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
+                "file": "Mathematics/Signals and systems/Linear systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
+                "file": "Mathematics/Signals and systems/Linear systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Linear algebra/Singular value decomposition.md"
+                "file": "Mathematics/Signals and systems/Linear systems.md"
               }
             }
           },
@@ -162,10 +162,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f25cae2b8c7022f0",
+  "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
-    "Mathematics/Signals and systems/Linear systems.md",
     "Mathematics/Linear algebra/Singular value decomposition.md",
+    "Mathematics/Signals and systems/Linear systems.md",
     "Mathematics/Signals and systems.md",
     "Mathematics/Linear algebra.md",
     "Computer Science/Machine learning.md",

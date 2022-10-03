@@ -78,6 +78,12 @@ $$V_Y\Sigma_Y^2V_Y^T=Y^TY=X^TC^TCX=X^TX=V_X\Sigma_X^2V_X^T$$
 $$U_Y=YV_X\Sigma_x^{-1}=CXV_X\Sigma_x^{-1}=CU_X$$
 $$\Rightarrow U_Y=CU_X; \Sigma_X=\Sigma_Y;V_Y=V_X$$
 $$\Rightarrow Y=CX=CU_X\Sigma_XV_X^T$$
+Similarly, 
+$$Y^TY=PX^TXP^T=PV_X\Sigma_X^2V_X^TP^T$$
+$$Y^TYPV_X=PV_X\Sigma_X^2$$
+$$\Rightarrow V_Y=PV_X; \Sigma_X=\Sigma_Y$$
+$$\Rightarrow U_Y=YPV_X\Sigma_X^{-1}=XV_X\Sigma_X^{-1}=U_X$$
+$$\Rightarrow Y=XP^T=U_X\Sigma_XV_X^TP^T$$
 
 ## Reference
 [this website](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)
