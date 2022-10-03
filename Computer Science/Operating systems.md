@@ -80,3 +80,8 @@ not done
 ### Cloud computing
 ### Real-time embedded systems
 ## Open-source operating systems
+
+## Score
+- Midterm: 30%
+- Final: 30%
+- Project: 40%

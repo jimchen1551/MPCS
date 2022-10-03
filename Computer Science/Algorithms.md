@@ -120,3 +120,8 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 ## Reference book
 - Algorithms in a nutshell by George T. Heineman, Gary Pollice, and Stanley Selkow
 - Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+
+## Score
+- Midterm: 30%
+- Final: 30%
+- Homework: 40%
