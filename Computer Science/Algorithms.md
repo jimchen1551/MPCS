@@ -8,6 +8,16 @@ Tags:
 # Algorithms
 - any well-defined **computational procedure** that transforms the **input** into the **output** for solving a well-specified (spec: the relationship b/w input and output) **computational problem**
 
+## Alogorithm pattern format
+1. Name
+2. Synopsis: A high-level description of the algorithms and what it is designed to do. 
+3. Context: A description of a problem that illustrate the"sweet spot" for the algorithm.
+4. Forces: A description of th
+5. Solution
+6. Consequences
+7. Analysis
+8. Related algorithms
+
 ## Typical problems
 - Shortest path problem
 - The longest common subsequence of two ordered sequences of symbols
@@ -35,6 +45,8 @@ Tags:
 8. The boolean operators "and" and "or" are short-circuiting. 
 
 ## Loop invariant
+- a property of a program loop that is true before (and after) each iteration
+- a logical assertion, sometimes checked within the code by an assertion call
 - used to understand why an algorithm is correct
 1. **Initialization**: It is true prior to the first iteration of the loop.
 2. **Maintenance**: If it is true before an iteration of the loop, it remains true before the next iteration.
