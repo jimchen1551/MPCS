@@ -26,3 +26,7 @@ $$A=\tilde U\tilde\Sigma V^T\Rightarrow A\tilde x=\tilde U\tilde\Sigma V^TV\tild
 - $row(A)=col(V)$
 - $ker(A)$ is the set of all $x$ and also know as the null space s.t. $Ax=0$
 - If $dim(ker(A))\neq0$, there're $\infty$ solutions $\because A(x+x_{null})=b$ also solutions. 
+
+## Linear regression
+$$U=\frac{a}{\|a\|_2}; \Sigma=\|a\|_2; V=1$$
+$$\tilde x=\frac{a^Tb}{\|a\|_2^2}$$
