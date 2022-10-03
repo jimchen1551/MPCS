@@ -6,3 +6,6 @@ Tags:
 - 
 ---
 # Linear systems
+$$Ax=b$$
+$A\in R^{n\times m};x
+- Underdetermined, n < m

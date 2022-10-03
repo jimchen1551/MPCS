@@ -153,6 +153,7 @@
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
     "Mathematics/Signals and systems.md",
+    "Mathematics/Signals and systems/Linear systems.md",
     "Mathematics/Linear algebra/Singular value decomposition.md",
     "Mathematics/Linear algebra.md",
     "Computer Science/Machine learning.md",
@@ -160,7 +161,6 @@
     "Computer Science.md",
     "Computational Neuroscience.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md"
+    "Computer Science/Algorithms.md"
   ]
 }
