@@ -35,6 +35,7 @@ Tags:
 	- If an efficient algorithm exists for any one of them, then efficient algorithms exist for all of them. 
 
 ## Pseudocode
+![[Screen Shot 2022-10-03 at 16.41.00.png]]
 1. **Indentation** indicates block structure. 
 2. The **looping constructs while, for, and repeat and the **conditional constructs** if, then, and else have interpretations similar to those in **Pascal**. 
 3. A **multiple assignments of the form i <- j ← e assigns to both variables i and j the value expression e. It should be treated as j ← e followed by i <- j. 

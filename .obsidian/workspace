@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
+            "file": "Computer Science/Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
+                "file": "Computer Science/Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
+                "file": "Computer Science/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md"
+                "file": "Computer Science/Algorithms.md"
               }
             }
           },
@@ -153,9 +153,9 @@
   },
   "active": "abc874177ce77df1",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms.md",
     "Computer Science/Computer organization.md",
     "Mathematics/Probability/Distribution/Standard normal distribution.md",
     "Mathematics/Probability/Distribution/Poisson distribution.md",
