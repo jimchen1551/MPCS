@@ -51,6 +51,7 @@ Tags:
 1. **Initialization**: It is true prior to the first iteration of the loop.
 2. **Maintenance**: If it is true before an iteration of the loop, it remains true before the next iteration.
 3. **Termination**: When the loop terminates, the invariant gives us a useful property that helps show that the algorithm is correct.
+### Floyd-Hoare logic
 
 ## Analysis
 - Analyzing an algorithm has come to mean **predicting the resources** (memory, communication bandwidth, or computer hardware) that the algorithm requires. 
@@ -76,7 +77,10 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 - ignoring the leading term's constant coefficient
 - The equal sign means **set membership**. 
 - When asymptotic notation appears in a formula, it stands for an **anonymous function**. (the right-hand side is coarser than the left-hand side)
-
+- Transitivity: $f(n)=\Theta(g(n))\cap$
+- Reflexivity
+- Symmetry
+- Transpose symmetry
 
 ## Design
 ### Incremental approach
