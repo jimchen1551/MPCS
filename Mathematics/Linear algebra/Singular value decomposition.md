@@ -59,3 +59,5 @@ Ps. Frobenius norm: $\|A\|_F=\sqrt{\sum_{i,j}(A_{ij})^2}$
 ## Method of Snapshots
 $$X=\tilde U\tilde\Sigma V^T$$
 $$U=XV\tilde\Sigma^{-1}$$
+## Reference
+[this website](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)
