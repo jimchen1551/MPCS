@@ -52,6 +52,7 @@ Tags:
 2. **Maintenance**: If it is true before an iteration of the loop, it remains true before the next iteration.
 3. **Termination**: When the loop terminates, the invariant gives us a useful property that helps show that the algorithm is correct.
 ### Floyd-Hoare logic
+[Wiki explain](https://en.wikipedia.org/wiki/Hoare_logic)
 
 ## Analysis
 - Analyzing an algorithm has come to mean **predicting the resources** (memory, communication bandwidth, or computer hardware) that the algorithm requires. 
