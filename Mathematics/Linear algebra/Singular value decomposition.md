@@ -29,7 +29,7 @@ v_1&v_2&\dots&v_m
 \end{bmatrix}^T$$
 $$=\sigma_1u_1v_1^T+\sigma_2u_2v_2^T+\dots+\sigma_mu_mv_m^T+0$$
 - $U$: left singular vectors, $V$: right singular vectors, $\Sigma$: singular values
-- $U,V$: unitary matrix (orthogonal); $\Sigma$: diagonal matrix
+- $U,V$: unitary matrix with orgonormal columns; $\Sigma$: diagonal matrix
 - $UU^T=U^TU=I_{n\times n}$ ; $VV^T=V^TV=I_{m\times m}$ ; $\sigma_1\geq\sigma_2\geq\dots\geq\sigma_m\geq0$
 - Importance: $u_1\geq u_2\geq\dots$ ; $v_1\geq v_2\geq\dots$
 
@@ -47,12 +47,20 @@ $$XX^TU=U\Sigma^2$$
 $$X^TX=V\Sigma U^TU\Sigma V^T=V\Sigma^2V^T$$
 $$X^TXV=V\Sigma^2$$
 de ja vu? Exactlt, $U$ or $V$ is the eigen vectors of $XX^T$ or $X^TX$ and $\Sigma^2$ is the corresponding eigen values. 
+$$(X^TX)v_i=\sigma_i^2v_i\lambda$$
 
-## Eckand-Young theorem
-$$X=U\Sigma V^T=\begin{bmatrix}\end{bmatrix}$$
+## Economy SVD
+$$X=U\Sigma V^T=\begin{bmatrix}
+\hat U&\hat U^\perp\end{bmatrix}
+\begin{bmatrix}\hat\Sigma\\0\end{bmatrix}V^T
+=\hat U\hat\Sigma V^T$$
+- After truncating $U$ and $\Sigma$ at rank r, we have $\hat U$ and $\hat \Sigma$
+- $span(\hat U^\perp)$ is complementary and orthogonal to $span(\hat U)$
+
+## Eckart-Young theorem
 $$X\approx \tilde U\tilde \Sigma V^T=\tilde X$$
 $$\arg\min_{\tilde X\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde \Sigma V^T$$
-- After truncating $U$, $\Sigma$, and $V$ at rank r, we have $\tilde U$, $\tilde \Sigma$, and $\tilde V$ (economy SVD)
+
 - $\tilde U\tilde \Sigma\tilde V^T$ is pretty approximate to $X$
 - $\tilde U^T\tilde U=I_{r\times r}$ ;  $\tilde U\tilde U^T\neq I$
 - $col(A)=col(\tilde U)$ (range); $ker(A)$
