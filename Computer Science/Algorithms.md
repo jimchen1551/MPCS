@@ -8,16 +8,6 @@ Tags:
 # Algorithms
 - any well-defined **computational procedure** that transforms the **input** into the **output** for solving a well-specified (spec: the relationship b/w input and output) **computational problem**
 
-## Alogorithm pattern format
-1. Name
-2. Synopsis: A high-level description of the algorithms and what it is designed to do. 
-3. Context: A description of a problem that illustrate the"sweet spot" for the algorithm.
-4. Forces: A description of the properties of the problem/solution that must be addressed and maintained for a successful implementation. 
-5. Solution: The algorithm description using real working code with documentation. 
-6. Consequences: Identifies and discuss the advantages/disadvantages and anti-patterns for this algorithm. 
-7. Analysis
-8. Related algorithms
-
 ## Typical problems
 - Shortest path problem
 - The longest common subsequence of two ordered sequences of symbols
@@ -96,6 +86,8 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
   $f(n)=o(g(n))\leftrightarrow g(n)=\omega(f(n))$
 
 ## Design
+### Greedy approach
+- e.g, [[Selection sort]]
 ### Incremental approach
 - e.g., [[Insertion sort]]
 ### Divide-and-conquer approach
@@ -103,6 +95,7 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 - **Conquer** the subproblems by solving them recursively. 
 - **Combine** the solutions to the subproblems into the solution for the original problem. 
 - e.g., [[Merge sort]]
+### Dynamic programming
 
 | Algorithms                  | Comment |
 | --------------------------- | ------- |
