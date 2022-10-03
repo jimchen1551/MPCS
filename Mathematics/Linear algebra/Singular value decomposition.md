@@ -68,5 +68,12 @@ Ps. Frobenius norm: $\|A\|_F=\sqrt{\sum_{i,j}(A_{ij})^2}$
 ## Method of Snapshots
 $$X=\tilde U\tilde\Sigma \tilde V^T$$
 $$U=X\tilde V\tilde\Sigma^{-1}$$
+
+## Unitary transformation
+$$Y=CX\text{, where C is a left unitary transformation}$$
+$$Y=XP^T\text{, where P is a right unitary transformation}$$
+$$X=U_X\Sigma_XV_X^T; Y=U_Y\Sigma_YV_Y^T$$
+
+
 ## Reference
 [this website](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)
