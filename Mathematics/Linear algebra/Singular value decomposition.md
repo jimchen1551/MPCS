@@ -47,7 +47,7 @@ $$XX^TU=U\Sigma^2$$
 $$X^TX=V\Sigma U^TU\Sigma V^T=V\Sigma^2V^T$$
 $$X^TXV=V\Sigma^2$$
 de ja vu? Exactlt, $U$ or $V$ is the eigen vectors of $XX^T$ or $X^TX$ and $\Sigma^2$ is the corresponding eigen values. 
-$$(X^TX)v_i=\sigma_i^2v_i\lambda$$
+$$(X^TX)v_i=\sigma_i^2v_i=\lambda_iv_i\Rightarrow\sigma_i^2=\lambda_i$$
 
 ## Economy SVD
 $$X=U\Sigma V^T=\begin{bmatrix}
@@ -58,16 +58,15 @@ $$X=U\Sigma V^T=\begin{bmatrix}
 - $span(\hat U^\perp)$ is complementary and orthogonal to $span(\hat U)$
 
 ## Eckart-Young theorem
-$$X\approx \tilde U\tilde \Sigma V^T=\tilde X$$
-$$\arg\min_{\tilde X\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde \Sigma V^T$$
-
+$$X\approx \tilde U\tilde \Sigma \tilde V^T=\tilde X$$
+$$\arg\min_{\tilde X,\text{ st } rank(\tilde X)=r}\|X-\tilde X\|_F=\tilde U\tilde \Sigma \tilde V^T$$
 - $\tilde U\tilde \Sigma\tilde V^T$ is pretty approximate to $X$
 - $\tilde U^T\tilde U=I_{r\times r}$ ;  $\tilde U\tilde U^T\neq I$
 - $col(A)=col(\tilde U)$ (range); $ker(A)$
 Ps. Frobenius norm: $\|A\|_F=\sqrt{\sum_{i,j}(A_{ij})^2}$
 
 ## Method of Snapshots
-$$X=\tilde U\tilde\Sigma V^T$$
-$$U=XV\tilde\Sigma^{-1}$$
+$$X=\tilde U\tilde\Sigma \tilde V^T$$
+$$U=X\tilde V\tilde\Sigma^{-1}$$
 ## Reference
 [this website](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)
