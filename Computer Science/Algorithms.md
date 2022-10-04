@@ -106,12 +106,18 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
    $n!<n^n$
    **Stirling's approximation**: 
    $n!=\sqrt{2\pi n}(\frac{n}{e})^n(1+\Theta(\frac{1}{n}))$
-   $\Rightarrow n!=o(n^n)$
-   $\Rightarrow n!=\omega(2^n)$
-   
+   $\Rightarrow\begin{cases} n!=o(n^n)\\n!=\omega(2^n)\\ \log(n!)=\Theta(n\log n)\end{cases}$
+   $\Rightarrow n!=\sqrt{2\pi n}(\frac{n}{e})^ne^{\alpha_n},\quad \forall n\geq 1$
+   $\text{where }\frac{1}{12n+1}<\alpha_n<\frac{1}{12n}$
 8. Functional iteration
+   The function iteratively applied $i$ times to an initial value of $n$. 
+   $f^{(i)}(n)=\begin{cases}n&\quad\text{if }i=0\\f(f^{(i-1)}(n)&\quad\text{if }i>0\end{cases}$
+   e.g., if $f(n)=2n$, then $F^{(i)}(n)=2^in$
 9. Iterated algorithm function
+   $\log^*n=\min\{i\geq0:\log^{(i)}n\leq1\}$
+   ???
 10. Fibonacci numbers
+    $F_i=\begin{cases}0&\quad\text{if }i=0\\1&\quad\text{if }i=1\\F_{i-1}+F_{i-2}&\quad\text{if }i=\geq2\end{cases}=\frac{\phi^i-\hat\phi^i}{\sqrt5}=\lfloor\frac{\phi^i}{\sqrt5}+\frac{1}{2}\rfloor\because\frac{|\hat\phi^i|}{\sqrt5}<\frac{1}{\sqrt5}<\frac{1}{2}$
 
 ## Design
 ### Greedy approach

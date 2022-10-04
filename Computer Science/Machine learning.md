@@ -43,6 +43,7 @@ Tags:
 >![[Screen Shot 2022-09-27 at 15.46.25.png|300]]
 >![[Screen Shot 2022-09-27 at 16.11.43.png|300]]
 >>**Propensity model**
+>>inherently having a temporal element
 >>1. Observation period: over which descriptive features are calculated
 >>2. Outcome period: over which target features are calculated
 >
