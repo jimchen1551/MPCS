@@ -96,10 +96,17 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 3. Modular arithmetic
    $a\equiv b\ (\mod c$)
 4. Polynomials
-   
+   **Polynomially bounded**: 
+   if $f(n)=O(n^k)$ for some constant $k$
 5. Exponentials
 6. Logarithms
+   **Polylogarithmic bounded**: 
+   if $f(n)=O(\log^kn)$ for some constant $k$
 7. Factorials
+   $n!<n^n$
+   **Stirling's approximation**: 
+   $n!=\sqrt{2\pi n}(\frac{n}{e})^n(1+\Theta(\frac{1}{n}))$
+   $\Rightarrow 
 8. Functional iteration
 9. Iterated algorithm function
 10. Fibonacci numbers
