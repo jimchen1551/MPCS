@@ -76,11 +76,25 @@ Tags:
 
 ### Data Quality Issues
 - defined as anything unusual about the data in an ABT
-- due to invalid data (by errors in the process of generating an ABT; solution: correct immediately and recreate the DQR) or valid data (arising for a range of domain-specific reasons; solution: not correct or recording the issue in the **data quality plan** while affecting training process)
+- due to
+	1. **invalid data**: by errors in the process of generating an ABT
+	   solution: correct immediately and recreate the DQR)
+	2. **valid data**: arising for a range of domain-specific reasons
+	   solution: not correct or recording the issue in the **data quality plan** while affecting training process
+![[Screen Shot 2022-10-04 at 14.36.12.png|500]]
 #### Missing values
 - some instances may miss values for one or more features
+- % Miss. column in the DQR
+- If % Miss. > 60%, **remove** the feature. 
+##### Missing completely at random
+- aka MCAR
+##### Missing at random
+- aka MAR
+##### Missing not at random
+- aka MNAR
 #### Irregular cardinality
 - unusual number of distinct values for a feature
+- Card. column in the DQR
 #### Outliers
 - instances with values far away from the central tendency
 
