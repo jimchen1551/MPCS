@@ -89,8 +89,14 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 1. Monotonicity
    monotonically $\leq$ strictly
 2. Floors and ceilings
+   $\lfloor x \rfloor\leq x \leq \lceil x \rceil$
+   $\lfloor x\rfloor$ is called the floor of $x$, which is the greatest integer $\leq x$
+   $\lceil x\rceil$ is called the ceil of $x$, which is the least integer $\geq x$
+   The floor function is monotonically increasing, as is the ceil function. 
 3. Modular arithmetic
+   $a\equiv b\ (\mod c$)
 4. Polynomials
+   
 5. Exponentials
 6. Logarithms
 7. Factorials
