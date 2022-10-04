@@ -106,7 +106,9 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
    $n!<n^n$
    **Stirling's approximation**: 
    $n!=\sqrt{2\pi n}(\frac{n}{e})^n(1+\Theta(\frac{1}{n}))$
-   $\Rightarrow 
+   $\Rightarrow n!=o(n^n)$
+   $\Rightarrow n!=\omega(2^n)$
+   
 8. Functional iteration
 9. Iterated algorithm function
 10. Fibonacci numbers
