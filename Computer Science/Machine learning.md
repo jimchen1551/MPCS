@@ -41,14 +41,15 @@ Tags:
 
 >**Handling time**
 >![[Screen Shot 2022-09-27 at 15.46.25.png|300]]
->![[Screen Shot 2022-09-27 at 16.11.43.png|300]]
+>![[Screen Shot 2022-09-27 at 16.11.43.png|500]]
 >>**Propensity model**
 >>inherently having a temporal element
 >>1. Observation period: over which descriptive features are calculated
 >>2. Outcome period: over which target features are calculated
 >
 >>**Next-best-offer model**
->>**not done here**
+>>providing an example scenario where the descriptive features are time dependent but the target feature is not
+>>used to determine the least expensive incentive that needs to be offered to a customer
 
 ### Analytics Base Table
 - aka **ABT**
@@ -57,14 +58,36 @@ Tags:
 - each row contains a value for each descriptive feature and the target feature and represents an **instance** about which a prediction can be made
 
 ### Data Quality Report
+![[Screen Shot 2022-10-04 at 13.44.27.png|500]]
+![[Screen Shot 2022-10-04 at 13.47.57.png|500]]
+- most important tool of the data exploration process
+- including **tabular reports** 
+	- describing the characteristics of each feature in an ABT using standard statistical measures of **central tendency** (mean, mode, and median) and **variation** (standard deviation and percentiles)
+	- accompanied by **data visualizations** that illustrate the distribution of the values in each feature in an ABT
+- including a **hitogram** ~~for each continuous feature~~
+	- if the cardinality < 10, using **bar plots** instead
+- **continuous** features: 
+	- minimum, 1st quartile, mean, median, 3rd quartile, maximum, and standard deviation, total number of instances, percentage of instances missing the feature, and the cardinality of each feature
+	- The shapes of histograms relate to one of the [Probability distribution](Probability#Probability distribution)
+- **categorical** features: 
+	- using descriptive statistics
+	- 2 most frequent levels for the feature (mode and 2nd mode), frequency of appearance, percentage of instances missing the feature, and the cardinaligy of the feature
+
 ### Data Quality Issues
+- defined as anything unusual about the data in an ABT
+- due to invalid data (by errors in the process of generating an ABT) or valid data
 #### Missing values
+- some instances may miss values for one or more features
 #### Irregular cardinality
+- unusual number of distinct values for a feature
 #### Outliers
+- instances with values far away from the central tendency
+
 ### Data preparation
 #### Normalization
 #### Binning
 #### Sampling
+
 ## Information-based learning
 ### Decision trees
 ### Shannon's entropy model
