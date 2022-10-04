@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "abc874177ce77df1",
+        "id": "805df6af3a5f21f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Machine learning.md",
+            "file": "Mathematics/Signals and systems/Linear systems.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f25cae2b8c7022f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics/Linear algebra/Singular value decomposition.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning.md"
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md"
               }
             }
           },
@@ -149,20 +160,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "abc874177ce77df1",
+  "active": "f25cae2b8c7022f0",
   "lastOpenFiles": [
+    "Mathematics/Signals and systems/Linear systems.md",
+    "Mathematics/Linear algebra/Singular value decomposition.md",
+    "Mathematics/Signals and systems.md",
+    "Mathematics/Linear algebra.md",
     "Computer Science/Machine learning.md",
-    "Syntax.md",
-    "Mathematics/Probability.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Sorting algorithms/Selection sort.md",
+    "Mathematics/Probability/Distribution/Normal distribution.md",
+    "Computer Science.md",
+    "Computational Neuroscience.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Computer architecture.md",
-    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md"
+    "Computer Science/Algorithms.md"
   ]
 }
