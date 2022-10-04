@@ -49,7 +49,7 @@ Tags:
 >
 >>**Next-best-offer model**
 >>providing an example scenario where the descriptive features are time dependent but the target feature is not
->>used to determine the least expensive incentive that needs to be offered to a customer
+>>used to determine the least expensive incentive that needs to be offered to a customer who is considering caceling a service
 
 ### Analytics Base Table
 - aka **ABT**
@@ -60,6 +60,7 @@ Tags:
 ### Data Quality Report
 ![[Screen Shot 2022-10-04 at 13.44.27.png|500]]
 ![[Screen Shot 2022-10-04 at 13.47.57.png|500]]
+- aka **DQR**
 - most important tool of the data exploration process
 - including **tabular reports** 
 	- describing the characteristics of each feature in an ABT using standard statistical measures of **central tendency** (mean, mode, and median) and **variation** (standard deviation and percentiles)
@@ -75,7 +76,7 @@ Tags:
 
 ### Data Quality Issues
 - defined as anything unusual about the data in an ABT
-- due to invalid data (by errors in the process of generating an ABT) or valid data
+- due to invalid data (by errors in the process of generating an ABT; solution: correct immediately and recreate the DQR) or valid data (arising for a range of domain-specific reasons; solution: not correct or recording the issue in the **data quality plan** while affecting training process)
 #### Missing values
 - some instances may miss values for one or more features
 #### Irregular cardinality
