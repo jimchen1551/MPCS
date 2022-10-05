@@ -15,7 +15,6 @@ Tags:
 | [[File systems]]                | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Security and protection]]     | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 
-
 ![[Screen Shot 2022-09-14 at 10.32.30.png]]
 - controlling the hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) and coordinating its use among the various application programs for the various users (just like a resource allocator)
 - designed primarily to optimize the utilization of hardware
