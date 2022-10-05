@@ -32,7 +32,7 @@ Tags:
 	   Hardware triggers an interrupt at any time by **sending a signal** to the [[Processor|CPU]]. 
 	   Software triggers an interrupt by executing **system call**. 
 	4. When the [[Processor|CPU]] is interrupted, it stops doing original task and transfers execution to a **fixed location**. 
-		1. The transfer is done by invoking **interrupt-specific handler** to examine the interrupt info. 
+		1. The transfer is done by i  nvoking **interrupt-specific handler** to examine the interrupt info. 
 		2. The fixed location usually contains the starting address where the **service routine** for the interrupt is located. 
 		3. The interrupt routine is called indirectly through a table of pointers to interrupt routine (stored in low memory), with no intermediate routine needed. 
 		4. The interrupt service routine executes; on completion, the [[Processor|CPU]] resumes the interrupted computation. 
