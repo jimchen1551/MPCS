@@ -35,6 +35,6 @@ Computer science:
 5. Data structures: [Dr. Wen-Chih Peng](https://www.youtube.com/watch?v=3503j2L6qNA&list=PLj6E8qlqmkFusQlwukXMUDVdYfd7oPyr3)
 6. Algorithms: *Introduction to Algorithms* and *Algorithm in a Nutshell*
 7. Formal language
-8. Database systems
-9. Machine learning
-10. Deep learning
+8. Database systems: *Database System Concepts*
+9. Machine learning: *Foundations of Machine Learning*, *Fundamentals of Machine Learning for Predictive Data Analytics*, and *Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow*
+10. Deep learning: *Deep Learing* and *Reinforment Learning: An Introduction*
