@@ -7,7 +7,6 @@ Tags:
 - computer science
 ---
 # Computer Science
-## Plan
 | Content                   |           Study           |           Test            |          Review           |
 |:------------------------- |:-------------------------:|:-------------------------:|:-------------------------:|
 | [[Digital systems]]       | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
