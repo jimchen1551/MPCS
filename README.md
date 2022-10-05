@@ -6,13 +6,13 @@ Highly recommend to open with Obsidian
 https://obsidian.md
 
 Math: 
-1. Discrete math
+1. Discrete math: [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 2. Graph theory
 3. Information theory
 4. Networks
-5. Calculus
+5. Calculus:  [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
 6. Vector analysis
-7. Linear algebra
+7. Linear algebra: 
 8. Numerical analysis
 9. Probability
 10. Signals and systems

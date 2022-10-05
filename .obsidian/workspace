@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,6 +154,7 @@
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
+    "Computer Science/Operating systems.md",
     "Mathematics/Signals and systems/Linear systems.md",
     "Mathematics/Linear algebra/Singular value decomposition.md",
     "Mathematics/Signals and systems.md",
@@ -162,7 +163,6 @@
     "Mathematics/Probability/Distribution/Normal distribution.md",
     "Computer Science.md",
     "Computational Neuroscience.md",
-    "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms.md"
+    "Computer Science/Algorithms/Sorting algorithms.md"
   ]
 }
