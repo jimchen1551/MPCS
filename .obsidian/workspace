@@ -149,20 +149,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
+    "Computer Science.md",
+    "Computer Science/Operating systems.md",
     "README.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Algorithms.md",
     "Computational Neuroscience.md",
     "Physics.md",
     "Mathematics.md",
-    "Computer Science/Operating systems.md",
     "Mathematics/Signals and systems/Linear systems.md",
-    "Mathematics/Linear algebra/Singular value decomposition.md",
-    "Mathematics/Signals and systems.md"
+    "Mathematics/Linear algebra/Singular value decomposition.md"
   ]
 }
