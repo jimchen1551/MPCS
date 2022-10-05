@@ -28,14 +28,13 @@ Physics:
 6. Solid-state physics
 
 Computer science: 
-1. Computers and Programming
-2. Digital systems: [Dr. Chung-Ping Chung](https://www.youtube.com/watch?v=jB5jShUS6mg&list=PLj6E8qlqmkFvLrTINWmRqmc4ORb6ZOvnX)
-3. Computer organization: 
-4. Computer architecture
-5. Operating systems
-6. Data structures
-7. Algorithms
-8. Formal language
-9. Database systems
-10. Machine learning
-11. Deep learning
+1. Digital systems: [Dr. Chung-Ping Chung](https://www.youtube.com/watch?v=jB5jShUS6mg&list=PLj6E8qlqmkFvLrTINWmRqmc4ORb6ZOvnX)
+2. Computer organization: [Dr. Jean Shann](https://www.youtube.com/playlist?list=PLQVlxVRlwkisVMS7BjfJoI3A748wp_kSx)
+3. Computer architecture: [Dr. Jean Shann](https://www.youtube.com/watch?v=xNMmBXzjPb4&list=PLj6E8qlqmkFuNeStWpmAZh0Uq1-8Y8PeL)
+4. Operating systems: *Operating System Concepts* and [Dr. Jerry Chou](https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV)
+5. Data structures: [Dr. Wen-Chih Peng](https://www.youtube.com/watch?v=3503j2L6qNA&list=PLj6E8qlqmkFusQlwukXMUDVdYfd7oPyr3)
+6. Algorithms: *Introduction to Algorithms* and *Algorithm in a Nutshell*
+7. Formal language
+8. Database systems
+9. Machine learning
+10. Deep learning

@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabLinux",
-      "FasCode",
-      "RiFunctions",
       "FasLungs",
-      "FasC"
+      "RiFunctions",
+      "FasCode",
+      "RiComputerLine",
+      "FasAtom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,8 +47,12 @@
   "Computer Science/Operating systems.md": "FabLinux",
   "Computer Science/Formal languages.md": "FasLanguage",
   "Computer Science/Computer organization.md": "FasMemory",
-  "Computer Science/Computer architecture.md": {
+  "Computer Science/Computer architecture.md": "FasMicrochip",
+  "Computer Science.md": "RiComputerLine",
+  "Mathematics.md": "RiFunctions",
+  "Physics.md": "FasAtom",
+  "Computational Neuroscience.md": {
     "iconName": null,
-    "inheritanceIcon": "FasMicrochip"
+    "inheritanceIcon": "FasBrain"
   }
 }
