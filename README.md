@@ -11,12 +11,13 @@ Math:
 3. Information theory
 4. Networks
 5. Calculus:  [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
-6. Vector analysis
-7. Linear algebra: 
-8. Numerical analysis
-9. Probability
-10. Signals and systems
-11. Mathematical modeling
+6. Differential equation: [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
+7. Vector analysis
+8. Linear algebra:  [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+9. Numerical analysis
+10. Probability: [Dr. Benson Yeh](https://www.youtube.com/playlist?list=PLw9fh2FrjAqu1Gj_WznO-humCJT-OB2zF)
+11. Signals and systems
+12. Mathematical modeling
 
 Physics: 
 1. Electromagnetics
@@ -28,8 +29,8 @@ Physics:
 
 Computer science: 
 1. Computers and Programming
-2. Digital systems
-3. Computer organization
+2. Digital systems: [Dr. Chung-Ping Chung](https://www.youtube.com/watch?v=jB5jShUS6mg&list=PLj6E8qlqmkFvLrTINWmRqmc4ORb6ZOvnX)
+3. Computer organization: 
 4. Computer architecture
 5. Operating systems
 6. Data structures
