@@ -27,8 +27,9 @@ Tags:
 ### Interrupts
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
 - allowing a device to **change the flow of control** in the [[Processor|CPU]]
-- causing subroutine call to handle device
-- Modern OS are interrupt-driven mostly. 
+- Hardware trigger an interrupt at any time by **sending a signal** to [[Processor|CPU]]
+- Software trigger an interrupt either by an **error** or by a **user request**
+- Modern OS are interrupt-driven. 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 
 ### Storage structure
