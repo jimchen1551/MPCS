@@ -32,8 +32,10 @@ Tags:
 - Modern OS are interrupt-driven. 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
+- Hardware interrupt
+- Software interrupt
+- Interrupt vector
 - Service routine
-- Interrupt vecto
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
 
