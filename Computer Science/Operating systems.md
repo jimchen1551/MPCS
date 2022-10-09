@@ -16,8 +16,9 @@ Tags:
 | [[Security and protection]]     | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 
 ![[Screen Shot 2022-09-14 at 10.32.30.png]]
-- allocating resources of hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) among [[Application program]]s from various users
-- The one program running at all times on the computer is called the **kernel**. 
+- **Kernel**: the program running at all times
+- **Control program**: controlling the execution of user programs and operation of [[IO]] to prevent errors and improper use
+- **Resource allocator**: allocating and mana resources of hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) among [[Application program]]s from various users
 
 ## Computer-system organization
 ![[Screen Shot 2022-09-14 at 10.54.19.png]]
