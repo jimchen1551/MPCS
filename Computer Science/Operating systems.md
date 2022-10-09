@@ -28,6 +28,7 @@ Tags:
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
 - allowing a device to **change the flow of control** in the [[Processor|CPU]]
 - causing subroutine call to handle device
+- ㄍㄩ
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 
 ### Storage structure
