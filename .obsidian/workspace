@@ -149,12 +149,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
-    "Computer Science/Operating systems.md",
     "Computer Science.md",
+    "Computer Science/Operating systems.md",
     "README.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Algorithms.md",
