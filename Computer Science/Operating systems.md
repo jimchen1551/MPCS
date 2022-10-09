@@ -16,8 +16,7 @@ Tags:
 | [[Security and protection]]     | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 
 ![[Screen Shot 2022-09-14 at 10.32.30.png]]
-- controlling the hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) and coordinating its use among the various application programs for the various users
-- allocating resources 
+- allocating resources of hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) among [[Application software]] from various users
 - designed primarily to optimize the utilization of hardware
 - The one program running at all times on the computer is called the **kernel**. 
 
