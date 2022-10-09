@@ -7,4 +7,4 @@ Tags:
 ---
 # Instruction count
 - the # of [[Instruction set architecture#Instruction]] while implementation
-- determined by program, [[Instruction set architecture]] and [[System software#Compiler]]
+- determined by program, [[Instruction set architecture]] and [[System program#Compiler]]

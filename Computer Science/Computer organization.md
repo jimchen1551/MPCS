@@ -27,8 +27,8 @@ Tags:
 ### Softwares
 | Class                    | Comment                                                            |
 | ------------------------ | ------------------------------------------------------------------ |
-| [[Application software]] | [[Program execution]], <br>[[Instruction set architecture#Procedures]] |
-| [[System software]]      | [[Compiler]], <br>[[Compiler#Assembly language]]                       |
+| [[Application program]] | [[Program execution]], <br>[[Instruction set architecture#Procedures]] |
+| [[System program]]      | [[Compiler]], <br>[[Compiler#Assembly language]]                       |
 
 ### Hardware
 ![[Pasted image 20220705165648.png]]

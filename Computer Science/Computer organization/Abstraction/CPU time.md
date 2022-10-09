@@ -18,7 +18,7 @@ $T_C$: [[Clock period|Cycle time]]
 | ------------------------------------- |:---------------------:|:--------------------------:|:----------------:|
 | Algorithm                             |          ✅           |             ✅             |        🚫        |
 | Programming language                  |          ✅           |             ✅             |        🚫        |
-| [[System software#Compiler]]          |          ✅           |             ✅             |        🚫        |
+| [[System program#Compiler]]          |          ✅           |             ✅             |        🚫        |
 | [[Instruction set architecture]] |          ✅           |             ✅             |        ✅        |
 
 ## CPU clocking

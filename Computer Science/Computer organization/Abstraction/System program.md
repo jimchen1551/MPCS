@@ -5,13 +5,9 @@ Types: Card
 Tags: 
 - 
 ---
-# System software
+# System program
 - [[Compiler]], [[Compiler#Assembly language]]
-
-## Operating system
-- handling [[IO]]
-- managing [[Memory]] and storage
-- scheduling tasks and sharing resources
-### Hardware representation
+- [[Operating systems]]
+## Hardware representation
 - binary digits
 - encoded [[Instruction set architecture#Instruction]]s and data

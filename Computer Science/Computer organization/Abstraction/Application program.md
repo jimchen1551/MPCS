@@ -5,7 +5,7 @@ Types: Card
 Tags: 
 - 
 ---
-# Application software
+# Application program
 - writtern in [[#High-level language HLL]]
 - [[Program execution]]
 - [[Instruction set architecture#Procedures]]
