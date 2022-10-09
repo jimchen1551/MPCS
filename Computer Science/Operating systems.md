@@ -26,7 +26,8 @@ Tags:
 - concurrent and parallel executions of CPUs and device controller competing for memory cycles
 ### Interrupts
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
-- allowing to change the flow 
+- allowing a device to **change the flow of control** in the [[Processor|CPU]]
+- causing subroutine call to handle device
 
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
