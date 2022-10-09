@@ -22,7 +22,7 @@ Tags:
 
 ## Computer-system organization
 ![[Screen Shot 2022-09-14 at 10.54.19.png]]
-- one or more CPUs and a number of device controllers connected through a common **bus** providing **access to shared memory**
+- one or more CPUs and a number of device controllers connected through common **buses** providing access to **shared memory**
 - concurrent and parallel executions of CPUs and device controller competing for memory cycles
 - For a computer to start running, (???)
 	1. **Bootstrap program** stored in [[Read-only memory|ROM]] or EEROM (electrically erasable programmable [[Read-only memory|ROM]]) (both known by the general term **firmware**) initializes everything in computer , loads the operating system into the memory and starts executing it. 
