@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer organization/Memory.md",
+            "file": "Computer Science/Computer organization/Memory/Cache memory/SRAM.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer organization/Memory.md",
+                "file": "Computer Science/Computer organization/Memory/Cache memory/SRAM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer organization/Memory.md",
+                "file": "Computer Science/Computer organization/Memory/Cache memory/SRAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer organization/Memory.md"
+                "file": "Computer Science/Computer organization/Memory/Cache memory/SRAM.md"
               }
             }
           },
@@ -149,19 +149,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
+    "Computer Science/Computer organization/Memory/Cache memory/SRAM.md",
     "Computer Science/Computer organization/Memory.md",
-    "Computer Science/Computer organization/Memory/Main memory.md",
     "Computer Science/Computer organization/Memory/Main memory/DRAM.md",
+    "Computer Science/Computer organization/Memory/Main memory.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Computer organization/ISA/Procedure/Program counter.md",
     "Computer Science.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer organization/Abstraction/System program.md",
-    "Computer Science/Computer organization/Abstraction/Application program.md",
-    "README.md"
+    "Computer Science/Computer organization/Abstraction/Application program.md"
   ]
 }

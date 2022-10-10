@@ -10,7 +10,7 @@ Tags:
 ![[Screen Shot 2022-09-26 at 14.39.18.png]]
 - volatile memory
 - needing only 1 transistor
-- stored as a charge in a **capacitor**
+- data stored as a charge in a **capacitor**
 - consuming less power
 - periodically **refreshed** (reading contents and writing back)
 - accessing an entire row
