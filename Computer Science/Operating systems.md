@@ -48,7 +48,6 @@ Tags:
 ![[Screen Shot 2022-10-09 at 14.59.11.png|500]]
 
 ## Computer-system architecture
-![[Screen Shot 2022-09-14 at 11.42.19.png]]
 ### Single-processor systems
 ### Multi-processor systems
 ### Clustered systems
