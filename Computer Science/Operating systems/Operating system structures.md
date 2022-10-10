@@ -15,7 +15,12 @@ Tags:
 - aka GUI
 ### Touch screen interface
 ## System calls
-
+- requesting OS services
+	1. Process control
+	2. File management
+	3. Device management
+	4. Information maintenance
+	5. Communications
 ## System services
 ## Linkers and loaders
 ## OS design and implementation
