@@ -13,7 +13,7 @@ Tags:
 | Spatial  | Items near those accessed recently <br>are likely to be accessed soon |
 
 ## Memory hierarchy and technology
-![[Screen Shot 2022-09-14 at 11.41.48.png]]
+![[Screen Shot 2022-10-09 at 14.58.34.png]]
 - storing everything on the [[Secondary memory]]
 - copying recently accessed items to the [[Main memory]]
 - copying more recently accessed items to the [[Cache memory]]

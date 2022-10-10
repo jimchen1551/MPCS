@@ -41,7 +41,9 @@ Tags:
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
-[[Memory]]
+- [[Memory]]
+- Caching
+- Coherency and Consistency
 ### I/O structure
 ![[Screen Shot 2022-10-09 at 14.59.11.png|500]]
 
