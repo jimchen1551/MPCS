@@ -35,17 +35,10 @@ Tags:
 | **not** incrementing the [[Program counter]] | incrementing the [[Program counter]]         |
 | asynchronous event                           | synchronous event                            |
 | **lowest** priority                          | **highest** priority                         |
+| 1. Maskable 2. Non-maskable                  | 1. Normal interrupt 2. Exception             |
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
-- Interrupt vector
-- Service routine
-| Hardware interrupt                           | Software interrupt                           |
-| -------------------------------------------- | -------------------------------------------- |
-| invoked by **external devices**              | invoked by an **error** or a **system call** |
-| sending a signal to [[Processor]]            | using the instruction **INT**                |
-| **not** incrementing the [[Program counter]] | incrementing the [[Program counter]]         |
-| **lowest** priority                          | **highest** priority                         |
 
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
