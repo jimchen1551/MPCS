@@ -8,9 +8,13 @@ Tags:
 # Operating system structures
 ## OS service
 ## User and OS interfaces
-### Command interpreters
+### Command line interface
+- aka CLI
+- e.g., cshell, bash
 ### Graphic user interface
+- aka GUI
 ### Touch screen interface
+- 
 ## System calls
 ## System services
 ## Linkers and loaders
