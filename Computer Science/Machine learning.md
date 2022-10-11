@@ -97,7 +97,9 @@ Classes:
 
 Handling: 
 1. if % Miss. > 60%, **remove** the feature. 
-2. deriving a **missing indicator feature** from them (e.g., new binary feature: 0=absense and 1=presence)
+2. deriving a new **missing indicator feature** from them (e.g., 0=absense and 1=presence) and discarding the original feature
+3. **complete case analysis**: deleting instances missing one or more feature values (usually only for target feature)
+4. **imputation**: replacing missing feature values with a plausible value based on the feature values present
 
 #### Irregular cardinality
 - unusual number of distinct values for a feature
