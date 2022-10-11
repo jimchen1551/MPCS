@@ -129,6 +129,10 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 - **Conquer** the subproblems by solving them recursively. 
 - **Combine** the solutions to the subproblems into the solution for the original problem. 
 - e.g., [[Merge sort]]
+#### Recurrence
+1. Substitution method
+2. Recursion-tree method
+3. Master method
 ### Dynamic programming
 
 | Algorithms                  | Comment |
