@@ -43,7 +43,7 @@ Tags:
 2. **Maintenance**: If it is true before an iteration of the loop, it remains true before the next iteration.
 3. **Termination**: When the loop terminates, the invariant gives us a useful property that helps show that the algorithm is correct.
 ### Floyd-Hoare logic
-[Wiki explain](https://en.wikipedia.org/wiki/Hoare_logic)
+[Wiki explained](https://en.wikipedia.org/wiki/Hoare_logic)
 
 ## Analysis
 - Analyzing an algorithm has come to mean **predicting the resources** (memory, communication bandwidth, or computer hardware) that the algorithm requires. 
@@ -125,10 +125,11 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 ### Incremental approach
 - e.g., [[Insertion sort]]
 ### Divide-and-conquer approach
+- If the problem small enough, **base case**.
 - **Divide** the problem into a number of subproblems. 
 - **Conquer** the subproblems by solving them recursively. 
 - **Combine** the solutions to the subproblems into the solution for the original problem. 
-- e.g., [[Merge sort]]
+- e.g., [[Merge sort]], [[Strassen's algorithm]]
 #### Recurrence
 1. Substitution method
 2. Recursion-tree method
