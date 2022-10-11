@@ -6,8 +6,8 @@ Tags:
 - 
 ---
 # Sorting algorithms
-Input: A sequence of $n$ numbers $\langle a_1, a_2, \dots,a_n\rangle$
-Output: A permutaiotn $\langle a_1',a_2',\dots, a_n\rangle$ of the input sequence s.t. $a_1'\leq a_2'\leq\dots\leq a_n'$
+Input: $\langle a_1, a_2, \dots,a_n\rangle$
+Output: $\langle a_1',a_2',\dots, a_n\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a_n'$
 
 | Sorting            | Comment |
 | ------------------ | ------- |

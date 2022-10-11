@@ -6,8 +6,9 @@ Tags:
 - 
 ---
 # Insertion sort
+![[Screen Shot 2022-10-11 at 11.33.40.png]]
 ```Pseudocode
-INSERTION-SORT(A, n)
+INSERTION(A, n)
 for i = 2 to n
 	key = A[i]
 	j = i - 1
