@@ -108,6 +108,7 @@ Handling:
 	  continuous: median or mean; 
 	  categorical:  most common mode
 	- advanced technique: building a simple (complex only if necessary) predictive model to replace the missing values
+	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
 
 #### Irregular cardinality
 - unusual number of distinct values for a feature
@@ -144,7 +145,8 @@ Identification:
 3. **Exponential** or **skewed** distribution in histogram
 
 Handling: 
-1. 
+1. **Clamp transformation**: 
+   $$a_i=\begin{cases}lower&\quad\text{if }a_i<lower\\upper&\quad\text{if }a_i>upper\\a_i&\quad \text{otherwise}\end{cases}$$
 
 ### Data preparation
 #### Normalization
