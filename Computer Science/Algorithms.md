@@ -92,46 +92,36 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
   $f(n)=O(g(n))\leftrightarrow g(n)=\Omega(f(n))$
   $f(n)=o(g(n))\leftrightarrow g(n)=\omega(f(n))$
 ### Standard notation
-| Notation             | Explanation |
-| -------------------- | ----------- |
-| Monotonicity         | monotonically $\leq$ strictly            |
-| Floors and ceilings  | $\lfloor x \rfloor\leq x \leq \lceil x \rceil$<br>$\lfloor x\rfloor$: the floor of $x$, which is the greatest integer $\leq x$<br>$\lceil x\rceil$ is called the ceil of $x$, which is the least integer $\geq x$            |
-| Modular arithmetic   |             |
-| Polynomials          |             |
-| Exponentials         |             |
-| Logarithms           |             |
-| Factorials           |             |
-| Functional iteration |             |
-| Iterated algorithms  |             |
-| Fibonacci iteration  |             |
+| Notation             | Explanation                                                                                                                                                                                                                                                                                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Monotonicity         | monotonically $\leq$ strictly                                                                                                                                                                                                                                                                                                                    |
+| Floors and ceilings  | $\lfloor x \rfloor\leq x \leq \lceil x \rceil$<br>$\lfloor x\rfloor$: the **floor** of $x$, which is the greatest integer $\leq x$<br>$\lceil x\rceil$: the **ceil** of $x$, which is the least integer $\geq x$<br>The floor function is monotonically increasing, as is the ceil function.                                                     |
+| Modular arithmetic   | $a\equiv b\ (\mod c$)                                                                                                                                                                                                                                                                                                                            |
+| Polynomials          | **Polynomially bounded**:<br>if $f(n)=O(n^k)$ for some constant $k$                                                                                                                                                                                                                                                                              |
+| Exponentials         |                                                                                                                                                                                                                                                                                                                                                  |
+| Logarithms           | **Polylogarithmic bounded**:<br>if $f(n)=O(\log^kn)$ for some constant $k$                                                                                                                                                                                                                                                                       |
+| Factorials           | $n!<n^n$<br>**Stirling's approximation**: <br>$n!=\sqrt{2\pi n}(\frac{n}{e})^n(1+\Theta(\frac{1}{n}))$<br>$\Rightarrow\begin{cases} n!=o(n^n)\\n!=\omega(2^n)\\ \log(n!)=\Theta(n\log n)\end{cases}$<br>$\Rightarrow n!=\sqrt{2\pi n}(\frac{n}{e})^ne^{\alpha_n},\quad \forall n\geq 1$<br>$\text{where }\frac{1}{12n+1}<\alpha_n<\frac{1}{12n}$ |
+| Functional iteration | The function iteratively applied $i$ times to an initial value of $n$. <br> $f^{(i)}(n)=\begin{cases}n&\quad\text{if }i=0\\f(f^{(i-1)}(n)&\quad\text{if }i>0\end{cases}$<br>e.g., if $f(n)=2n$, then $F^{(i)}(n)=2^in$                                                                                                                           |
+| Iterated algorithms  | $\log^*n=\min\{i\geq0:\log^{(i)}n\leq1\}$???                                                                                                                                                                                                                                                                                                     |
+| Fibonacci iteration  |                                                                                                                                                                                                                                                                                                                                                  |
 1. Monotonicity
    
 2. Floors and ceilings
    
-   The floor function is monotonically increasing, as is the ceil function. 
+   
 3. Modular arithmetic
-   $a\equiv b\ (\mod c$)
+
 4. Polynomials
-   **Polynomially bounded**: 
-   if $f(n)=O(n^k)$ for some constant $k$
+   
 5. Exponentials
 6. Logarithms
-   **Polylogarithmic bounded**: 
-   if $f(n)=O(\log^kn)$ for some constant $k$
+
 7. Factorials
-   $n!<n^n$
-   **Stirling's approximation**: 
-   $n!=\sqrt{2\pi n}(\frac{n}{e})^n(1+\Theta(\frac{1}{n}))$
-   $\Rightarrow\begin{cases} n!=o(n^n)\\n!=\omega(2^n)\\ \log(n!)=\Theta(n\log n)\end{cases}$
-   $\Rightarrow n!=\sqrt{2\pi n}(\frac{n}{e})^ne^{\alpha_n},\quad \forall n\geq 1$
-   $\text{where }\frac{1}{12n+1}<\alpha_n<\frac{1}{12n}$
+
 8. Functional iteration
-   The function iteratively applied $i$ times to an initial value of $n$. 
-   $f^{(i)}(n)=\begin{cases}n&\quad\text{if }i=0\\f(f^{(i-1)}(n)&\quad\text{if }i>0\end{cases}$
-   e.g., if $f(n)=2n$, then $F^{(i)}(n)=2^in$
+
 9. Iterated algorithm function
-   $\log^*n=\min\{i\geq0:\log^{(i)}n\leq1\}$
-   ???
+
 10. Fibonacci numbers
     $F_i=\begin{cases}0&\quad\text{if }i=0\\1&\quad\text{if }i=1\\F_{i-1}+F_{i-2}&\quad\text{if }i=\geq2\end{cases}=\frac{\phi^i-\hat\phi^i}{\sqrt5}=\lfloor\frac{\phi^i}{\sqrt5}+\frac{1}{2}\rfloor\because\frac{|\hat\phi^i|}{\sqrt5}<\frac{1}{\sqrt5}<\frac{1}{2}$
 
