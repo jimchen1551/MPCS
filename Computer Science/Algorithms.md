@@ -125,7 +125,8 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 ### Incremental approach
 - e.g., [[Insertion sort]]
 ### Divide-and-conquer approach
-- If the problem small enough, **base case**.
+- If the problem small enough, $\Rightarrow$**base case**.
+- Else, $\Rightarrow$**recursive case**.
 - **Divide** the problem into a number of subproblems. 
 - **Conquer** the subproblems by solving them recursively. 
 - **Combine** the solutions to the subproblems into the solution for the original problem. 
