@@ -159,7 +159,12 @@ Identification:
 
 Handling: 
 1. **Clamp transformation**: 
-   upper and lower thresholds can be set manu
+	- The upper and lower thresholds can be set manually based on domain knowledge or caluculated from data. 
+	- Commonly,
+      $lower=1^{st}\text{quartile}-1.5\times \text{inter-quartile range}$; $upper=3^{rd}\text{quartile}+1.5\times \text{inter-quartile range}$
+      or 
+      $lower=mean-2\times SD$; 
+      $upper=mean+2\times SD$
    $$a_i=\begin{cases}lower&\quad\text{if }a_i<lower\\upper&\quad\text{if }a_i>upper\\a_i&\quad \text{otherwise}\end{cases}$$
 
 ### Data preparation
