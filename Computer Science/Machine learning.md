@@ -105,7 +105,8 @@ Handling:
    deleting instances missing one or more feature values (usually only for target feature)
 4. **Imputation**: 
    if % Miss. < 30% (reluctant threshold) or 50% (strongly not recommended threshold), **replacing** missing feature values with a plausible value based on the feature values present 
-	- **Single imputation**: commonly replaced by a measure of the **central tendency**, e.g., 
+	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
+	- **Single imputation**: commonly replaced by a measure of the central tendency, e.g., 
 		continuous: median or mean; 
 		categorical:  most common mode
 	- **Multiple imputation**: imputing the missing data several times to produce several different complete-data models and combining these models into and overall one, e.g., MCMC
@@ -118,7 +119,6 @@ Handling:
 	  **EM** (expectation-maximization), 
 	  **MissForest** (generating a forest of decision tree and using trees to predict), 
 	  **GAIN** (generative adversarial imputation networks)
-	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
 
 >**Markov chain Monte Carlo** (MCMC): 
 >1. initializing parameter values
@@ -170,6 +170,10 @@ Handling:
       $lower=mean-2\times SD$; 
       $upper=mean+2\times SD$
    $$a_i=\begin{cases}lower&\quad\text{if }a_i<lower\\upper&\quad\text{if }a_i>upper\\a_i&\quad \text{otherwise}\end{cases}$$
+
+### Data visualization
+
+### Covariance and correlation
 
 ### Data preparation
 #### Normalization
