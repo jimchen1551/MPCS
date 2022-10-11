@@ -106,11 +106,14 @@ Handling:
 4. **Imputation**: 
    if % Miss. < 30% (reluctant threshold) or 50% (strongly not recommended threshold), **replacing** missing feature values with a plausible value based on the feature values present 
 	- **Single imputation**: commonly replaced by a measure of the **central tendency**, e.g., 
-	  continuous: median or mean; 
-	  categorical:  most common mode
-	- **Multiple imputation**: imputing the missing data several times ton
+		continuous: median or mean; 
+		categorical:  most common mode
+	- **Multiple imputation**: imputing the missing data several times to produce several different complete-data models and combining these models into and overall one, e.g., 
+		Markov chain Monte Carlo (MCMC): 
+		1. 
 	- advanced technique: building a simple (complex only if necessary) predictive model to replace the missing values
 	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
+
 
 #### Irregular cardinality
 - unusual number of distinct values for a feature
