@@ -14,6 +14,26 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "46ec1640a92c1bdc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "89564f8dd7d0dd79",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -160,10 +180,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "805df6af3a5f21f2",
+  "active": "89564f8dd7d0dd79",
   "lastOpenFiles": [
-    "Computer Science/Machine learning.md",
     "conflict-files-obsidian-git.md",
+    "Computer Science/Machine learning.md",
     "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
