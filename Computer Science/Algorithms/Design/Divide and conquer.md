@@ -22,6 +22,8 @@ A recurrence $T(n)$ is **algorithmic** if, $\forall$ sufficiently large **thresh
 1. $\forall n<n_0$, we have $T(n)=\Theta(1)$
 2. $\forall n\geq n_0$, every path of recursion **terminates** in a defined **base case** within a finite number if recursive invocations. 
 
+### Solving recurrence
 1. Substitution method
 2. Recursion-tree method
 3. Master method
+4. Akra-Bazzi method

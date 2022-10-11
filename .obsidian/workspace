@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Algorithms/Divide and conquer.md",
+            "file": "Computer Science/Algorithms/Design/Divide and conquer.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md"
+                "file": "Computer Science/Algorithms/Design/Divide and conquer.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -162,7 +162,8 @@
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Divide and conquer.md",
+    "Computer Science/Algorithms/Design/Divide and conquer.md",
+    "Computer Science/Algorithms/Untitled.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems.md",
@@ -170,7 +171,6 @@
     "Computer Science/Computer organization/Memory/Cache memory/SRAM.md",
     "Computer Science/Computer organization/Memory/Main memory/DRAM.md",
     "Computer Science/Computer organization/Memory/Main memory.md",
-    "Computer Science/Computer organization/ISA/Procedure/Program counter.md",
-    "Computer Science.md"
+    "Computer Science/Computer organization/ISA/Procedure/Program counter.md"
   ]
 }
