@@ -86,16 +86,22 @@ Tags:
 - some instances may miss values for one or more features
 - % Miss. column in the DQR
 - causes are misillaneous
-- If % Miss. > 60%, **remove** the feature. 
+
+Classes: 
 1. Missing completely at random (MCAR)
 	The distribution of an example with a missing value for a certain attribute is **independent** of the observed data and the value which is missing.
 2. Missing at random (MAR)
 	The distribution of an example with a missing value for a certain attribute **depends on the observed data**, but **not depends on the value which is missing**.
 3. Missing not at random (MNAR)
 	The distribution of an example with a missing value for a certain attribute **depends on the value which is missing**.
+
+Handling: 
+1. 
 #### Irregular cardinality
 - unusual number of distinct values for a feature
 - Card. column in the DQR
+
+Identification and classes: 
 1. **cardinality=1** (all the instances bearing the same value of this feature)
 	- If not due to an ABT generation error, correct the error and regenerate the ABT. 
 	- Else, though the feature is valid, it doesn't useful while building predictive model; so, **delete** it! 
@@ -107,12 +113,15 @@ Tags:
 	- learning algorithm might struggle with such high cardinality; so, note it in the **data quality plan**
 #### Outliers
 - instances with values far away from the central tendency
+
+Classes: 
 1. **invalid outliers**
-	- inclusion of a sample through error (causes are misillaneous, e.g., fat finger lol)
+	- inclusion of a sample through error (causes are misillaneous, e.g., ~~fat finger lol~~)
 	- often refered to as noise in the data
 2. **valid outliers**
 	- correct values just far away from the rest of instances
-**Identification** of outliers: 
+
+Identification: 
 1. examining the **minimum** and **maximum** values ofor each feature: 
 	- usually find out the invalid outliers
 2. comparing the gaps b/w the **median, minimum, maximum, 1st quartile, 3rd quartile**
