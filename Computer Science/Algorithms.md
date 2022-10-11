@@ -136,12 +136,16 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 2. Recursion-tree method
 3. Master method
 ### Dynamic programming
+### Network flow approach
 
 | Algorithms                  | Comment |
 | --------------------------- | ------- |
 | [[Sorting algorithms]]      |         |
 | [[Searching algorithms]]    |         |
+| [[Divide and conquer]]      |         |
 | [[Graph algorithms]]        |         |
+| [[Greedy algorithms]]       |         |
+| [[Dynamic programming]]     |         |
 | [[Network flow algorithms]] |         |
 
 ## Reference book
