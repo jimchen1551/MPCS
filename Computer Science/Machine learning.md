@@ -96,7 +96,9 @@ Classes:
 	The distribution of an example with a missing value for a certain attribute **depends on the value which is missing**.
 
 Handling: 
-1. 
+1. if % Miss. > 60%, **remove** the feature. 
+2. deriving a **missing indicator feature** from them (e.g., new binary feature: 0=absense and 1=presence)
+
 #### Irregular cardinality
 - unusual number of distinct values for a feature
 - Card. column in the DQR
@@ -111,6 +113,7 @@ Identification and classes:
 	- Usually because of different labels of the same category, $\Rightarrow$ correct the error and regenerate the ABT. 
 4. **high cardinality** of a **categorical** feature with **valid** data
 	- learning algorithm might struggle with such high cardinality; so, note it in the **data quality plan**
+
 #### Outliers
 - instances with values far away from the central tendency
 
@@ -129,6 +132,9 @@ Identification:
 	- 1st quartile - minimum >> median - 1st quartile, $\Rightarrow$ minimum is unusual and likely to be the outlier. 
 	- usually find out the valid outliners, $\Rightarrow$ note it in the **data quality plan**
 3. **Exponential** or **skewed** distribution in histogram
+
+Handling: 
+1. 
 
 ### Data preparation
 #### Normalization
