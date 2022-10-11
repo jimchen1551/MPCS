@@ -109,16 +109,17 @@ Handling:
 		continuous: median or mean; 
 		categorical:  most common mode
 	- **Multiple imputation**: imputing the missing data several times to produce several different complete-data models and combining these models into and overall one, e.g., 
-		**Markov chain Monte Carlo** (MCMC): 
-		1. initializing parameter values
-		2. making regression of variable with missing values on other variables
-		3. predicting missing values and adding some random errors to mitigate bias in covariance
-		4. recalculating means, covariance matrix from complete-data table
-		5. repeating 2~4 times until converge
-	- Global approaches: **PCA** (principal component analysis, by linear combination of PC)
+>**Markov chain Monte Carlo** (MCMC): 
+>1. initializing parameter values
+>2. making regression of variable with missing values on other variables
+>3. predicting missing values and adding some random errors to mitigate bias in covariance
+>4. recalculating means, covariance matrix from complete-data table
+>5. repeating 2~4 times until converge
+- Global approaches: **PCA** (principal component analysis, by linear combination of PC)
 	- Local approaches: **Neariest neighbors** (by mean of neighbors)
 	- Discriminative methods: **MissForest** (generating a forest of decision tree and using trees to predict)
 	- Generative methods: **GAIN** (generative adversarial imputation networks)
+	- Methods: mean value imputation, most frequent value imputation, MICE (multiple imputation by chained equations), kNN, EM (expectation-maximization), MissForest, GAIN
 	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
 
 
