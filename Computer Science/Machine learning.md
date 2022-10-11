@@ -97,7 +97,7 @@ Tags:
 - Card. column in the DQR
 - checking features with cardinality=1 (all the instances bearing the same value of this feature)
 	- If not due to an ABT generation error, correct the error and regenerate the ABT. 
-	- Else, though the feature is valid, it doesn't 
+	- Else, though the feature is valid, it doesn't useful while building predictive model; so, 
 #### Outliers
 - instances with values far away from the central tendency
 
