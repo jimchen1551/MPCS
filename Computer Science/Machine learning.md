@@ -115,9 +115,10 @@ Handling:
 		3. predicting missing values and adding some random errors to mitigate bias in covariance
 		4. recalculating means, covariance matrix from complete-data table
 		5. repeating 2~4 times until converge
-	- Global approaches: PCA (by linear combination of PC)
-	- Local approaches: Neariest neighbors
-	- advanced technique: building a simple (complex only if necessary) predictive model to replace the missing values
+	- Global approaches: **PCA** (principal component analysis, by linear combination of PC)
+	- Local approaches: **Neariest neighbors** (by mean of neighbors)
+	- Discriminative methods: **MissForest** (generating a forest of decision tree and using trees to predict)
+	- Generative methods: **GAIN** (generative adversarial imputation networks)
 	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
 
 
