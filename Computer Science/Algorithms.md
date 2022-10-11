@@ -8,6 +8,12 @@ Tags:
 # Algorithms
 - any well-defined **computational procedure** that transforms the **input** into the **output** for solving a well-specified (spec: the relationship b/w input and output) **computational problem**
 
+| Algorithms                  | Comment |
+| --------------------------- | ------- |
+| [[Sorting algorithms]]      |         |
+| [[Searching algorithms]]    |         |
+| [[Graph algorithms]]        |         |
+
 ## Typical problems
 - Shortest path problem
 - The longest common subsequence of two ordered sequences of symbols
@@ -86,12 +92,22 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
   $f(n)=O(g(n))\leftrightarrow g(n)=\Omega(f(n))$
   $f(n)=o(g(n))\leftrightarrow g(n)=\omega(f(n))$
 ### Standard notation
+| Notation             | Explanation |
+| -------------------- | ----------- |
+| Monotonicity         | monotonically $\leq$ strictly            |
+| Floors and ceilings  | $\lfloor x \rfloor\leq x \leq \lceil x \rceil$<br>$\lfloor x\rfloor$: the floor of $x$, which is the greatest integer $\leq x$<br>$\lceil x\rceil$ is called the ceil of $x$, which is the least integer $\geq x$            |
+| Modular arithmetic   |             |
+| Polynomials          |             |
+| Exponentials         |             |
+| Logarithms           |             |
+| Factorials           |             |
+| Functional iteration |             |
+| Iterated algorithms  |             |
+| Fibonacci iteration  |             |
 1. Monotonicity
-   monotonically $\leq$ strictly
+   
 2. Floors and ceilings
-   $\lfloor x \rfloor\leq x \leq \lceil x \rceil$
-   $\lfloor x\rfloor$ is called the floor of $x$, which is the greatest integer $\leq x$
-   $\lceil x\rceil$ is called the ceil of $x$, which is the least integer $\geq x$
+   
    The floor function is monotonically increasing, as is the ceil function. 
 3. Modular arithmetic
    $a\equiv b\ (\mod c$)
@@ -127,12 +143,6 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 | [[Greedy algorithms]]       | [[Selection sort]] |
 | [[Dynamic programming]]     |                    |
 | [[Network flow algorithms]] |                    |
-
-| Algorithms                  | Comment |
-| --------------------------- | ------- |
-| [[Sorting algorithms]]      |         |
-| [[Searching algorithms]]    |         |
-| [[Graph algorithms]]        |         |
 
 ## Reference book
 - Algorithms in a nutshell by George T. Heineman, Gary Pollice, and Stanley Selkow
