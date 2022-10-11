@@ -103,27 +103,8 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 | Factorials           | $n!<n^n$<br>**Stirling's approximation**: <br>$n!=\sqrt{2\pi n}(\frac{n}{e})^n(1+\Theta(\frac{1}{n}))$<br>$\Rightarrow\begin{cases} n!=o(n^n)\\n!=\omega(2^n)\\ \log(n!)=\Theta(n\log n)\end{cases}$<br>$\Rightarrow n!=\sqrt{2\pi n}(\frac{n}{e})^ne^{\alpha_n},\quad \forall n\geq 1$<br>$\text{where }\frac{1}{12n+1}<\alpha_n<\frac{1}{12n}$ |
 | Functional iteration | The function iteratively applied $i$ times to an initial value of $n$. <br> $f^{(i)}(n)=\begin{cases}n&\quad\text{if }i=0\\f(f^{(i-1)}(n)&\quad\text{if }i>0\end{cases}$<br>e.g., if $f(n)=2n$, then $F^{(i)}(n)=2^in$                                                                                                                           |
 | Iterated algorithms  | $\log^*n=\min\{i\geq0:\log^{(i)}n\leq1\}$???                                                                                                                                                                                                                                                                                                     |
-| Fibonacci iteration  |                                                                                                                                                                                                                                                                                                                                                  |
-1. Monotonicity
-   
-2. Floors and ceilings
-   
-   
-3. Modular arithmetic
+| Fibonacci iteration  |$F_i=\begin{cases}0&\quad\text{if }i=0\\1&\quad\text{if }i=1\\F_{i-1}+F_{i-2}&\quad\text{if }i=\geq2\end{cases}$=\frac{\phi^i-\hat\phi^i}{\sqrt5}=\lfloor\frac{\phi^i}{\sqrt5}+\frac{1}{2}\rfloor\because\frac{\mid \hat\phi^i \mid }{\sqrt5}<\frac{1}{\sqrt5}<\frac{1}{2}$                                                                                                                                                                                                                                                                                                                                                  |
 
-4. Polynomials
-   
-5. Exponentials
-6. Logarithms
-
-7. Factorials
-
-8. Functional iteration
-
-9. Iterated algorithm function
-
-10. Fibonacci numbers
-    $F_i=\begin{cases}0&\quad\text{if }i=0\\1&\quad\text{if }i=1\\F_{i-1}+F_{i-2}&\quad\text{if }i=\geq2\end{cases}=\frac{\phi^i-\hat\phi^i}{\sqrt5}=\lfloor\frac{\phi^i}{\sqrt5}+\frac{1}{2}\rfloor\because\frac{|\hat\phi^i|}{\sqrt5}<\frac{1}{\sqrt5}<\frac{1}{2}$
 
 ## Design
 | Algorithms                  | Examples           |

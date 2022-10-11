@@ -129,9 +129,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "5495f31a6c68b4af",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "3a776e8a482cd1d1",
