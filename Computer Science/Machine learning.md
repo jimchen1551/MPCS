@@ -108,9 +108,15 @@ Tags:
 #### Outliers
 - instances with values far away from the central tendency
 1. **invalid outliers**
-	- inclusion of a sample through error (causes are misillaneous)
+	- inclusion of a sample through error (causes are misillaneous, e.g., fat finger lol)
 	- often refered to as noise in the data
 2. **valid outliers**
+	- correct values just far away from the rest of instances
+**Identification** of outliers: 
+1. examining the **minimum** and **maximum** values ofor each feature: 
+	- usually find out the invalid outliers
+2. comparing the gaps b/w the **median, minimum, maximum, 1st quartile, 3rd quartile**
+	- Maximum - 3rd quartile >> 3rd quartile - median
 
 ### Data preparation
 #### Normalization
