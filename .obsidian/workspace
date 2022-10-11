@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures.md",
+            "file": "Computer Science/Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md",
+                "file": "Computer Science/Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md",
+                "file": "Computer Science/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md"
+                "file": "Computer Science/Algorithms.md"
               }
             }
           },
@@ -154,6 +154,7 @@
   },
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Computer organization/Memory.md",
@@ -162,7 +163,6 @@
     "Computer Science/Computer organization/Memory/Main memory.md",
     "Computer Science/Computer organization/ISA/Procedure/Program counter.md",
     "Computer Science.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Computer organization/Abstraction/System program.md"
+    "Computer Science/Computer organization.md"
   ]
 }
