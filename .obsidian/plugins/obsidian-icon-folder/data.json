@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasLungs",
-      "RiFunctions",
-      "FasCode",
+      "FasAtom",
       "RiComputerLine",
-      "FasAtom"
+      "FasCode",
+      "RiFunctions",
+      "FasLungs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
