@@ -172,12 +172,14 @@ Handling:
    $$a_i=\begin{cases}lower&\quad\text{if }a_i<lower\\upper&\quad\text{if }a_i>upper\\a_i&\quad \text{otherwise}\end{cases}$$
 
 ### Data visualization
-
+- to reduce the size of ABT while two features are strongly related
 #### Both continuous features
+- scatter plot matri
 #### Both categorical features
-#### Cross categorical and continuous features
-### Covariance and correlation
 
+#### Cross categorical and continuous features
+
+### Covariance and correlation
 ### Data preparation
 #### Normalization
 #### Binning
