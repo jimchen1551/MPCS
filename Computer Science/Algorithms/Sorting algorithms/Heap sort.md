@@ -6,9 +6,8 @@ Tags:
 - 
 ---
 # Heap sort
+![[Screen Shot 2022-10-11 at 11.36.18.png]]
 ```Pseudocode
-HEAP(A, n)
-BUILD-MAX-HEAP(A, n)
-for i = n downto 2
-	exchange A[1]
+HEAPSORT(A, n)
+
 ```
