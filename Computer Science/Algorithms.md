@@ -120,33 +120,19 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
     $F_i=\begin{cases}0&\quad\text{if }i=0\\1&\quad\text{if }i=1\\F_{i-1}+F_{i-2}&\quad\text{if }i=\geq2\end{cases}=\frac{\phi^i-\hat\phi^i}{\sqrt5}=\lfloor\frac{\phi^i}{\sqrt5}+\frac{1}{2}\rfloor\because\frac{|\hat\phi^i|}{\sqrt5}<\frac{1}{\sqrt5}<\frac{1}{2}$
 
 ## Design
-### Greedy approach
-- e.g, [[Selection sort]]
-### Incremental approach
-- e.g., [[Insertion sort]]
-### Divide-and-conquer approach
-- If the problem small enough, $\Rightarrow$**base case**.
-- Else, $\Rightarrow$**recursive case**.
-- **Divide** the problem into a number of subproblems. 
-- **Conquer** the subproblems by solving them recursively. 
-- **Combine** the solutions to the subproblems into the solution for the original problem. 
-- e.g., [[Merge sort]], [[Strassen's algorithm]]
-#### Recurrence
-1. Substitution method
-2. Recursion-tree method
-3. Master method
-### Dynamic programming
-### Network flow approach
+| Algorithms                  | Examples           |
+| --------------------------- | ------------------ |
+| Incremental approach        | [[Insertion sort]]                   |
+| [[Divide and conquer]]      | [[Merge sort]], [[Strassen's algorithm]]                   |
+| [[Greedy algorithms]]       | [[Selection sort]] |
+| [[Dynamic programming]]     |                    |
+| [[Network flow algorithms]] |                    |
 
 | Algorithms                  | Comment |
 | --------------------------- | ------- |
 | [[Sorting algorithms]]      |         |
 | [[Searching algorithms]]    |         |
-| [[Divide and conquer]]      |         |
 | [[Graph algorithms]]        |         |
-| [[Greedy algorithms]]       |         |
-| [[Dynamic programming]]     |         |
-| [[Network flow algorithms]] |         |
 
 ## Reference book
 - Algorithms in a nutshell by George T. Heineman, Gary Pollice, and Stanley Selkow

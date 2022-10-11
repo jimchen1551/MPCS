@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -154,6 +155,7 @@
   "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
     "Computer Science/Algorithms.md",
+    "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Computer organization/Memory.md",
@@ -161,7 +163,6 @@
     "Computer Science/Computer organization/Memory/Main memory/DRAM.md",
     "Computer Science/Computer organization/Memory/Main memory.md",
     "Computer Science/Computer organization/ISA/Procedure/Program counter.md",
-    "Computer Science.md",
-    "Computer Science/Computer organization.md"
+    "Computer Science.md"
   ]
 }
