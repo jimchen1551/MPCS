@@ -96,11 +96,14 @@ Tags:
 #### Irregular cardinality
 - unusual number of distinct values for a feature
 - Card. column in the DQR
-1. checking features with **cardinality=1** (all the instances bearing the same value of this feature)
+1. **cardinality=1** (all the instances bearing the same value of this feature)
 	- If not due to an ABT generation error, correct the error and regenerate the ABT. 
 	- Else, though the feature is valid, it doesn't useful while building predictive model; so, **delete** it! 
-2. categorical feature incorrectly labelled as continous feature
-	- If 
+2. **categorical** feature incorrectly labelled as **continuous** feature
+	- If the cardinality of a continuous feature << the number of instances, $\Rightarrow$ investigate it!
+3. irregularly **high cardinalitiy** of a **categorical** feature
+	- Usually because of different labels of the same category, $\Rightarrow$ correct the error and regenerate the ABT. 
+4. 
 #### Outliers
 - instances with values far away from the central tendency
 
