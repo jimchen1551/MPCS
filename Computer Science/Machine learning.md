@@ -96,6 +96,7 @@ Tags:
 #### Irregular cardinality
 - unusual number of distinct values for a feature
 - Card. column in the DQR
+<<<<<<< HEAD
 1. **cardinality=1** (all the instances bearing the same value of this feature)
 	- If not due to an ABT generation error, correct the error and regenerate the ABT. 
 	- Else, though the feature is valid, it doesn't useful while building predictive model; so, **delete** it! 
@@ -105,6 +106,12 @@ Tags:
 	- Usually because of different labels of the same category, $\Rightarrow$ correct the error and regenerate the ABT. 
 4. **high cardinality** of a **categorical** feature with **valid** data
 	- learning algorithm might struggle with such high cardinality; so, note it in the **data quality plan**
+=======
+1. checking features with **cardinality=1** (all the instances bearing the same value of this feature)
+	- If not due to an ABT generation error, correct the error and regenerate the ABT. 
+	- Else, though the feature is valid, it doesn't useful while building predictive model; so, **delete** it! 
+2. categorical feature incorre
+>>>>>>> origin/main
 #### Outliers
 - instances with values far away from the central tendency
 1. **invalid outliers**
