@@ -173,6 +173,9 @@ Handling:
 
 ### Data visualization
 
+#### Visualizing pairs of continuous features
+#### Visualizing pairs of categorical features
+#### Visualizing categorical and continuous features
 ### Covariance and correlation
 
 ### Data preparation
