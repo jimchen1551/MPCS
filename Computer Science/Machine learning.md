@@ -85,19 +85,22 @@ Tags:
 #### Missing values
 - some instances may miss values for one or more features
 - % Miss. column in the DQR
+- causes are misillaneous
 - If % Miss. > 60%, **remove** the feature. 
-##### Missing completely at random
-- aka MCAR
-##### Missing at random
-- aka MAR
-##### Missing not at random
-- aka MNAR
+1. Missing completely at random (MCAR)
+	The distribution of an example with a missing value for a certain attribute is **independent** of the observed data and the value which is missing.
+2. Missing at random (MAR)
+	The distribution of an example with a missing value for a certain attribute **depends on the observed data**, but **not depends on the value which is missing**.
+3. Missing not at random (MNAR)
+	The distribution of an example with a missing value for a certain attribute **depends on the value which is missing**.
 #### Irregular cardinality
 - unusual number of distinct values for a feature
 - Card. column in the DQR
-- checking features with cardinality=1 (all the instances bearing the same value of this feature)
+1. checking features with **cardinality=1** (all the instances bearing the same value of this feature)
 	- If not due to an ABT generation error, correct the error and regenerate the ABT. 
-	- Else, though the feature is valid, it doesn't useful while building predictive model; so, 
+	- Else, though the feature is valid, it doesn't useful while building predictive model; so, **delete** it! 
+2. categorical feature incorrectly labelled as continous feature
+	- If 
 #### Outliers
 - instances with values far away from the central tendency
 
