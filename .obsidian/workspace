@@ -9,27 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Machine learning.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "46ec1640a92c1bdc",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "89564f8dd7d0dd79",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Computer Science.md",
             "mode": "source",
             "source": false
           }
@@ -73,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -98,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computer Science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Computer Science.md"
               }
             }
           },
@@ -180,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89564f8dd7d0dd79",
+  "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Computational Neuroscience.md",
     "Computer Science/Machine learning.md",
+    "conflict-files-obsidian-git.md",
     "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Selection sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Searching algorithms.md",
-    "Computer Science/Algorithms/Design/Divide and conquer.md",
-    "Computer Science/Algorithms/Untitled.md"
+    "Computer Science/Algorithms/Design/Divide and conquer.md"
   ]
 }
