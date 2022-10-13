@@ -14,62 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "46ec1640a92c1bdc",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "89564f8dd7d0dd79",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "7382cad655a48d98",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "9a0b6f2ee242b51a",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "53cc6d2f2a1b9400",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "328897d87df14b38",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "f9570f3d8f17f35e",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -134,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Machine learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Machine learning.md"
+              }
             }
           },
           {
@@ -212,10 +160,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9570f3d8f17f35e",
+  "active": "805df6af3a5f21f2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Computer Science/Machine learning.md",
+    "conflict-files-obsidian-git.md",
     "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
