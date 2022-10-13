@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Mathematics/Probability/Distribution/Erlang distribution.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4fc9e3c90e269495",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics/Probability/Distribution/Normal distribution.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Mathematics/Probability/Distribution/Normal distribution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Mathematics/Probability/Distribution/Normal distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "Mathematics/Probability/Distribution/Normal distribution.md"
               }
             }
           },
@@ -158,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "805df6af3a5f21f2",
+  "active": "4fc9e3c90e269495",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science.md",
-    "Computational Neuroscience.md",
-    "Computer Science/Machine learning.md",
-    "conflict-files-obsidian-git.md",
-    "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Selection sort.md"
+    "Mathematics/Probability/Distribution/Erlang distribution.md",
+    "Mathematics/Probability.md",
+    "Mathematics/Probability/Distribution/Uniform distribution.md",
+    "Mathematics/Probability/Distribution/Standard normal distribution.md",
+    "Mathematics/Probability/Distribution/Poisson distribution.md",
+    "Mathematics/Probability/Distribution/Pascal distribution.md",
+    "Mathematics/Probability/Distribution/Bernoulli distribution.md",
+    "Mathematics/Probability/Distribution/Binomial distribution.md",
+    "Mathematics/Probability/Distribution/Exponential distribution.md",
+    "Mathematics/Probability/Distribution/Geometric distribution.md"
   ]
 }
