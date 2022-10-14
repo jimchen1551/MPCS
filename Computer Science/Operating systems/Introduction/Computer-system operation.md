@@ -6,6 +6,9 @@ Tags:
 - 
 ---
 # Computer-system operation
+
 ## Multiprogramming and multitasking
+
 ## Dual-mode and multi-mode operation
+
 ## Timer

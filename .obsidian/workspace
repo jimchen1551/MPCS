@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computer-system architecture.md",
+            "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system architecture.md",
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system architecture.md",
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system architecture.md"
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "a00362149af2f418",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
+    "Computer Science/Operating systems/Introduction/Computer-system operation.md",
     "Computer Science/Operating Systems.md",
-    "Computer Science/Operating systems/Computer-system architecture.md",
-    "Computer Science/Operating systems/Computer-system operation.md",
-    "Computer Science/Operating systems/Computer-system organization.md",
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Introduction/Computer-system organization.md",
     "Computer Science/Computer organization/Memory.md",
     "Computer Science/Computer organization/Processor.md",
     "Computer Science/Computer Organization.md",
     "Computer Science/Digital systems/Combinational logic design/Programmable logic device/Read-only memory.md",
-    "Computer Science/Computer Architecture.md",
-    "Computer Science/Data Structures.md"
+    "Computer Science/Computer Architecture.md"
   ]
 }

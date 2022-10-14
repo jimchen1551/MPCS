@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Computer-system architecture
+- [[Computer Architecture]]
 ## Single-processor systems
 **Core**: the component executing instructions and registers for storing data locally
 - The **one** main [[Processor|CPU]] with its core is capable of executing a **general-purpose** instruction set, including instructions from processes. 
@@ -63,4 +64,4 @@ Tags:
 
 **High-performance computing**: the app must have been written specifically to take advantage of the cluster (**parallelization**, dividing a program into seperate components to run parallel on individual cores)
 **Distributed lock manager** (DLM): to provide shared accessed to a parallel cluster database, the system supply access control and locking to ensure that no conflicting operation occur. 
-**Storage-area network** (SAN): 
+**Storage-area network** (SAN): allowing many sytems to attach to a pool of storage (cluster software can assign the app to run on any attached host)
