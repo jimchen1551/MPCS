@@ -18,8 +18,13 @@ Tags:
 - Advantage: increased througput (not directly ratio to [[Processor|CPU]] #)
 ### Symmetric multiprocessing
 ![[Screen Shot 2022-10-14 at 21.20.25.png|400]]
-- aka SMP
-- Each peer [[Processor]] having its own set of [[Registers]] and performing all tasks, including OS functions and user processes
-- All peer [[Processor]]s share physical 
+- aka **SMP**
+- Each peer [[Processor]] has its own set of [[Registers]] and performs all tasks, including OS functions and user processes. 
+- All peer [[Processor]]s dynamically **share** physical **memory** over the system bus. 
+- One may be sitting **idle** while another is **overloaded**, resulting in inefficiencies.
+  Solution: sharing certain data structures
+### Multi-core
+- Multiple cores reside on a single processor. 
+- More efficient because on-chip communication is faster tha
 
 ## Clustered systems
