@@ -56,19 +56,21 @@ Tags:
 
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
 
-- allowing a device to **change the flow of control** in the [[Processor|CPU]]
+- allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
 - transferring control to **interrupt service routine** (aka **interrupt handler**)
-1. [[Processor|CPU]] **stops** current operation. 
-2. [[Program counter]] loads the starting address of interrupt service routine (**fixed location in instruction memory**) instead of next instruction address. 
-3.  [[Processor|CPU]] executes **interrupt service routine**. 
-4. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
+1. [[Processor|CPU]] **stops** current computation. 
+2. Architecture **saves** the state info of interrupted computation. 
+3. [[Program counter]] loads the starting address of interrupt service routine (**fixed location in instruction memory**) instead of next instruction address. 
+4.  [[Processor|CPU]] executes **interrupt service routine**. 
+5. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 
 - Interrupts must be handled **quickly**, as they occur very **frequently**. 
 - To provide the speed, 
-	1. Interrupt routines are called indirectly through a table of pointers to them. 
-	2. The table of pointers is stored in low memory. 
+	1. Interrupt routines are called indirectly through **a table of pointers** to them. 
+	2. The table of pointers is stored in **low memory**. 
+	3. The **interrput vector** (array) of address is indexed by a unique number to provide the address of interrupt service routine for devices. 
 
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
 ### Storage structure
