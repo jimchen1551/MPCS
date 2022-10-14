@@ -41,10 +41,9 @@ Tags:
 3. Device controller starts the transfer of data from the device to its local buffer. 
 4. **Device controller informs the device driver once the trasfer is complete.** 
 5. Device driver gives control to other parts of OS. 
-![[Screen Shot 2022-10-09 at 14.53.26.png]]
-- the way device how controller informs its device driver
-- t
-- allowing a device to **change the flow of control** in the [[Processor|CPU]]
+
+- the way how device controller informs its device driver (hardware interrupt)
+- the way how OS interacts hardware (software interrupt)
 
 | Hardware interrupt                           | Software interrupt                        |
 | -------------------------------------------- | ----------------------------------------- |
@@ -54,6 +53,13 @@ Tags:
 | asynchronous event                           | synchronous event                         |
 | **lowest** priority                          | **highest** priority                      |
 | 1. Maskable 2. Non-maskable                  | 1. Normal interrupt 2. Exception          |
+
+![[Screen Shot 2022-10-09 at 14.53.26.png]]
+
+- allowing a device to **change the flow of control** in the [[Processor|CPU]]
+1. [[Processor|CPU]] **stops** what it is doing. 
+2. [[Program counter]] substitues with the starting address of interrupt service routine (fixed location). 
+3. On completion, [[Processor|CPU]] resumes the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
