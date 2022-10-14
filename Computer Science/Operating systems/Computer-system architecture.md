@@ -47,4 +47,10 @@ Tags:
 
 ## Clustered systems
 ![[Screen Shot 2022-10-14 at 22.05.05.png|500]]
-- 
+- loosely coupled
+- composed of **two or more individual systems** (nodes)
+- **sharing storage** and closely **linked** via a local-area network LAN or faster interconnect (e.g., InfiniBand)
+- providing **high-availability service** (system continues even if some sytems in cluster fail)
+- We obtain high availability by adding a level of redundancy in the system. 
+- A layer of **cluster software** runs on the cluster nodes. 
+- Each node can **monitor** one or more of the others. (If monitored machine fails, monitoring machine takes ownership of its storage and restart the application. )
