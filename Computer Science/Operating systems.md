@@ -45,6 +45,8 @@ Tags:
 
 - the way how device controller informs its device driver (hardware interrupt)
 - the way how OS interacts hardware (software interrupt)
+- allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
+- transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
 
 | Hardware interrupt                           | Software interrupt                        |
 | -------------------------------------------- | ----------------------------------------- |
@@ -55,13 +57,13 @@ Tags:
 | **lowest** priority                          | **highest** priority                      |
 | 1. Maskable 2. Non-maskable                  | 1. Normal interrupt 2. Exception          |
 
-- allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
-- transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
+1. Maskable interrput: able to be turned off by [[Processor|CPU]] before execution of critical instruction sequences that must not be interrupted; used by device requests. 
+2. Non-maskable interrupt: reserved for events such as unrecoverable memory errors. 
 
 In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** provide: 
-1. the ability to **defer interrupt handling** during cirtical processing
-2. an efficient way to dispatch to the proper interrupt handler for a device
-3. With **multilevel interrupts**, OS can distinguish b/w high- and low-**priority** interrupts and respond with the appropriate degree of **urgency**. 
+1. the ability to **defer** interrupt handling during cirtical processing
+2. the efficient way to **dispatch** to the proper interrupt handler for a device
+3. **multilevel interrupts** so that OS can distinguish b/w high- and low-**priority** interrupts and can respond with the appropriate degree of **urgency**. 
 
 #### Interrupt service routine
 1. Device controller **raises** an interrupt by asserting **interrupt number** on **interrupt-request line**. 
@@ -78,6 +80,8 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
 	1. Interrupt routines are called indirectly through **a table of pointers** to them. 
 	2. The table of pointers is stored in **low memory**. 
 	3. Each **interrput vector** (array) of address is indexed by the corresponding **interrupt number** (transferred by interrupt-request line) to provide the **address of interrupt service routine** for devices. 
+
+- **Interrupt chaining**: every interrupt vector points to the head of a list of interrupt handler
 
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
 ### Storage structure
