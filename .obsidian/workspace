@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ce5b55f41e3e95ef",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Operating Systems.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "a00362149af2f418",
         "type": "leaf",
         "state": {
@@ -173,8 +161,8 @@
   "active": "a00362149af2f418",
   "lastOpenFiles": [
     "Computer Science/Operating Systems.md",
-    "Computer Science/Operating systems/Computer-system operation.md",
     "Computer Science/Operating systems/Computer-system architecture.md",
+    "Computer Science/Operating systems/Computer-system operation.md",
     "Computer Science/Operating systems/Computer-system organization.md",
     "Computer Science/Computer organization/Memory.md",
     "Computer Science/Computer organization/Processor.md",

@@ -16,5 +16,10 @@ Tags:
 ## Multi-processor systems
 - Traditionally, **two** or **more single-core** [[Processor|CPU]] share **computer bus** and sometimes clock, memory, and peripheral devices. 
 - Advantage: increased througput (not directly ratio to [[Processor|CPU]] #)
+### Symmetric multiprocessing
+![[Screen Shot 2022-10-14 at 21.20.25.png|400]]
+- aka SMP
+- Each peer [[Processor]] having its own set of [[Registers]] and performing all tasks, including OS functions and user processes
+- All peer [[Processor]]s share physical 
 
 ## Clustered systems
