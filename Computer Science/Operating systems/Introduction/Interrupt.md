@@ -18,14 +18,14 @@ Tags:
 - allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
 - transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
 
-| Hardware interrupt                           | Software interrupt                        |
-| -------------------------------------------- | ----------------------------------------- |
-| invoked by **external devices**              | invoked by **errors** or **system calls** |
-| sending a signal to [[Processor]]            | using the instruction **INT**             |
-| **not** incrementing the [[Program counter]] | incrementing the [[Program counter]]      |
-| asynchronous event                           | synchronous event                         |
-| **lowest** priority                          | **highest** priority                      |
-| 1. Maskable<br>2. Non-maskable                  | 1. Normal interrupt<br>2. Exception (trap)   |
+| Hardware interrupt                           | Software interrupt                            |
+| -------------------------------------------- | --------------------------------------------- |
+| invoked by **external devices**              | invoked by **errors** or **[[System call]]s** |
+| sending a signal to [[Processor]]            | using the instruction **INT**                 |
+| **not** incrementing the [[Program counter]] | incrementing the [[Program counter]]          |
+| asynchronous event                           | synchronous event                             |
+| **lowest** priority                          | **highest** priority                          |
+| 1. Maskable<br>2. Non-maskable               | 1. Normal interrupt<br>2. Exception (trap)    |
 
 1. Maskable interrput: able to be turned off by [[Processor|CPU]] before execution of critical instruction sequences that must not be interrupted; used by device requests. 
 2. Non-maskable interrupt: reserved for events such as unrecoverable memory errors. 
