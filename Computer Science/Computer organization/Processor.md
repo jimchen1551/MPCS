@@ -1,6 +1,6 @@
 ---
 Created: [[2022-07-19]]
-Aliases: CPU
+Aliases: CPU, von Neumann architecture
 Types: Note
 Tags: 
 - 

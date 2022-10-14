@@ -91,13 +91,14 @@ Intel interrupt vector: 0~31 (nonmaskable) and 32~255 (maskable)
 	2. Handlers on the corresponding list are called one by one until the one found. 
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
-[[Memory]]
 - For **bootstrap program** (the first program to run while power on), [[Main memory]] is not suitable to store on account of its volatility. We store it on EEP[[Read-only memory|ROM]] (electrically erasable programmable read-only memory) and other forms of **firmware** (infrequently written and nonvolatile but slow)
-- Caching
-- Coherency and Consistency
+- Based on [[Processor|von Neumann architecture]], the [[Memory]] follow hierarchical design. 
 ### I/O structure
 ![[Screen Shot 2022-10-09 at 14.59.11.png|500]]
-
+- Data transfer by interrupt is fine for small amounts of data but not for bulk data (e.g., [[Secondary memory#Nonvolatile memory devices]] I/O)
+- To solve the bulk data transfer, **direct memory access** (DMA) is used. 
+#### Direct memory access
+- After setting up buffers, pointers, and counters for the I/O device, the device controller transfers an entire block of data directly to or from the device and main memory, with no intervention by the CPU.
 ## Computer-system architecture
 ### Single-processor systems
 ### Multi-processor systems
