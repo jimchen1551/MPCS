@@ -22,7 +22,8 @@ Tags:
 
 ## Computer-system organization
 ![[Screen Shot 2022-09-14 at 10.54.19.png|500]]
-- one or more CPUs and a number of device controllers connected through common **buses** providing access to **shared memory**
+- one or more CPUs and several device controllers connected through common **buses** providing access to **shared memory**
+- device controllers maintaining some local buffer storage and a set 
 - concurrent and parallel executions of CPUs and device controller competing for memory cycles
 ### Interrupts
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
