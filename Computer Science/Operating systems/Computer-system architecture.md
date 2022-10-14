@@ -15,7 +15,7 @@ Tags:
 
 ## Multi-processor systems
 - Traditionally, **two** or **more single-core** [[Processor|CPU]] share **computer bus** and sometimes clock, memory, and peripheral devices. 
-- Advantage: increased througput (not directly ratio to [[Processor|CPU]] #)
+- Advantage: increased througput (not direct proportion to [[Processor|CPU]] #)
 ### Symmetric multiprocessing
 ![[Screen Shot 2022-10-14 at 21.20.25.png|400]]
 - aka **SMP**
@@ -54,3 +54,11 @@ Tags:
 - We obtain high availability by adding a level of redundancy in the system. 
 - A layer of **cluster software** runs on the cluster nodes. 
 - Each node can **monitor** one or more of the others. (If monitored machine fails, monitoring machine takes ownership of its storage and restart the application. )
+
+**Graceful degradation**: the ability to continue providing service proportional to the level of surviving hardware
+**Fault tolerant**: suffering a failure of any single component and still continueing operation (requiring failure detection, diagnosis, and correction)
+
+**Asymmetric clustering**: one machine is in **hot-standby mode** (do nothing but monitor the other active server) while the other is running apps
+**Symmetric clustering**: two or more hosts are running apps and monitoring each other
+
+**High-performance computing**: the app must have been written specifically to take advantage of the cluster (**parallelization**, dividing a program into seperate components)
