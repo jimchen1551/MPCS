@@ -7,7 +7,7 @@ Tags:
 ---
 # System program
 - [[Compiler]], [[Compiler#Assembly language]]
-- [[Operating systems]]
+- [[Operating Systems]]
 ## Hardware representation
 - binary digits
 - encoded [[Instruction set architecture#Instruction]]s and data

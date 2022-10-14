@@ -35,7 +35,7 @@ Tags:
   3. rd: destination register
   4. ra: address register
 ## Signed and unsigned numbers
-[[Digital systems#Signed 2's complement]]
+[[Digital Systems#Signed 2's complement]]
 
 ## Instruction format and addressing
 ![[Screen Shot 2022-07-07 at 15.50.27.png]]

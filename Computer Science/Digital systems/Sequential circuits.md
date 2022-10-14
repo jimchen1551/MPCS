@@ -43,7 +43,7 @@ Tags:
 ![[Pasted image 20220706125022.png]]
 
 ## Performance
-[Performance](Computer%20organization.md#Performance)
+[Performance](Computer%20Organization.md#Performance)
 - $t_{pd,FF}$: flip-flop [[Propagation delay]]
 - $t_{pd, COMB}$: combinational [[Propagation delay]]
 - $t_s$: flip-flop Setup time

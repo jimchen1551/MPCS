@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasAtom",
-      "RiComputerLine",
-      "FasCode",
+      "FasBrain",
+      "FasLungs",
       "RiFunctions",
-      "FasLungs"
+      "FasCode",
+      "RiComputerLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,22 +37,19 @@
   "Computational Neuroscience": "FasBrain",
   "Computer Science/C.md": "FasCode",
   "Computer Science/C++.md": "FasCode",
-  "Computer Science/Data structures.md": "RiNodeTree",
   "Computer Science/Algorithms.md": "RiFlowChart",
-  "Computer Science/Database systems.md": "RiDatabase2Line",
-  "Computer Science/Deep learning.md": "RiMindMap",
-  "Computer Science/Digital systems.md": "FasMicrochip",
-  "Computer Science/Machine learning.md": "RiFunctions",
   "Computer Science/Python.md": "FasCode",
-  "Computer Science/Operating systems.md": "FabLinux",
-  "Computer Science/Formal languages.md": "FasLanguage",
-  "Computer Science/Computer organization.md": "FasMemory",
-  "Computer Science/Computer architecture.md": "FasMicrochip",
   "Computer Science.md": "RiComputerLine",
   "Mathematics.md": "RiFunctions",
   "Physics.md": "FasAtom",
-  "Computational Neuroscience.md": {
-    "iconName": null,
-    "inheritanceIcon": "FasBrain"
-  }
+  "Computational Neuroscience.md": "FasBrain",
+  "Computer Science/Operating Systems.md": "FabLinux",
+  "Computer Science/Machine Learning.md": "RiFunctions",
+  "Computer Science/Formal Languages.md": "FasLanguage",
+  "Computer Science/Digital Systems.md": "FasMicrochip",
+  "Computer Science/Deep Learning.md": "RiMindMap",
+  "Computer Science/Database Systems.md": "RiDatabase2Line",
+  "Computer Science/Data Structures.md": "RiNodeTree",
+  "Computer Science/Computer Organization.md": "FasMemory",
+  "Computer Science/Computer Architecture.md": "FasMicrochip"
 }

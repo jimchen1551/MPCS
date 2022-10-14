@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer organization/Memory.md",
+            "file": "Computer Science/Operating Systems.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer organization/Memory.md",
+                "file": "Computer Science/Operating Systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer organization/Memory.md",
+                "file": "Computer Science/Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer organization/Memory.md"
+                "file": "Computer Science/Operating Systems.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "ce5b55f41e3e95ef",
   "lastOpenFiles": [
-    "Computer Science/Operating systems.md",
-    "Mathematics/Probability/Distribution/Erlang distribution.md",
-    "Mathematics/Probability/Distribution/Normal distribution.md",
-    "Mathematics/Probability.md",
-    "Mathematics/Probability/Distribution/Uniform distribution.md",
-    "Mathematics/Probability/Distribution/Standard normal distribution.md",
-    "Mathematics/Probability/Distribution/Poisson distribution.md",
-    "Mathematics/Probability/Distribution/Pascal distribution.md",
-    "Mathematics/Probability/Distribution/Bernoulli distribution.md",
-    "Mathematics/Probability/Distribution/Binomial distribution.md"
+    "Computer Science/Digital systems/Combinational logic design/Programmable logic device/Read-only memory.md",
+    "Computer Science/Operating Systems.md",
+    "Computer Science/Computer Architecture.md",
+    "Computer Science/Computer Organization.md",
+    "Computer Science/Data Structures.md",
+    "Computer Science/Database Systems.md",
+    "Computer Science/Deep Learning.md",
+    "Computer Science/Digital Systems.md",
+    "Computer Science/Formal Languages.md",
+    "Computer Science/Machine Learning.md"
   ]
 }

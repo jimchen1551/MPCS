@@ -6,5 +6,5 @@ Tags:
 - 
 ---
 # Elapsed time
-- Total [[Computer organization#Response time]] including I/O, OS overhead, idle time
+- Total [[Computer Organization#Response time]] including I/O, OS overhead, idle time
 - determining **system performance**
