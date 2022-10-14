@@ -24,19 +24,26 @@ Tags:
 ![[Screen Shot 2022-09-14 at 10.54.19.png|500]]
 - one or more CPUs and several device controllers connected through common **buses** providing access to **shared memory**
 
-- **device controllers** 
-	1. maintaining **local buffer storage** and a set of special-purpose **registers**
+- **Device controllers** 
+	1. maintaining **local buffer storage** and a set of special-purpose **[[Registers]]**
 	2. **moving data** b/w the peripheral devices
 	3. OS having a **device driver** for each device controller
 
-- **device driver**
+- **Device driver**
 	1. understanding device controllers
 	2. a **uniform interface** to the device for the rest of OS
 
 - **concurrent** and **parallel** executions of CPUs and device controller competing for memory cycles
 - memory controller **synchronizing** the access to memory to ensure orderwise access to shared memory
 ### Interrupts
+1. To start an operation of any device, the device driver loads the appropriate [[Registers]] in the device controller. 
+2. Device controller examines the contents of these [[Registers]] to determine what action to take. 
+3. Device controller starts the transfer of data from the device to its local buffer. 
+4. **Device controller informs the device driver once the trasfer is complete.** 
+5. Device driver gives control to other parts of OS. 
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
+- the way device how controller informs its device driver
+- t
 - allowing a device to **change the flow of control** in the [[Processor|CPU]]
 
 | Hardware interrupt                           | Software interrupt                        |
