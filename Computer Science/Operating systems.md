@@ -62,7 +62,8 @@ Tags:
 
 In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** provide: 
 1. the ability to **defer** interrupt handling during cirtical processing
-2. the efficient way to **dispatch** to the proper interrupt handler for a device
+2. the efficient way to **dispatch** to the proper interrupt handler for a device 
+   (e.g., interrupt chaining of interrupt vector)
 3. **multilevel interrupts** so that OS can distinguish b/w high- and low-**priority** interrupts and can respond with the appropriate degree of **urgency**. 
 
 #### Interrupt service routine
@@ -81,9 +82,15 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
 	2. The table of pointers is stored in **low memory**. 
 	3. Each **interrput vector** (array) of address is indexed by the corresponding **interrupt number** (transferred by interrupt-request line) to provide the **address of interrupt service routine** for devices. 
 
-- **Interrupt chaining**: every interrupt vector points to the head of a list of interrupt handler
+- **Interrupt chaining**: 
+  Every interrupt vector points to the head of a list of interrupt handlers to solve the {devices # > address elements #} problem. 
+	1. Interrupt are raised. 
+	2. Handlers on the corresponding list are called one by one until the one found. 
 
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
+Intel interrupt vector:
+0~31: nonmaskable; for error conditions
+32~255: maskable
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
 - [[Memory]]
