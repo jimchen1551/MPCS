@@ -36,6 +36,7 @@ Tags:
 - **concurrent** and **parallel** executions of CPUs and device controller competing for memory cycles
 - memory controller **synchronizing** the access to memory to ensure orderwise access to shared memory
 ### Interrupts
+![[Screen Shot 2022-10-09 at 14.53.26.png]]
 1. To start an operation of any device, the device driver loads the appropriate [[Registers]] in the device controller. 
 2. Device controller examines the contents of these [[Registers]] to determine what action to take. 
 3. Device controller starts the transfer of data from the device to its local buffer. 
@@ -54,18 +55,20 @@ Tags:
 | **lowest** priority                          | **highest** priority                      |
 | 1. Maskable 2. Non-maskable                  | 1. Normal interrupt 2. Exception          |
 
-![[Screen Shot 2022-10-09 at 14.53.26.png]]
-
 - allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
-- transferring control to **interrupt service routine** (aka **interrupt handler**)
+- transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
+
+#### Interrupt service routine
 1. [[Processor|CPU]] **stops** current computation. 
 2. Architecture **saves** the state info of interrupted computation. 
-3. [[Program counter]] loads the starting address of interrupt service routine (**fixed location in instruction memory**) instead of next instruction address. 
-4.  [[Processor|CPU]] executes **interrupt service routine**. 
-5. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
+3. [[Processor|CPU]] **reads** the interrupt number and **jumps** to the interrupt service routine by using **interrupt vector**. 
+4. [[Program counter]] loads the starting address of interrupt service routine (**fixed location**) instead of next instruction address. 
+5.  [[Processor|CPU]] executes **interrupt service routine**. 
+6. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 
+#### Interrupt vector
 - Interrupts must be handled **quickly**, as they occur very **frequently**. 
 - To provide the speed, 
 	1. Interrupt routines are called indirectly through **a table of pointers** to them. 
