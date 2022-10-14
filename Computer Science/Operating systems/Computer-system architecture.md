@@ -39,5 +39,12 @@ Tags:
 - [[Processor|CPU]]s are connected by a **shared system interconnect**, so that all [[Processor|CPU]]s share one physical address space. 
 - Advantage: not only **fast** but also **no contention** over system interconnect
 - Drawback: increased latency when a [[Processor|CPU]] must access remote memory across system interconnect
+### Blade servers
+![[Pasted image 20221014220013.png]]
+- Multiple processor boards, I/O boards, and networking boards are placed in the **same chassis**. 
+- Blade-processor board **boots independently** and runs its **own OS**. 
+- Each **multiprocessor systems** in the server is **independent**. 
 
 ## Clustered systems
+![[Screen Shot 2022-10-14 at 22.05.05.png|500]]
+- 
