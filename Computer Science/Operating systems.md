@@ -58,11 +58,16 @@ Tags:
 - allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
 - transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
 
+In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** provide: 
+1. the ability to **defer interrupt handling** during cirtical processing
+2. an efficient way to dispatch to the proper interrupt handler for a device
+3. With **multilevel interrupts**, OS can distinguish b/w high- and low-**priority** interrupts and respond with the appropriate degree of **urgency**. 
+
 #### Interrupt service routine
 1. Device controller **raises** an interrupt by asserting **interrupt number** on **interrupt-request line**. 
-2. [[Processor|CPU]] **catches** the interrupt, **reads** the interrupt number and **dispatch** to interrupt handler routine by using **interrupt vector**. 
+2. [[Processor|CPU]] **catches** the interrupt, **reads** the interrupt number and **dispatch** to interrupt handler by using **interrupt vector**. 
 5. [[Program counter]] loads the starting address of interrupt service routine (**fixed location**) instead of next instruction address. 
-6.  [[Processor|CPU]] executes **interrupt service routine** (including to **save** the state info of interrupted computation). 
+6.  [[Processor|CPU]] executes **interrupt service routine** / Interrupt handler **clears** the interrupt.  
 7. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
