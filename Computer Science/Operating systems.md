@@ -22,7 +22,7 @@ Tags:
 
 ## Computer-system organization
 ![[Screen Shot 2022-09-14 at 10.54.19.png|500]]
-- one or more CPUs and several device controllers connected through common **buses** providing access to **shared memory**
+- one or more CPUs and several device controllers connected through common **buses** (just like flat road) providing access to **shared memory**
 
 - **Device controllers** 
 	1. maintaining **local buffer storage** and a set of special-purpose **[[Registers]]**
@@ -94,11 +94,15 @@ Intel interrupt vector: 0~31 (nonmaskable) and 32~255 (maskable)
 - For **bootstrap program** (the first program to run while power on), [[Main memory]] is not suitable to store on account of its volatility. We store it on EEP[[Read-only memory|ROM]] (electrically erasable programmable read-only memory) and other forms of **firmware** (infrequently written and nonvolatile but slow)
 - Based on [[Processor|von Neumann architecture]], the [[Memory]] follow hierarchical design. 
 ### I/O structure
-![[Screen Shot 2022-10-09 at 14.59.11.png|500]]
-- Data transfer by interrupt is fine for small amounts of data but not for bulk data (e.g., [[Secondary memory#Nonvolatile memory devices]] I/O)
+- Data transfer by interrupt is fine for small amounts of data but not for bulk data (e.g., [[Secondary memory#Nonvolatile memory devices]] [[IO]])
 - To solve the bulk data transfer, **direct memory access** (DMA) is used. 
 #### Direct memory access
-- After setting up buffers, pointers, and counters for the I/O device, the device controller transfers an entire block of data directly to or from the device and main memory, with no intervention by the CPU.
+![[Screen Shot 2022-10-09 at 14.59.11.png|500]]
+- After setting up **buffers**, **pointers**, and **counters** for the [[IO]] device, the device controller transfers an entire block of data **directly** (just like highway) to or from the device and main memory, with no intervention by the [[Processor|CPU]].
+- Only **one interrupt** is generated **per block**, to tell the device driver that the operation has completed, rather than the one interrupt per byte generated for low-speed devices. 
+- While the device controller is performing these operations, the [[Processor|CPU]] is **available** to accomplish other work.
+- Multiple components can talk to other components **concurrently**, rather than competing for cycles on a shared bus.
+
 ## Computer-system architecture
 ### Single-processor systems
 ### Multi-processor systems
@@ -131,7 +135,6 @@ Intel interrupt vector: 0~31 (nonmaskable) and 32~255 (maskable)
 ### Peer-to-peer computing
 ### Cloud computing
 ### Real-time embedded systems
-## Open-source operating systems
 
 ## Score
 - Midterm: 30%
