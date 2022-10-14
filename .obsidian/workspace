@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Computer organization/Memory.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Computer organization/Memory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Computer organization/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "Computer Science/Computer organization/Memory.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "ce5b55f41e3e95ef",
   "lastOpenFiles": [
+    "Computer Science/Operating systems.md",
     "Mathematics/Probability/Distribution/Erlang distribution.md",
     "Mathematics/Probability/Distribution/Normal distribution.md",
     "Mathematics/Probability.md",
@@ -168,7 +169,6 @@
     "Mathematics/Probability/Distribution/Poisson distribution.md",
     "Mathematics/Probability/Distribution/Pascal distribution.md",
     "Mathematics/Probability/Distribution/Bernoulli distribution.md",
-    "Mathematics/Probability/Distribution/Binomial distribution.md",
-    "Mathematics/Probability/Distribution/Exponential distribution.md"
+    "Mathematics/Probability/Distribution/Binomial distribution.md"
   ]
 }

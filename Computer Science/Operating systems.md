@@ -61,11 +61,12 @@ Tags:
 2. Non-maskable interrupt: reserved for events such as unrecoverable memory errors. 
 
 In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** provide: 
-1. the ability to **defer** interrupt handling during cirtical processing
+1. the ability to **defer** interrupt handling during critical processing
+   (e.g., maskable interrupt)
 2. the efficient way to **dispatch** to the proper interrupt handler for a device 
-   (e.g., interrupt chaining of interrupt vector)
+   (e.g., interrupt chaining)
 3. **multilevel interrupts** so that OS can distinguish b/w high- and low-**priority** interrupts and can respond with the appropriate degree of **urgency**. 
-
+   (e.g., interrupt priority levels)
 #### Interrupt service routine
 1. Device controller **raises** an interrupt by asserting **interrupt number** on **interrupt-request line**. 
 2. [[Processor|CPU]] **catches** the interrupt, **reads** the interrupt number and **dispatch** to interrupt handler by using **interrupt vector**. 
@@ -74,8 +75,10 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
 7. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
-
 #### Interrupt vector
+![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
+Intel interrupt vector: 0~31 (nonmaskable) and 32~255 (maskable)
+
 - Interrupts must be handled **quickly**, as they occur very **frequently**. 
 - To provide the speed, 
 	1. Interrupt routines are called indirectly through **a table of pointers** to them. 
@@ -86,11 +89,6 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
   Every interrupt vector points to the head of a list of interrupt handlers to solve the {devices # > address elements #} problem. 
 	1. Interrupt are raised. 
 	2. Handlers on the corresponding list are called one by one until the one found. 
-
-![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
-Intel interrupt vector:
-0~31: nonmaskable; for error conditions
-32~255: maskable
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
 - [[Memory]]
