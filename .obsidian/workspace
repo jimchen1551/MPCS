@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Computer Science/Operating systems/Computer-system organization.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a00362149af2f418",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Computer Science/Operating Systems.md",
             "mode": "source",
             "source": false
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating Systems.md",
+                "file": "Computer Science/Operating systems/Computer-system organization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating Systems.md",
+                "file": "Computer Science/Operating systems/Computer-system organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating Systems.md"
+                "file": "Computer Science/Operating systems/Computer-system organization.md"
               }
             }
           },
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -160,15 +172,15 @@
   },
   "active": "ce5b55f41e3e95ef",
   "lastOpenFiles": [
-    "Computer Science/Computer organization/Memory.md",
     "Computer Science/Operating Systems.md",
+    "Computer Science/Operating systems/Computer-system organization.md",
+    "Computer Science/Computer organization/Memory.md",
     "Computer Science/Computer organization/Processor.md",
     "Computer Science/Computer Organization.md",
     "Computer Science/Digital systems/Combinational logic design/Programmable logic device/Read-only memory.md",
     "Computer Science/Computer Architecture.md",
     "Computer Science/Data Structures.md",
     "Computer Science/Database Systems.md",
-    "Computer Science/Deep Learning.md",
-    "Computer Science/Digital Systems.md"
+    "Computer Science/Deep Learning.md"
   ]
 }
