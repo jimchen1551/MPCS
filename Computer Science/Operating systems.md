@@ -57,9 +57,11 @@ Tags:
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
 
 - allowing a device to **change the flow of control** in the [[Processor|CPU]]
-1. [[Processor|CPU]] **stops** what it is doing. 
-2. [[Program counter]] substitues with the starting address of interrupt service routine (fixed location). 
-3. On completion, [[Processor|CPU]] resumes the interrupted computation. 
+- transferring control to the appropriate **interrupt service routine**
+1. [[Processor|CPU]] **stops** current operation. 
+2. [[Program counter]] passes the starting address of interrupt service routine (**fixed location in instruction memory**) instead of next instruction address. 
+3.  [[Processor|CPU]] executes **interrupt service routine**. 
+4. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
