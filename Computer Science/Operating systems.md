@@ -57,13 +57,19 @@ Tags:
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
 
 - allowing a device to **change the flow of control** in the [[Processor|CPU]]
-- transferring control to the appropriate **interrupt service routine**
+- transferring control to **interrupt service routine** (aka **interrupt handler**)
 1. [[Processor|CPU]] **stops** current operation. 
-2. [[Program counter]] passes the starting address of interrupt service routine (**fixed location in instruction memory**) instead of next instruction address. 
+2. [[Program counter]] loads the starting address of interrupt service routine (**fixed location in instruction memory**) instead of next instruction address. 
 3.  [[Processor|CPU]] executes **interrupt service routine**. 
 4. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
+
+- Interrupts must be handled **quickly**, as they occur very **frequently**. 
+- To provide the speed, 
+	1. Interrupt routines are called indirectly through a table of pointers to them. 
+	2. The table of pointers is stored in low memory. 
+
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
 ### Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
