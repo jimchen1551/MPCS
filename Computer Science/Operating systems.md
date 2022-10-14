@@ -20,16 +20,9 @@ Tags:
 - **Control program**: controlling the execution of user programs and operation of [[IO]] to prevent errors and improper use
 - **Resource allocator**: allocating and managing resources of hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) among [[Application program]]s from various users
 - [[Computer-system organization]]
+- [[Computer-system architecture]]
+- [[Computer-system operation]]
 
-## Computer-system architecture
-### Single-processor systems
-
-### Multi-processor systems
-### Clustered systems
-## Computer-system operation
-### Multiprogramming and multitasking
-### Dual-mode and multi-mode operation
-### Timer
 ## Resource management
 ### Process management
 ### Memory management

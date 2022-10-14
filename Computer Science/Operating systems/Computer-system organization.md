@@ -8,6 +8,7 @@ Tags:
 # Computer-system organization
 ![[Screen Shot 2022-09-14 at 10.54.19.png|500]]
 - one or more CPUs and several device controllers connected through common **buses** (just like flat road) providing access to **shared memory**
+- [[Computer Organization]]
 
 - **Device controllers** 
 	1. maintaining **local buffer storage** and a set of special-purpose **[[Registers]]**
@@ -53,7 +54,8 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
    (e.g., interrupt chaining)
 3. **multilevel interrupts** so that OS can distinguish b/w high- and low-**priority** interrupts and can respond with the appropriate degree of **urgency**. 
    (e.g., interrupt priority levels)
-#### Interrupt service routine
+
+### Interrupt service routine
 1. Device controller **raises** an interrupt by asserting **interrupt number** on **interrupt-request line**. 
 2. [[Processor|CPU]] **catches** the interrupt, **reads** the interrupt number and **dispatch** to interrupt handler by using **interrupt vector**. 
 5. [[Program counter]] loads the starting address of interrupt service routine (**fixed location**) instead of next instruction address. 
@@ -62,7 +64,7 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 
-#### Interrupt vector
+### Interrupt vector
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
 Intel interrupt vector: 0~31 (nonmaskable) and 32~255 (maskable)
 
@@ -77,12 +79,12 @@ Intel interrupt vector: 0~31 (nonmaskable) and 32~255 (maskable)
 	1. Interrupt are raised. 
 	2. Handlers on the corresponding list are called one by one until the one found. 
 
-### Storage structure
+## Storage structure
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
 - For **bootstrap program** (the first program to run while power on), [[Main memory]] is not suitable to store on account of its volatility. We store it on EEP[[Read-only memory|ROM]] (electrically erasable programmable read-only memory) and other forms of **firmware** (infrequently written and nonvolatile but slow)
 - Based on [[Processor|von Neumann architecture]], the [[Memory]] follow hierarchical design. 
 
-### I/O structure
+## I/O structure
 - Data transfer by interrupt is fine for small amounts of data but not for bulk data (e.g., [[Secondary memory#Nonvolatile memory devices]] [[IO]])
 - To solve the bulk data transfer, **direct memory access** (DMA) is used. 
 #### Direct memory access

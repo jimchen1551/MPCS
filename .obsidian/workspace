@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computer-system organization.md",
+            "file": "Computer Science/Operating Systems.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating Systems.md",
+            "file": "Computer Science/Operating systems/Computer-system architecture.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system organization.md",
+                "file": "Computer Science/Operating systems/Computer-system architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system organization.md",
+                "file": "Computer Science/Operating systems/Computer-system architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system organization.md"
+                "file": "Computer Science/Operating systems/Computer-system architecture.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ce5b55f41e3e95ef",
+  "active": "a00362149af2f418",
   "lastOpenFiles": [
     "Computer Science/Operating Systems.md",
+    "Computer Science/Operating systems/Computer-system operation.md",
+    "Computer Science/Operating systems/Computer-system architecture.md",
     "Computer Science/Operating systems/Computer-system organization.md",
     "Computer Science/Computer organization/Memory.md",
     "Computer Science/Computer organization/Processor.md",
     "Computer Science/Computer Organization.md",
     "Computer Science/Digital systems/Combinational logic design/Programmable logic device/Read-only memory.md",
     "Computer Science/Computer Architecture.md",
-    "Computer Science/Data Structures.md",
-    "Computer Science/Database Systems.md",
-    "Computer Science/Deep Learning.md"
+    "Computer Science/Data Structures.md"
   ]
 }
