@@ -59,12 +59,11 @@ Tags:
 - transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
 
 #### Interrupt service routine
-1. [[Processor|CPU]] **stops** current computation. 
-2. Architecture **saves** the state info of interrupted computation. 
-3. [[Processor|CPU]] **reads** the interrupt number and **jumps** to the interrupt service routine by using **interrupt vector**. 
-4. [[Program counter]] loads the starting address of interrupt service routine (**fixed location**) instead of next instruction address. 
-5.  [[Processor|CPU]] executes **interrupt service routine**. 
-6. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
+1. Device controller **raises** an interrupt by asserting **interrupt number** on **interrupt-request line**. 
+2. [[Processor|CPU]] **catches** the interrupt, **reads** the interrupt number and **dispatch** to interrupt handler routine by using **interrupt vector**. 
+5. [[Program counter]] loads the starting address of interrupt service routine (**fixed location**) instead of next instruction address. 
+6.  [[Processor|CPU]] executes **interrupt service routine** (including to **save** the state info of interrupted computation). 
+7. On completion, [[Processor|CPU]] **resumes** the interrupted computation. 
 
 ![[Screen Shot 2022-10-09 at 15.16.56.png|500]]
 
@@ -73,7 +72,7 @@ Tags:
 - To provide the speed, 
 	1. Interrupt routines are called indirectly through **a table of pointers** to them. 
 	2. The table of pointers is stored in **low memory**. 
-	3. The **interrput vector** (array) of address is indexed by a unique number to provide the address of interrupt service routine for devices. 
+	3. Each **interrput vector** (array) of address is indexed by the corresponding **interrupt number** (transferred by interrupt-request line) to provide the **address of interrupt service routine** for devices. 
 
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
 ### Storage structure
