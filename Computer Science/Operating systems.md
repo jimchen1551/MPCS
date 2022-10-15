@@ -6,34 +6,34 @@ Tags:
 - 
 ---
 # Operating systems
-| Content                         |           Study           |           Test            |          Review           |
-|:------------------------------- |:-------------------------:|:-------------------------:|:-------------------------:|
-| [[Operating system structures]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Process management]]          | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Memory management]]           | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Storage management]]          | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[File systems]]                | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Security and protection]]     | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-
 ![[Screen Shot 2022-09-14 at 10.32.30.png|500]]
 - **Kernel**: the program running at all times
 - **Control program**: controlling the execution of user programs and operation of [[IO]] to prevent errors and improper use
 - **Resource allocator**: allocating and managing resources of hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) among [[Application program]]s from various users
-- [[Computer-system organization]]
-- [[Computer-system architecture]]
-- [[Computer-system operation]]
 
-## Resource management
-[[Process management]]
-[[Cache management]]
-[[Memory management]]
-[[Storage management]]
-[[IO system management]]
-[[File-system management]]
+| from Computer to OS              | Comment |
+| -------------------------------- | ------- |
+| [[Computer-system organization]] |         |
+| [[Computer-system architecture]] |         |
+| [[Computer-system operation]]    |         |
+| [[Operating system structures]]  |         |
+
+| Resource management        | Comment |
+| -------------------------- | ------- |
+| [[Process management]]     |         |
+| [[Cache management]]       |         |
+| [[Memory management]]      |         |
+| [[Storage management]]     |         |
+| [[IO system management]]   |         |
+| [[File-system management]] |         |
 
 ## Protection and security
-## Virtualization
-## Distributed systems
+[[Security]]
+[[Protection]]
+## Advanced topics
+[[Virtualization]]
+[[Distributed systems]]
+
 ## Kernel data structures
 ### Lists
 ### Stacks
