@@ -172,10 +172,10 @@
   },
   "active": "91e0dd1f6aa50544",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Introduction/System call.md",
     "Computer Science/Operating systems/Introduction/Interrupt.md",
-    "Computer Science/Operating systems/Introduction/Direct memory access.md",
     "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+    "Computer Science/Operating systems/Introduction/System call.md",
+    "Computer Science/Operating systems/Introduction/Direct memory access.md",
     "Computer Science/Operating systems/Introduction/System daemon.md",
     "Computer Science/Operating systems/Introduction/Bootstrap program.md",
     "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
