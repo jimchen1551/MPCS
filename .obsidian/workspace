@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Introduction/Interrupt.md",
+            "file": "Computer Science/Operating Systems.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+                "file": "Computer Science/Operating Systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+                "file": "Computer Science/Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md"
+                "file": "Computer Science/Operating Systems.md"
               }
             }
           },
@@ -170,10 +170,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "91e0dd1f6aa50544",
+  "active": "a00362149af2f418",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Introduction/Interrupt.md",
     "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+    "Computer Science/Operating systems/Introduction/Interrupt.md",
     "Computer Science/Operating systems/Introduction/System call.md",
     "Computer Science/Operating systems/Introduction/Direct memory access.md",
     "Computer Science/Operating systems/Introduction/System daemon.md",

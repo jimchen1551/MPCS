@@ -24,12 +24,13 @@ Tags:
 - [[Computer-system operation]]
 
 ## Resource management
-### Process management
-### Memory management
-### File-system management
-### Mass-storage management
-### Cache management
-### I/O system management
+[[Process management]]
+[[Cache management]]
+[[Memory management]]
+[[Storage management]]
+[[IO system management]]
+[[File-system management]]
+
 ## Protection and security
 ## Virtualization
 ## Distributed systems
