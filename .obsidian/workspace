@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
+            "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system architecture.md"
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "91e0dd1f6aa50544",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
     "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+    "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
     "Computer Science/Operating Systems.md",
     "Computer Science/Operating systems/Introduction/Interrupt.md",
     "Computer Science/Operating systems/Introduction/System call.md",

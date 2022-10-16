@@ -6,7 +6,8 @@ Tags:
 - 
 ---
 # Computer-system architecture
-
+![[Screen Shot 2022-10-16 at 17.39.20.png|500]]
+![[Pasted image 20221016174838.png|500]]
 - [[Computer Architecture]]
 ## Single-processor systems
 **Core**: the component executing instructions and registers for storing data locally
