@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Deep learning.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Deep learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Deep learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "Computer Science/Deep learning.md"
               }
             }
           },
@@ -158,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "299367eae7ead3c8",
+  "active": "3b6843f217acca32",
   "lastOpenFiles": [
-    "Computer Science/Computer organization/Arithmetics.md",
-    "Computer Science.md",
-    "Computer Science/Operating systems/IO-system management.md",
-    "Computer Science/Operating systems.md",
+    "Computer Science/Formal languages.md",
+    "Computer Science/Machine learning.md",
+    "Computer Science/Digital systems.md",
+    "Computer Science/Data structures.md",
+    "Computer Science/Deep learning.md",
     "Computer Science/Database systems.md",
-    "Computer Science/Operating systems/Computer-system/Computer-system operation.md",
-    "Computer Science/Operating systems/Computer-system/Computer-system architecture.md",
-    "Computer Science/Operating systems/Computer-system/Architecture/Single-processor system.md",
-    "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
-    "Computer Science/Operating systems/Computer-system/Organization/Device driver.md"
+    "Computer Science/Computer architecture.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Protection.md",
+    "Computer Science/Operating systems/Storage management.md"
   ]
 }

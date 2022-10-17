@@ -18,7 +18,7 @@ Tags:
 | [[Computer-system operation]]    | [[Bootstrap program]]<br>[[System daemon]]<br>[[System call]]<br>[[Multiprogramming]]<br>[[Multitasking]]<br>[[Multi-mode]]<br>[[Timer]] |
 | [[Operating system structures]]  |                                                                                                                                          |
 
-| Resource management        | Comment |
+| Resource management        | Content |
 | -------------------------- | ------- |
 | [[Process management]]     |         |
 | [[Cache management]]       |         |
@@ -27,11 +27,8 @@ Tags:
 | [[File-system management]] |         |
 | [[IO-system management]]   |         |
 
-## Protection and security
-[[Security]]
 [[Protection]]
-
-## Advanced topics
+[[Security]]
 [[Virtualization]]
 [[Distributed systems]]
 
