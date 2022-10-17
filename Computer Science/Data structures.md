@@ -1,10 +1,9 @@
 ---
-Created: [[2022-06-13]]
-Modified: None
+Created: [[2022-10-17]]
+Aliases: DS
 Types: Note
 Tags: 
-- data structure
-- object-oriented programming
+- 
 ---
 # Data structures
 | Data structures         | Comment |
