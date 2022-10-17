@@ -160,15 +160,15 @@
   },
   "active": "2e3433c3a0de67cb",
   "lastOpenFiles": [
-    "Computer Science/Data structures.md",
+    "Computer Science/Machine learning.md",
+    "Computer Science.md",
     "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Computer system/Computer-system organization.md",
+    "Computer Science/Data structures.md",
     "Computer Science/Operating systems/Distributed system.md",
     "Computer Science/Computer organization/ISA/Procedure/Stack.md",
     "Computer Science/Operating systems/Virtualization.md",
     "Computer Science/Computer organization/ISA/x86.md",
-    "Computer Science/Computer organization/Memory.md",
-    "Computer Science/Operating systems/Security.md",
-    "Computer Science/Operating systems/Protection.md",
-    "Computer Science/Operating systems/Computer system/Operation/Multi-mode.md"
+    "Computer Science/Computer organization/Memory.md"
   ]
 }
