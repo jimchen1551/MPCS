@@ -6,15 +6,15 @@ Tags:
 - 
 ---
 # Computer Science
-| Computer Science          |           Study           |           Test            |          Review           |
-|:------------------------- |:-------------------------:|:-------------------------:|:-------------------------:|
-| [[Digital Systems]]       | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Computer Organization]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Computer Architecture]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Operating Systems]]     | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Data Structures]]       | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Algorithms]]            | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Formal Languages]]      | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Database Systems]]      | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Machine Learning]]      | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Deep Learning]]         | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
+| Computer Science          | Content                                                                                                                                                                                                                                                |
+|:------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Digital Systems]]       | [[Combinational logic design]]<br>[[Combinational circuits]]<br>[[Sequential circuits]]<br>[[Registers]]                                                                                                                                               |
+| [[Computer Organization]] | [[Instruction set architecture]]<br>[[Arithmetic]]<br>[[Processor]]<br>[[Memory]]                                                                                                                                                                      |
+| [[Computer Architecture]] |                                                                                                                                                                                                                                                        |
+| [[Operating Systems]]     | [[Operating system structures]]<br>[[Process management]]<br>[[IO-system management]]<br>[[Cache management]]<br>[[Memory management]]<br>[[Storage management]]<br>[[File-system management]]<br>[[Security]]<br>[[Protection]]<br>[[Virtualization]] |
+| [[Data Structures]]       |                                                                                                                                                                                                                                                        |
+| [[Algorithms]]            | [[Sorting algorithms]]<br>[[Searching algorithms]]<br>[[Graph algorithms]]                                                                                                                                                                             |
+| [[Formal Languages]]      |                                                                                                                                                                                                                                                        |
+| [[Database Systems]]      |                                                                                                                                                                                                                                                        |
+| [[Machine Learning]]      |                                                                                                                                                                                                                                                        |
+| [[Deep Learning]]         |                                                                                                                                                                                                                                                        |
