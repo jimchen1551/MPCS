@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3299a34157727136",
+        "id": "8c725da7baa22240",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
+            "file": "Computer Science/Operating systems/Computer-system/Organization/Device driver.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "139ee120a90da803",
+        "id": "12fbedd7e022b88f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computer-system/Architecture/Multi-processor system.md",
+            "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
+                "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
+                "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md"
+                "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3299a34157727136",
+  "active": "12fbedd7e022b88f",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Computer-system/Architecture/Multi-processor system.md",
-    "Computer Science/Operating systems/Computer-system/Computer-system architecture.md",
-    "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
-    "Computer Science/Operating systems/Computer-system/Architecture/Single-processor system.md",
-    "Computer Science/Operating systems/Computer-system/Computer-system operation.md",
+    "Computer Science/Operating systems/Computer-system/Organization/Device driver.md",
     "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
+    "Computer Science/Operating systems/Computer-system/Organization/Device controller.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Computer-system/Computer-system architecture.md",
     "Computer Science/Operating systems/Computer-system/Architecture/Clustered system.md",
-    "Computer Science/Operating systems/Cache management.md",
-    "Computer-system.md",
-    "Computer Science/Computer organization/Memory.md"
+    "Computer Science/Operating systems/Computer-system/Architecture/Single-processor system.md",
+    "Computer Science/Operating systems/Computer-system/Architecture/Multi-processor system.md",
+    "Computer Science/Operating systems/Computer-system/Architecture/Blade server.md",
+    "Computer Science/Operating systems/Computer-system/Architecture/Non-uniform memory access.md"
   ]
 }

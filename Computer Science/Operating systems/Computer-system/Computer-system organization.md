@@ -9,15 +9,8 @@ Tags:
 ![[Screen Shot 2022-09-14 at 10.54.19.png|500]]
 - one or more CPUs and several device controllers connected through common **buses** (just like flat road) providing access to **shared memory**
 - [[Computer Organization]]
-
-**Device controllers**
-1. maintaining **local buffer storage** and a set of special-purpose **[[Registers]]**
-2. **moving data** b/w the peripheral devices
-3. OS having a **device driver** for each device controller
-
-**Device driver**
-1. understanding device controllers
-2. a **uniform interface** to the device for the rest of OS
+- [[Device controller]]
+- [[Device driver]]
 
 ## Processor
 - **concurrent** and **parallel** executions of CPUs and device controller competing for memory cycles

@@ -6,7 +6,6 @@ Tags:
 - 
 ---
 # Single-processor system
-**Core**: the component executing instructions and registers for storing data locally
 - The **one** main [[Processor|CPU]] with its core is capable of executing a **general-purpose** instruction set, including instructions from processes. 
 - The **other special-purpose** processors run on limited instruction set and do not run processes. 
 1. OS **do manages** special-purpose processes: sending their next tasks and monitoring their status
