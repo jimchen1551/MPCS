@@ -17,6 +17,7 @@ After a computer is powered on,
 - A single program cannot keep either the [[Processor|CPU]] or the [[IO]] devices busy at all time. 
 - Multiprogramming increases [[Processor|CPU]] utilization, as well as keeping users satisfied , by organizing programs so that the [[Processor|CPU]] always has one to execute. 
 - The program in execution is termed a **process**. 
+- **Batch system** for efficiency
 
 1. OS keeps several processes in [[Memory]] simultaneously. 
 2. OS picks and begins to execute one of these processes. 
@@ -27,7 +28,10 @@ After a computer is powered on,
 
 ## Multitasking
 - a logical extension of multiprogramming
-- [[Processor|CPU]] executes multiple processes by switching among them but the switches occur frequently, providing the user with a **fast response time**. 
+- [[Processor|CPU]] switches processes so frequently that users can interact with each process while it is running, creating **interactive computing**. 
+- **Response time** < 1 sec. 
+- If several processes are ready to run at the same time, the system must choose which process will run next. $\Rightarrow$ [[CPU scheduling]]
+- If processes don't fit in [[Memory]], **swapping** moves them in and out to run [[Virtual memory]] allows execution of processes not completely in [[Memory]]. 
 
 ## Dual-mode and multi-mode operation
 
