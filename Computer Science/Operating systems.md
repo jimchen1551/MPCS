@@ -32,21 +32,15 @@ Tags:
 [[Virtualization]]
 [[Distributed system]]
 
-| Kernel data structure | Comment |
-| --------------------- | ------- |
-| [[Linked lists]]      |         |
-| [[Stacks]]            |         |
-| [[Queues]]            |         |
-| [[Trees]]             |         |
-| [[Hash maps]]         |         |
-| [[Bit maps]]          |         |
-## Kernel data structures
-### Lists
-### Stacks
-### Queues
-### Trees
-### Hash functions and maps
-### Bit maps
+| Kernel DS        | Comment                         |
+| ---------------- | ------------------------------- |
+| [[Linked lists]] |                                 |
+| [[Stacks]]       | Funtion calls                   |
+| [[Queues]]       | Sending job to external devices |
+| [[Trees]]        | CPU-scheduling algorithm        |
+| [[Hash maps]]    | Retrieval of password           |
+| [[Bit maps]]     | Availability of each disk block |
+
 ## Computing environments
 ### Traditional computing
 ### Mobile computing

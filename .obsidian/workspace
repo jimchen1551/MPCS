@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures.md",
+                "file": "Computer Science/Operating systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures.md",
+                "file": "Computer Science/Operating systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures.md"
+                "file": "Computer Science/Operating systems.md"
               }
             }
           },
@@ -170,10 +170,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "299367eae7ead3c8",
+  "active": "2e3433c3a0de67cb",
   "lastOpenFiles": [
-    "Computer Science/Operating systems.md",
     "Computer Science/Data structures.md",
+    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Distributed system.md",
     "Computer Science/Computer organization/ISA/Procedure/Stack.md",
     "Computer Science/Operating systems/Virtualization.md",
