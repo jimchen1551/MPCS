@@ -30,7 +30,7 @@ Tags:
 [[Protection]]
 [[Security]]
 [[Virtualization]]
-[[Distributed systems]]
+[[Distributed system]]
 
 ## Kernel data structures
 ### Lists
