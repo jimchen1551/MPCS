@@ -9,7 +9,7 @@ Tags:
 | Content                          |           Study           |           Test            |          Review           |
 |:-------------------------------- |:-------------------------:|:-------------------------:|:-------------------------:|
 | [[Instruction set architecture]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Arithmetic]]                   | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
+| [[Arithmetics]]                   | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Processor]]                    | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Memory]]                       | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 

@@ -21,15 +21,16 @@ Tags:
 | Resource management        | Comment |
 | -------------------------- | ------- |
 | [[Process management]]     |         |
-| [[IO-system management]]   |         |
 | [[Cache management]]       |         |
 | [[Memory management]]      |         |
 | [[Storage management]]     |         |
 | [[File-system management]] |         |
+| [[IO-system management]]   |         |
 
 ## Protection and security
 [[Security]]
 [[Protection]]
+
 ## Advanced topics
 [[Virtualization]]
 [[Distributed systems]]

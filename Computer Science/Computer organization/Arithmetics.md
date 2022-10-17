@@ -5,7 +5,7 @@ Types: Note
 Tags: 
 - 
 ---
-# Arithmetic
+# Arithmetics
 ## Addition and Subtraction
 | Arithmetic                | Implementation                       |
 | ------------------------- | ------------------------------------ |
