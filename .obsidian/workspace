@@ -4,15 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dbf7c604e81aec2f",
+        "id": "91e0dd1f6aa50544",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Introduction/System call.md",
+            "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "e5ba516c8aca3ab0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/System call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/System call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Operating systems/Introduction/System call.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,17 +162,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dbf7c604e81aec2f",
+  "active": "e5ba516c8aca3ab0",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Introduction/Computer-system operation.md",
-    "Computer Science/Operating systems/Introduction/System call.md",
-    "Computer Science/Operating systems.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
+    "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+    "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
     "Computer Science/Operating Systems.md",
+    "Computer Science/Operating systems/Introduction/Interrupt.md",
+    "Computer Science/Operating systems/Introduction/System call.md",
+    "Computer Science/Operating systems/Introduction/Direct memory access.md",
     "Computer Science/Operating systems/Introduction/System daemon.md",
-    "Computer Science/Algorithms.md",
-    "Syntax.md",
-    "README.md"
+    "Computer Science/Operating systems/Introduction/Bootstrap program.md",
+    "Computer Science/Operating systems/Introduction/Computer-system organization.md"
   ]
 }
