@@ -6,3 +6,4 @@ Tags:
 - 
 ---
 # Protection
+- any mechanism for **controlling the access** of processes or users to the resources defined by a computer system

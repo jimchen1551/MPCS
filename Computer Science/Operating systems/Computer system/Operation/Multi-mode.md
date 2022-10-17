@@ -17,4 +17,5 @@ Tags:
 
 ## Privileged instruction
 - Hardware allows it to be executed only in **kernel mode**. 
+- All [[IO]] instructions are privileged instructions. 
 - If an attempt is made to execute a privileged instruction in **user mode**, the hardware does not execute the instruction but rather treats it as illegal and **traps** (exceptions) it to the OS.
