@@ -21,10 +21,10 @@ Tags:
 | Resource management        | Comment |
 | -------------------------- | ------- |
 | [[Process management]]     |         |
+| [[IO-system management]]   |         |
 | [[Cache management]]       |         |
 | [[Memory management]]      |         |
 | [[Storage management]]     |         |
-| [[IO-system management]]   |         |
 | [[File-system management]] |         |
 
 ## Protection and security

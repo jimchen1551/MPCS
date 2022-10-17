@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Operating systems/IO-system management.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/File-system management.md",
+            "file": "Computer Science/Operating systems/Storage management.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/File-system management.md",
+                "file": "Computer Science/Operating systems/IO-system management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/File-system management.md",
+                "file": "Computer Science/Operating systems/IO-system management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/File-system management.md"
+                "file": "Computer Science/Operating systems/IO-system management.md"
               }
             }
           },
@@ -170,15 +170,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "42b0275d564541cf",
+  "active": "dbf7c604e81aec2f",
   "lastOpenFiles": [
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Memory management.md",
     "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems/Memory management.md",
+    "Computer Science/Operating systems/Storage management.md",
+    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/File-system management.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/IO-system management.md",
-    "Computer Science/Operating systems/Storage management.md",
     "Computer Science/Operating systems/Cache management.md",
     "Computer Science/Operating systems/Computer-system/Timer.md",
     "Computer Science/Operating systems/Computer-system/Computer-system operation.md"

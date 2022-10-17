@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Memory management
+- [[Main memory]]
 - OS is responsible for
 	1. Keeping track of which parts of memory are currently being used and which process is using them
 	2. Allocating and deallocating memory space as needed

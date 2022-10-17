@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Process management
+- [[Processor]]
 ## Process
 Program: passive entity
 Process: active entity

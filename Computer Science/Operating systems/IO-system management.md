@@ -5,3 +5,5 @@ Types: Note
 Tags: 
 - 
 ---
+# IO-system management
+- [[]]
