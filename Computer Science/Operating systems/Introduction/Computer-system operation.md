@@ -10,7 +10,7 @@ After a computer is powered on,
 1. [[Bootstrap program]] stored in EEPROM is the first program to run which can locate the OS kernel and load it into the [[Memory]]. 
 2. [[System daemon]]s provide services outside of the kernel and run all the time the kernel is running. 
 3. [[System call]]s are specific requests from a user program which would cause software interrupt to make OS execute some special operations. 
-4. [[Interrupt]]s may be invoked by a device controller or an [[System call]]. 
+4. [[Interrupt]]s may be invoked by a device controller, an error, or an [[System call]]. 
 
 ## Multiprogramming
 ![[Screen Shot 2022-10-17 at 14.41.13.png]]
@@ -34,5 +34,7 @@ After a computer is powered on,
 - If processes don't fit in [[Memory]], **swapping** moves them in and out to run [[Virtual memory]] allows execution of processes not completely in [[Memory]]. 
 
 ## Dual-mode and multi-mode operation
+![[Screen Shot 2022-10-17 at 15.31.15.png]]
+
 
 ## Timer
