@@ -11,9 +11,7 @@ Tags:
 3. [[System call]]
 4. [[Interrupt]]s
 
-## Multiprogramming
-![[Screen Shot 2022-10-17 at 14.41.13.png]]
-## Multitasking
+## Multiprogramming and multitasking
 
 ## Dual-mode and multi-mode operation
 
