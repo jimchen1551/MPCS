@@ -26,11 +26,13 @@ Tags:
 | [[Storage management]]     |         |
 | [[File-system management]] |         |
 | [[IO-system management]]   |         |
+| [[Protection]]             |         |
+| [[Security]]               |         |
 
-[[Protection]]
-[[Security]]
-[[Virtualization]]
-[[Distributed system]]
+| Advanced issue         | Content |
+| ---------------------- | ------- |
+| [[Virtualization]]     |         |
+| [[Distributed system]] |         |
 
 | Kernel DS        | Comment                         |
 | ---------------- | ------------------------------- |
@@ -41,13 +43,14 @@ Tags:
 | [[Hash maps]]    | Retrieval of password           |
 | [[Bit maps]]     | Availability of each disk block |
 
-## Computing environments
-### Traditional computing
-### Mobile computing
-### Client-server computing
-### Peer-to-peer computing
-### Cloud computing
-### Real-time embedded systems
+| Computing environment         | Content |
+| ----------------------------- | ------- |
+| [[Traditional computing]]     |         |
+| [[Mobile computing]]          |         |
+| [[Client-server computing]]   |         |
+| [[Peer-to-peer computing]]    |         |
+| [[Cloud computing]]           |         |
+| [[Real-time embedded system]] |         |
 
 ## Score
 - Midterm: 30%
