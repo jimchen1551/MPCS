@@ -6,11 +6,11 @@ Tags:
 - 
 ---
 # Computer-system operation
-After a computer
-1. [[Bootstrap program]]
-2. [[System daemon]]s
-3. [[System call]]
-4. [[Interrupt]]s
+After a computer is powered on, 
+1. [[Bootstrap program]] stored in EEPROM is the first program to run which can locate the OS kernel and load it into the [[Memory]]. 
+2. [[System daemon]]s provide services outside of the kernel and run all the time the kernel is running. 
+3. [[System call]]s are specific requests from a user program which would cause software interrupt to make OS execute some special operations. 
+4. [[Interrupt]]s may be invoked by a device controller or an [[System call]]. 
 
 ## Multiprogramming
 ![[Screen Shot 2022-10-17 at 14.41.13.png]]
@@ -26,6 +26,8 @@ After a computer
 4. 1st process finishes waiting and gets the [[Processor|CPU]] back, if multiprogrammed. 
 
 ## Multitasking
+- a logical extension of multiprogramming
+- [[Processor|CPU]] executes multiple processes by switching among them but the switches occur frequently, providing the user with a **fast response time**. 
 
 ## Dual-mode and multi-mode operation
 
