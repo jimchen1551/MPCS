@@ -32,6 +32,14 @@ Tags:
 [[Virtualization]]
 [[Distributed system]]
 
+| Kernel data structure | Comment |
+| --------------------- | ------- |
+| [[Linked lists]]      |         |
+| [[Stacks]]            |         |
+| [[Queues]]            |         |
+| [[Trees]]             |         |
+| [[Hash maps]]         |         |
+| [[Bit maps]]          |         |
 ## Kernel data structures
 ### Lists
 ### Stacks

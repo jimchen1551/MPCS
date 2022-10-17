@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Distributed system.md",
+            "file": "Computer Science/Data structures.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Data structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Data structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "Computer Science/Data structures.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2e3433c3a0de67cb",
+  "active": "299367eae7ead3c8",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Distributed system.md",
     "Computer Science/Operating systems.md",
+    "Computer Science/Data structures.md",
+    "Computer Science/Operating systems/Distributed system.md",
+    "Computer Science/Computer organization/ISA/Procedure/Stack.md",
     "Computer Science/Operating systems/Virtualization.md",
     "Computer Science/Computer organization/ISA/x86.md",
     "Computer Science/Computer organization/Memory.md",
     "Computer Science/Operating systems/Security.md",
     "Computer Science/Operating systems/Protection.md",
-    "Computer Science/Operating systems/Computer system/Operation/Multi-mode.md",
-    "Computer Science/Operating systems/Computer system/Computer-system operation.md",
-    "Computer Science/Deep learning.md"
+    "Computer Science/Operating systems/Computer system/Operation/Multi-mode.md"
   ]
 }

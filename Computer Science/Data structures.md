@@ -13,9 +13,12 @@ Tags:
 | [[Linked lists]]        |         |
 | [[Rooted trees]]        |         |
 | [[Hash tables]]         |         |
+| [[Hash maps]]           |         |
+| [[Trees]]               |         |
 | [[Binary search trees]] |         |
 | [[Red-black trees]]     |         |
 | [[B-trees]]             |         |
 | [[Binomial heaps]]      |         |
 | [[Fibonacci heaps]]     |         |
 | [[Disjoint sets]]       |         |
+| [[Bit maps]]            |         |
