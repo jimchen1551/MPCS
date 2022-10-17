@@ -29,7 +29,7 @@ Tags:
 | [[Protection]]             |         |
 | [[Security]]               |         |
 
-| Advanced issue         | Content |
+| Advanced topics        | Content |
 | ---------------------- | ------- |
 | [[Virtualization]]     |         |
 | [[Distributed system]] |         |
