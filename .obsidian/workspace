@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+            "file": "Computer Science/Operating systems/Introduction/System call.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+                "file": "Computer Science/Operating systems/Introduction/System call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
+                "file": "Computer Science/Operating systems/Introduction/System call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md"
+                "file": "Computer Science/Operating systems/Introduction/System call.md"
               }
             }
           },
@@ -160,10 +160,10 @@
   },
   "active": "dbf7c604e81aec2f",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Introduction/Computer-system operation.md",
     "Computer Science/Operating systems.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
-    "Computer Science/Operating systems/Introduction/Computer-system operation.md",
     "Computer Science/Operating Systems.md",
     "Computer Science/Operating systems/Introduction/System daemon.md",
     "Computer Science/Algorithms.md",
