@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Storage management
-- [[Secondary memory]]
+- [[Secondary memory]] and [[Tertiary memory]]
 - OS is responsible for
 	1. Mounting and unmounting
 	2. Free-space management

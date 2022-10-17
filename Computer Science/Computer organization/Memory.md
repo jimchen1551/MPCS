@@ -14,6 +14,7 @@ Tags:
 
 ## Memory hierarchy and technology
 ![[Screen Shot 2022-10-09 at 14.58.34.png]]
+![[Screen Shot 2022-10-17 at 18.05.34.png]]
 - storing everything on the [[Secondary memory]]
 - copying recently accessed items to the [[Main memory]]
 - copying more recently accessed items to the [[Cache memory]]
