@@ -5,3 +5,5 @@ Types: Note
 Tags: 
 - 
 ---
+# Process management
+**Process**: a program in execution

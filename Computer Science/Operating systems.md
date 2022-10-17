@@ -24,7 +24,7 @@ Tags:
 | [[Cache management]]       |         |
 | [[Memory management]]      |         |
 | [[Storage management]]     |         |
-| [[IO system management]]   |         |
+| [[IO-system management]]   |         |
 | [[File-system management]] |         |
 
 ## Protection and security
