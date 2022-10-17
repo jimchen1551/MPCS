@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Organization.md",
+            "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Organization.md",
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Organization.md",
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Organization.md"
+                "file": "Computer Science/Operating systems/Introduction/Computer-system operation.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "91e0dd1f6aa50544",
   "lastOpenFiles": [
-    "Computer Science/Data Structures.md",
-    "Computer Science/Database Systems.md",
-    "Computer Science/Deep Learning.md",
-    "Computer Science/Digital Systems.md",
-    "Computer Science/Formal Languages.md",
-    "Computer Science/Operating Systems.md",
-    "Computer Science/Machine Learning.md",
-    "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems/Introduction/Computer-system operation.md",
-    "Computer Science/Operating systems/Introduction/Computer-system architecture.md"
+    "Computer Science/Algorithms.md",
+    "Syntax.md",
+    "README.md",
+    "Physics.md",
+    "Mathematics.md",
+    "Computer Science.md",
+    "Computational Neuroscience.md",
+    "Mathematics/Signals and systems/Linear systems.md",
+    "Mathematics/Probability/Probability mass function.md",
+    "Mathematics/Probability/Probability density function.md"
   ]
 }

@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Computer-system operation
+After a computer
 1. [[Bootstrap program]]
 2. [[System daemon]]s
 3. [[System call]]
@@ -20,8 +21,10 @@ Tags:
 1. OS keeps several processes in [[Memory]] simultaneously. 
 2. OS picks and begins to execute one of these processes. 
 3. Process may have to wait for some task to complete. 
-	- in a non-multiprogrammed system, the [[Processor|CPU]] would sit idle. 
-	- in a multiprogrammed system, the OS switches to, and executes, another process
+	- in a **non-multiprogrammed** system, the [[Processor|CPU]] would sit idle. 
+	- in a **multiprogrammed** system, when a process needs to wait, the OS switches to, and executes, another process
+4. 1st process finishes waiting and gets the [[Processor|CPU]] back, if multiprogrammed. 
+
 ## Multitasking
 
 ## Dual-mode and multi-mode operation
