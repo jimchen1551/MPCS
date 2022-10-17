@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "91e0dd1f6aa50544",
+        "id": "dbf7c604e81aec2f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Operating systems.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
-        "id": "e5ba516c8aca3ab0",
+        "id": "42b0275d564541cf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Operating systems/Memory management.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Operating systems/Memory management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Operating systems/Memory management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Operating systems/Memory management.md"
+              }
             }
           },
           {
@@ -158,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e5ba516c8aca3ab0",
+  "active": "42b0275d564541cf",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Computer Science/Operating systems/Introduction/Computer-system operation.md",
-    "Computer Science/Operating systems/Introduction/Computer-system architecture.md",
-    "Computer Science/Operating Systems.md",
-    "Computer Science/Operating systems/Introduction/Interrupt.md",
-    "Computer Science/Operating systems/Introduction/System call.md",
-    "Computer Science/Operating systems/Introduction/Direct memory access.md",
-    "Computer Science/Operating systems/Introduction/System daemon.md",
-    "Computer Science/Operating systems/Introduction/Bootstrap program.md",
-    "Computer Science/Operating systems/Introduction/Computer-system organization.md"
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/IO-system management.md",
+    "Computer Science/Operating systems/File-system management.md",
+    "Computer Science/Operating systems/Storage management.md",
+    "Computer Science/Operating systems/Memory management.md",
+    "Computer Science/Operating systems/Cache management.md",
+    "Computer Science/Operating systems/Computer-system/Timer.md",
+    "Computer Science/Operating systems/Computer-system/Computer-system operation.md"
   ]
 }

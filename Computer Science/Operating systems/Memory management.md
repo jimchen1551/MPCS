@@ -5,3 +5,5 @@ Types: Note
 Tags: 
 - 
 ---
+# Memory management
+- 
