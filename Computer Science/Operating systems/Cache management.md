@@ -15,4 +15,4 @@ Tags:
 	- If not, data copied to cache and used there
 ## Coherency
 - The same data may appear in different levels. 
-- If [[Multitasking]] or [[Computer-system architecture#Multi-processor systems]], the access of the data needs to obtain the most recent value. 
+- If [[Multitasking]] or Multi-processor system, the access of the data needs to obtain the most recent value. 

@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "42b0275d564541cf",
+        "id": "3299a34157727136",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Cache management.md",
+            "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "139ee120a90da803",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Operating systems/Computer-system/Architecture/Multi-processor system.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Cache management.md",
+                "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Cache management.md",
+                "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Cache management.md"
+                "file": "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md"
               }
             }
           },
@@ -158,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "42b0275d564541cf",
+  "active": "3299a34157727136",
   "lastOpenFiles": [
-    "Computer Science/Computer organization/Memory.md",
-    "Computer Science/Operating systems/IO-system management.md",
-    "Computer Science/Computer organization/Memory/Secondary memory.md",
-    "Computer Science/Operating systems/Storage management.md",
-    "Computer Science/Operating systems/Process management.md",
-    "Computer Science/Operating systems/Memory management.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/File-system management.md",
-    "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems/Cache management.md"
+    "Computer Science/Operating systems/Computer-system/Architecture/Multi-processor system.md",
+    "Computer Science/Operating systems/Computer-system/Computer-system architecture.md",
+    "Computer Science/Operating systems/Computer-system/Architecture/Symmetric multiprocessing.md",
+    "Computer Science/Operating systems/Computer-system/Architecture/Single-processor system.md",
+    "Computer Science/Operating systems/Computer-system/Computer-system operation.md",
+    "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
+    "Computer Science/Operating systems/Computer-system/Architecture/Clustered system.md",
+    "Computer Science/Operating systems/Cache management.md",
+    "Computer-system.md",
+    "Computer Science/Computer organization/Memory.md"
   ]
 }
