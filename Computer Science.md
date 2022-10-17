@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Computer Science
-| Content                   |           Study           |           Test            |          Review           |
+| Computer Science          |           Study           |           Test            |          Review           |
 |:------------------------- |:-------------------------:|:-------------------------:|:-------------------------:|
 | [[Digital Systems]]       | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Computer Organization]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |

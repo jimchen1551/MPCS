@@ -7,13 +7,13 @@ Tags:
 ---
 # Interrupts
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
-1. To start an operation of any device, the device driver loads the appropriate [[Registers]] in the device controller. 
-2. Device controller examines the contents of these [[Registers]] to determine what action to take. 
-3. Device controller starts the transfer of data from the device to its local buffer. 
-4. **Device controller informs the device driver once the trasfer is complete.** 
-5. Device driver gives control to other parts of OS. 
+1. To start an operation of any device, the [[Device driver]] loads the appropriate [[Registers]] in the [[Device controller]]. 
+2. [[Device controller]] examines the contents of these [[Registers]] to determine what action to take. 
+3. [[Device controller]] starts the transfer of data from the device to its local buffer. 
+4. **[[Device controller]] informs the [[Device driver]] once the trasfer is complete.** 
+5. [[Device driver]] gives control to other parts of OS. 
 
-- the way how device controller informs its device driver (hardware interrupt)
+- the way how [[Device controller]] informs its [[Device driver]] (hardware interrupt)
 - the way how OS interacts hardware (software interrupt)
 - allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
 - transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
@@ -39,7 +39,7 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
    (e.g., interrupt priority levels)
 
 ## Interrupt service routine
-1. Device controller **raises** an interrupt by asserting **interrupt number** on **interrupt-request line**. 
+1. [[Device controller]] **raises** an interrupt by asserting **interrupt number** on **interrupt-request line**. 
 2. [[Processor|CPU]] **catches** the interrupt, **reads** the interrupt number and **dispatch** to interrupt handler by using **interrupt vector**. 
 5. [[Program counter]] loads the starting address of interrupt service routine (**fixed location**) instead of next instruction address. 
 6.  [[Processor|CPU]] executes **interrupt service routine** / Interrupt handler **clears** the interrupt.  

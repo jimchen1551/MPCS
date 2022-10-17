@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computer-system/Organization/Device driver.md",
+            "file": "Computer Science/Operating systems.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
+            "file": "Computer Science.md",
             "mode": "source",
             "source": false
           }
@@ -89,14 +89,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
+                "file": "Computer Science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
+                "file": "Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computer-system/Computer-system organization.md"
+                "file": "Computer Science.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "12fbedd7e022b88f",
+  "active": "5495f31a6c68b4af",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Computer-system/Organization/Device driver.md",
-    "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
-    "Computer Science/Operating systems/Computer-system/Organization/Device controller.md",
     "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Computer-system/Computer-system operation.md",
     "Computer Science/Operating systems/Computer-system/Computer-system architecture.md",
-    "Computer Science/Operating systems/Computer-system/Architecture/Clustered system.md",
     "Computer Science/Operating systems/Computer-system/Architecture/Single-processor system.md",
-    "Computer Science/Operating systems/Computer-system/Architecture/Multi-processor system.md",
-    "Computer Science/Operating systems/Computer-system/Architecture/Blade server.md",
-    "Computer Science/Operating systems/Computer-system/Architecture/Non-uniform memory access.md"
+    "Computer Science/Operating systems/Computer-system/Computer-system organization.md",
+    "Computer Science/Operating systems/Computer-system/Organization/Device driver.md",
+    "Computer Science/Operating systems/Computer-system/Organization/Direct memory access.md",
+    "Computer Science/Operating systems/Computer-system/Organization/Interrupt.md",
+    "Computer Science/Operating systems/Computer-system/Organization/Device controller.md",
+    "Computer Science/Operating systems/Computer-system/Architecture/Clustered system.md"
   ]
 }
