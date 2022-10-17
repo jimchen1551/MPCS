@@ -6,4 +6,10 @@ Tags:
 - 
 ---
 # Process management
-**Process**: a program in execution
+## Process
+- a program in execution
+- needing resources such as [[CPU time]], [[Memory]], [[IO]], and Files
+- OS reclaiming any reusable resources after temination
+
+Program: passive entity
+Process: active entity
