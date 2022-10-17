@@ -1,10 +1,9 @@
 ---
-Created: [[2022-06-16]]
-Modified: None
-Types: Dashboard
+Created: [[2022-10-17]]
+Aliases: 
+Types: Note
 Tags: 
-- plan
-- math
+- 
 ---
 # Mathematics
 ## Plan

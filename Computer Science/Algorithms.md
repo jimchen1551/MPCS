@@ -1,6 +1,6 @@
 ---
-Created: [[2022-06-13]]
-Modified: None
+Created: [[2022-10-17]]
+Aliases: 
 Types: Note
 Tags: 
 - 

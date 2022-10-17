@@ -1,11 +1,9 @@
 ---
-Created: [[2022-06-05]]
-Modified: None
-Types: Guide
+Created: [[2022-10-17]]
+Aliases: 
+Types: 
 Tags: 
-- syntax
-- markdown
-- obsidian
+- 
 ---
 ![[Markdown.webp]]
 # Heading level 1

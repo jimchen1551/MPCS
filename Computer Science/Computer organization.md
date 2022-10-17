@@ -1,6 +1,6 @@
 ---
 Created: [[2022-07-06]]
-Aliases: 
+Aliases: CO
 Types: Note
 Tags: 
 - 

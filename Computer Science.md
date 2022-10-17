@@ -1,10 +1,9 @@
 ---
-Created: [[2022-06-05]]
-Modified: None
-Types: Dashboard
+Created: [[2022-10-17]]
+Aliases: CS
+Types: Note
 Tags: 
-- plan
-- computer science
+- 
 ---
 # Computer Science
 | Content                   |           Study           |           Test            |          Review           |

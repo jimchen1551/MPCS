@@ -1,12 +1,7 @@
 ---
-Created: [[2022-08-10]]
+Created: [[2022-10-17]]
 Aliases: 
-Types: Note
+Types: 
 Tags: 
 - 
 ---
-# Solid-state physics
-## Plan
-| Content | Study | Test | Review |
-| :------ | :---: | :--: | :----: |
-|         |<input type="checkbox" />|<input type="checkbox" />|<input type="checkbox" />|

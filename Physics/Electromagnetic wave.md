@@ -1,7 +1,7 @@
 ---
-Created: [[2022-06-16]]
-Modified: None
-Types: Note
+Created: [[2022-10-17]]
+Aliases: 
+Types: 
 Tags: 
 - 
 ---
