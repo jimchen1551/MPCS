@@ -15,3 +15,12 @@ Tags:
 ## Information gain
 
 ## ID3 algorithm
+
+## Alternative feature selection
+
+## Impurity metrics
+
+## Tree pruning
+
+## Model ensembles
+
