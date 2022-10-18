@@ -174,9 +174,11 @@ Handling:
 ### Cross-data-type features
 ![[Screen Shot 2022-10-18 at 13.55.36.png|400]]
 - **small multiples** (drawing a density histogram of the values of the continuous feature for each level of the categorical feature)
+- if the features are related, the shapes and/or the central tendencies of the histogram will be different.
 ![[Screen Shot 2022-10-18 at 13.56.15.png|400]]
-
+- **box plots** (less detail than histogram but better suited when the categirical feature has many levels(>4))
 ## Covariance and correlation
+$$cov(a, b)=\frac{\sum_{i=1}^n(a_i-\)}{n-1}$$
 ## Data preparation
 ### Normalization
 ### Binning
