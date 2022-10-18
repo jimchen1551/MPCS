@@ -167,8 +167,11 @@ Handling:
 ![[Screen Shot 2022-10-11 at 16.19.57.png|400]]
 - **scatter plot matrix** (SPLOM)
 ### Both categorical features
+![[Screen Shot 2022-10-18 at 13.42.08.png|400]]
+- **small multiples** visualization
+![[Screen Shot 2022-10-18 at 13.43.28.png|400]]
 
-### Cross-categorical and continuous features
+### Cross-data-type features
 
 ## Covariance and correlation
 ## Data preparation
