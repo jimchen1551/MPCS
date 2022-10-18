@@ -7,7 +7,6 @@ Tags:
 ---
 # Information-based learning
 [[Information theory]]
-
 ## Decision trees
 
 ## Shannon's entropy model
