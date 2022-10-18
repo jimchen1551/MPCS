@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Machine learning/Information-based learning.md",
+            "file": "Computer Science/Machine learning/Data preparation.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning.md",
+                "file": "Computer Science/Machine learning/Data preparation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning.md",
+                "file": "Computer Science/Machine learning/Data preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning.md"
+                "file": "Computer Science/Machine learning/Data preparation.md"
               }
             }
           },
@@ -162,9 +162,9 @@
   },
   "active": "38d7c2af2a336a8c",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Data preparation.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning.md",
-    "Computer Science/Machine learning/Data preparation.md",
     "Computer Science.md",
     "Computational Neuroscience.md",
     "Computer Science/Algorithms/Design/Divide and conquer.md",
