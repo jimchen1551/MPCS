@@ -17,12 +17,8 @@ Tags:
 | Reinforcement learning | learning a policy (a sequence of actions)<br>no supervised actions but delayed rewards<br>credit assignment problem                                 |
 
 [[Data preparation]]
+[[Information-based learning]]
 
-## Information-based learning
-### Decision trees
-### Shannon's entropy model
-### Information gain
-### ID3 algorithm
 ## Similarity-based learning
 ### Feature space
 ### Distance metrics

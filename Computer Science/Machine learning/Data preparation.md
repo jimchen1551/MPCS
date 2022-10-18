@@ -18,7 +18,7 @@ Tags:
 | Feature type | Explanation                                                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Aggregates   | defined over a group or period and<br> as the **count**, **sum**, **average**, **minimum**, or **maximum**<br> of the values within the group                     |
-| Flags        | indicating the **presence** or **absence** of some characteristic <br>within a dataset                                                                |
+| Flags        | indicating the **presence** or **absence** of some characteristic within a dataset                                                                |
 | Ratios       | capturing the **relationship** b/w 2 or more raw data values                                                                              |
 | Mappings     | converting **continuous** features into **categorical** features <br>and reducing the number of unique values that a model <br>will have to deal with |
 
@@ -41,13 +41,13 @@ Tags:
 >>providing an example scenario where the descriptive features are time dependent but the target feature is not
 >>used to determine the least expensive incentive that needs to be offered to a customer who is considering caceling a service
 
-### Analytics Base Table
+## Analytics Base Table
 - aka **ABT**
 - the basic structure in which we capture the historical datasets
-- the columns divided into **a set of descriptive features** (inputs) and **a single target feature** (outcome)
+- the columns are divided into **a set of descriptive features** (inputs) and **a single target feature** (outcome)
 - each row contains a value for each descriptive feature and the target feature and represents an **instance** about which a prediction can be made
 
-### Data Quality Report
+## Data Quality Report
 ![[Screen Shot 2022-10-04 at 13.44.27.png|500]]
 ![[Screen Shot 2022-10-04 at 13.47.57.png|500]]
 - aka **DQR**
@@ -64,7 +64,7 @@ Tags:
 	- using descriptive statistics
 	- 2 most frequent levels for the feature (mode and 2nd mode), frequency of appearance, percentage of instances missing the feature, and the cardinaligy of the feature
 
-### Data Quality Issues
+## Data Quality Issues
 - defined as anything unusual about the data in an ABT
 - due to
 	1. **invalid data**: by errors in the process of generating an ABT
@@ -72,7 +72,7 @@ Tags:
 	2. **valid data**: arising for a range of domain-specific reasons
 	   solution: not correct or recording the issue in the **data quality plan** while affecting training process
 ![[Screen Shot 2022-10-04 at 14.36.12.png|500]]
-#### Missing values
+### Missing values
 - some instances may miss values for one or more features
 - % Miss. column in the DQR
 - causes are misillaneous
@@ -117,7 +117,7 @@ Handling:
 >4. recalculating means, covariance matrix from complete-data table
 >5. repeating 2~4 times until converge
 
-#### Irregular cardinality
+### Irregular cardinality
 - unusual number of distinct values for a feature
 - Card. column in the DQR
 
@@ -132,7 +132,7 @@ Identification and classes:
 4. **high cardinality** of a **categorical** feature with **valid** data
 	- learning algorithm might struggle with such high cardinality; so, note it in the **data quality plan**
 
-#### Outliers
+### Outliers
 - instances with values far away from the central tendency
 
 Classes: 
@@ -161,17 +161,17 @@ Handling:
       $upper=mean+2\times SD$
    $$a_i=\begin{cases}lower&\quad\text{if }a_i<lower\\upper&\quad\text{if }a_i>upper\\a_i&\quad \text{otherwise}\end{cases}$$
 
-### Data visualization
+## Data visualization
 - to reduce the size of ABT while two features are strongly related
-#### Both continuous features
+### Both continuous features
 ![[Screen Shot 2022-10-11 at 16.19.57.png|400]]
 - **scatter plot matrix** (SPLOM)
-#### Both categorical features
+### Both categorical features
 
-#### Cross-categorical and continuous features
+### Cross-categorical and continuous features
 
-### Covariance and correlation
-### Data preparation
-#### Normalization
-#### Binning
-#### Sampling
+## Covariance and correlation
+## Data preparation
+### Normalization
+### Binning
+### Sampling

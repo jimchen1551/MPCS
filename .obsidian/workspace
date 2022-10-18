@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "91e0dd1f6aa50544",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Machine learning/Data preparation.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "38d7c2af2a336a8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Machine learning.md",
+            "file": "Computer Science/Machine learning/Information-based learning.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation.md"
+                "file": "Computer Science/Machine learning/Information-based learning.md"
               }
             }
           },
@@ -172,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91e0dd1f6aa50544",
+  "active": "38d7c2af2a336a8c",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Data preparation.md",
+    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Data preparation.md",
     "Computer Science.md",
     "Computational Neuroscience.md",
     "Computer Science/Algorithms/Design/Divide and conquer.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating Systems.md",
-    "Computer Science/Formal languages.md",
-    "Computer Science/Digital systems.md"
+    "Computer Science/Formal languages.md"
   ]
 }
