@@ -168,10 +168,13 @@ Handling:
 - **scatter plot matrix** (SPLOM)
 ### Both categorical features
 ![[Screen Shot 2022-10-18 at 13.42.08.png|400]]
-- **small multiples** visualization
+- **small multiples** (drawing the density of each level of feature)
 ![[Screen Shot 2022-10-18 at 13.43.28.png|400]]
-
+- if the number of levels of one of the feature is small, use **stacked bar plots** as an alternative
 ### Cross-data-type features
+![[Screen Shot 2022-10-18 at 13.55.36.png|400]]
+- **small multiples** (drawing a density histogram of the values of the continuous feature for each level of the categorical feature)
+![[Screen Shot 2022-10-18 at 13.56.15.png|400]]
 
 ## Covariance and correlation
 ## Data preparation
