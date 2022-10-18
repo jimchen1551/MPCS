@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3433c3a0de67cb",
+        "id": "91e0dd1f6aa50544",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "Computer Science/Algorithms.md"
               }
             }
           },
@@ -158,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2e3433c3a0de67cb",
+  "active": "91e0dd1f6aa50544",
   "lastOpenFiles": [
-    "Computer Science/Machine learning.md",
-    "Computer Science.md",
+    "Computer Science/Algorithms.md",
+    "Computer Science/Operating Systems.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Computer system/Computer-system organization.md",
+    "Computer Science/Machine learning.md",
+    "Computer Science/Formal languages.md",
+    "Computer Science/Digital systems.md",
+    "Computer Science/Deep learning.md",
+    "Computer Science/Database systems.md",
     "Computer Science/Data structures.md",
-    "Computer Science/Operating systems/Distributed system.md",
-    "Computer Science/Computer organization/ISA/Procedure/Stack.md",
-    "Computer Science/Operating systems/Virtualization.md",
-    "Computer Science/Computer organization/ISA/x86.md",
-    "Computer Science/Computer organization/Memory.md"
+    "Computer Science/Computer organization.md"
   ]
 }
