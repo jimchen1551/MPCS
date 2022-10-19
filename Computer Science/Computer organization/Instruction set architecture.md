@@ -44,6 +44,7 @@ Tags:
 ## Procedures
 - a set of coded instructions that tell a computer how to run a program or calculation
 - e.g., [[Stack]], [[Leaf procedure]], [[Nested procedure]]
+
 | Mechanism          | Content                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | [[Procedure call]] | [[Program counter]]<br>[[Caller saving]]<br>[[Callee saving]]<br>[[Jump and link]]<br>[[Jump register]]<br>[[Procedure frame]] |
