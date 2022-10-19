@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Vectored interrupt
+- [[Interrupt#Interrupt vector]]
 - handler address determined by the cause
 - e.g., 
   undefined opcode: C000 0000

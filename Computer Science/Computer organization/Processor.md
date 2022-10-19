@@ -33,7 +33,7 @@ Tags:
 | [[Branch instruction datapath]]             | for beq ([[MIPS I-format]]) instruction                            |
 | [[Jump instruction datapath]]               | for j ([[MIPS J-format]]) instruction                              |
 
-## Single-cycle implementation
+## Single cycle
 - using **single clock cycle** for every instruction
   - any datapath resource cannot be used more than once per insrtuction
   - any element needed more than once must be duplicated
@@ -81,21 +81,9 @@ Tags:
 4. Operands must be aligned in memory. 
    - The requested data can be transferred b/w processor and memory in a single stage. 
 
-## Exception
-[[Exception]]
+## [[Exception]]
 
-## Instruction-level parallelism
-- **Pipelining**: executing multiple instructions in parallel
-  - ideal case: CPI = 1
-- To increase parallelism, 
-  1. deeper pipeline → less work per stage → shorter clock cycle
-  2. multiple issue
-     - replicating pipeline stages→multiple pipelines
-     - starting multiple instructions per clock cycle
-     - CPI < 1, so use IPC
-     1. [[Speculation]]
-     2. [[Static multiple issue]]
-	3. [[Dynamic multiple issue]]
+## [[Instruction-level parallelism]]
 
 ## ARM Cortex-A53 vs Intel Core i7 6700
 ![[Screen Shot 2022-08-17 at 15.44.57.png]]

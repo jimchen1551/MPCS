@@ -45,8 +45,7 @@ Standard: [[IEEE std 754]]
 
 Hardware for floating-point arithmetic is **coprocessor 1** in [[MIPS]] ([[MIPS syntax#Floating-point arithmetic]]), which has its own **floating-point registers** ($f0~31; single-precision: $fx; double-precision: $fx, $fx+1). 
 
-## Parallelism
-[[Subword parallelism]]
+## [[Subword parallelism]]
 
 ## Fallacy
 1. **Right shift** can replace integer division by a power of 2

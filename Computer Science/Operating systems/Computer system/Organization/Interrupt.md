@@ -18,14 +18,14 @@ Tags:
 - allowing a device to **change the flow of control** in the [[Processor|CPU]] via **interrupt-request line** (hardware interrupt)
 - transferring control to **interrupt service routine** (aka **interrupt handler**, **interrupt-handler routine**)
 
-| Hardware interrupt                           | Software interrupt                            |
-| -------------------------------------------- | --------------------------------------------- |
-| invoked by **external devices**              | invoked by **errors** or **[[System call]]s** |
-| sending a signal to [[Processor]]            | using the instruction **INT**                 |
-| **not** incrementing the [[Program counter]] | incrementing the [[Program counter]]          |
-| asynchronous event                           | synchronous event                             |
-| **lowest** priority                          | **highest** priority                          |
-| 1. Maskable<br>2. Non-maskable               | 1. Normal interrupt<br>2. Exception (trap)    |
+| Hardware interrupt                           | Software interrupt                             |
+| -------------------------------------------- | ---------------------------------------------- |
+| invoked by **external devices**              | invoked by **errors** or **[[System call]]s**  |
+| sending a signal to [[Processor]]            | using the instruction **INT**                  |
+| **not** incrementing the [[Program counter]] | incrementing the [[Program counter]]           |
+| asynchronous event                           | synchronous event                              |
+| **lowest** priority                          | **highest** priority                           |
+| 1. Maskable<br>2. Non-maskable               | 1. Normal interrupt<br>2. [[Exception]] (trap) |
 
 1. Maskable interrput: able to be turned off by [[Processor|CPU]] before execution of critical instruction sequences that must not be interrupted; used by device requests. 
 2. Non-maskable interrupt: reserved for events such as unrecoverable memory errors. 
@@ -51,6 +51,7 @@ In modern computer, [[Processor|CPU]] and **interrupt-controller hardware** prov
 ![[Screen Shot 2022-10-09 at 15.40.47.png|500]]
 Intel interrupt vector: 0~31 (nonmaskable) and 32~255 (maskable)
 
+- [[Vectored interrupt]]
 - Interrupts must be handled **quickly**, as they occur very **frequently**. 
 - To provide the speed, 
 	1. Interrupt routines are called indirectly through **a table of pointers** to them. 
