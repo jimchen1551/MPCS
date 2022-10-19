@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer organization/Processor.md",
+            "file": "Computer Science/Computer organization/Processor/Exception/Handler.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer organization.md",
+            "file": "Computer Science/Computer organization/Processor/Exception.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer organization.md",
+                "file": "Computer Science/Computer organization/Processor/Exception/Handler.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer organization.md",
+                "file": "Computer Science/Computer organization/Processor/Exception/Handler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer organization.md"
+                "file": "Computer Science/Computer organization/Processor/Exception/Handler.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fb2a7732ae5f3e46",
+  "active": "38d7c2af2a336a8c",
   "lastOpenFiles": [
+    "Computer Science/Computer organization/Processor/Exception/Vectored interrupt.md",
+    "Computer Science/Computer organization/Processor/Exception.md",
+    "Computer Science/Computer organization/Processor/Exception/Handler.md",
     "Computer Science/Computer organization/Processor.md",
     "Computer Science/Computer organization.md",
+    "Computer Science/Computer organization/ISA/Subword parallelism.md",
     "Computer Science/Computer organization/Arithmetics.md",
     "Computer Science/Computer organization/Instruction set architecture.md",
     "Computer Science/Computer organization/ISA/Procedure/Memory layout.md",
-    "Computer Science/Computer organization/ISA/Procedure/Procedure call.md",
-    "Computer Science/Computer organization/ISA/Instruction operation.md",
-    "Computer Science/Computer organization/ISA/Instruction operands.md",
-    "Computer Science/Computer organization/ISA/Instruction format and addressing.md",
-    "Computer Science/Operating systems.md"
+    "Computer Science/Computer organization/ISA/Procedure/Procedure call.md"
   ]
 }

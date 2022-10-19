@@ -45,15 +45,8 @@ Standard: [[IEEE std 754]]
 
 Hardware for floating-point arithmetic is **coprocessor 1** in [[MIPS]] ([[MIPS syntax#Floating-point arithmetic]]), which has its own **floating-point registers** ($f0~31; single-precision: $fx; double-precision: $fx, $fx+1). 
 
----
-
-## Subword parallelism
-- aka data-level parallelism, vector parallelism, or single instruction multiple data (**SIMD**)
-- Graphics and audio applications can take advantage of performing simultaneous operations on short vectors. 
-- e.g., 128-bit adder can be used to do 16 * 8-bit addtions, 8 * 16-bit additions, or 4 * 32-bit addtions. 
-- [[Streaming SIMD Extensions]], [[Advanced Vector Extensions]]
-
----
+## Parallelism
+[[Subword parallelism]]
 
 ## Fallacy
 1. **Right shift** can replace integer division by a power of 2

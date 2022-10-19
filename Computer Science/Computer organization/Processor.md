@@ -82,39 +82,7 @@ Tags:
    - The requested data can be transferred b/w processor and memory in a single stage. 
 
 ## Exception
-![[Screen Shot 2022-08-11 at 00.56.58.png]]
-
-**Exception**: arising within the CPU; e.g., undefined opcode, overflow, syscall, ...
-**Interrupt**: from an external IO controller
-- Another form of [[Control hazard]]
-- In [[MIPS]], exceptions managed by a **system control coprocessor** (CP0)
-  1. saving [[Program counter|PC]] of offending instruction into **exception program counter** (EPC)
-  2. saving **indication** of the problem into **cause register**
-  3. jumping to **handler** at 8000 00180
-
-### Handler
-- reading cause and transferring to relevant handler
-- determining action required...
-  - if restartable, taking corrective action and using EPC to return to program
-  - otherwise, terminating program and reporting error using EPC, cause, ...
-
-### Vectored interrupts
-- handler address determined by the cause
-- e.g., 
-  undefined opcode: C000 0000
-  overflow                 : C000 0020
-  ...
-
-### Precise exceptions
-- dealing with exception from earliest instruction and flushing the subsequent instructions
-- out-of-order completion
-- hard to maintain but common
-
-### Imprecise exceptions
-- just stop pipeline and save state including exception causes
-- let the handler work out (to complete or flush)
-- simplifies hardware, but more complex handler software
-- not feasible for complex multiple-issue out-of-order pipelines
+[[Exception]]
 
 ## Instruction-level parallelism
 - **Pipelining**: executing multiple instructions in parallel
