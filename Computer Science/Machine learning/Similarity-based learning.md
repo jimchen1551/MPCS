@@ -5,4 +5,7 @@ Types: Note
 Tags: 
 - 
 ---
-# 
+# Similarity-based learning
+## Feature space
+## Distance metrics
+## Nearest neighbor algorithm
