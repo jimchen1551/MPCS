@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Machine learning.md",
+            "file": "Computer Science/Machine learning/Data.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Data.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning.md"
+                "file": "Computer Science/Machine learning/Data.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "38d7c2af2a336a8c",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning.md",
     "conflict-files-obsidian-git.md",
     "Computer Science/Machine learning/Error-based learning.md",
-    "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning/Data preparation.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Evaluation.md",
