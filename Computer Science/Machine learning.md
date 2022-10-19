@@ -5,14 +5,13 @@ Types: Note
 Tags: 
 - 
 ---
-
 # Machine learning
 - an automatic process that extracts patterns from data (or past experiences)
 - A computer program is said to learn from **experience** ***E*** with respect to some class of **tasks** ***T*** and **performance** measure ***P***, if its performance at tasks in *T*, as measured by  *P*, improves with *E*. 
 
 | Machine Learning               | Content |
 | ------------------------------ | ------- |
-| [[Data preparation]]           |         |
+| [[Data]]           |         |
 | [[Information-based learning]] |         |
 | [[Similarity-based learning]]  |         |
 | [[Probability-based learning]] |         |
