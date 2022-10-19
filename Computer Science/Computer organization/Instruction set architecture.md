@@ -35,51 +35,24 @@ Tags:
   3. rd: destination register
   4. ra: address register
 
-| Instruction set architecture          | Content |
-| ------------------------------------- | ------- |
-| [[Instruction format and addressing]] |[[MIPS R-format]]<br>[[MIPS I-format]]<br>[[MIPS]]         |
-| [[Instruction operand]]               |         |
-| [[Instruction operation]]             |         |
-
-
-
-
+| Instruction set architecture          | Content                                                                                                                       |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[Instruction format and addressing]] | [[MIPS R-format]]<br>[[MIPS I-format]]<br>[[MIPS J-format]]                                                                   |
+| [[Instruction operands]]              | [[Register operands]]<br>[[Memory operands]]<br>[[Immediate operands]]<br>[[Constant]]                                        |
+| [[Instruction operation]]             | [[Shift operation]]<br>[[And operation]]<br>[[Or operation]]<br>[[Not operation]]<br>[[Branch]]<br>[[Jump]]<br>[[Comparison]] |
 
 ---
 
 ## Procedures
 - a set of coded instructions that tell a computer how to run a program or calculation
+- [[Stack]], [[Leaf procedure]], [[Nested procedure]]
+| Mechanism          | Content                                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| [[Procedure call]] | [[Program counter]]<br>[[Caller saving]]<br>[[Callee saving]]<br>[[Jump and link]]<br>[[Jump register]]<br>[[Procedure frame]] |
+|                    |                                                                                                                                |
+|                    |                                                                                                                                |
 
-| Content | Study | Test | Review |
-| :------ | :---: | :--: | :----: |
-|[[Stack]]|<input type="checkbox" />|<input type="checkbox" />|<input type="checkbox" />|
-|[[Leaf procedure]]|<input type="checkbox" />|<input type="checkbox" />|<input type="checkbox" />|
-|[[Nested procedure]]|<input type="checkbox" />|<input type="checkbox" />|<input type="checkbox" />|
 
-### Procedure call
-![[Screen Shot 2022-07-07 at 14.04.34.png]]
-PC: [[#Program counter]]
-
-If [[#Program counter]] meets procedure call at caller instruction sequence, 
-1. Place parameters accessible to callee instruction sequence. $a0~3
-2. (PC) Transfer control to procedure. $ra
-3. Acquire storage needed for procedure. 
-4. Perform desired task. 
-5. Place result accessible to caller. $v0, $v1
-6. (PC) Return control to caller. $ra
-
-![[Pasted image 20220707141706.png]]
-* Caller-saved: $t0~9
-* Callee-saved: $s0~7
-
-| Content             | Comment                      |
-| ------------------- | ---------------------------- |
-| [[Program counter]] | Instruction address register |
-| [[Caller saving]]   | Register allocation          |
-| [[Callee saving]]   | Register allocation          |
-| [[Jump and link]]   | jal                          |
-| [[Jump register]]   | jr                           |
-| [[Procedure frame]] | $sp, $fp                     |
 
 ### Memory layout
 ![[Pasted image 20220709002201.png]]
