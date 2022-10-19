@@ -7,7 +7,7 @@ Tags:
 ---
 # Instruction
 - also called machine code
-- encoded in binary
+- encoded in binary ([[Signed 2's complement]])
 - stored in [[Memory]]
 
 # Instruction set
@@ -34,55 +34,16 @@ Tags:
   2. rt: target register
   3. rd: destination register
   4. ra: address register
-## Signed and unsigned numbers
-[[Digital Systems#Signed 2's complement]]
 
-## Instruction format and addressing
-![[Screen Shot 2022-07-07 at 15.50.27.png]]
+| Instruction set architecture          | Content |
+| ------------------------------------- | ------- |
+| [[Instruction format and addressing]] |[[MIPS R-format]]<br>[[MIPS I-format]]<br>[[MIPS]]         |
+| [[Instruction operand]]               |         |
+| [[Instruction operation]]             |         |
 
-![[Screen Shot 2022-07-11 at 13.41.24.png]]
 
-| Format            | Addressing                          |
-|:----------------- |:----------------------------------- |
-| [[MIPS R-format]] | [[Register addressing]]             |
-| [[MIPS I-format]] | [[Immediate addressing]]            |
-|                   | [[Branch addressing]]               |
-|                   | [[Base or displacement addressing]] |
-|                   | [[PC-relative addressing]]          |
-| [[MIPS J-format]] | [[Jump addressing]]                 |
-|                   | [[Pseudodirect addressing]]         |
 
-## Operands
-| Function     |        Operands        |
-|:------------ |:----------------------:|
-| Algorithmic  | [[Register operands]]  |
-| Store & Load |  [[Memory operands]]   |
-| Immediate    | [[Immediate operands]] |
-| zero         |      [[Constant]]      |
 
-## Logics
-| Operation   | C   | Java | MIPS                |
-| ----------- | --- | ---- | ------------------- |
-| Shift left  | <<  | <<   | [[Shift operation]] |
-| Shift right | >>  | >>   | [[Shift operation]] |
-| And         | &   | &    | [[And operation]]   |
-| Or          |     |      | [[Or operation]]    |
-| Not         | ~   | ~    | [[Not operation]]   |
-
-## Decision making
-| Instruction    | Application      |
-| -------------- | ---------------- |
-| [[Branch]]     | [[If statement]] |
-| [[Jump]]       |[[Loop statement]]                  |
-| [[Comparison]] |                  |
-
-### Basic block
-![[Pasted image 20220707180952.png]]
-- a sequence of intructions with 
-  1. **No branch in** except to the entry
-  2. **No branch out** except at the exit
-- A [[Compiler]] identifies basic blocks for optimization
-- An advanced processor can accelerate execution of basic blocks
 
 ---
 

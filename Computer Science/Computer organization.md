@@ -6,12 +6,12 @@ Tags:
 - 
 ---
 # Computer organization
-| Content                          |           Study           |           Test            |          Review           |
-|:-------------------------------- |:-------------------------:|:-------------------------:|:-------------------------:|
-| [[Instruction set architecture]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Arithmetics]]                   | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Processor]]                    | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Memory]]                       | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
+| Computer organization            | Content |
+|:-------------------------------- | ------- |
+| [[Instruction set architecture]] |         |
+| [[Arithmetics]]                  |         |
+| [[Processor]]                    |         |
+| [[Memory]]                       |         |
 
 ## Core ideas
 1. Use **abstraction** to simplify design
