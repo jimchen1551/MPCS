@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer organization/ISA/Procedure/Procedure call.md",
+            "file": "Computer Science/Computer organization/Processor.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer organization/Instruction set architecture.md",
+            "file": "Computer Science/Computer organization.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer organization/Instruction set architecture.md",
+                "file": "Computer Science/Computer organization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer organization/Instruction set architecture.md",
+                "file": "Computer Science/Computer organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer organization/Instruction set architecture.md"
+                "file": "Computer Science/Computer organization.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5495f31a6c68b4af",
+  "active": "fb2a7732ae5f3e46",
   "lastOpenFiles": [
-    "Computer Science/Computer organization/ISA/Procedure/Procedure call.md",
+    "Computer Science/Computer organization/Processor.md",
+    "Computer Science/Computer organization.md",
+    "Computer Science/Computer organization/Arithmetics.md",
     "Computer Science/Computer organization/Instruction set architecture.md",
+    "Computer Science/Computer organization/ISA/Procedure/Memory layout.md",
+    "Computer Science/Computer organization/ISA/Procedure/Procedure call.md",
     "Computer Science/Computer organization/ISA/Instruction operation.md",
     "Computer Science/Computer organization/ISA/Instruction operands.md",
     "Computer Science/Computer organization/ISA/Instruction format and addressing.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Machine learning.md",
-    "Computer Science/Machine learning/Data.md",
-    "conflict-files-obsidian-git.md"
+    "Computer Science/Operating systems.md"
   ]
 }

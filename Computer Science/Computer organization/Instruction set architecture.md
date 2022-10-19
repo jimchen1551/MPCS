@@ -41,28 +41,13 @@ Tags:
 | [[Instruction operands]]              | [[Register operands]]<br>[[Memory operands]]<br>[[Immediate operands]]<br>[[Constant]]                                        |
 | [[Instruction operation]]             | [[Shift operation]]<br>[[And operation]]<br>[[Or operation]]<br>[[Not operation]]<br>[[Branch]]<br>[[Jump]]<br>[[Comparison]] |
 
----
-
 ## Procedures
 - a set of coded instructions that tell a computer how to run a program or calculation
-- [[Stack]], [[Leaf procedure]], [[Nested procedure]]
+- e.g., [[Stack]], [[Leaf procedure]], [[Nested procedure]]
 | Mechanism          | Content                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | [[Procedure call]] | [[Program counter]]<br>[[Caller saving]]<br>[[Callee saving]]<br>[[Jump and link]]<br>[[Jump register]]<br>[[Procedure frame]] |
-|                    |                                                                                                                                |
-|                    |                                                                                                                                |
-
-
-
-### Memory layout
-![[Pasted image 20220709002201.png]]
-
-| Content      | Comment                         |
-| ------------ | ------------------------------- |
-| Text         | program code                    |
-| Static data  | global variables, $gp           |
-| Dynamic data | heap (malloc in C, new in Java) |
-| [[Stack]]    | automatic storage               |
+| [[Memory layout]]  |                                                                                                                                |
 
 ## Synchronization
 - If there're 2 processors sharing an area of memory without synchronization, **Data racing** occurs. 

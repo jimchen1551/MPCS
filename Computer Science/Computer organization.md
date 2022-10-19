@@ -6,12 +6,12 @@ Tags:
 - 
 ---
 # Computer organization
-| Computer organization            | Content |
-|:-------------------------------- | ------- |
-| [[Instruction set architecture]] |         |
-| [[Arithmetics]]                  |         |
-| [[Processor]]                    |         |
-| [[Memory]]                       |         |
+| Computer organization            | Content                                                                                                                                                                                                                                                                                                                                                        |
+|:-------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Instruction set architecture]] | [[Complex instruction set computer]]<br>[[Reduced instruction set computer]]<br>[[Instruction format and addressing]]<br>[[Instruction operands]]<br>[[Instruction operation]]<br>[[Stack]]<br>[[Leaf procedure]]<br>[[Nested procedure]]<br>[[Procedure call]]<br>[[Memory layout]]                                                                           |
+| [[Arithmetics]]                  | [[Integer addition]]<br>[[Integer subtraction]]<br>[[Overflow]]<br>[[Arithmetic logic unit]]<br>[[Shifter]]<br>[[Ordinary multiplication algorithm]]<br>[[Ordinary division algorithm]]<br>[[Refined multiplication algorithm]]<br>[[Refined division algorithm]]<br>[[Booth's algorithm]]<br>[[Floating-point addition]]<br>[[Floating-point multiplication]] |
+| [[Processor]]                    | [[Instruction fetch datapath]]<br>[[Arithmetic-logical instruction datapath]]<br>[[Memory instruction datapath]]<br>[[Branch instruction datapath]]<br>[[Jump instruction datapath]]<br>[[Single-cycle CPU]]<br>[[Pipelined datapath]]<br>[[Pipelined control]]<br>[[Structural hazard]]<br>[[Data hazard]]<br>[[Control hazard]]<br>[[Hazard detection]]                                                                                                                                                                           |
+| [[Memory]]                       |                                                                                                                                                                                                                                                                                                                                                                |
 
 ## Core ideas
 1. Use **abstraction** to simplify design
