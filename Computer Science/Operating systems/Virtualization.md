@@ -11,4 +11,7 @@ Tags:
 - allowing OS to **run as applications** within other OS
 - using **emulation** when source [[Processor|CPU]] type different from target time
   e.g., IBM Power CPU to Intel x86 (Rosetta), Intel x86 to Apple M (Rosetta 2)
-  **Interpretation**: when computer language not compiled to native code
+- **Interpretation**: when computer language not compiled to native code
+- **Virtualization**: **host** and **guest** OSes natively compiled for [[Processor|CPU]]
+- **Virtual machine manager**: VMM, providing virtualization sevices 
+  (e.g., Parallel)
