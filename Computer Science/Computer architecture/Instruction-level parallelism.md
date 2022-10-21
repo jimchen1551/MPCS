@@ -1,7 +1,7 @@
 ---
 Created: [[2022-10-19]]
 Aliases: 
-Types: Card
+Types: Note
 Tags: 
 - 
 ---
