@@ -5,7 +5,7 @@ Types:
 Tags: 
 - 
 ---
-# Distributed computing
+# Distributed system
 [[Clustered system]]
 [[Client-server computing]]
 [[Peer-to-peer computing]]

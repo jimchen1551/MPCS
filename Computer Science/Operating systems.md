@@ -34,7 +34,8 @@ Tags:
 | ----------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [[Traditional computing]]     |                                                                                                          |
 | [[Mobile computing]]          |                                                                                                          |
-| [[Distributed computing]]     | [[Clustered system]]<br>[[Client-server computing]]<br>[[Peer-to-peer computing]]<br>[[Cloud computing]] |
+| [[Real-time embedded system]] |                                                                                                          |
+| [[Distributed system]]     | [[Clustered system]]<br>[[Client-server computing]]<br>[[Peer-to-peer computing]]<br>[[Cloud computing]] |
 
 ## Score
 - Midterm: 30%
