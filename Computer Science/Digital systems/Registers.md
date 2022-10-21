@@ -6,3 +6,9 @@ Tags:
 - 
 ---
 # Registers
+## Counter
+### Load enable
+### Microoperation
+## Register transfer
+### Register transfer operation
+### Register cell

@@ -5,7 +5,7 @@ Types: Card
 Tags: 
 - 
 ---
-#### D latch
+# D latch
 ![[Pasted image 20220704173003.png]]
 - D for data; Enable == control
 
