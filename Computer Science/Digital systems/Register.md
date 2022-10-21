@@ -26,15 +26,27 @@ Approach 2:
 ![[Screen Shot 2022-10-22 at 01.39.29.png]]
 - loading control input through the **D** inputs of the [[Flip-flop]]s
 - $D_i=Load\cdot I_i+Load'\cdot Q_i$
-## Shift register![[Screen Shot 2022-10-22 at 01.50.24.png]]
+## Shift register
+Unidirection: 
 ![[Screen Shot 2022-10-22 at 01.43.31.png]]
+Bidirection: (0 → left; 1 → right)
+![[Screen Shot 2022-10-22 at 01.50.24.png]]
 - a register capable of **shifting its binary info** in one or both direction
+- $D_i=direction\cdot A_{i+1}+direction'\cdot A_{i-1}$
 ### Shift register with parallel load
+Unidirection: 
 ![[Screen Shot 2022-10-22 at 01.47.24.png]]
 ![[Screen Shot 2022-10-22 at 01.45.03.png]]
 - $D_i=Shift'\cdot Load\cdot I_i+Shift'\cdot Load'\cdot Q_i+Shift\cdot Q_{i-1}$
-
+Bidirection: 
+![[Screen Shot 2022-10-22 at 01.53.28.png]]
+![[Screen Shot 2022-10-22 at 01.54.12.png]]
+- $D_i=S_1'S_0'Q_i+S_1'S_0Q_{i-1}+S_1S_0'Q_{i+1}+S_1S_0I_i$
 # Counter
 - a register that goes through a predetermined sequence of states
 ## Ripple counter
 ## Synchronous binary counter
+### Binary counter with JK Flip-Flops
+### Up-down binary counter
+### Binary counter with parallel load
+## BCD counter
