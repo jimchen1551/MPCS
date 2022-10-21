@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Virtualization.md",
+            "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Virtualization.md",
+                "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Virtualization.md",
+                "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Virtualization.md"
+                "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   "active": "6f862ccee4f89796",
   "lastOpenFiles": [
     "Computer Science/Operating systems.md",
-    "Untitled.md",
     "Computer Science/Operating systems/Virtualization.md",
+    "Untitled.md",
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning.md",
     "Computer Science.md",
