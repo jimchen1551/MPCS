@@ -11,5 +11,5 @@ Tags:
 ## File modification
 ## Programming-language support
 ## Program loading and execution
-## Communications
+## Communication
 ## Background services
