@@ -9,14 +9,14 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md",
+            "file": "Computer Science/Operating systems/Computing environment/Client-server computing.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "ae2882bd990e705d",
+        "id": "aa8e68a6adffb5d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md",
+                "file": "Computer Science/Operating systems/Computing environment/Client-server computing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md",
+                "file": "Computer Science/Operating systems/Computing environment/Client-server computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Traditional computing.md"
+                "file": "Computer Science/Operating systems/Computing environment/Client-server computing.md"
               }
             }
           },
@@ -173,14 +173,14 @@
   "active": "6f862ccee4f89796",
   "lastOpenFiles": [
     "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Computing environment/Client-server computing.md",
+    "Computer Science/Operating systems/Computing environment/Mobile computing.md",
     "Computer Science/Operating systems/Computing environment/Traditional computing.md",
     "Computer Science/Operating systems/Virtualization.md",
     "Untitled.md",
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning.md",
     "Computer Science.md",
-    "Computational Neuroscience.md",
-    "Computer Science/Machine learning/Similarity-based learning.md",
-    "Computer Science/Machine learning/Similarity-based learning 2.md"
+    "Computational Neuroscience.md"
   ]
 }
