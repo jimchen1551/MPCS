@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f723bd20a115309d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "553ebfe9f1d91872",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Machine learning/Data.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
+                "file": "Computer Science/Machine learning/Data.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
+                "file": "Computer Science/Machine learning/Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md"
+                "file": "Computer Science/Machine learning/Data.md"
               }
             }
           },
@@ -170,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f723bd20a115309d",
+  "active": "553ebfe9f1d91872",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Machine learning.md",
     "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
+    "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Operating system structures/System service.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Protection.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/File management.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Device management.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Communication.md"
+    "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md"
   ]
 }
