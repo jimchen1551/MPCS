@@ -10,6 +10,7 @@ Tags:
 - e.g., C shell (csh), Z shell (zsh), Bourne-Agian shell (bash), Korn shell (ksh)
 - a special program that is running when a process is initiated or when a user first logs on
 - getting and executing the next user-specified command
+- often used by **system administrators** and **power users**
 ## Command implementation
 - two way to implement: 
 1. containning the code to execute the command

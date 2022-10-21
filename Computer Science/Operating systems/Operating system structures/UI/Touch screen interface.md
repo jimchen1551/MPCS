@@ -5,3 +5,5 @@ Types: Card
 Tags: 
 - 
 ---
+# Touch screen interface
+- for [[Mobile computing]]

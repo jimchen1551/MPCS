@@ -5,4 +5,8 @@ Types: Card
 Tags: 
 - 
 ---
-# Graphic 
+# Graphic user interface
+- super user-friendly
+- Windows = GUI + MS-DOS
+- macOS = Aqua GUI + UNIX
+- UNIX and Linux = CLI

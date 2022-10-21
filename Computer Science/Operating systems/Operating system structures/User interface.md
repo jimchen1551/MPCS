@@ -9,4 +9,3 @@ Tags:
 1. [[Command line interface]]
 2. [[Graphic user interface]]
 3. [[Touch screen interface]]
-
