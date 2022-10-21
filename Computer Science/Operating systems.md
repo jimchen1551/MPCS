@@ -28,20 +28,7 @@ Tags:
 | [[IO-system management]]   |         |
 | [[Protection]]             |         |
 | [[Security]]               |         |
-
-| Advanced topics        | Content |
-| ---------------------- | ------- |
-| [[Virtualization]]     |         |
-
-
-| Kernel DS        | Comment                         |
-| ---------------- | ------------------------------- |
-| [[Linked lists]] |                                 |
-| [[Stacks]]       | Funtion calls                   |
-| [[Queues]]       | Sending job to external devices |
-| [[Trees]]        | CPU-scheduling algorithm        |
-| [[Hash maps]]    | Retrieval of password           |
-| [[Bit maps]]     | Availability of each disk block |
+| [[Virtualization]]         |         |
 
 | Computing environment         | Content                                                                                                  |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------- |
