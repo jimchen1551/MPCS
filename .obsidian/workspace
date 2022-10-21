@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
+            "file": "Computer Science/Operating systems/Operating system structures/UI/Graphic user interface.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
+                "file": "Computer Science/Operating systems/Operating system structures/UI/Graphic user interface.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
+                "file": "Computer Science/Operating systems/Operating system structures/UI/Graphic user interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md"
+                "file": "Computer Science/Operating systems/Operating system structures/UI/Graphic user interface.md"
               }
             }
           },
@@ -161,12 +161,12 @@
   "active": "6f862ccee4f89796",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Operating system structures/User interface.md",
+    "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Operating system structures/System service.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Operating system structures/UI/Touch screen interface.md",
     "Computer Science/Operating systems/Operating system structures/UI/Graphic user interface.md",
-    "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Computing environment/Distributed system.md",
     "Computer Science/Operating systems/Computing environment/Real-time embedded system.md"
