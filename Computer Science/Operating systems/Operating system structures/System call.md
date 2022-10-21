@@ -28,7 +28,8 @@ Tags:
 - e.g., Windows API, POSIX API, and Java API
 ## Run-time environment
 - aka **RTE**
-- the full suite of software needed to execute app written in a given programming language
+- the full suite of software needed to execute app written in a given programming language, including its compilers or interpreters as well as other software, such as libraries and loaders
+- 
 ## Process control
 ## File management
 ## Device management
