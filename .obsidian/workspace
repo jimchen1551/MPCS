@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/System call and service/Untitled.md",
+            "file": "Computer Science/Operating systems/Operating system structures/System call and service/Background service.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Untitled.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Untitled.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Untitled.md"
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "016fd6524d7c55c2",
+  "active": "f723bd20a115309d",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Operating system structures/System service.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Background service.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Program loading and execution.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Programming-language support.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/File modification.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Device management.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/File management.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Run-time environment.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Application Programming interface.md",
-    "Computer Science/Computer organization/Instruction set architecture.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Computer organization/Processor.md"
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Communication.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md"
   ]
 }

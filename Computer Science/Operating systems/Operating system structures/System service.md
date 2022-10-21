@@ -6,10 +6,12 @@ Tags:
 - 
 ---
 # System service
-## File management
-## Status information
-## File modification
-## Programming-language support
-## Program loading and execution
-## Communication
-## Background services
+| System service                    | Comment |
+| --------------------------------- | ------- |
+| [[File management]]               |         |
+| [[Status information]]            |         |
+| [[File modification]]             |         |
+| [[Programming-language support]]  |         |
+| [[Program loading and execution]] |         |
+| [[Communication]]                 |         |
+| [[Background service]]                                  |         |

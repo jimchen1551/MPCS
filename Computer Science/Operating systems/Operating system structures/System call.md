@@ -34,9 +34,5 @@ Tags:
 | [[File management]]         |         |
 | [[Device management]]       |         |
 | [[Information maintenance]] |         |
-| [[Communication]]                            |         |
-
-
-## 
-## 
-## Protection
+| [[Communication]]           |         |
+| [[Protection]]              |         |
