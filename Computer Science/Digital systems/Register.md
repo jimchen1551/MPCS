@@ -12,12 +12,20 @@ Tags:
 ![[Screen Shot 2022-10-22 at 01.17.17.png|200]]
 - consisting of only [[Flip-flop]]s w/o any gates
 ## Register with parallel load
+![[Screen Shot 2022-10-22 at 01.22.18.png]]
+![[Screen Shot 2022-10-22 at 01.20.48.png]]
+Approach 1: 
+![[Screen Shot 2022-10-22 at 01.36.27.png]]
+![[Screen Shot 2022-10-22 at 01.36.46.png]]
+- loading control input through the **C** inputs of the [[Flip-flop]]s → **clock gating**
+- preventing the clock from reaching the clock input to the circuit if the contents of the register are to be left unchanged
+- $\text{C inputs}=Load'+Clock'$
+- Inserting gates in the clock pulse path produces different [[Propagation delay]]s b/w clock and the inputs of [[Flip-flop]]s w/ and w/o clock gating → **clock skew**
 
-loading control input through the C inputs of the [[Flip-flop]] → **clock gating**
-  preventing the clock from reaching the clock input to the circuit if the contents of the register are to be left unchanged
-  $\text{C inputs}=Load'+Clock'$
-  
-- Approach 2: loading control input throuhg the D inputs of the [[Flip-flop]]
+Approach 2: 
+![[Screen Shot 2022-10-22 at 01.39.29.png]]
+- loading control input through the **D** inputs of the [[Flip-flop]]s
+- $D_i=Load\cdot I_i+Load'\cdot Q_i$
 ## Shift register
 # Counter
 - a register that goes through a predetermined sequence of states
