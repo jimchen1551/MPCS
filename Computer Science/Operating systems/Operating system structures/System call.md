@@ -19,9 +19,12 @@ Tags:
 3. The kernel examines the interrupting instruction to determine what system call has occurred; a parameter indicates what type of service the user program is requesting.
 4. The kernel verifies that the parameters are correct and legal, executes the request, and returns control to the instruction following the system call.
 ## Application Programming interface
+![[Screen Shot 2022-10-21 at 15.20.32.png|500]]
 - aka **API**
 - a set of funcitons available to an app programmer
 - programmers access APIs via a library of code provided by the operating system (libc for UNIX and Linux)
+- providing better **portability** rather than system call
+- easier to design for app programmers
 - e.g., Windows API, POSIX API, and Java API
 ## Process control
 ## File management
