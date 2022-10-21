@@ -6,3 +6,8 @@ Tags:
 - 
 ---
 # File management
+## System call
+1. create and delete file
+2. open and close file
+3. read, write, reposition
+4. get and set file attributes

@@ -6,12 +6,13 @@ Tags:
 - 
 ---
 # Process control
-1. create process, terminate process
-2. end, abort
-3. load, execute
-4. get process attributes, set process attributes
+## System call
+1. create and terminate process
+2. end and abort
+3. load and execute
+4. get and set process attributes
 5. wait for time
-6. wait event, signal evenet
+6. wait and signal evenet
 7. allocate and free memory
 8. dump memory if error
 9. debugger for determining bugsm single step execution
