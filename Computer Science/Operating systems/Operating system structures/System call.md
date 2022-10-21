@@ -26,6 +26,9 @@ Tags:
 - providing better **portability** rather than system call
 - easier to design for app programmers
 - e.g., Windows API, POSIX API, and Java API
+## Run-time environment
+- aka **RTE**
+- 
 ## Process control
 ## File management
 ## Device management
