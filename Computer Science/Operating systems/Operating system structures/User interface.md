@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # User interface
-1. [[Command line interpreter]]
+1. [[Command line interface]]
 2. [[Graphic user interface]]
 3. [[Touch screen interface]]
 

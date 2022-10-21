@@ -9,7 +9,7 @@ Tags:
 ![[Screen Shot 2022-10-21 at 12.33.44.png]]
 | OS structure       | Content                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------- |
-| [[User interface]] | [[Command line interpreter]]<br>[[Graphic user interface]]<br>[[Touch screen interface]] |
+| [[User interface]] | [[Command line interface]]<br>[[Graphic user interface]]<br>[[Touch screen interface]] |
 | [[System call]]    |                                                                                          |
 | [[System service]] |                                                                                          |
 
