@@ -22,6 +22,8 @@ Tags:
 ![[Screen Shot 2022-10-21 at 18.07.52.png|500]]
 - The caller need only obey the [[Application Programming interface|API]] and understand waht the OS will do as a result of the execution of the system call. 
 - Most of the details of the OS interface are hidden from the programmer by the [[Application Programming interface|API]] and managed by the [[Run-time environment|RTE]] (aka [[Run-time environment|system call interface]])
+
+![[Screen Shot 2022-10-21 at 18.50.04.png]]
 - 3 ways to pass parameters to the OS
 	1. $\leq$ 5 parameters, pass the **value** of parameters in **register**
 	2. > 5 parameters, pass the **address** of parameters in **memory**

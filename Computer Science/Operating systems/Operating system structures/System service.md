@@ -1,6 +1,6 @@
 ---
 Created: [[2022-10-21]]
-Aliases: 
+Aliases: system utility, system utilities
 Types: Note
 Tags: 
 - 
