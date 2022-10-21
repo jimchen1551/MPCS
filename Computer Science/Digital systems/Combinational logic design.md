@@ -6,36 +6,12 @@ Tags:
 - 
 ---
 # Combinational logic design
-## Design concepts
-| Design                             | Comment |
-| ---------------------------------- | ------- |
-| [[Hierarchical Design]]            |         |
-| [[Computer-Aided Design]]          |         |
-| [[Hardware Description Languages]] |         |
-| [[Logic Synthesis]]                |         |
-
-## Design space
-[[Integrated circuit|IC]]
-### Levels of integration
-| Level                            | Comment |
-| -------------------------------- | ------- |
-| [[Small-scale integration]]      |         |
-| [[Medium-scale integration]]     |         |
-| [[Large-scale integration]]      |         |
-| [[Very-large-scale integration]] |         |
-
-### Implementation technology
-| Tech                                        | Comment |
-| ------------------------------------------- | ------- |
-| [[Diode logic]]                             |         |
-| [[Resistor-transistor logic]]               |         |
-| [[Diode-transistor logic]]                  |         |
-| [[Transistor-transistor logic]]             |         |
-| [[Emitter-coupled logic]]                   |         |
-| [[Metal-oxide semiconductor]]               |         |
-| [[Complementary metal-oxide semiconductor]] |         |
-| [[Gallium Arsenide]]                        |         |
-| [[Silicon Germanium]]                       |         |
+| [[Integrated circuit]] | Content                                                                                                                                                                                                                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Design concepts        | [[Hierarchical Design]]<br>[[Computer-Aided Design]]<br>[[Hardware Description Languages]]<br>[[Logic Synthesis]]                                                                                                                                                               |
+| Level of integration   | [[Small-scale integration]]<br>[[Medium-scale integration]]<br>[[Large-scale integration]]<br>[[Very-large-scale integration]]                                                                                                                                                  |
+| Implementation tech    | [[Diode logic]]<br>[[Resistor-transistor logic]]<br>[[Diode-transistor logic]]<br>[[Transistor-transistor logic]]<br>[[Emitter-coupled logic]]<br>[[Metal-oxide semiconductor]]<br>[[Complementary metal-oxide semiconductor]]<br>[[Gallium Arsenide]]<br>[[Silicon Germanium]] |
+| Tech parameters        | [[Fan-in]]                                                                                                                                                                                                                                                                                |
 
 ### Technology parameters
 | Parameter             | Comment |

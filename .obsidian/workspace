@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "553ebfe9f1d91872",
+        "id": "5b4cb521bc44183c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer architecture.md",
+            "file": "Computer Science/Digital systems.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "5c509e8472d0d68b",
+        "id": "466119ab29865e7b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer architecture/Request-level parallelism.md",
+            "file": "Computer Science/Digital systems/Combinational logic design.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer architecture.md",
+                "file": "Computer Science/Digital systems/Combinational logic design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer architecture.md",
+                "file": "Computer Science/Digital systems/Combinational logic design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer architecture.md"
+                "file": "Computer Science/Digital systems/Combinational logic design.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "553ebfe9f1d91872",
+  "active": "466119ab29865e7b",
   "lastOpenFiles": [
+    "Computer Science/Digital systems.md",
+    "Computer Science/Digital systems/Sequential circuits.md",
+    "Computer Science/Digital systems/Registers.md",
+    "Computer Science/Computer organization.md",
+    "Computer Science/Computer architecture.md",
     "Computer Science/Computer architecture/Request-level parallelism.md",
     "Computer Science/Computer architecture/Thread-level parallelism.md",
     "Computer Science/Computer architecture/Data-level parallelism.md",
-    "Computer Science/Computer architecture.md",
     "Computer Science/Computer architecture/Memory hierarchy design.md",
-    "Computer Science/Computer architecture/Instruction-level parallelism.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Machine learning/Data.md",
-    "Computer Science/Machine learning.md",
-    "Computer Science/Operating systems.md"
+    "Computer Science/Computer architecture/Instruction-level parallelism.md"
   ]
 }

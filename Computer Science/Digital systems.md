@@ -6,12 +6,12 @@ Tags:
 - 
 ---
 # Digital systems
-| Content                        |           Study           |           Test            |          Review           |
-|:------------------------------ |:-------------------------:|:-------------------------:|:-------------------------:|
-| [[Combinational logic design]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Combinational circuits]]     | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Sequential circuits]]        | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
-| [[Registers]]                   | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
+| Digital systems                | Content |
+|:------------------------------ | ------- |
+| [[Combinational logic design]] |         |
+| [[Combinational circuits]]     |         |
+| [[Sequential circuits]]        |         |
+| [[Registers]]                  |         |
 
 ## Number systems
 | Content                        |           Study           |           Test            |          Review           |
