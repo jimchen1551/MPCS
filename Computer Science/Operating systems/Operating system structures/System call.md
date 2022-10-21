@@ -8,7 +8,7 @@ Tags:
 # System call
 ![[Screen Shot 2022-10-17 at 15.31.15.png]]
 - a specific request from a user program that an OS service be performed by executing a special operation
-- a programming interface to the [[System service]]
+- a **programming interface** to the [[System service]]
 - typically written in **C/C++** or **assembly code**
 - providing the means for a user program to ask the OS to perform tasks reserved for the OS on the user program’s behalf
 - used by a process to request action by the OS
