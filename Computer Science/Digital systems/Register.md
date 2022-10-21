@@ -11,7 +11,7 @@ Tags:
 ![[Screen Shot 2022-10-22 at 01.17.53.png|200]]
 ![[Screen Shot 2022-10-22 at 01.17.17.png|200]]
 - consisting of only [[Flip-flop]]s w/o any gates
-## Register with parallel load
+### Register with parallel load
 ![[Screen Shot 2022-10-22 at 01.22.18.png]]
 ![[Screen Shot 2022-10-22 at 01.20.48.png]]
 Approach 1: 
@@ -26,7 +26,14 @@ Approach 2:
 ![[Screen Shot 2022-10-22 at 01.39.29.png]]
 - loading control input through the **D** inputs of the [[Flip-flop]]s
 - $D_i=Load\cdot I_i+Load'\cdot Q_i$
-## Shift register
+## Shift register![[Screen Shot 2022-10-22 at 01.50.24.png]]
+![[Screen Shot 2022-10-22 at 01.43.31.png]]
+- a register capable of **shifting its binary info** in one or both direction
+### Shift register with parallel load
+![[Screen Shot 2022-10-22 at 01.47.24.png]]
+![[Screen Shot 2022-10-22 at 01.45.03.png]]
+- $D_i=Shift'\cdot Load\cdot I_i+Shift'\cdot Load'\cdot Q_i+Shift\cdot Q_{i-1}$
+
 # Counter
 - a register that goes through a predetermined sequence of states
 ## Ripple counter
