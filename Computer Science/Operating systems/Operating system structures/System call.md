@@ -20,6 +20,8 @@ Tags:
 4. The kernel verifies that the parameters are correct and legal, executes the request, and returns control to the instruction following the system call.
 ## Application Programming interface
 - aka **API**
+- a set of funcitons available to an app programmer
+- e.g., Windows API, POSIX API, and Java API
 ## Process control
 ## File management
 ## Device management
