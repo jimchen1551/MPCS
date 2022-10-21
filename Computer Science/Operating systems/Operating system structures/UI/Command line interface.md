@@ -11,6 +11,7 @@ Tags:
 - a special program that is running when a process is initiated or when a user first logs on
 - getting and executing the next user-specified command
 - often used by **system administrators** and **power users**
+- making repetitive tasks easier because of programmability (**shell scripts**)
 ## Command implementation
 - two way to implement: 
 1. containning the code to execute the command

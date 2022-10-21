@@ -9,4 +9,5 @@ Tags:
 - super user-friendly
 - Windows = GUI + MS-DOS
 - macOS = Aqua GUI + UNIX
-- UNIX and Linux = CLI
+- UNIX and Linux = [[Command line interface|CLI]] + (CDE, KDE, GNOME)
+- used by common people 
