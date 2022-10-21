@@ -11,17 +11,7 @@ Tags:
 | Design concepts        | [[Hierarchical Design]]<br>[[Computer-Aided Design]]<br>[[Hardware Description Languages]]<br>[[Logic Synthesis]]                                                                                                                                                               |
 | Level of integration   | [[Small-scale integration]]<br>[[Medium-scale integration]]<br>[[Large-scale integration]]<br>[[Very-large-scale integration]]                                                                                                                                                  |
 | Implementation tech    | [[Diode logic]]<br>[[Resistor-transistor logic]]<br>[[Diode-transistor logic]]<br>[[Transistor-transistor logic]]<br>[[Emitter-coupled logic]]<br>[[Metal-oxide semiconductor]]<br>[[Complementary metal-oxide semiconductor]]<br>[[Gallium Arsenide]]<br>[[Silicon Germanium]] |
-| Tech parameters        | [[Fan-in]]                                                                                                                                                                                                                                                                                |
-
-### Technology parameters
-| Parameter             | Comment |
-| --------------------- | ------- |
-| [[Fan-in]]            |         |
-| [[Fan-out]]           |         |
-| [[Noise margin]]      |         |
-| [[Cost for a gate]]   |         |
-| [[Propagation delay]] |         |
-| [[Power dissipation]] |         |
+| Tech parameters        | [[Fan-in]]<br>[[Fan-out]]<br>[[Noise margin]]<br>[[Cost for a gate]]<br>[[Propagation delay]]<br>[[Power dissipation]]                                                                                                                                                          |
 
 ## Design procedure
 | Procedure              | Comment                                                                                                                  |

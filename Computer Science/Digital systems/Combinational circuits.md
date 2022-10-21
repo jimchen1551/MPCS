@@ -47,7 +47,6 @@ $$F=x+EN'$$
 [[Arithmetic block]]
 
 ### Binary adders
-
 | Adder                     | Comment |
 | ------------------------- | ------- |
 | [[Half adder]]            |         |

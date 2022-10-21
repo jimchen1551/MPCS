@@ -6,12 +6,12 @@ Tags:
 - 
 ---
 # Digital systems
-| Digital systems                | Content |
-|:------------------------------ | ------- |
-| [[Combinational logic design]] |         |
-| [[Combinational circuits]]     |         |
-| [[Sequential circuits]]        |         |
-| [[Registers]]                  |         |
+| Digital systems                | Content                                                                                                                                                                                                                                         |
+|:------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Combinational logic design]] | Design concepts<br>Level of integration<br>Implementation tech<br>Tech parameters                                                                                                                                                               |
+| [[Combinational circuits]]     | [[Decoder]]<br>[[Encoder]]<br>[[Selection]]<br>[[Look-up table]]<br>[[Arithmetic block]]<br>[[Half adder]]<br>[[Full adder]]<br>[[Ripple carry adder]]<br>[[Carry lookahead adder]]<br>[[Binary adder-subtractor]]<br>[[Binary multiplication]] |
+| [[Sequential circuits]]        | [[Flip-flop]]<br>[[Master-slave flip-flop]]<br>[[Edge-triggered flip-flop]]<br>[[JK flip-flop]]<br>[[T flip-flop]]<br>[[Latch]]<br>[[SR]]                                                                                                                                                                                                                                                |
+| [[Registers]]                  |                                                                                                                                                                                                                                                 |
 
 ## Number systems
 | Content                        |           Study           |           Test            |          Review           |
