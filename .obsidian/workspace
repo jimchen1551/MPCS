@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System service.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System service.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System service.md"
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md"
               }
             }
           },
@@ -170,10 +170,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "016fd6524d7c55c2",
+  "active": "f723bd20a115309d",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Operating system structures/System service.md",
+    "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Computer organization/Abstraction/Program execution.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Operating system structures/UI/Graphic user interface.md",
