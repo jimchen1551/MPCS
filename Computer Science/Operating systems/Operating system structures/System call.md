@@ -18,6 +18,8 @@ Tags:
 2. Control passes through the [[Interrupt#Interrupt vector]] to a service routine in the OS; the mode bit is set to kernel mode. 
 3. The kernel examines the interrupting instruction to determine what system call has occurred; a parameter indicates what type of service the user program is requesting.
 4. The kernel verifies that the parameters are correct and legal, executes the request, and returns control to the instruction following the system call.
+## Application Programming interface
+- aka **API**
 ## Process control
 ## File management
 ## Device management
