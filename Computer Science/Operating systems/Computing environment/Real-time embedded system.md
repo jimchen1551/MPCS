@@ -14,6 +14,6 @@ Tags:
 - preferring to spend their time monitoring and managing hardware devices
 ## Real-time operating system
 - RTOS
-- having well-defined, fixed time constraints
+- having well-defined, fixed time constraints (processing must be done within)
 - used when **rigid time requirements** have been placed on the operation of a processor or the flow of data
 - often used as a control device in a dedicated app
