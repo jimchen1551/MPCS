@@ -21,6 +21,7 @@ Tags:
 ## Application Programming interface
 - aka **API**
 - a set of funcitons available to an app programmer
+- programmers access APIs via a library of code provided by the operating system (libc for UNIX and Linux)
 - e.g., Windows API, POSIX API, and Java API
 ## Process control
 ## File management
