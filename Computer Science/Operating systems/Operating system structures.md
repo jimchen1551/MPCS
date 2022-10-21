@@ -7,23 +7,31 @@ Tags:
 ---
 # Operating system structures
 ## OS service
+![[Screen Shot 2022-10-21 at 12.33.44.png]]
 ## User and OS interfaces
 ### Command line interface
-- aka CLI
-- shell: cshell, bash
 ### Graphic user interface
-- aka GUI
 ### Touch screen interface
 ## System calls
-- requesting OS services
-	1. Process control
-	2. File management
-	3. Device management
-	4. Information maintenance
-	5. Communications
+### Process control
+### File management
+### Device management
+### Information maintenance
+### Communication
+### Protection
 ## System services
+### File management
+### Status information
+### File modification
+### Programming-language support
+### Program loading and execution
+### Communications
+### Background services
 ## Linkers and loaders
 ## OS design and implementation
+### Design goals
+### Mechanisms and pollicies
+### Implementation
 ## OS structure
 ## Building and booting an OS
 ## OS debugging
