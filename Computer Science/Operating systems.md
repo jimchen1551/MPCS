@@ -32,7 +32,7 @@ Tags:
 | Advanced topics        | Content |
 | ---------------------- | ------- |
 | [[Virtualization]]     |         |
-| [[Distributed system]] |         |
+
 
 | Kernel DS        | Comment                         |
 | ---------------- | ------------------------------- |
@@ -43,14 +43,12 @@ Tags:
 | [[Hash maps]]    | Retrieval of password           |
 | [[Bit maps]]     | Availability of each disk block |
 
-| Computing environment         | Content |
-| ----------------------------- | ------- |
-| [[Traditional computing]]     |         |
-| [[Mobile computing]]          |         |
-| [[Client-server computing]]   |         |
-| [[Peer-to-peer computing]]    |         |
-| [[Cloud computing]]           |         |
-| [[Real-time embedded system]] |         |
+| Computing environment         | Content                                                                                                  |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [[Traditional computing]]     |                                                                                                          |
+| [[Mobile computing]]          |                                                                                                          |
+| [[Distributed computing]]     | [[Clustered system]]<br>[[Client-server computing]]<br>[[Peer-to-peer computing]]<br>[[Cloud computing]] |
+| [[Real-time embedded system]] |                                                                                                          |
 
 ## Score
 - Midterm: 30%

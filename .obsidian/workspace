@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computing environment/Peer-to-peer computing.md",
+            "file": "Computer Science/Operating systems/Computing environment/Distributed computing.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computing environment/Client-server computing.md",
+            "file": "Computer Science/Operating systems/Computer system/Architecture/Clustered system.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Peer-to-peer computing.md",
+                "file": "Computer Science/Operating systems/Computer system/Architecture/Clustered system.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Peer-to-peer computing.md",
+                "file": "Computer Science/Operating systems/Computer system/Architecture/Clustered system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Peer-to-peer computing.md"
+                "file": "Computer Science/Operating systems/Computer system/Architecture/Clustered system.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6f862ccee4f89796",
+  "active": "aa8e68a6adffb5d3",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Computing environment/Client-server computing.md",
     "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Computing environment/Distributed computing.md",
+    "Computer Science/Operating systems/Computing environment/Client-server computing.md",
     "Computer Science/Operating systems/Computing environment/Peer-to-peer computing.md",
     "Computer Science/Operating systems/Computing environment/Mobile computing.md",
     "Computer Science/Operating systems/Computing environment/Traditional computing.md",
     "Computer Science/Operating systems/Virtualization.md",
     "Untitled.md",
     "Computer Science/Machine learning/Data.md",
-    "Computer Science/Machine learning.md",
-    "Computer Science.md"
+    "Computer Science/Machine learning.md"
   ]
 }
