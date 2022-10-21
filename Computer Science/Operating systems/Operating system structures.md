@@ -6,29 +6,13 @@ Tags:
 - 
 ---
 # Operating system structures
-| OS structure       | Content |
-| ------------------ | ------- |
-| [[User interface]] |         |
-|                    |         |
-## OS service
 ![[Screen Shot 2022-10-21 at 12.33.44.png]]
+| OS structure       | Content                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| [[User interface]] | [[Command line interpreter]]<br>[[Graphic user interface]]<br>[[Touch screen interface]] |
+| [[System call]]    |                                                                                          |
+| [[System service]] |                                                                                          |
 
-
-## System calls
-### Process control
-### File management
-### Device management
-### Information maintenance
-### Communication
-### Protection
-## System services
-### File management
-### Status information
-### File modification
-### Programming-language support
-### Program loading and execution
-### Communications
-### Background services
 ## Linkers and loaders
 ## OS design and implementation
 ### Design goals
