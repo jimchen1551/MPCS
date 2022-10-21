@@ -6,12 +6,14 @@ Tags:
 - 
 ---
 # Operating system structures
+| OS structure       | Content |
+| ------------------ | ------- |
+| [[User interface]] |         |
+|                    |         |
 ## OS service
 ![[Screen Shot 2022-10-21 at 12.33.44.png]]
-## User and OS interfaces
-### Command line interface
-### Graphic user interface
-### Touch screen interface
+
+
 ## System calls
 ### Process control
 ### File management
@@ -33,5 +35,16 @@ Tags:
 ### Mechanisms and pollicies
 ### Implementation
 ## OS structure
+### Monolithic structure
+### Layered approach
+### Microkernel
+### Modules
+### Hybrid systems
 ## Building and booting an OS
+### OS generation
+### System boot
 ## OS debugging
+### Failure analysis
+### Performance monitoring and tuning
+### Tracing
+### BCC

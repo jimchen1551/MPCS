@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Computer Science/Operating systems/Operating system structures/User interface.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "13a6e42a18e82c15",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Computer Science/Operating systems/Operating system structures.md",
             "mode": "source",
             "source": false
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md",
+                "file": "Computer Science/Operating systems/Operating system structures/User interface.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md",
+                "file": "Computer Science/Operating systems/Operating system structures/User interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md"
+                "file": "Computer Science/Operating systems/Operating system structures/User interface.md"
               }
             }
           },
@@ -160,6 +172,8 @@
   },
   "active": "6f862ccee4f89796",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Operating system structures/User interface.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Computing environment/Distributed system.md",
     "Computer Science/Operating systems/Computing environment/Real-time embedded system.md",
@@ -167,8 +181,6 @@
     "Computer Science.md",
     "Computer Science/Operating systems/Computing environment/Peer-to-peer computing.md",
     "Computer Science/Operating systems/Computer system/Architecture/Clustered system.md",
-    "Computer Science/Operating systems/Computing environment/Client-server computing.md",
-    "Computer Science/Operating systems/Computing environment/Mobile computing.md",
-    "Computer Science/Operating systems/Computing environment/Traditional computing.md"
+    "Computer Science/Operating systems/Computing environment/Client-server computing.md"
   ]
 }
