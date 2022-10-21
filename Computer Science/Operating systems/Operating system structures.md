@@ -7,11 +7,11 @@ Tags:
 ---
 # Operating system structures
 ![[Screen Shot 2022-10-21 at 12.33.44.png]]
-| OS structure       | Content                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------- |
+| OS structure       | Content                                                                                |
+| ------------------ | -------------------------------------------------------------------------------------- |
 | [[User interface]] | [[Command line interface]]<br>[[Graphic user interface]]<br>[[Touch screen interface]] |
-| [[System call]]    |                                                                                          |
-| [[System service]] |                                                                                          |
+| [[System call]]    | [[Application Programming interface]]<br>[[Run-time environment]]                      |
+| [[System service]] |                                                                                        |
 
 ## Linkers and loaders
 ## OS design and implementation

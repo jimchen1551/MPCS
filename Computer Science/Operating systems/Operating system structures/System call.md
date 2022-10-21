@@ -20,19 +20,8 @@ Tags:
 4. The kernel verifies that the parameters are correct and legal, executes the request, and returns control to the instruction following the system call.
 
 - [[Application Programming interface]]
-## Application Programming interface
-![[Screen Shot 2022-10-21 at 15.20.32.png|500]]
-- aka **API**
-- a set of funcitons available to an app programmer
-- programmers access APIs via a library of code provided by the operating system (libc for UNIX and Linux)
-- providing better **portability** rather than system call
-- easier to design for app programmers
-- e.g., Windows API, POSIX API, and Java API
-## Run-time environment
-- aka **RTE**
-- the full suite of software needed to execute app written in a given programming language, including its **compilers** or **interpreters** as well as **libraries** and **loaders**
-- providing a **system-call interface** that serves as the link to system calls made available by the OS
-- intercepting function calls in the API and invoking the necessary system calls within the OS
+- [[Run-time environment]]
+
 ## Process control
 ## File management
 ## Device management
