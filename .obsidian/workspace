@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call/Run-time environment.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call/Run-time environment.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call/Run-time environment.md"
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md"
               }
             }
           },
@@ -170,15 +170,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f723bd20a115309d",
+  "active": "016fd6524d7c55c2",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Operating system structures/System call.md",
-    "Computer Science/Computer organization/Instruction set architecture.md",
     "Computer Science/Operating systems/Operating system structures/System call/Run-time environment.md",
+    "Computer Science/Operating systems/Operating system structures/System call.md",
+    "Computer Science/Operating systems/Operating system structures/System call/Application Programming interface.md",
+    "Computer Science/Computer organization/Instruction set architecture.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer organization/Processor.md",
     "Computer Science/Computer organization/Abstraction/Program execution.md",
-    "Computer Science/Operating systems/Operating system structures/System call/Application Programming interface.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
     "Computer Science/Operating systems/Operating system structures/System service.md"

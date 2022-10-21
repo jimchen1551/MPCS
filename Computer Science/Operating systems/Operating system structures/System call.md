@@ -19,8 +19,9 @@ Tags:
 3. The kernel examines the interrupting instruction to determine what system call has occurred; a parameter indicates what type of service the user program is requesting.
 4. The kernel verifies that the parameters are correct and legal, executes the request, and returns control to the instruction following the system call.
 
-- [[Application Programming interface]]
-- [[Run-time environment]]
+![[Screen Shot 2022-10-21 at 18.07.52.png|500]]
+- The caller need only obey the [[Application Programming interface|API]] and understand waht the OS will do as a result of the execution of the system call. 
+- Most of the details of the OS interface are hidden from the programmer by the [[Application Programming interface|API]] and managed by the [[Run-time environment|RTE]] (aka [[Run-time environment|system call interface]])
 
 ## Process control
 ## File management

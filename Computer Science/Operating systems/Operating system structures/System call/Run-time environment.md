@@ -1,6 +1,6 @@
 ---
 Created: [[2022-10-21]]
-Aliases: system call interface
+Aliases: system call interface, RTE
 Types: Card
 Tags: 
 - 
@@ -13,4 +13,4 @@ Tags:
 
 1. the system-call interface **intercepts function calls** in the [[Application Programming interface|API]] and invoking the necessary [[System call]]s within the OS
 2. a number is associated with each [[System call]], and the system-call interface **maintains a table indexed** according to these numbers. 
-- the system-call interface then invokes the intended [[System call]] in the OS kernel and returns the status of the [[System call]]
+3. the system-call interface then **invokes the intended [[System call]]** in the OS kernel and **returns the status** of the [[System call]]
