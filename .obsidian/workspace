@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computing environment/Distributed system.md",
+            "file": "Computer Science/Operating systems/Computing environment/Real-time embedded system.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Distributed system.md",
+                "file": "Computer Science/Operating systems/Computing environment/Real-time embedded system.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Distributed system.md",
+                "file": "Computer Science/Operating systems/Computing environment/Real-time embedded system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computing environment/Distributed system.md"
+                "file": "Computer Science/Operating systems/Computing environment/Real-time embedded system.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   "active": "6f862ccee4f89796",
   "lastOpenFiles": [
     "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Computing environment/Distributed system.md",
     "Computer Science/Operating systems/Computing environment/Cloud computing.md",
     "Computer Science.md",
     "Computer Science/Operating systems/Computing environment/Peer-to-peer computing.md",
-    "Computer Science/Operating systems/Computing environment/Distributed system.md",
     "Computer Science/Operating systems/Computer system/Architecture/Clustered system.md",
     "Computer Science/Operating systems/Computing environment/Client-server computing.md",
     "Computer Science/Operating systems/Computing environment/Mobile computing.md",
