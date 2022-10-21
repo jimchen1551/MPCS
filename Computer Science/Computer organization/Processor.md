@@ -19,7 +19,7 @@ Tags:
 ## Logic design convention
 ### State element
 - storing information
-- [[Registers]]: storing data in a circuit
+- [[Register]]: storing data in a circuit
 ### Combinational element
 - operating on data
 - output is a function of input

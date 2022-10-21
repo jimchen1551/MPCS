@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Digital systems/Registers.md",
+            "file": "Computer Science/Digital systems/Register.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Digital systems/Registers.md",
+                "file": "Computer Science/Digital systems/Register.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Digital systems/Registers.md",
+                "file": "Computer Science/Digital systems/Register.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Digital systems/Registers.md"
+                "file": "Computer Science/Digital systems/Register.md"
               }
             }
           },
@@ -172,11 +172,11 @@
   },
   "active": "b768d6d8ee90d109",
   "lastOpenFiles": [
-    "Computer Science/Digital systems/Sequential circuits.md",
-    "Computer Science/Digital systems/Registers.md",
     "Computer Science/Digital systems.md",
+    "Computer Science/Digital systems/Register.md",
+    "Computer Science/Digital systems/Sequential circuit.md",
+    "Computer Science/Digital systems/Combinational circuit.md",
     "Computer Science/Digital systems/Sequential circuits/Latches/D latch.md",
-    "Computer Science/Digital systems/Combinational circuits.md",
     "Computer Science/Digital systems/Combinational logic design.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer architecture.md",

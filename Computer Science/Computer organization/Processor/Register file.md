@@ -10,7 +10,7 @@ Tags:
 
 ![[Screen Shot 2022-07-29 at 14.47.07.png]]
 - a [[#State element]]
-- an array of readable/writeable processor [[Registers]]s
+- an array of readable/writeable processor [[Register]]s
 - Inputs: 
   1. **Read register 1**: first source register (rs)
   2. **Read register 2**: second source register (rt)

@@ -7,6 +7,6 @@ Tags:
 ---
 # Shifter
 ![[Pasted image 20220719130207.png]]
-- [[Combinational circuits]]
+- [[Combinational circuit]]
 - [[Single-bit position shifter]]
 - [[Barrel shifter]]

@@ -8,7 +8,7 @@ Tags:
 # Compiler
 - also called assembler
 - translating [[Application program#High-level language HLL]] code to [[Instruction set architecture#Instruction]]s
-- using **[[Registers]] for variables** as much as possible
+- using **[[Register]] for variables** as much as possible
 - only spilling to [[Memory]] for less frequently used variables
 - **register optimization** is important for compiler
 - providing info for building a complete program from:

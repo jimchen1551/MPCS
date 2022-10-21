@@ -24,7 +24,7 @@ Tags:
 
 | Memory               | Function               | Technology         | Unit  |
 | -------------------- | ---------------------- | ------------------ | ----- |
-| [[Registers]]        |                        |                    |       |
+| [[Register]]        |                        |                    |       |
 | [[Cache memory]]     |                        | [[SRAM]]           | Line  |
 | [[Main memory]]      | instruction and data   | [[DRAM]]           | Page  |
 | [[Secondary memory]] | system and app program | [[Disk]], NVM      | Block |

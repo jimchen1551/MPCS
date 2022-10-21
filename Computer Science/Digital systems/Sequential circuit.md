@@ -5,7 +5,7 @@ Types: Note
 Tags: 
 - 
 ---
-# Sequential circuits
+# Sequential circuit
 ![[Pasted image 20220618002040.png]]
 - The inputs and stored values determine the outputs of logic gates. 
 

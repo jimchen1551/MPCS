@@ -7,8 +7,8 @@ Tags:
 ---
 # Interrupts
 ![[Screen Shot 2022-10-09 at 14.53.26.png]]
-1. To start an operation of any device, the [[Device driver]] loads the appropriate [[Registers]] in the [[Device controller]]. 
-2. [[Device controller]] examines the contents of these [[Registers]] to determine what action to take. 
+1. To start an operation of any device, the [[Device driver]] loads the appropriate [[Register]] in the [[Device controller]]. 
+2. [[Device controller]] examines the contents of these [[Register]] to determine what action to take. 
 3. [[Device controller]] starts the transfer of data from the device to its local buffer. 
 4. **[[Device controller]] informs the [[Device driver]] once the trasfer is complete.** 
 5. [[Device driver]] gives control to other parts of OS. 

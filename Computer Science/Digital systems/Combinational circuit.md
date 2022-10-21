@@ -5,7 +5,7 @@ Types: Note
 Tags: 
 - 
 ---
-# Combinational circuits
+# Combinational circuit
 ![[Pasted image 20220618002025.png]]
 - The outputs of logic gates are determined **only by the inputs**. 
 
