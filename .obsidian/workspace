@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/System call.md",
+            "file": "Computer Science/Operating systems/Operating system structures.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/System service.md",
+            "file": "Computer Science/Operating systems/Operating system structures/System call.md",
             "mode": "source",
             "source": false
           }
@@ -170,16 +170,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f723bd20a115309d",
+  "active": "016fd6524d7c55c2",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
+    "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Operating system structures/System service.md",
     "Untitled.md",
-    "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Computer organization/Abstraction/Program execution.md",
-    "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Operating system structures/UI/Graphic user interface.md",
     "Computer Science/Operating systems/Operating system structures/User interface.md",
-    "Computer Science/Operating systems/Operating system structures/UI/Command line interface.md",
     "Computer Science/Operating systems/Operating system structures/UI/Touch screen interface.md",
     "Computer Science/Operating systems.md"
   ]
