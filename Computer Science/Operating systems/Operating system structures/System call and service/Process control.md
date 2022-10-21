@@ -7,6 +7,10 @@ Tags:
 ---
 # Process control
 ## System call
+![[Screen Shot 2022-10-21 at 19.11.04.png|350]]
+Ardiuno
+![[Screen Shot 2022-10-21 at 19.11.38.png|350]]
+FreeBSD
 1. create and terminate process
 2. end and abort
 3. load and execute

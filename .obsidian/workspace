@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "016fd6524d7c55c2",
+        "id": "553ebfe9f1d91872",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Protection.md",
+            "file": "Computer Science/Operating systems.md",
             "mode": "source",
             "source": false
           }
@@ -172,15 +172,15 @@
   },
   "active": "f723bd20a115309d",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Operating system structures/System service.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
+    "Computer Science/Operating systems/Protection.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/File management.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Device management.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Communication.md",
-    "Computer Science/Operating systems/Protection.md",
-    "Computer Science/Operating systems/Operating system structures/System service.md",
-    "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems.md"
+    "Computer Science/Operating systems/Operating system structures/System call and service/Communication.md"
   ]
 }
