@@ -18,6 +18,8 @@ Tags:
 | [[Computer-system operation]]    | [[Bootstrap program]]<br>[[System daemon]]<br>[[System call]]<br>[[Multiprogramming]]<br>[[Multitasking]]<br>[[Multi-mode]]<br>[[Timer]] |
 | [[Operating system structures]]  | [[User interface]]<br>[[System call]]<br>[[System service]]                                                                              |
 
+![[Screen Shot 2022-10-21 at 12.33.44.png]]
+
 | Resource management        | Content |
 | -------------------------- | ------- |
 | [[Process management]]     |         |
