@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/System call and service/Background service.md",
+            "file": "Computer Science/Operating systems/Operating system structures.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "20644d687483b530",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Computer organization/Abstraction/Application program.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Background service.md",
+                "file": "Computer Science/Operating systems/Operating system structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Background service.md",
+                "file": "Computer Science/Operating systems/Operating system structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Background service.md"
+                "file": "Computer Science/Operating systems/Operating system structures.md"
               }
             }
           },
@@ -160,15 +172,15 @@
   },
   "active": "5b4cb521bc44183c",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Operating system structures/System service.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Communication.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Program loading and execution.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Programming-language support.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/File modification.md",
+    "Computer Science/Computer organization/Abstraction/Application program.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/File management.md",
     "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems/Operating system structures/System call.md",
-    "Computer Science.md"
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md",
+    "Computer Science/Computer organization/Abstraction/Program execution.md",
+    "Computer Science/Operating systems/Operating system structures/System service.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Program loading and execution.md",
+    "Computer Science/Operating systems/Computer system/Operation/System daemon.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Background service.md"
   ]
 }

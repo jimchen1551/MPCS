@@ -1,11 +1,15 @@
 ---
 Created: [[2022-10-21]]
 Aliases: 
-Types: 
+Types: Card
 Tags: 
 - 
 ---
 # Status information
+## System call
+1. get and set time or date
+2. get and set system data
+3. get and set process, file, or device attributes
 ## System service
 1. asking system for info (date, time, amount of available memory, disk space, number of users)
 2. providing detailed performance, logging, and debugging info
