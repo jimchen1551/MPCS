@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/System call.md",
+            "file": "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/System call.md"
+                "file": "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "5b4cb521bc44183c",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Operating system structures/System service.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/File management.md",
     "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Digital systems/Register.md",
     "Computer Science/Digital systems.md",
     "Computer Science/Digital systems/Sequential circuit.md",
-    "Computer Science/Digital systems/Combinational circuit.md",
-    "Computer Science/Digital systems/Sequential circuits/Latches/D latch.md",
-    "Computer Science/Digital systems/Combinational logic design.md",
-    "Computer Science/Computer organization.md"
+    "Computer Science/Digital systems/Combinational circuit.md"
   ]
 }
