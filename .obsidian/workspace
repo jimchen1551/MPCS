@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Digital systems/Register.md",
+            "file": "Computer Science/Operating systems/Operating system structures.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Digital systems/Register.md",
+                "file": "Computer Science/Operating systems/Operating system structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Digital systems/Register.md",
+                "file": "Computer Science/Operating systems/Operating system structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Digital systems/Register.md"
+                "file": "Computer Science/Operating systems/Operating system structures.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "5b4cb521bc44183c",
   "lastOpenFiles": [
-    "Computer Science/Digital systems.md",
+    "Computer Science/Operating systems.md",
     "Computer Science/Digital systems/Register.md",
+    "Computer Science/Digital systems.md",
     "Computer Science/Digital systems/Sequential circuit.md",
     "Computer Science/Digital systems/Combinational circuit.md",
     "Computer Science/Digital systems/Sequential circuits/Latches/D latch.md",
     "Computer Science/Digital systems/Combinational logic design.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer architecture.md",
-    "Computer Science/Computer architecture/Request-level parallelism.md",
-    "Computer Science/Computer architecture/Thread-level parallelism.md"
+    "Computer Science/Computer architecture/Request-level parallelism.md"
   ]
 }
