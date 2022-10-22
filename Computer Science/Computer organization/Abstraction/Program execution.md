@@ -6,7 +6,6 @@ Tags:
 - 
 ---
 # Program execution
-
 ![[Pasted image 20220707161000.png]]
 
 | Translator   | Comment                                             |
