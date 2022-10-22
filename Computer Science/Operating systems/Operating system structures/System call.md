@@ -14,6 +14,7 @@ Tags:
 - used by a process to request action by the OS
 - usually taking the form of a trap to a specific location in the interrupt vector
 
+## System call imnple
 1. If a system call is executed, it's typically treated by the hardware as a software [[Interrupt]]. 
 2. Control passes through the [[Interrupt#Interrupt vector]] to a service routine in the OS; the mode bit is set to kernel mode. 
 3. The kernel examines the interrupting instruction to determine what system call has occurred; a parameter indicates what type of service the user program is requesting.
@@ -23,13 +24,6 @@ Tags:
 - The caller need only obey the [[Application Programming interface|API]] and understand waht the OS will do as a result of the execution of the system call. 
 - Most of the details of the OS interface are hidden from the programmer by the [[Application Programming interface|API]] and managed by the [[Run-time environment|RTE]] (aka [[Run-time environment|system call interface]])
 
-![[Screen Shot 2022-10-21 at 18.50.04.png]]
-- 3 ways to pass parameters to the OS
-	1. $\leq$ 5 parameters, pass the **value** of parameters in **register**
-	2. > 5 parameters, pass the **address** of parameters in **memory**
-	3. **push** the parameters onto a [[Stack]] by the program 
-	   and **pop** off the [[Stack]] by the OS
-
 | System call                 | Comment |
 | --------------------------- | ------- |
 | [[Process control]]         |         |
@@ -38,4 +32,11 @@ Tags:
 | [[Information maintenance]] |         |
 | [[Communication]]           |         |
 | [[Protection]]              |         |
-***here skipped***
+
+## System call parameter passing
+![[Screen Shot 2022-10-21 at 18.50.04.png]]
+- 3 ways to pass parameters to the OS
+	1. $\leq$ 5 parameters, pass the **value** of parameters in **register**
+	2. > 5 parameters, pass the **address** of parameters in **memory**
+	3. **push** the parameters onto a [[Stack]] by the program 
+	   and **pop** off the [[Stack]] by the OS
