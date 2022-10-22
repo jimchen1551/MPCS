@@ -41,3 +41,6 @@ Tags:
 - Midterm: 30%
 - Final: 30%
 - Project: 40%
+
+## Playlist
+[Mitch Davis](https://www.youtube.com/playlist?list=PLW1yb8L3S1ngGmtKlI5XYcTNQQ1r3xZvq)
