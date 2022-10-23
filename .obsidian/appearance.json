@@ -1,4 +1,5 @@
 {
   "cssTheme": "Dracula for Obsidian",
-  "baseFontSize": 30
+  "baseFontSize": 30,
+  "accentColor": ""
 }
