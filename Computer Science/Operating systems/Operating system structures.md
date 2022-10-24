@@ -16,8 +16,11 @@ Tags:
 
 ## OS design and implementation
 ### Design goals
+
 ### Mechanisms and pollicies
+
 ### Implementation
+
 ## OS structure
 ### Monolithic structure
 ### Layered approach

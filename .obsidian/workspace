@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4cb521bc44183c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Operating systems.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "3833866900ed285a",
         "type": "leaf",
         "state": {
