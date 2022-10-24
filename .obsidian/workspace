@@ -9,18 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a69b42df7821ba7c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
             "mode": "source",
             "source": false
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
+                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
+                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md"
+                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md"
               }
             }
           },
@@ -172,15 +160,15 @@
   },
   "active": "a5066ad69d0cfd04",
   "lastOpenFiles": [
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
     "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Layered kernel.md",
+    "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
+    "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Monolithic kernel.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
+    "Computer Science/Operating systems/Operating system structures/System service.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Operating system structures/Kernel/Layered kernel.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Run-time environment.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Application Programming interface.md",
-    "Computer Science/Computer organization/Abstraction/Program execution.md"
+    "Computer Science/Operating systems/Operating system structures/System call and service/Application Programming interface.md"
   ]
 }

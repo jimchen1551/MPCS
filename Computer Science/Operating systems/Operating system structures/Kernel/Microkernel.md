@@ -17,5 +17,5 @@ Tags:
 - easier to port from one hardware design to another
 - more security and reliability (most are user processes)
 - worse performance due to increased system-function overhead
-- e.g., **Darwin** (kernel component of the macOS and iOS) and QNX (a [[Real-time embedded system]])
+- e.g., **Mach**, **Darwin** (kernel component of the macOS and iOS) and QNX (a [[Real-time embedded system]])
 ![[Pasted image 20221024200732.png]]
