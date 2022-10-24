@@ -16,7 +16,6 @@ Tags:
 | [[Kernel]]            | [[Monolithic kernel]]<br>[[Layered kernel]]<br>[[Microkernel]]<br>[[Modular kernel]]<br>[[Hybrid kernel]]                                                                                                 |
 
 ![[Pasted image 20221024200855.png]]
-
 ## OS generation
 1. Write the OS source code. 
    Linux: download from http://www.kernel.org
@@ -36,6 +35,11 @@ Tags:
 
 ## OS debugging
 ### Failure analysis
+- If a process fails, most OS write the error info to a **log file** to alert system admins or users that the problem occurred.
+- The OS can also take a **core dump** (a capture of the memory of the process) and store it in a file for later analysis.
+- Running programs and core dumps can be probed by a **debugger**, which allows a programmer to explore the code and memory of a process at the time of failure.
+- A failure in the kernel is called a **crash**. 
+- When a **crash** occurs, **error info** is saved to a log file, and the memory state is saved to a crash dump.
 ### Performance monitoring and tuning
 ### Tracing
 ### BCC
