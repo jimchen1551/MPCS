@@ -23,11 +23,16 @@ Tags:
 2. Configure the OS. (configuration file)
    Linux: use `make menuconfig` and `.config` file generated
 3. Compile the OS. (system build)
-   Linux: use `make` and `vmlinuz` file generated, and then use `make modules`
-   Linux: 
+   Linux: use `make`, `vmlinuz` file generated, and then use `make modules`
 4. Install the OS. 
+   Linux: use `make modules_install` to install the kernel modules into `vmlinuz` and use `make install`
 5. Boot the computer and its new OS. 
+
 ## System boot
+1. [[Bootstrap program]] locates the kernel. 
+2. Kernel is **loaded** into [[Memory]] and started. 
+3. Kernel **initializes** hardware. 
+4. **Root file system** is mounted. 
 
 ## OS debugging
 ### Failure analysis

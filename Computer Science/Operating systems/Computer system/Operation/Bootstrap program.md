@@ -1,6 +1,6 @@
 ---
 Created: [[2022-10-14]]
-Aliases: 
+Aliases: boot loader
 Types: Card
 Tags: 
 - 
@@ -9,4 +9,4 @@ Tags:
 - the **first program** to run while power on
 - locating the OS **kernel** and loading into memory
 - **initializing** all aspects of the systems
-- stored in **EEP[[Read-only memory|ROM]]** (electrically erasable programmable read-only memory) or other forms of firmware (infrequently written and nonvolatile but slow)
+- stored in **BIOS** and technically in **EEP[[Read-only memory|ROM]]** (electrically erasable programmable read-only memory) or other forms of firmware (infrequently written and nonvolatile but slow)
