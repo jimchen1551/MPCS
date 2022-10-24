@@ -7,6 +7,7 @@ Tags:
 ---
 # Modular kernel
 - the best current methodology for OS design involves using **loadable kernel modules** (LKMs)
+- LKM can be inserted into the kernel as booted or during run time and can be removed from the kernel during runtime
 
 - having a set of core components
 - linking in additional services via modules
@@ -18,5 +19,5 @@ Tags:
 - adding support for different file systems by way of loadable modules
 
 - more flexible than [[Layered kernel]] (each module can call each other)
-- more efficient than [[Microkernel]] (no need to )
+- more efficient than [[Microkernel]] (no need to invoke message passing)
 - e.g., Linux, macOS, Solaris, Windows

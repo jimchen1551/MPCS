@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science.md",
+            "file": "Computer Science/Operating systems/Operating system structures/Kernel/Hybrid kernel.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
+                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Hybrid kernel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
+                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Hybrid kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md"
+                "file": "Computer Science/Operating systems/Operating system structures/Kernel/Hybrid kernel.md"
               }
             }
           },
@@ -170,12 +170,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a5066ad69d0cfd04",
+  "active": "5804373ae6451217",
   "lastOpenFiles": [
-    "Computer Science.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
     "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science.md",
+    "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
+    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Monolithic kernel.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
