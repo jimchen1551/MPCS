@@ -24,10 +24,10 @@ Tags:
 | -------------------------- | ---------------------------------------------------------------------------------------------- |
 | [[Process management]]     | [[Process]]<br>[[Thread]]<br>[[CPU scheduling]]<br>[[Process synchronization]]<br>[[Deadlock]] |
 | [[Cache management]]       |                                                                                                |
-| [[Memory management]]      |                                                                                                |
-| [[Storage management]]     |                                                                                                |
-| [[File-system management]] |                                                                                                |
-| [[IO-system management]]   |                                                                                                |
+| [[Memory management]]      | [[Main memory]]<br>[[Virtual memory]]                                                          |
+| [[Storage management]]     | [[Mass-storage structure]]                                                                     |
+| [[File-system management]] | [[File-system interface]]<br>[[File-system internal]]                                          |
+| [[IO-system management]]   | [[IO system]]                                                                                  |
 | [[Protection]]             |                                                                                                |
 | [[Security]]               |                                                                                                |
 | [[Virtualization]]         |                                                                                                |
