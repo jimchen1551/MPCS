@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Operating systems/Operating system structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Operating systems/Operating system structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "Computer Science/Operating systems/Operating system structures.md"
               }
             }
           },
@@ -170,11 +170,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5b4cb521bc44183c",
+  "active": "3833866900ed285a",
   "lastOpenFiles": [
+    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Computer organization/Abstraction/Program execution.md",
-    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Computer system/Operation/System daemon.md",
     "Computer Science/Computer organization/Abstraction/Application program.md",
     "Computer Science/Operating systems/Operating system structures/System service.md",
