@@ -15,10 +15,6 @@ Tags:
 | [[System service]]    | [[File management]]<br>[[Status information]]<br>[[File modification]]<br>[[Programming-language support]]<br>[[Program execution]]<br>[[Communication]]<br>[[System daemon]]                             |
 
 ## OS design and implementation
-### Design goals
-
-### Mechanisms and pollicies
-
 ### Implementation
 
 ## OS structure
