@@ -19,8 +19,12 @@ Tags:
 
 ## OS generation
 1. Write the OS source code. 
+   Linux: download from http://www.kernel.org
 2. Configure the OS. (configuration file)
-3. Compile the OS. 
+   Linux: use `make menuconfig` and `.config` file generated
+3. Compile the OS. (system build)
+   Linux: use `make` and `vmlinuz` file generated, and then use `make modules`
+   Linux: 
 4. Install the OS. 
 5. Boot the computer and its new OS. 
 ## System boot
