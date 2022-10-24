@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/System call.md",
+            "file": "Computer Science/Operating systems/Operating system structures/Monolithic structure.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/Monolithic structure.md",
+            "file": "Computer Science/Operating systems/Operating system structures/Layered structure.md",
             "mode": "source",
             "source": false
           }
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3833866900ed285a",
+  "active": "a5066ad69d0cfd04",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Operating system structures/Layered structure.md",
+    "Computer Science/Operating systems/Operating system structures/Monolithic structure.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Run-time environment.md",
-    "Computer Science/Operating systems/Operating system structures/Monolithic structure.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Application Programming interface.md",
-    "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Computer organization/Abstraction/Program execution.md",
     "Computer Science/Operating systems/Computer system/Operation/System daemon.md",
-    "Computer Science/Computer organization/Abstraction/Application program.md",
-    "Computer Science/Operating systems/Operating system structures/System service.md"
+    "Computer Science/Computer organization/Abstraction/Application program.md"
   ]
 }
