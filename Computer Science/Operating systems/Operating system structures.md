@@ -13,7 +13,7 @@ Tags:
 | [[User interface]]    | [[Command line interface]]<br>[[Graphic user interface]]<br>[[Touch screen interface]]                                                                                                                    |
 | [[System call]]       | [[Application Programming interface]]<br>[[Run-time environment]]<br>[[Process control]]<br>[[File management]]<br>[[Device management]]<br>[[Status information]]<br>[[Communication]]<br>[[Protection]] |
 | [[System service]]    | [[File management]]<br>[[Status information]]<br>[[File modification]]<br>[[Programming-language support]]<br>[[Program execution]]<br>[[Communication]]<br>[[System daemon]]                             |
-| Kernel                | [[Monolithic kernel]]<br>[[Layered kernel]]<br>[[Microkernel]]<br>[[Modular kernel]]<br>[[Hybrid kernel]]                                                                                                 |
+| [[Kernel]]            | [[Monolithic kernel]]<br>[[Layered kernel]]<br>[[Microkernel]]<br>[[Modular kernel]]<br>[[Hybrid kernel]]                                                                                                 |
 
 ![[Pasted image 20221024200855.png]]
 

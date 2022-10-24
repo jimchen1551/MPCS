@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
+            "file": "Computer Science/Operating systems.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Computer system/Operation/Bootstrap program.md",
+            "file": "Computer Science/Operating systems/Operating system structures.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Computer system/Operation/Bootstrap program.md",
+                "file": "Computer Science/Operating systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Computer system/Operation/Bootstrap program.md",
+                "file": "Computer Science/Operating systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Computer system/Operation/Bootstrap program.md"
+                "file": "Computer Science/Operating systems.md"
               }
             }
           },
@@ -170,17 +170,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5804373ae6451217",
+  "active": "a5066ad69d0cfd04",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Hybrid kernel.md",
+    "Computer Science/Operating systems/Operating system structures/Kernel.md",
+    "Computer Science/Operating systems/Operating system structures/System call.md",
+    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
+    "Computer Science/Operating systems/Computer system/Operation/Bootstrap program.md",
+    "Computer Science/Operating systems/Operating system structures/Kernel/Hybrid kernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
     "Computer Science.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Monolithic kernel.md",
-    "Computer Science/Operating systems/Operating system structures/System call.md",
-    "Computer Science/Operating systems/Operating system structures/System service.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Layered kernel.md"
+    "Computer Science/Operating systems/Operating system structures/Kernel/Monolithic kernel.md"
   ]
 }
