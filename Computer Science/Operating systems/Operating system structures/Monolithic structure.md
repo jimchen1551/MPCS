@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Monolithic structure
-- aka **tightly coupled system** (one modification w)
+- aka **tightly coupled system** (one modification with wide-ranging effects)
 - placing all of the functionality of the kernel into **a single, static binary file** running in **a single address space**
 - **dificult** to implement and to extend
 - **very little overhead** in the [[Run-time environment|system call interface]]
