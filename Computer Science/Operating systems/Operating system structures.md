@@ -18,7 +18,11 @@ Tags:
 ![[Pasted image 20221024200855.png]]
 
 ## OS generation
-
+1. Write the OS source code. 
+2. Configure the OS. (configuration file)
+3. Compile the OS. 
+4. Install the OS. 
+5. Boot the computer and its new OS. 
 ## System boot
 
 ## OS debugging
