@@ -15,6 +15,8 @@ Tags:
 | [[System service]]    | [[File management]]<br>[[Status information]]<br>[[File modification]]<br>[[Programming-language support]]<br>[[Program execution]]<br>[[Communication]]<br>[[System daemon]]                             |
 | Kernel                | [[Monolithic kernel]]<br>[[Layered kernel]]<br>[[Microkernel]]<br>[[Modular kernel]]<br>[[Hybrid kernel]]                                                                                                 |
 
+![[Pasted image 20221024200855.png]]
+
 ## Building and booting an OS
 ### OS generation
 ### System boot

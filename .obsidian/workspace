@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures.md",
+            "file": "Computer Science/Operating systems.md",
             "mode": "source",
             "source": false
           }
@@ -172,12 +172,12 @@
   },
   "active": "38a9d29b108d9ed0",
   "lastOpenFiles": [
+    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Layered kernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Monolithic kernel.md",
-    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Run-time environment.md",
     "Computer Science/Operating systems/Operating system structures/System call and service/Application Programming interface.md",
