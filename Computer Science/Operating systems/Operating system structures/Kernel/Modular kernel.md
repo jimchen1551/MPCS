@@ -1,13 +1,22 @@
 ---
 Created: [[2022-10-24]]
-Aliases: 
+Aliases: loadable kernel module, LKM
 Types: Card
 Tags: 
 - 
 ---
 # Modular kernel
 - the best current methodology for OS design involves using **loadable kernel modules** (LKMs)
+
 - having a set of core components
 - linking in additional services via modules
-- providing core services, while other services are implemented dynamically, as the kernel is running
+
+- providing **core services**, while other services are implemented dynamically, as the kernel is running
+- **linking services dynamically** is preferable to adding new features directly to the kernel (requiring recompiling the kernel every time)
+
+- building [[CPU scheduling]] and [[Memory management]] algorithms directly into the kernel
+- adding support for different file systems by way of loadable modules
+
+- more flexible than [[Layered kernel]] (each module can call each other)
+- more efficient than [[Microkernel]] (no need to )
 - e.g., Linux, macOS, Solaris, Windows
