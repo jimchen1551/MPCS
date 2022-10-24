@@ -39,7 +39,8 @@ Tags:
 - The OS can also take a **core dump** (a capture of the memory of the process) and store it in a file for later analysis.
 - Running programs and core dumps can be probed by a **debugger**, which allows a programmer to explore the code and memory of a process at the time of failure.
 - A failure in the kernel is called a **crash**. 
-- When a **crash** occurs, **error info** is saved to a log file, and the memory state is saved to a crash dump.
+- When a **crash** occurs, **error info** is saved to a **log file**, and the **memory state** is saved to a **crash dump**.
 ### Performance monitoring and tuning
+- aiming 
 ### Tracing
 ### BCC
