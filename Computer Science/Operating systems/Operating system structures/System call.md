@@ -14,14 +14,14 @@ Tags:
 - used by a process to request action by the OS
 - usually taking the form of a trap to a specific location in the interrupt vector
 
-| System call                 | Comment |
-| --------------------------- | ------- |
-| [[Process control]]         |         |
-| [[File management]]         |         |
-| [[Device management]]       |         |
-| [[Information maintenance]] |         |
-| [[Communication]]           |         |
-| [[Protection]]              |         |
+| System call            | Comment |
+| ---------------------- | ------- |
+| [[Process control]]    |         |
+| [[File management]]    |         |
+| [[Device management]]  |         |
+| [[Status information]] |         |
+| [[Communication]]      |         |
+| [[Protection]]         |         |
 
 ## System call implementation
 1. If a system call is executed, it's typically treated by the hardware as a software [[Interrupt]]. 

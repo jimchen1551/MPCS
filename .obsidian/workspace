@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures.md",
+            "file": "Computer Science/Operating systems/Operating system structures/System call.md",
             "mode": "source",
             "source": false
           }
@@ -172,15 +172,15 @@
   },
   "active": "3833866900ed285a",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Operating system structures/System call.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Run-time environment.md",
     "Computer Science/Operating systems/Operating system structures/Monolithic structure.md",
+    "Computer Science/Operating systems/Operating system structures/System call and service/Application Programming interface.md",
+    "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Computer organization/Abstraction/Program execution.md",
     "Computer Science/Operating systems/Computer system/Operation/System daemon.md",
     "Computer Science/Computer organization/Abstraction/Application program.md",
-    "Computer Science/Operating systems/Operating system structures/System service.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Communication.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md"
+    "Computer Science/Operating systems/Operating system structures/System service.md"
   ]
 }
