@@ -12,8 +12,10 @@ Tags:
 
 - providing minimal process and memory management, in addition to a comuunication facility
 - providing **communication** (message passing) b/w the **client program** and the various **services** running in user space
+
 - easier to extend (new services added to user space)
 - easier to port from one hardware design to another
 - more security and reliability (most are user processes)
+- worse performance due to increased system-function overhead
 - e.g., **Darwin** (kernel component of the macOS and iOS) and QNX (a [[Real-time embedded system]])
 ![[Pasted image 20221024200732.png]]

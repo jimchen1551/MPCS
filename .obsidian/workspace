@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "38a9d29b108d9ed0",
+        "id": "a69b42df7821ba7c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
+            "file": "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
             "mode": "source",
             "source": false
           }
@@ -170,12 +170,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "38a9d29b108d9ed0",
+  "active": "a5066ad69d0cfd04",
   "lastOpenFiles": [
     "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Modular kernel.md",
+    "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
+    "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Layered kernel.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Monolithic kernel.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
