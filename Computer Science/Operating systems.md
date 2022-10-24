@@ -11,12 +11,12 @@ Tags:
 - **Control program**: controlling the execution of user programs and operation of [[IO]] to prevent errors and improper use
 - **Resource allocator**: allocating and managing resources of hardware ([[Processor|CPU]], [[Memory]], and [[IO]]) among [[Application program]]s from various users
 
-| from Computer to OS              | Content                                                                                                                                  |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Computer-system organization]] | [[Device driver]]<br>[[Device controller]]<br>[[Interrupt]]<br>[[Memory]]<br>[[Direct memory access]]                                    |
-| [[Computer-system architecture]] | [[Single-processor system]]<br>[[Multi-processor system]]<br>[[Clustered system]]                                                        |
-| [[Computer-system operation]]    | [[Bootstrap program]]<br>[[System daemon]]<br>[[System call]]<br>[[Multiprogramming]]<br>[[Multitasking]]<br>[[Multi-mode]]<br>[[Timer]] |
-| [[Operating system structures]]  | [[User interface]]<br>[[System call]]<br>[[System service]]                                                                              |
+| from Computer to OS              | Content                                                                                                                                                                |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Computer-system organization]] | [[Device driver]]<br>[[Device controller]]<br>[[Interrupt]]<br>[[Memory]]<br>[[Direct memory access]]                                                                  |
+| [[Computer-system architecture]] | [[Single-processor system]]<br>[[Multi-processor system]]<br>[[Clustered system]]                                                                                      |
+| [[Computer-system operation]]    | [[Bootstrap program]]<br>[[System daemon]]<br>[[System call]]<br>[[Multiprogramming]]<br>[[Multitasking]]<br>[[Multi-mode]]<br>[[Timer]]                               |
+| [[Operating system structures]]  | [[User interface]]<br>[[System call]]<br>[[System service]]<br>[[Monolithic structure]]<br>[[Layered structure]]<br>[[Microkernel]]<br>[[Module]]<br>[[Hybrid system]] |
 
 ![[Screen Shot 2022-10-21 at 12.33.44.png]]
 
