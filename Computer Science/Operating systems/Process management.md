@@ -21,3 +21,20 @@ Process: active entity
 	4. Process synchronization
 	5. Process communication
 - OS reclaiming any reusable resources after temination
+### Process state
+### Process control block
+### Thread
+## Process scheduling
+### Scheduling queue
+### CPU scheduling
+### Context switch
+## Operation on process
+### Process creation
+### Process termination
+## Interprocess communication
+### in shared memory system
+### in message-passing system
+## Communication in Client-Server System
+### Sockets
+### Remote procedure call
+
