@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating systems/Operating system structures.md",
+            "file": "Computer Science/Operating systems/Operating system structures/Debugging/Counters.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md",
+                "file": "Computer Science/Operating systems/Operating system structures/Debugging/Counters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md",
+                "file": "Computer Science/Operating systems/Operating system structures/Debugging/Counters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Operating system structures.md"
+                "file": "Computer Science/Operating systems/Operating system structures/Debugging/Counters.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "5804373ae6451217",
   "lastOpenFiles": [
-    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures/Kernel.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",

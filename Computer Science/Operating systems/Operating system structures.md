@@ -41,6 +41,6 @@ Tags:
 - A failure in the kernel is called a **crash**. 
 - When a **crash** occurs, **error info** is saved to a **log file**, and the **memory state** is saved to a **crash dump**.
 ### Performance monitoring and tuning
-- aiming 
-### Tracing
+- aiming at removing processing bottleneck to improve performance
+- to make either **per-process** or **system-wide** observations, there're 2 approaches: [[Counters]] and [[Tracing]]
 ### BCC
