@@ -106,13 +106,13 @@ $$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
 | Fibonacci iteration  |$F_i=\begin{cases}0&\quad\text{if }i=0\\1&\quad\text{if }i=1\\F_{i-1}+F_{i-2}&\quad\text{if }i=\geq2\end{cases}$<br>$=\frac{\phi^i-\hat\phi^i}{\sqrt5}=\lfloor\frac{\phi^i}{\sqrt5}+\frac{1}{2}\rfloor\because\frac{\mid \hat\phi^i \mid }{\sqrt5}<\frac{1}{\sqrt5}<\frac{1}{2}$                                                                                                                                                                                                                                                                                                                                                  |
 
 ## Design
-| Algorithms                  | Examples                                 |
-| --------------------------- | ---------------------------------------- |
-| Incremental method          | [[Insertion sort]]                       |
-| [[Divide and conquer]]      | [[Merge sort]], [[Strassen's algorithm]] |
-| [[Greedy algorithms]]       | [[Selection sort]]                       |
-| [[Dynamic programming]]     |                                          |
-| [[Network flow algorithms]] |                                          |
+| Algorithms                  | Examples                                                                                                                                         |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Incremental method          | [[Insertion sort]]                                                                                                                               |
+| [[Divide and conquer]]      | [[Merge sort]]<br>[[Strassen's algorithm]]<br>[[Substitution method]]<br>[[Recursion-tree method]]<br>[[Master method]]<br>[[Akra-Bazzi method]] |
+| [[Greedy algorithms]]       | [[Selection sort]]                                                                                                                               |
+| [[Dynamic programming]]     |                                                                                                                                                  |
+| [[Network flow algorithms]] |                                                                                                                                                  |
 
 ## Reference book
 - Algorithms in a nutshell by George T. Heineman, Gary Pollice, and Stanley Selkow

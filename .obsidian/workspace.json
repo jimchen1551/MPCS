@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer.md",
+                "file": "Computer Science/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md"
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md"
               }
             }
           },
@@ -190,15 +190,15 @@
   },
   "active": "96bc80f473aa5250",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Design/Divide and conquer.md",
+    "Computer Science/Algorithms.md",
+    "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
     "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md",
+    "Computer Science/Algorithms/Design/Divide and conquer.md",
+    "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Design/Divide and conquer/Recursion-tree method.md",
     "Computer Science/Algorithms/Design/Divide and conquer/Akra-Bazzi method.md",
     "Computer Science/Algorithms/Design/Divide and conquer/Master method.md",
-    "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
-    "Computer Science/Algorithms.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Computer organization/Abstraction/Program execution.md"
+    "Computer Science/Operating systems/Operating system structures.md"
   ]
 }

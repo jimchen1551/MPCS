@@ -24,7 +24,7 @@ $M_3=A_{11}(B_{12}-B_{22})$
 $M_4=A_{22}(B_{21}-B_{11})$
 $M_5=(A_{11}+A_{12})B_{22}$
 $M_6=(A_{21}-A_{11})(B_{11}+B_{12})$
-$M_7=$
+$M_7=(A_{12}-A_{22})(B_{21}+B_{22})$
 $$\begin{bmatrix}
 C_{11}&C_{12}\\
 C_{21}&C_{22}
@@ -36,4 +36,5 @@ M_2+M_4&M_1-M_2+M_3+M_6
 - an efficient recursive algorithm for matrix multiplication
 - using [[Divide and conquer]] strategy
 - performing only 7 recursive multiplication
-- running in $\Theta (n^{\log 7})$ < $\Theta (n^3)$
+ $T(n)=\begin{cases}\Theta(1)&\quad \text{if n=1}\\7T(n/2)+\Theta(n^2)&quad \text{if n>1}\end{cases}$
+ $\Rightarrow\Theta (n^{\log 7}) < \Theta (n^3)$
