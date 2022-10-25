@@ -5,4 +5,4 @@ Types: Card
 Tags: 
 - 
 ---
-# Master method
+# Akra-Bazzi method

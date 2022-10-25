@@ -26,4 +26,4 @@ A recurrence $T(n)$ is **algorithmic** if, $\forall$ sufficiently large **thresh
 1. [[Substitution method]]
 2. [[Recursion-tree method]]
 3. [[Master method]]
-4. Akra-Bazzi method
+4. [[Akra-Bazzi method]]
