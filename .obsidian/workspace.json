@@ -13,29 +13,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "531600d5e2a5ff00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Master method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "e585cc9d7ffeaf05",
+        "id": "8a3433df92542c67",
         "type": "tabs",
         "children": [
           {
-            "id": "694442a1b6982219",
+            "id": "96bc80f473aa5250",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a396d5d53d5a22f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8464a13a51b34fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Recursion-tree method.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Master method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Master method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms.md"
+                "file": "Computer Science/Algorithms/Design/Divide and conquer/Master method.md"
               }
             }
           },
@@ -180,22 +220,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5b4cb521bc44183c",
+  "active": "531600d5e2a5ff00",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Design/Divide and conquer.md",
+    "Computer Science/Algorithms/Design/Divide and conquer/Recursion-tree method.md",
+    "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
+    "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md",
+    "Computer Science/Algorithms.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Computer organization/Abstraction/Program execution.md",
     "Computer Science/Operating systems/Computer system/Operation/System daemon.md",
-    "Computer Science/Computer organization/Abstraction/Application program.md",
-    "Computer Science/Operating systems/Operating system structures/System service.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Communication.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Status information.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Information maintenance.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Program loading and execution.md"
+    "Computer Science/Computer organization/Abstraction/Application program.md"
   ]
 }
