@@ -6,6 +6,7 @@
       {
         "id": "6d187b2f72e21e6d",
         "type": "tabs",
+        "dimension": 47.715289982425304,
         "children": [
           {
             "id": "5b4cb521bc44183c",
@@ -24,6 +25,7 @@
       {
         "id": "8a3433df92542c67",
         "type": "tabs",
+        "dimension": 52.28471001757469,
         "children": [
           {
             "id": "96bc80f473aa5250",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
+                "file": "Computer Science/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
+                "file": "Computer Science/Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
+                "file": "Computer Science/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md"
+                "file": "Computer Science/Algorithms.md"
               }
             }
           },
@@ -188,17 +190,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "96bc80f473aa5250",
+  "active": "5b4cb521bc44183c",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Analysis/Asymptotic notation.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Design/Divide and conquer/Substitution method.md",
+    "Computer Science.md",
+    "Computer Science/Algorithms/Analysis/Instance.md",
+    "Computer Science/Algorithms/Analysis/Standard notation.md",
     "Computer Science/Algorithms/Design/Divide and conquer/Strassen's algorithm.md",
     "Computer Science/Algorithms/Design/Divide and conquer.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms/Design/Divide and conquer/Recursion-tree method.md",
-    "Computer Science/Algorithms/Design/Divide and conquer/Akra-Bazzi method.md",
-    "Computer Science/Algorithms/Design/Divide and conquer/Master method.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Operating system structures.md"
+    "Computer Science/Algorithms/Design/Divide and conquer/Recursion-tree method.md"
   ]
 }
