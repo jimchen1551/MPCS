@@ -122,18 +122,18 @@
             }
           },
           {
-            "id": "e890d18f977ee209",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "5495f31a6c68b4af",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d9ba96b90453671",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
@@ -158,7 +158,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5804373ae6451217",
+  "active": "3d9ba96b90453671",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Operating system structures.md",
     "Computer Science/Operating systems/Process management.md",
