@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "6d187b2f72e21e6d",
-        "type": "tabs",
-        "dimension": 47.715289982425304,
-        "children": [
-          {
-            "id": "5b4cb521bc44183c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8a3433df92542c67",
         "type": "tabs",
-        "dimension": 52.28471001757469,
         "children": [
           {
             "id": "96bc80f473aa5250",
@@ -81,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 259,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -192,10 +173,10 @@
   },
   "active": "96bc80f473aa5250",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Design/Strassen's algorithm.md",
-    "Computer Science/Algorithms/Design/Recursion-tree method.md",
-    "Computer Science/Algorithms/Design/Akra-Bazzi method.md",
     "Computer Science/Algorithms/Design/Substitution method.md",
+    "Computer Science/Algorithms/Design/Recursion-tree method.md",
+    "Computer Science/Algorithms/Design/Strassen's algorithm.md",
+    "Computer Science/Algorithms/Design/Akra-Bazzi method.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Asymptotic notation.md",
     "Computer Science.md",
