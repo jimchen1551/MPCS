@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems.md"
+                "file": "Computer Science/Operating systems/Process management.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "96bc80f473aa5250",
   "lastOpenFiles": [
+    "Computer Science/Operating systems.md",
     "Computer Science/Algorithms/Design/Recursion-tree method.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Design/Substitution method.md",
@@ -179,7 +180,6 @@
     "Computer Science/Algorithms/Asymptotic notation.md",
     "Computer Science/Algorithms/Design/Strassen's algorithm.md",
     "Computer Science/Algorithms/Design/Akra-Bazzi method.md",
-    "Computer Science.md",
-    "Computer Science/Algorithms/Analysis/Instance.md"
+    "Computer Science.md"
   ]
 }
