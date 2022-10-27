@@ -15,6 +15,12 @@ Else, $\Rightarrow$**recursive case**.
 
 - e.g., [[Merge sort]], [[Strassen's algorithm]]
 
+## Analysis
+$$T(n)=\begin{cases}
+\Theta(1)&\quad \text{if }n\leq c\\
+aT(n/b)+D(n)+C(n)&\quad otherwise
+\end{cases}$$
+
 ## Recurrence
 The recurrence is **well defined** if there's at least one function satisfying; otherwise, **ill defined**. 
 
