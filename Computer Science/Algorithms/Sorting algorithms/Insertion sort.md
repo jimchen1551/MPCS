@@ -32,5 +32,11 @@ for i = 2 to n
 
 ## Analysis
 ![[Screen Shot 2022-10-27 at 14.19.48.png]]
+Running time: 
 $$T(n)=c_1n+c_2(n-1)+c_4(n-1)+c_5\sum^n_{i=2}t_i+c_6\sum^n_{i=2}(t_i-1)+c_7\sum^n_{i=2}(t_i-1)+c_8(n-1)$$
-$$$$
+[[Best case]]: $t_i=1$
+$$T_{bc}(n)=(c_1+c_2+c_4+c_5+c_8)n-(c_2+c_4+c_5+c_8)$$
+$$T_{bc}=\Theta(n)$$
+[[Worst case]]: $t_i=i$
+$$T_{wc}(n)=\frac{c_5+c_6+c_7}{2}n^2-(c_1+c_2+c_4+\frac{c_5-c_6-c_7}{2}+c_8)n-(c_2+c_4+c_5+c_8)$$
+$$T_{wc}=\Theta(n^2)$$

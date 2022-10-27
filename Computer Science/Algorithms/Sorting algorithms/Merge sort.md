@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Merge sort
+## Pseudocode
 ```Pseudocode
 MERGESORT(A, p, q, r)
 n_L = q - p + 1

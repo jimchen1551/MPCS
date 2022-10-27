@@ -11,18 +11,11 @@ Output: $\langle a_1',a_2',\dots, a_n\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a
 
 | Sorting            | Comment |
 | ------------------ | ------- |
-| [[Bubble sort]]    |         |
 | [[Insertion sort]] |         |
+| [[Merge sort]]     |         |
 | [[Selection sort]] |         |
 | [[Heap sort]]      |         |
-| [[Median sort]]    |         |
-| [[Quick sort]]     |         |
-| [[Intro sort]]     |         |
-| [[Counting sort]]  |         |
-| [[Radix sort]]     |         |
-| [[Bucket sort]]    |         |
-| [[Hash sort]]      |         |
-| [[Merge sort]]     |         |
+
 
 - [ ] insertion sort
 - [ ] merge sort
