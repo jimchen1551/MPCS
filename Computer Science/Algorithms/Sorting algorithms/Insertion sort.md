@@ -21,11 +21,14 @@ for i = 2 to n
 
 ## Loop invariant
 - At the start of each iteration of the `for` loop of lines 1~8, the subarray `A[1:i-1]` consists of the elements originally in `A[1:i-1]`, but in sorted order. 
-1. Initialization: 
+1. **Initialization**: 
    when `i=2`, `A[1:i-1]=A[1]` → sorted, and  in original `A[1]`
-2. Maintenance: 
-   the body of `for` loop only moves the values in `A[1:`
-3. Termination
+2. **Maintenance**: 
+   the body of `for` loop only moves the values in `A[i-1]` ... by one position to the right until finding the proper posistion for `A[i]`
+   → `A[1:i]` consists of the elements in original `A[1:i]` but sorted
+3. **Termination**: 
+   `for` loop teminates at `i=n+1`
+   → `A[1:n]` consists of the elements in original `A[1:n]` but sorted
 
 ## Analysis
 
