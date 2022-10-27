@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Asymptotic notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Asymptotic notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Asymptotic notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms.md"
+                "file": "Computer Science/Algorithms/Asymptotic notation.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "96bc80f473aa5250",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms/Design/Recursion-tree method.md",
-    "Computer Science/Algorithms.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Algorithms/Design/Substitution method.md",
