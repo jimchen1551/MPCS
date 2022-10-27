@@ -17,18 +17,20 @@ Else, $\Rightarrow$**recursive case**.
 
 ## Pseudocode
 ```
-# COMBINE
+# COMBINE(Output[n])
+output = Output[1:n]
+return output
 
 # DIVIDE(input)
-for i=1 to n
-	output[i]= ALGORITHM(input[i])
-return output[1:n]
+Input[1:n] = input
+for i = 1 to n
+	Output[i]= ALGORITHM(Input[i])
+return Output[1:n]
 
 # ALGORITHM
 if base case
 	return
-DIVIDE(input)
-COMBINE
+COMBINE(DIVIDE(input))
 ```
 
 ## Analysis

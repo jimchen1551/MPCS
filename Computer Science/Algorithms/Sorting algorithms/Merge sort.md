@@ -61,7 +61,12 @@ MERGE(A, p, q, r)
 [Proof by Stanford](http://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Sections/161-section-1.pdf)
 
 ## Analysis
+Running time, [[Best case]], and [[Worst case]]: 
 1. Divide: $D(n)=\Theta(1)$
 2. Conquer: $2T(n/2)$
 3. Combine: $C(n)=\Theta(n)$
-
+$$T(n)=\begin{cases}
+\Theta(1)&\quad\text{if }n=1\\
+2T(n/2)+\Theta(n)&\quad\text{if }n>1
+\end{cases}$$
+$$T(n)=\Theta(n\log n)$$
