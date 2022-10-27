@@ -7,6 +7,7 @@ Tags:
 ---
 # Insertion sort
 ![[Pasted image 20221027152522.png]]
+
 ## Pseudocode
 ```Pseudocode
 INSERTION-SORT(A, n)
