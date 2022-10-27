@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Analysis/Upper bound.md",
+                "file": "Computer Science/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,9 +189,9 @@
   },
   "active": "071305405bfc37a5",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Analysis/Upper bound.md",
-    "Computer Science/Algorithms/Asymptotic notation.md",
     "Computer Science/Algorithms.md",
+    "Computer Science/Algorithms/Asymptotic notation.md",
+    "Computer Science/Algorithms/Analysis/Upper bound.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Analysis/Lower bound.md",
     "Computer Science/Algorithms/Divide and conquer.md",
