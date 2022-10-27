@@ -33,3 +33,4 @@ for i = 2 to n
 ## Analysis
 ![[Screen Shot 2022-10-27 at 14.19.48.png]]
 $$T(n)=c_1n+c_2(n-1)+c_4(n-1)+c_5\sum^n_{i=2}t_i+c_6\sum^n_{i=2}(t_i-1)+c_7\sum^n_{i=2}(t_i-1)+c_8(n-1)$$
+$$$$
