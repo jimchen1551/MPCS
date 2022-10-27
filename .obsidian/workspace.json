@@ -171,15 +171,15 @@
   },
   "active": "96bc80f473aa5250",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Analysis/Lower bound.md",
+    "Computer Science/Algorithms/Asymptotic notation.md",
+    "Computer Science/Algorithms/Analysis/Upper bound.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms/Design/Recursion-tree method.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Algorithms/Design/Substitution method.md",
-    "Computer Science/Algorithms/Design/Master method.md",
-    "Computer Science/Algorithms/Asymptotic notation.md",
-    "Computer Science/Algorithms/Design/Strassen's algorithm.md",
-    "Computer Science/Algorithms/Design/Akra-Bazzi method.md"
+    "Computer Science/Algorithms/Design/Master method.md"
   ]
 }
