@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
+                "file": "Computer Science/Algorithms/Analysis/Standard notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md",
+                "file": "Computer Science/Algorithms/Analysis/Standard notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md",
+                "file": "Computer Science/Algorithms/Analysis/Standard notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md"
+                "file": "Computer Science/Algorithms/Analysis/Standard notation.md"
               }
             }
           },
@@ -187,12 +187,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3c0919f8cb9c639",
+  "active": "071305405bfc37a5",
   "lastOpenFiles": [
     "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Divide and conquer.md",
+    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Asymptotic notation.md",
     "Computer Science/Algorithms/Analysis/Upper bound.md",
