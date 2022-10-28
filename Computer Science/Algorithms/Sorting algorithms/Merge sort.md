@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Merge sort
-![[Pasted image 20221027152436.png]]
+![[Pasted image 20221027152436.png|500]]
 
 ## Pseudocode
 ```Pseudocode

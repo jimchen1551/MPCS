@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Insertion sort
-![[Pasted image 20221027152522.png]]
+![[Pasted image 20221027152522.png|500]]
 
 ## Pseudocode
 ```Pseudocode
