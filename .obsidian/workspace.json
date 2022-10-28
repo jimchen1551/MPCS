@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Design/Recursion-tree method.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md",
+                "file": "Computer Science/Algorithms/Design/Recursion-tree method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md",
+                "file": "Computer Science/Algorithms/Design/Recursion-tree method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Divide and conquer.md"
+                "file": "Computer Science/Algorithms/Design/Recursion-tree method.md"
               }
             }
           },
@@ -187,17 +187,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3c0919f8cb9c639",
+  "active": "071305405bfc37a5",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Design/Substitution method.md",
     "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Design/Master method.md",
     "Computer Science/Algorithms/Divide and conquer.md",
+    "Computer Science/Algorithms/Design/Master method.md",
     "Computer Science/Algorithms/Analysis/Standard notation.md",
     "Computer Science/Algorithms/Design/Recursion-tree method.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms/Asymptotic notation.md",
-    "Computer Science/Algorithms/Analysis/Upper bound.md"
+    "Computer Science/Algorithms/Asymptotic notation.md"
   ]
 }
