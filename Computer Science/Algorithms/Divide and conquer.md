@@ -30,22 +30,21 @@ return Output[1:n]
 # ALGORITHM
 if base case
 	return
-COMBINE(DIVIDE(input))
+else
+	COMBINE(DIVIDE(input))
 ```
 
 ## Analysis
 $$T(n)=\begin{cases}
 \Theta(1)&\quad \text{if }n\leq c\\
 aT(n/b)+D(n)+C(n)&\quad otherwise
-\end{cases}$$
- $aT(n/b)$ is for conquer;
+\end{cases}$$ $aT(n/b)$ is for conquer;
 $D(n)$ is for divide;
 $C(n)$ is for combine
 
-## Recurrence
-The recurrence is **well defined** if there's at least one function satisfying; otherwise, **ill defined**. 
-
-A recurrence $T(n)$ is **algorithmic** if, $\forall$ sufficiently large **threshold constant** $n_0>0$, the following 2 properties hold:
+### Recurrence
+- The recurrence is **well defined** if there's at least one function satisfying; otherwise, **ill defined**. 
+- A recurrence $T(n)$ is **algorithmic** if, $\forall$ sufficiently large **threshold constant** $n_0>0$, the following 2 properties hold:
 1. $\forall n<n_0$, we have $T(n)=\Theta(1)$
 2. $\forall n\geq n_0$, every path of recursion **terminates** in a defined **base case** within a finite number if recursive invocations. 
 
