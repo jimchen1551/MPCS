@@ -16,11 +16,14 @@ e.g., [[Strassen's algorithm]]: a=7, b=2, $f(n)=\Theta (n^2)$
 ## Master theorem
 Let $a\geq1$ and $b>1$ be consistants, let $f(n)$ be a function, and let $T(n)$ be defined on the nonnegative integers by the recurrence. 
 $$T(n)=aT(n/b)+f(n)$$
-Case 1:
+### Leaf leading case
 $$\frac{f(n)}{n^{\log_ba}}=O(n^{-\epsilon})\rightarrow0\text{ as }n\rightarrow\infty(\because\epsilon>0)$$
+- f(n) is polynomially smaller than $n^{\log_ba}$
 
-Case 2:
+### Equal case
 $$\frac{f(n)}{n^{\log_ba}}=constant$$
 
-Case 3:
+### Root leading case
 $$\frac{f(n)}{n^{\log_ba}}=\Omega(n^\epsilon)\rightarrow\infty\text{ as }n\rightarrow\infty(\because \epsilon>0)$$
+1. f(n) is polynomially larger than $n^{log_ba}$
+2. $af(n)\leq cf(n)$ regularity condition
