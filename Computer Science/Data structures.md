@@ -11,6 +11,7 @@ Tags:
 | [[Stacks]]              |         |
 | [[Queues]]              |         |
 | [[Linked lists]]        |         |
+| [[Heap]]                |         |
 | [[Rooted trees]]        |         |
 | [[Hash tables]]         |         |
 | [[Hash maps]]           |         |
