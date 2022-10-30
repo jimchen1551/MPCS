@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Master method
+![[Pasted image 20221030220340.png]]
 Dealing with: 
 $$T(n)=aT(n/b)+f(n)\text{ s.t. }a\geq1, b>1$$
 where $f(n)$ is an asymptotically function
@@ -18,10 +19,11 @@ Let $a\geq1$ and $b>1$ be consistants, let $f(n)$ be a function, and let $T(n)$ 
 $$T(n)=aT(n/b)+f(n)$$
 ### Leaf leading case
 $$\frac{f(n)}{n^{\log_ba}}=O(n^{-\epsilon})\rightarrow0\text{ as }n\rightarrow\infty(\because\epsilon>0)$$
+$$\Rightarrow T(n)=\Theta(n^{\log_ba})$$
 - $f(n)$ is polynomially smaller than $n^{\log_ba}$
 
 ### Equal case
-$$\frac{f(n)}{n^{\log_ba}}=constant$$
+$$\frac{f(n)}{n^{\log_ba}}=\Theta(1)$$
 
 ### Root leading case
 $$\frac{f(n)}{n^{\log_ba}}=\Omega(n^\epsilon)\rightarrow\infty\text{ as }n\rightarrow\infty(\because \epsilon>0)$$
