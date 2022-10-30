@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Master method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Master method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Algorithms/Design/Master method.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +183,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6c5423fce0e8a9df",
+  "active": "6fe36bea0bcd2363",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Design/Recursion-tree method.md",
     "Computer Science/Algorithms/Design/Master method.md",
+    "Computer Science/Algorithms/Design/Recursion-tree method.md",
     "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms/Design/Substitution method.md",
     "Computer Science/Algorithms.md",
