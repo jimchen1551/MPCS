@@ -17,10 +17,11 @@ e.g., [[Strassen's algorithm]]: a=7, b=2, $f(n)=\Theta (n^2)$
 ## Master theorem
 Let $a\geq1$ and $b>1$ be consistants, let $f(n)$ be a function, and let $T(n)$ be defined on the nonnegative integers by the recurrence. 
 $$T(n)=aT(n/b)+f(n)$$
+**watershed function**: $n^{\log_ba}$
 ### Leaf leading case
 $$\frac{f(n)}{n^{\log_ba}}=O(n^{-\epsilon})\rightarrow0\text{ as }n\rightarrow\infty(\because\epsilon>0)$$
 $$\Rightarrow T(n)=\Theta(n^{\log_ba})$$
-- $f(n)$ is polynomially smaller than $n^{\log_ba}$
+- $f(n)$ is **polynomially smaller** than $n^{\log_ba}$
 
 ### Equal case
 $$\frac{f(n)}{n^{\log_ba}}=\Theta(1)$$
@@ -28,6 +29,6 @@ $$\Rightarrow T(n)=\Theta(n^{\log_ba}\lg n)$$
 
 ### Root leading case
 $$\frac{f(n)}{n^{\log_ba}}=\Omega(n^\epsilon)\rightarrow\infty\text{ as }n\rightarrow\infty(\because \epsilon>0)$$
-$$T(n)=\Theta(f(n))$$
-1. $f(n)$ is polynomially larger than $n^{log_ba}$
-2. $af(n)\leq cf(n)$ regularity condition
+$$\Rightarrow T(n)=\Theta(f(n))$$
+1. $f(n)$ is **polynomially larger** than $n^{log_ba}$
+2. $af(n)\leq cf(n)$ **regularity condition**
