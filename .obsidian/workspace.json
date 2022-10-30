@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Recursion-tree method.md",
+                "file": "Computer Science/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,11 +189,11 @@
   },
   "active": "6c5423fce0e8a9df",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Design/Recursion-tree method.md",
-    "Computer Science/Algorithms/Design/Master method.md",
-    "Computer Science/Algorithms/Divide and conquer.md",
-    "Computer Science/Algorithms/Design/Substitution method.md",
     "Computer Science/Algorithms.md",
+    "Computer Science/Algorithms/Design/Master method.md",
+    "Computer Science/Algorithms/Design/Substitution method.md",
+    "Computer Science/Algorithms/Design/Recursion-tree method.md",
+    "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms/Analysis/Standard notation.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",

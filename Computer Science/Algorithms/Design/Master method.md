@@ -24,8 +24,10 @@ $$\Rightarrow T(n)=\Theta(n^{\log_ba})$$
 
 ### Equal case
 $$\frac{f(n)}{n^{\log_ba}}=\Theta(1)$$
+$$\Rightarrow T(n)=\Theta(n^{\log_ba}\lg n)$$
 
 ### Root leading case
 $$\frac{f(n)}{n^{\log_ba}}=\Omega(n^\epsilon)\rightarrow\infty\text{ as }n\rightarrow\infty(\because \epsilon>0)$$
+$$T(n)=\Theta(f(n))$$
 1. $f(n)$ is polynomially larger than $n^{log_ba}$
 2. $af(n)\leq cf(n)$ regularity condition
