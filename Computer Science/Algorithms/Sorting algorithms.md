@@ -13,9 +13,5 @@ Output: $\langle a_1',a_2',\dots, a_n\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a
 | ------------------ | ------- |
 | [[Insertion sort]] |         |
 | [[Merge sort]]     |         |
-| [[Selection sort]] |         |
 | [[Heap sort]]      |         |
-
-
-- [ ] insertion sort
-- [ ] merge sort
+| [[Selection sort]] |         |

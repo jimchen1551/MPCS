@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "534eebd6edc47c99",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c5423fce0e8a9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Design/Master method.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Master method.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Master method.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Master method.md"
+                "file": "Computer Science/Algorithms/Sorting algorithms.md"
               }
             }
           },
@@ -187,7 +169,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6c5423fce0e8a9df",
+  "active": "f3c0919f8cb9c639",
   "lastOpenFiles": [
     "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Design/Master method.md",

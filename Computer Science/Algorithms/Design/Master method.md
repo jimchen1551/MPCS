@@ -31,4 +31,4 @@ $$\Rightarrow T(n)=\Theta(n^{\log_ba}\lg n)$$
 $$\frac{f(n)}{n^{\log_ba}}=\Omega(n^\epsilon)\rightarrow\infty\text{ as }n\rightarrow\infty(\because \epsilon>0)$$
 $$\Rightarrow T(n)=\Theta(f(n))$$
 1. $f(n)$ is **polynomially larger** than $n^{log_ba}$
-2. $af(n/b)\leq cf(n)$ **regularity condition**
+2. **regularity condition**: $af(n/b)\leq cf(n)$ 
