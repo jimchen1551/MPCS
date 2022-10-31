@@ -57,7 +57,15 @@ HEAP-SORT(A, n)
    - The children's subtrees each have size at most 2n/3
    $$T(n)\leq T(2n/3)+\Theta(1)$$
    $$\Rightarrow T(n)=O(\lg n)$$
-   2. `BUILD-MAX-HEAP`
+2. `BUILD-MAX-HEAP`
       1. Loosely bounded
-         - each call to `MAX-HEAPIFY` cost $O(\lg n)
+         - each call to `MAX-HEAPIFY` cost $O(\lg n)$
+         - calling $O(n)$ times
+         - running in $O(n\lg n)$
       2. Tightly bounded
+         - an n-element heap has height $\lfloor\lg n\rfloor$ and at most $\lceil n/2^{h+1}\rceil$ nodes of any height h
+         - time required by `MAX-HEAPIFY` when called on a node of height h is $O(h)$
+         - $\sum_{h=0}^{\lfloor\lg n\rfloor}\lceil\frac{n}{2^{h+1}}\rceil O(h)=O(n\sum_{h=0}^{\lfloor\lg n\rfloor}\frac{h}{2^h})$
+         - $\sum_{h=0}^\infty\frac{h}{2^h}=2$
+         - $O(n\sum_{h=0}^{\lfloor\lg n\rfloor}\frac{h}{2^h})=O(n\sum_{h=0}^{\infty}\frac{h}{2^h})=O(n)$
+3. 
