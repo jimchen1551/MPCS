@@ -32,9 +32,15 @@ for i = floor(A.length/2) downto 1
 HEAP-SORT(A, n)
 
 ```
-- `MAX-HEAPIFY`: running in $O(\lg n)$ , the key to **maintaining** the max-heap property
-- `BUILD-MAX-HEAP`: running in linear time, producing a max-heap from an **unordered** input array
-- `HEAP-SORT`: running in $O(n\lg n)$, sorting an array in place
+1. `MAX-HEAPIFY`: 
+  - running in $O(\lg n)$
+  - the key to **maintaining** the max-heap property
+2. `BUILD-MAX-HEAP`: 
+   - running in linear time
+   - producing a max-heap from an **unordered** input array
+3. `HEAP-SORT`
+   - running in $O(n\lg n)$
+   - sorting an array in place
 
 ## Loop invariant
 1. `BUILD-MAX-HEAP`
