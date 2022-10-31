@@ -31,3 +31,10 @@ HEAP-SORT(A, n)
 - MAX-HEAPIFY: running in $O(\lg n)$ , the key to **maintaining** the max-heap property
 - BUILD-MAX-HEAP: running in linear time, producing a max-heap from an **unordered** input array
 - HEAP-SORT: running in $O(n\lg n)$, sorting an array in place
+
+## Loop invariant
+
+## Analysis
+1. MAX-HEAPIFY
+   $$T(n)\leq T(2n/3)+\Theta(1)$$
+   $$\Rightarrow T(n)=O(\lg n)$$
