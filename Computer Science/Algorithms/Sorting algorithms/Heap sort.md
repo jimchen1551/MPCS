@@ -7,12 +7,15 @@ Tags:
 ---
 # Heap sort
 ![[Pasted image 20221031111237.png]]
+- utilizing max-[[Heap]] to manage info
 - like [[Merge sort]], it's running time is $O(n\lg n)$
 - like [[Insertion sort]], it sorts in place
 ## Psuedocode
 ```Pseudocode
-HEAPSORT(A, n)
+MAX-HEAPIFY
+BUILD-MAX-HEAP
+HEAP-SORT(A, n)
 
 ```
-
-[[Heap]]
+- MAX-HEAPIFY: 
+- BUILD-MAX-HEAP: 

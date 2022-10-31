@@ -8,7 +8,15 @@ Tags:
 # Heap
 ![[Pasted image 20221031110731.png]]
 - an array object that can be viewed as a nearly complete binary tree
-- Commonly used in priority queues
+- commonly used in priority queues
+```Pseudocode
+Parent(i)
+	return floor(i/2)
+Left(i)
+	return 2*i
+Right(i)
+	return 2*i+1
+```
 ## Max-heap
 - The **max-heap property** is that for every node i other than the root, 
   $A[Parent(i)]\geq A[i]$
