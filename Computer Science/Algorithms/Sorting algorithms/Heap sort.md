@@ -54,3 +54,4 @@ HEAP-SORT(A, n)
    2. `BUILD-MAX-HEAP`
       - each call to `MAX-HEAPIFY` cost $O(\lg n)$ time
       - calling $O(n)$ times
+      - running in $O(n\lg n)$
