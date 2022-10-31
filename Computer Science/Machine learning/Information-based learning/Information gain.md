@@ -7,7 +7,12 @@ Tags:
 ---
 # Information gain
 ![[Screen Shot 2022-10-31 at 19.25.51.png]]
-$$IG(D, A)=H(D)-\sum$$
+$$IG(D, A)=H(D)-\sum_{v\in Values(A)}\frac{|S_v|}{|S|}H(S_v)$$
 - a measure of the **reduction in the overall entropy** of a set of instances that is achieved by testing on a descriptive feature. 
+
 1. Compute the entropy of the original dataset with respect to target feature. 
-2. For each
+   
+2. For each descriptive feature, create the sets that result by partitioning the instances in the dataset using their feature values, and then sum the entropy scores of each of these sets. 
+   - [[Shannon's entropy model]] should be rewritten as $H(t, D)=\sum_{l\in levels(t)}(P(t=l)\lg(P(t=l)))$, where t is the target feature. 
+   - The entropy remaining also should be defined as $rem(d, D)=\sum_{l\in levels(d)}$
+3. Subtract the remaining entropy value from the original entropy value to give the information gain. 
