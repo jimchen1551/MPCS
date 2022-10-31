@@ -10,7 +10,7 @@ Tags:
 
 ## Pseudocode
 ```Pseudocode
-# MERGE(A, p, q, r)
+MERGE(A, p, q, r)
 n_L = q - p + 1
 n_R = r - q
 let L[0:n_L-1] and R[0:n_R-1] be new array
@@ -37,7 +37,7 @@ while j<n_R
 	j = j + 1
 	k = k + 1
 
-# MERGE-SORT(A, p, r)
+MERGE-SORT(A, p, r)
 if p>=r
 	return
 MERGE-SORT(A, p, q)
