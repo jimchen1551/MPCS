@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Untitled.md",
+                "file": "Computer Science/Data structures/Priority queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Untitled.md",
+                "file": "Computer Science/Data structures/Priority queue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Untitled.md",
+                "file": "Computer Science/Data structures/Priority queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Untitled.md"
+                "file": "Computer Science/Data structures/Priority queue.md"
               }
             }
           },
