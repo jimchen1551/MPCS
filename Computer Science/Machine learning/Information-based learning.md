@@ -8,7 +8,7 @@ Tags:
 # Information-based learning
 [[Information theory]]
 ## Decision trees
-![[Screen Shot 2022-10-31 at 18.28.17.png]]
+![[Screen Shot 2022-10-31 at 18.45.33.png]]
 - consisting of a root node (or starting node), interior nodes, and leaf nodes (or terminating nodes) that are connected by branches
 - Each non-leaf node in the tree specifies a test to be carried out on a descriptive feature. 
 - The number of possible levels that a descriptive feature can take determines the number of downward branches from a non-leaf node. 
@@ -25,9 +25,10 @@ Tags:
 - e.g., 
   1. equipment or medical diagnosis
   2. credit risk prediction
-  3. modeling 
+  3. modeling purchase preferences
 ## Shannon's entropy model
-
+$$H(X)=-\sum_iP(x_i)\log P(x_i)$$
+- measuring the uncertainty of a probability distribution
 ## Information gain
 
 ## ID3 algorithm
