@@ -58,6 +58,6 @@ HEAP-SORT(A, n)
    $$T(n)\leq T(2n/3)+\Theta(1)$$
    $$\Rightarrow T(n)=O(\lg n)$$
    2. `BUILD-MAX-HEAP`
-      - each call to `MAX-HEAPIFY` cost $O(\lg n)$ time
-      - calling $O(n)$ times
-      - running in $O(n\lg n)$
+      1. Loosely bounded
+         - each call to `MAX-HEAPIFY` cost $O(\lg n)
+      2. Tightly bounded
