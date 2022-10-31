@@ -36,5 +36,7 @@ HEAP-SORT(A, n)
 
 ## Analysis
 1. MAX-HEAPIFY
+   - The children's subtrees each have size at most 2n/3
    $$T(n)\leq T(2n/3)+\Theta(1)$$
    $$\Rightarrow T(n)=O(\lg n)$$
+   
