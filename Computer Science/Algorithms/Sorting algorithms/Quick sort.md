@@ -20,6 +20,21 @@ for j = p to r - 1
 exchange A[i+1] with A[r]
 return i+1
 
+HOARE-PARTITION(A, p, r)
+x = A[p]
+i = p - 1
+j = r + 1
+while TRUE
+	repeat
+		j -= 1
+	until A[j]<=x
+	repeat
+		i += 1
+	until A[i]>=x
+	if i<j
+		exchange A[i] with A[j]
+	else return j
+
 QUICKSORT(A, p, r)
 if p<r
 	q = PARTITION(A, p, r)
@@ -39,7 +54,7 @@ if p<r
 1. **Initialization**: 
    Prior to the first iteration of the loop, we have $i=p-1$ and $j=p$. Because no values b/w $p$ and $i$, and no values b/w $i+1$ and $j-1$, the first 2 conditions are trivially satisfied. 
 2. **Maintenance**: 
-   
+   When $A[j]>x$, the only action in the loop is to increment $j$. After incrementation, the second condition holds for $A[j-1]$ and all other entries remain unchanged. When $A[j]\leq x$, the loop increments $i$, swaps $A[i]$ and $A[j]$, and then increments $j$. Because of the swap, we now have that $A[i]\leq x$, and condition 1 is satisfied. Similarly, we also have that $A[j-1]>x$, since the item that was swapped into $A[j-1]$ is, by the loop invariant, greater than $x$. 
    ![[Screen Shot 2022-10-31 at 14.13.22.png]]
 3. **Termination**: 
    At termination, $j=r$
