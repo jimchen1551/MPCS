@@ -13,49 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c690f16f8c438aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d72958ae78d72a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "aca36182db702a1d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "997c2f7a6e05f25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
+                "file": "Computer Science/Algorithms/Design/Master method.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
+                "file": "Computer Science/Algorithms/Design/Master method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
+                "file": "Computer Science/Algorithms/Design/Master method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md"
+                "file": "Computer Science/Algorithms/Design/Master method.md"
               }
             }
           },
@@ -211,15 +169,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "997c2f7a6e05f25f",
+  "active": "f3c0919f8cb9c639",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
+    "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
-    "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Asymptotic notation.md",
-    "Computer Science/Algorithms.md",
     "Computer Science/Data structures.md",
     "Computer Science/Data structures/Priority queue.md",
     "Computer Science/Data structures/Heap.md"
