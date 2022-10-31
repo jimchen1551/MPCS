@@ -31,7 +31,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Heap.md",
+                "file": "Computer Science/Data structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3429a18451e53a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
+                "file": "Computer Science/Data structures/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
+                "file": "Computer Science/Data structures/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Heap sort.md"
+                "file": "Computer Science/Data structures/Untitled.md"
               }
             }
           },
@@ -199,8 +212,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3c0919f8cb9c639",
+  "active": "3429a18451e53a51",
   "lastOpenFiles": [
+    "Computer Science/Data structures.md",
     "Computer Science/Data structures/Heap.md",
     "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
@@ -209,7 +223,6 @@
     "Computer Science/Algorithms/Design/Master method.md",
     "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms/Design/Recursion-tree method.md",
-    "Computer Science/Algorithms/Design/Substitution method.md",
-    "Computer Science/Data structures.md"
+    "Computer Science/Algorithms/Design/Substitution method.md"
   ]
 }

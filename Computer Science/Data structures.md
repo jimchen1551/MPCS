@@ -10,6 +10,7 @@ Tags:
 |:----------------------- |:------- |
 | [[Stacks]]              |         |
 | [[Queues]]              |         |
+| [[Priority queue]]      |         |
 | [[Linked lists]]        |         |
 | [[Heap]]                |         |
 | [[Rooted trees]]        |         |

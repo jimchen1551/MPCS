@@ -10,6 +10,7 @@ Tags:
 - utilizing max-[[Heap]] to manage info
 - like [[Merge sort]], it's running time is $O(n\lg n)$
 - like [[Insertion sort]], it sorts in place
+- commonly used in [[Priority queue]]
 ## Psuedocode
 ```Pseudocode
 MAX-HEAPIFY(A, i)
@@ -30,7 +31,11 @@ for i = floor(A.length/2) downto 1
 	MAX-HEAPIFY(A, i)
 
 HEAP-SORT(A, n)
-
+BUILD-MAX-HEAP(A)
+for i = A.length downto 2
+	exchange A[1] with A[i]
+	A.heap-size -= 1
+	MAX-HEAPIFY(A, 1)
 ```
 1. `MAX-HEAPIFY`: 
   - running in $O(\lg n)$
@@ -68,4 +73,5 @@ HEAP-SORT(A, n)
          - $\sum_{h=0}^{\lfloor\lg n\rfloor}\lceil\frac{n}{2^{h+1}}\rceil O(h)=O(n\sum_{h=0}^{\lfloor\lg n\rfloor}\frac{h}{2^h})$
          - $\sum_{h=0}^\infty\frac{h}{2^h}=2$
          - $O(n\sum_{h=0}^{\lfloor\lg n\rfloor}\frac{h}{2^h})=O(n\sum_{h=0}^{\infty}\frac{h}{2^h})=O(n)$
-3. 
+3. `HEAP-SORT`
+   - running in $O(n\lg n)$

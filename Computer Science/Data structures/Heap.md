@@ -9,7 +9,6 @@ Tags:
 ![[Pasted image 20221031110731.png]]
 - an array object that can be viewed as a nearly complete binary tree
 - the height of the tree is $\Theta(\lg n)$
-- commonly used in priority queues
 ```Pseudocode
 Parent(i)
 return floor(i/2)
