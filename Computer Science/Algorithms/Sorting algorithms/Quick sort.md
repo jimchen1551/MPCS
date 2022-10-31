@@ -35,7 +35,7 @@ while TRUE
 		exchange A[i] with A[j]
 	else return j
 
-QUICKSORT(A, p, r)
+QUICK-SORT(A, p, r)
 if p<r
 	q = PARTITION(A, p, r)
 	QUICKSORT(A, p, q-1)
@@ -61,3 +61,13 @@ if p<r
 ## Analysis
 $$T_{wc}(n)=\Theta(n^2)$$
 $$T_{ac}(n)=\Theta(n\lg n)$$
+1. `PARTITION` running in $\Theta (n)$
+2. `QUICK-SORT` running in 
+   1. [[Worst case]]: 
+      $T(n)=T(n-1)+T(0)+\Theta(n)=T(n-1)+\Theta(n)$
+      $T(n)=\Theta(n^2)$
+   2. [[Best case]]: 
+      $T(n)\leq2T(n/2)+\Theta(n)$
+      $T(n)=\Theta(n\lg n)$
+   3. [[Average case]]: 
+      much closer to best case than to worst case

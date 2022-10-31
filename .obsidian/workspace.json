@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "aca36182db702a1d",
@@ -214,10 +213,10 @@
   },
   "active": "997c2f7a6e05f25f",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
+    "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
+    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Asymptotic notation.md",
     "Computer Science/Algorithms.md",
