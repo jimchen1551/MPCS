@@ -18,25 +18,26 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "aca36182db702a1d",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "c690f16f8c438aa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aca36182db702a1d",
+        "type": "tabs",
+        "children": [
           {
             "id": "997c2f7a6e05f25f",
             "type": "leaf",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms.md"
+                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md"
               }
             }
           },
@@ -199,17 +200,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c690f16f8c438aa3",
+  "active": "997c2f7a6e05f25f",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
+    "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
+    "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
+    "Computer Science/Algorithms/Asymptotic notation.md",
+    "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Data structures.md",
     "Computer Science/Data structures/Priority queue.md",
     "Computer Science/Data structures/Heap.md",
-    "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-    "Computer Science/Algorithms/Design/Master method.md",
-    "Computer Science/Algorithms/Divide and conquer.md"
+    "Computer Science/Algorithms/Design/Master method.md"
   ]
 }
