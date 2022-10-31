@@ -71,3 +71,14 @@ $$T_{ac}(n)=\Theta(n\lg n)$$
       $T(n)=\Theta(n\lg n)$
    3. [[Average case]]: 
       much closer to best case than to worst case
+## Randomization
+```Pseudocode
+RANDOMIZED-PARTITION(A, p, r)
+i = RANDOM(p, r)
+exchange A[r] with A[i]
+return PARTITION(A, p, r)
+```
+- in exploring the average-case behaviour of quickwort
+- All permutation of the input numbers are equally likely
+- Instead of always using $A[r]$ as the pivot, we will use a randomly chosen element from the subarray $A[p:r]$
+- Because the pivot element is randomly chosen, we expect the split of the input array to be reasonably well balanced on average. 
