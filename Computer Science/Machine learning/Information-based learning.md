@@ -9,7 +9,7 @@ Tags:
 [[Decision tree]]
 [[Shannon's entropy model]]
 [[Information gain]]
-## ID3 algorithm
+[[ID3 algorithm]]
 
 ## Alternative feature selection
 
