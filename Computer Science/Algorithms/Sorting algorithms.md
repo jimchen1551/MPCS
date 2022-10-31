@@ -9,9 +9,10 @@ Tags:
 Input: $\langle a_1, a_2, \dots,a_n\rangle$
 Output: $\langle a_1',a_2',\dots, a_n\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a_n'$
 
-| Sorting            | Comment |
-| ------------------ | ------- |
-| [[Insertion sort]] |         |
-| [[Merge sort]]     |         |
-| [[Heap sort]]      |         |
-| [[Selection sort]] |         |
+| Sorting            | Design                 | [[Asymptotic notation]] |
+| ------------------ | ---------------------- | ----------------------- |
+| [[Insertion sort]] | Incremental approach   | $\Theta(n^2)$           |
+| [[Merge sort]]     | [[Divide and conquer]] | $\Theta(n\lg n)$        |
+| [[Heap sort]]      | [[Heap]]               | $O(n\lg n)$             |
+| [[Quick sort]]     |                        |                         |
+| [[Selection sort]] |                        |                         |

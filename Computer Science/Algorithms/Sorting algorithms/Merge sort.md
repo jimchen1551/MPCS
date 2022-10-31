@@ -69,4 +69,4 @@ $$T(n)=\begin{cases}
 \Theta(1)&\quad\text{if }n=1\\
 2T(n/2)+\Theta(n)&\quad\text{if }n>1
 \end{cases}$$
-$$T(n)=\Theta(n\log n)$$
+$$T(n)=\Theta(n\lg n)$$
