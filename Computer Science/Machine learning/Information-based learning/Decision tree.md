@@ -14,7 +14,7 @@ Tags:
 ## How to build
 - We prefer the decision trees with fewer tests (shallower)
 - To build a shallow tree, we put the descriptive features that best discriminate b/w instances toward the top of tree 
-- To determine how well a descriptive feature is, we need Shannon's entropy model because we keep reducing the uncertainty while splitting the nodes and making them more and more pure
+- To determine how well a descriptive feature is, we need [[Shannon's entropy model]] because we keep reducing the uncertainty while splitting the nodes and making them more and more pure
 ## When to use
 - used while
   1. instances describable by attribute value pairs

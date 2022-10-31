@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "17413f3256b172d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8c20ee352cc0109f",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
+                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
+                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md"
+                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md"
               }
             }
           },
@@ -194,17 +206,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8c20ee352cc0109f",
+  "active": "17413f3256b172d0",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Information-based learning.md",
+    "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
+    "Computer Science/Machine learning/Information-based learning/Information gain.md",
     "Computer Science/Machine learning/Information-based learning/Decision tree.md",
+    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Probability-based learning.md",
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms/Design/Master method.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Sorting algorithms/Heap sort.md"
+    "Computer Science/Algorithms/Design/Master method.md"
   ]
 }
