@@ -31,38 +31,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3429a18451e53a51",
+            "id": "997c2f7a6e05f25f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Priority queue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a016e16a3192abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Priority queue.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Priority queue.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Priority queue.md"
+                "file": "Computer Science/Algorithms/Sorting algorithms.md"
               }
             }
           },
@@ -212,17 +199,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3429a18451e53a51",
+  "active": "c690f16f8c438aa3",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Sorting algorithms/Quick sort.md",
+    "Computer Science/Algorithms/Sorting algorithms.md",
+    "Computer Science/Algorithms.md",
     "Computer Science/Data structures.md",
+    "Computer Science/Data structures/Priority queue.md",
     "Computer Science/Data structures/Heap.md",
     "Computer Science/Algorithms/Sorting algorithms/Heap sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-    "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Design/Master method.md",
-    "Computer Science/Algorithms/Divide and conquer.md",
-    "Computer Science/Algorithms/Design/Recursion-tree method.md",
-    "Computer Science/Algorithms/Design/Substitution method.md"
+    "Computer Science/Algorithms/Divide and conquer.md"
   ]
 }
