@@ -27,8 +27,9 @@ Tags:
   2. credit risk prediction
   3. modeling purchase preferences
 ## Shannon's entropy model
-$$H(X)=-\sum_iP(x_i)\log P(x_i)$$
+$$H(X)=-\sum_iP(x_i)\lg P(x_i)$$
 - measuring the uncertainty of a probability distribution
+- If we have $M$ outcomes in total, we need $\lceil\lg M\rceil$ bits (also can be seen as the number of uncertainty) at least. 
 ## Information gain
 
 ## ID3 algorithm
