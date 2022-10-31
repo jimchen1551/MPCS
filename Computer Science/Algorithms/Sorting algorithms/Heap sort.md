@@ -6,8 +6,9 @@ Tags:
 - 
 ---
 # Heap sort
-![[Screen Shot 2022-10-11 at 11.36.18.png]]
+![[Pasted image 20221031111237.png]]
 ```Pseudocode
 HEAPSORT(A, n)
 
 ```
+[[Heap]]
