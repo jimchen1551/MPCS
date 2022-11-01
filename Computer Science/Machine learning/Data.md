@@ -38,8 +38,8 @@ Tags:
 >>2. Outcome period: over which target features are calculated
 >
 >>**Next-best-offer model**
->>providing an example scenario where the descriptive features are time dependent but the target feature is not
->>used to determine the least expensive incentive that needs to be offered to a customer who is considering caceling a service
+>>providing an example scenario where the descriptive features are time-dependent but the target feature is not
+>>used to determine the least expensive incentive that needs to be offered to a customer who is considering canceling a service
 
 ## Analytics Base Table
 - aka **ABT**
@@ -55,20 +55,20 @@ Tags:
 - including **tabular reports** 
 	- describing the characteristics of each feature in an ABT using standard statistical measures of **central tendency** (mean, mode, and median) and **variation** (standard deviation and percentiles)
 	- accompanied by **data visualizations** that illustrate the distribution of the values in each feature in an ABT
-- including a **hitogram** ~~for each continuous feature~~
-	- if the cardinality < 10, using **bar plots** instead
+- including a **histogram** ~~for each continuous feature~~
+	- if the cardinality < 10, use **bar plots** instead
 - **continuous** features: 
-	- minimum, 1st quartile, mean, median, 3rd quartile, maximum, and standard deviation, total number of instances, percentage of instances missing the feature, and the cardinality of each feature
+	- minimum, 1st quartile, mean, median, 3rd quartile, maximum, and standard deviation, the total number of instances, the percentage of instances missing the feature, and the cardinality of each feature
 	- The shapes of histograms relate to one of the [Probability distribution](Probability#Probability distribution)
 - **categorical** features: 
 	- using descriptive statistics
-	- 2 most frequent levels for the feature (mode and 2nd mode), frequency of appearance, percentage of instances missing the feature, and the cardinaligy of the feature
+	- 2 most frequent levels for the feature (mode and 2nd mode), frequency of appearance, percentage of instances missing the feature, and the cardinality of the feature
 
 ## Data Quality Issues
 - defined as anything unusual about the data in an ABT
 - due to
 	1. **invalid data**: by errors in the process of generating an ABT
-	   solution: correct immediately and recreate the DQR)
+	   solution: correct immediately and recreate the DQR
 	2. **valid data**: arising for a range of domain-specific reasons
 	   solution: not correct or recording the issue in the **data quality plan** while affecting training process
 ![[Screen Shot 2022-10-04 at 14.36.12.png|500]]
