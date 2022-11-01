@@ -70,18 +70,18 @@ Tags:
 	1. **invalid data**: by errors in the process of generating an ABT
 	   solution: correct immediately and recreate the DQR
 	2. **valid data**: arising for a range of domain-specific reasons
-	   solution: not correct or recording the issue in the **data quality plan** while affecting training process
+	   solution: not correcting or recording the issue in the **data quality plan** while affecting the training process
 ![[Screen Shot 2022-10-04 at 14.36.12.png|500]]
 ### Missing values
 - some instances may miss values for one or more features
 - % Miss. column in the DQR
-- causes are misillaneous
+- causes are miscellaneous
 
 Classes: 
 1. Missing completely at random (MCAR)
-	The distribution of an example with a missing value for a certain attribute is **independent** of the observed data and the value which is missing.
+	The distribution of an example with a missing value for a certain attribute is **independent** of the observed data and the missing value.
 2. Missing at random (MAR)
-	The distribution of an example with a missing value for a certain attribute **depends on the observed data**, but **not depends on the value which is missing**.
+	The distribution of an example with a missing value for a certain attribute **depends on the observed data** but **not depends on the value which is missing**.
 3. Missing not at random (MNAR)
 	The distribution of an example with a missing value for a certain attribute **depends on the value which is missing**.
 
@@ -94,7 +94,7 @@ Handling:
    aka listwise deletion
    deleting instances missing one or more feature values (usually only for target feature)
 4. **Imputation**: 
-   if % Miss. < 30% (reluctant threshold) or 50% (strongly not recommended threshold), **replacing** missing feature values with a plausible value based on the feature values present 
+   if % Miss. > 30% (reluctant threshold) or 50% (strongly not recommended threshold), **replacing** missing feature values with a plausible value based on the feature values present 
 	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
 	- **Single imputation**: commonly replaced by a measure of the central tendency, e.g., 
 		continuous: median or mean; 
@@ -143,7 +143,7 @@ Classes:
 	- correct values just far away from the rest of instances
 
 Identification: 
-1. examining the **minimum** and **maximum** values ofor each feature: 
+1. examining the **minimum** and **maximum** values for each feature: 
 	- usually find out the invalid outliers
 2. comparing the gaps b/w the **median, minimum, maximum, 1st quartile, 3rd quartile**
 	- Maximum - 3rd quartile >> 3rd quartile - median, $\Rightarrow$ maximum is unusual and likely to be the outlier. 
@@ -170,7 +170,7 @@ Handling:
 ![[Screen Shot 2022-10-18 at 13.42.08.png|400]]
 - **small multiples** (drawing the density of each level of feature)
 ![[Screen Shot 2022-10-18 at 13.43.28.png|400]]
-- if the number of levels of one of the feature is small, use **stacked bar plots** as an alternative
+- if the number of levels of one of the features is small, use **stacked bar plots** as an alternative
 ### Cross-data-type features
 ![[Screen Shot 2022-10-18 at 13.55.36.png|400]]
 - **small multiples** (drawing a density histogram of the values of the continuous feature for each level of the categorical feature)
