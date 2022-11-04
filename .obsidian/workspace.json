@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "dcd1d46b3a41beb3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "f14cb11aefbb62ff",
             "type": "leaf",
             "state": {
@@ -67,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +225,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f3c0919f8cb9c639",
+  "active": "dcd1d46b3a41beb3",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems.md",
