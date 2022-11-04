@@ -19,7 +19,7 @@ Process: active entity, a program in execution in [[Memory]]
   2. **Data section**: global variables
   3. [[Stack]]: temporary local variables and functions
   4. [[Heap]]: dynamically allocated variables or classes
-  5. [[Program counter]]
+  5. Current activity: [[Program counter]], [[Register]] content
   6. A set of associated resources
 - OS is responsible for
 	1. Creating and deleting both user and system processes
@@ -31,6 +31,8 @@ Process: active entity, a program in execution in [[Memory]]
 ### Process state
 ### Process control block
 ### Thread
+- aka lightweight process
+- a basic unit of CPU utilization
 ## Process scheduling
 ### Scheduling queue
 ### CPU scheduling
