@@ -8,12 +8,19 @@ Tags:
 # Process management
 - [[Processor]]
 ## Process
-Program: passive entity
-Process: active entity
+Program: passive entity, binary stored in [[Disk]]
+Process: active entity, a program in execution in [[Memory]]
 - a program in execution
 - a unit of work in a system (OS processes and user processes)
 - needing resources such as [[CPU time]], [[Memory]], [[IO]], and Files
 - executing concurrently by multiplexing on a single [[Processor|CPU]] core
+- consisting of 
+  1. **Code section**: text
+  2. **Data section**: global variables
+  3. [[Stack]]: temporary local variables and functions
+  4. [[Heap]]: dynamically allocated variables or classes
+  5. [[Program counter]]
+  6. A set of associated resources
 - OS is responsible for
 	1. Creating and deleting both user and system processes
 	2. Threads and CPU scheduling
