@@ -20,7 +20,7 @@ Process: active entity
 	3. Suspending and resuming processes
 	4. Process synchronization
 	5. Process communication
-- OS reclaiming any reusable resources after temination
+- OS reclaiming any reusable resources after termination
 ### Process state
 ### Process control block
 ### Thread
