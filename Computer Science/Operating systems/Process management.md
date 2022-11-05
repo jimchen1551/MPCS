@@ -8,6 +8,7 @@ Tags:
 # Process management
 - [[Processor]]
 ## Process
+![[Pasted image 20220709002201.png]]
 Program: passive entity, binary stored in [[Disk]]
 Process: active entity, a program in execution in [[Memory]]
 - a program in execution
