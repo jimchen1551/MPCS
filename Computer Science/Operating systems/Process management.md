@@ -9,6 +9,12 @@ Tags:
 - [[Processor]]
 ## Process
 ![[Pasted image 20220709002201.png]]
+
+| Memory layout | Explanation |
+| ------------- | ----------- |
+| Text section  |             |
+| Data s              |             |
+
 Program: passive entity, binary stored in [[Disk]]
 Process: active entity, a program in execution in [[Memory]]
 - a program in execution
