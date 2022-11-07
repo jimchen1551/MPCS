@@ -10,7 +10,7 @@ Tags:
 - a unit of work in a system (OS processes and user processes)
 - Program: **passive** entity, an executable file stored in [[Disk]]
 - Process: **active** entity, a program in execution in [[Memory]]
-- Program → Process:
+- Program → Process: executable file loaded into [[Memory]]
 
 ![[Pasted image 20220709002201.png]]
 
