@@ -10,7 +10,7 @@ Tags:
 | -------------------- | -------------------------------------------------------------------------------- |
 | [[Scheduling queue]] | Job queue<br>Ready queue<br>Wait queue<br>Device queue                           |
 | [[CPU scheduling]]   | [[Short-term schedular]]<br>[[Medium-term schedular]]<br>[[Long-term schedular]] |
-| [[Context switch]]   |                                                                                  |
+| [[Context switch]]   | State save<br>State restore<br>[[Process control block]]                         |
 
 - maximizing [[Processor|CPU]] utilization
 - selecting a [[process]] from the [[Scheduling queue]] by [[CPU scheduling]]
