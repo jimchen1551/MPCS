@@ -6,3 +6,4 @@ Tags:
 - 
 ---
 # Process creation
+- **Parent** process creates **children** process
