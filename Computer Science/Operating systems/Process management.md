@@ -7,16 +7,12 @@ Tags:
 ---
 # Process management
 - [[Processor]]
-| Process management | Content |
-| ------------------ | ------- |
-| [[Process]]        |         |
-| [[Process scheduling]]                   |         |
+| Process management             | Content |
+| ------------------------------ | ------- |
+| [[Process]]                    |         |
+| [[Process scheduling]]         |         |
+| [[Interprocess communication]] |         |
 
-
-## Process scheduling
-### Scheduling queue
-### CPU scheduling
-### Context switch
 ## Operation on process
 ### Process creation
 ### Process termination
