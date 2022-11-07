@@ -18,7 +18,7 @@ Tags:
 | Memory layout     | Explanation                   |
 | ----------------- | ----------------------------- |
 | Text section      | executable code               |
-| Data section      | static data (global)              |
+| Data section      | global variables              |
 | [[Heap]] section  | dynamic allocation            |
 | [[Stack]] section | local variables and functions |
 
