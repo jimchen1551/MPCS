@@ -6,5 +6,6 @@ Tags:
 - 
 ---
 # Process creation
-- **Parent** process creates **children** process
-- OS identify processes according to a unique **process identify** (pid, an integer)
+![[Screen Shot 2022-11-07 at 23.03.33.png|500]]
+- **Parent** process creates **children** process.
+- OS identifies processes according to a unique **process identify** (pid, an integer)
