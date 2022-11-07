@@ -26,6 +26,8 @@ Tags:
 - executing concurrently by multiplexing on a single [[Processor|CPU]] core
 - reclaiming any reusable resources after termination
 ### Process state
+![[Screen Shot 2022-11-07 at 12.41.56.png|500]]
+
 ### Process control block
 ### Thread
 ## Process scheduling
