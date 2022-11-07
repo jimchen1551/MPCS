@@ -7,10 +7,14 @@ Tags:
 ---
 # Process state
 ![[Screen Shot 2022-11-07 at 12.41.56.png|500]]
+
 | State      | Explanation                           |
 | ---------- | ------------------------------------- |
-| New        | Process is created                    |
-| Running    | Instructions are executed             |
-| Waiting    |                                       |
+| New        | creating process                      |
+| Ready      | waiting to be assigned to a processor |
+| Running    | executing instructions                |
+| Waiting    | waiting for some event to occur       |
+| Terminated | finishing execution                   |
 
-| Terminated |                                       |
+- only 1 process can be **running** on any processor core
+- many processes may be **ready** and **waiting**
