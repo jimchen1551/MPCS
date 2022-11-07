@@ -6,17 +6,15 @@ Tags:
 - 
 ---
 # Process scheduling
-- maximizing [[Processor|CPU]] utilization
-- selecting a [[process]] from [[Scheduling queue]] by [[CPU scheduling]]
+| Issues               | Content                                                                          |
+| -------------------- | -------------------------------------------------------------------------------- |
+| [[Scheduling queue]] | Job queue<br>Ready queue<br>Wait queue<br>Device queue                           |
+| [[CPU scheduling]]   | [[Short-term schedular]]<br>[[Medium-term schedular]]<br>[[Long-term schedular]] |
+| [[Context switch]]   |                                                                                  |
 
-- [[Context switch]]
+- maximizing [[Processor|CPU]] utilization
+- selecting a [[process]] from the [[Scheduling queue]] by [[CPU scheduling]]
 
 - **Degree of [[multiprogramming]]**: the # of [[process]]es in [[memory]]
-- **Swapping**: 
-	- removing a [[process]] from [[memory]]
-	- reducing the degree of multiprogramming
-	- **swap out**: from [[memory]] to [[disk]]
-	- **swap in**: from [[disk]] to [[memory]]
-
 - **IO-bound process**: spending more of its time doing [[IO]]
 - **CPU-bound process**: spending more of its time doing computation

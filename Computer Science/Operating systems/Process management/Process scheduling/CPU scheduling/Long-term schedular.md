@@ -6,3 +6,11 @@ Tags:
 - 
 ---
 # Long-term schedular
+- invoked least frequently
+- owned by all systems
+
+- striving for good **process mix**
+- selecting the [[process]] **brought into** the ready queue
+
+- controlling the degree of multiprogramming
+- modifying the ratio of IO-bound process and CPU-bound process
