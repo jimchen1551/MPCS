@@ -29,6 +29,8 @@ Tags:
 ![[Screen Shot 2022-11-07 at 12.41.56.png|500]]
 
 ### Process control block
+![[Screen Shot 2022-11-07 at 12.55.16.png]]
+
 ### Thread
 ## Process scheduling
 ### Scheduling queue
