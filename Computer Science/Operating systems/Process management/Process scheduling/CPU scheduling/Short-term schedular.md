@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Short-term schedular
+- ready → running
 - invoked most frequently
 - used in all systems
 

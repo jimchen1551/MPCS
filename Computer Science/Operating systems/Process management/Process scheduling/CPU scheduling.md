@@ -7,8 +7,8 @@ Tags:
 ---
 # CPU scheduling
 
-| CPU schedular             | Explanation |
-| ------------------------- | ----------- |
-| [[Short-term schedular]]  |             |
-| [[Medium-term schedular]] |             |
-| [[Long-term schedular]]   |             |
+| CPU schedular             | Explanation     |
+| ------------------------- | --------------- |
+| [[Short-term schedular]]  | ready → running |
+| [[Medium-term schedular]] | ready → wait    |
+| [[Long-term schedular]]   | new → ready     |

@@ -7,6 +7,7 @@ Tags:
 ---
 # Medium-term schedular
 ![[Screen Shot 2022-11-07 at 21.16.59.png]]
+- ready → wait
 - used in the time-sharing system
 
 - added if the degree of multiprogramming needs to decrease

@@ -6,8 +6,9 @@ Tags:
 - 
 ---
 # Long-term schedular
+- new → ready
 - invoked least frequently
-- used in batch system
+- used in the batch system
 
 - striving for a good **process mix**
 - selecting the [[process]] **brought into** the ready queue
