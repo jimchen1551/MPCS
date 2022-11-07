@@ -16,5 +16,10 @@ Tags:
 | Waiting    | waiting for some event to occur       |
 | Terminated | finishing execution                   |
 
+1. new → ready: [[Long-term schedular]]
+2. ready → running: [[Short-term schedular]]
+3. running → ready: [[Interrupt]] or time out
+4. running →
+
 - only 1 process can be **running** on any processor core
 - many processes may be **ready** and **waiting**
