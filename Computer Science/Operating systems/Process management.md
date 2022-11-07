@@ -18,7 +18,7 @@ Tags:
 | Memory layout     | Explanation                   |
 | ----------------- | ----------------------------- |
 | Text section      | executable code               |
-| Data section      | global variables              |
+| Data section      | static data (global)              |
 | [[Heap]] section  | dynamic allocation            |
 | [[Stack]] section | local variables and functions |
 
@@ -28,8 +28,6 @@ Tags:
 ### Process state
 ### Process control block
 ### Thread
-- aka lightweight process
-- a basic unit of CPU utilization
 ## Process scheduling
 ### Scheduling queue
 ### CPU scheduling
