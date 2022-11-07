@@ -15,9 +15,6 @@ Tags:
 | [[Process synchronization]]    |                                                              |
 | [[Interprocess communication]] |                                                              |
 
-## Operation on process
-### Process creation
-### Process termination
 ## Interprocess communication
 ### in a shared memory system
 ### in message-passing system
