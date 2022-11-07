@@ -14,6 +14,10 @@ Tags:
 - set of all [[process]]es in the [[main memory]]
 - ready and waiting to execute
 - stored as a [[Linked lists]]
-- a **ready-queue header** contains pointers to the first [[Process control block]]
+	- a **ready-queue header** contains pointers to the first [[Process control block]]
+	- each [[Process control block]] includes a **pointer field** pointing to the next
+## Wait queue
+- set of all [[process]]es in the [[main memory]]
+- waiting for the event to occur
 ## Device queue
 - set of [[process]]es waiting for an [[IO]] device

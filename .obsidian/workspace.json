@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2102718469582c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a2350d1889d83312",
             "type": "leaf",
             "state": {
@@ -20,7 +32,7 @@
             }
           },
           {
-            "id": "2102718469582c10",
+            "id": "7264a515da411a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6a566e6a4fbe1978",
@@ -92,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 259
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling.md"
               }
             }
           },
@@ -199,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "431106771af3fecb",
+  "active": "7264a515da411a90",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling.md",
-    "Computer Science/Operating systems/Computer system/Operation/Multiprogramming.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
     "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Process management/Process scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
+    "Computer Science/Operating systems/Computer system/Operation/Multiprogramming.md",
     "Computer Science/Operating systems/Operating system structures/System call.md",
     "Computer Science/Operating systems/Process management/Process/Process state.md",
     "Computer Science/Operating systems/Process management/Process/Process control block.md",
     "Computer Science/Operating systems/Process management/Process.md",
-    "Computer Science/Operating systems/Process management/Process/Thread.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Context switch.md"
+    "Computer Science/Operating systems/Process management/Process/Thread.md"
   ]
 }
