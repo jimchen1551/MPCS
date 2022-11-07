@@ -7,13 +7,13 @@ Tags:
 ---
 # Process management
 - [[Processor]]
-| Process management             | Content |
-| ------------------------------ | ------- |
-| [[Process]]                    |         |
-| [[Process operation]]          |         |
-| [[Process scheduling]]         |         |
-| [[Process synchronization]]    |         |
-| [[Interprocess communication]] |         |
+| Process management             | Content                                                      |
+| ------------------------------ | ------------------------------------------------------------ |
+| [[Process]]                    | [[Process state]]<br>[[Process control block]]<br>[[Thread]] |
+| [[Process operation]]          | [[Process creation]]<br>[[Process termination]]              |
+| [[Process scheduling]]         |                                                              |
+| [[Process synchronization]]    |                                                              |
+| [[Interprocess communication]] |                                                              |
 
 ## Operation on process
 ### Process creation

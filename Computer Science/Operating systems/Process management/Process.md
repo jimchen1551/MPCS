@@ -25,5 +25,4 @@ Tags:
 - reclaiming any reusable resources after termination
 - [[Process state]]
 - [[Process control block]]
-
-## Thread
+- [[Thread]]
