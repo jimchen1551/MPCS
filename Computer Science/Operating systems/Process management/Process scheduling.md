@@ -7,8 +7,6 @@ Tags:
 ---
 # Process scheduling
 
-## Scheduling queue
-
-## CPU scheduling
-
-## Context switch
+- [[Scheduling queue]]
+- [[CPU scheduling]]
+- [[Context switch]]

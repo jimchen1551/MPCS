@@ -8,9 +8,10 @@ Tags:
 # Process
 - a program in execution
 - a unit of work in a system (OS processes and user processes)
-- Program: **passive** entity, an executable file stored in [[Disk]]
-- Process: **active** entity, a program in execution in [[Memory]]
-- Program → Process: executable file loaded into [[Memory]]
+
+- Program: **passive** entity, an executable file stored in the [[Disk]]
+- Process: **active** entity, a program in execution in the [[Memory]]
+- Program → Process: executable file loaded into the [[Memory]]
 
 ![[Pasted image 20220709002201.png]]
 
@@ -24,6 +25,7 @@ Tags:
 - needing resources such as [[CPU time]], [[Memory]], [[IO]], and Files
 - executing concurrently by multiplexing on a single [[Processor|CPU]] core
 - reclaiming any reusable resources after termination
-- [[Process state]]
-- [[Process control block]]
-- [[Thread]]
+
+- [[Process state]]: the state of a process, e.g., new, ready, running, etc.
+- [[Process control block]]: the repository for data to (re)start a process
+- [[Thread]]: the lightweight process

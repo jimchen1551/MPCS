@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb79f39005b81cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2350d1889d83312",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7bafef62f157d590",
+            "id": "2102718469582c10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer organization/ISA/Procedure/Stack.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,28 +35,16 @@
         "currentTab": 1
       },
       {
-        "id": "24d5bcad52b1c7d6",
+        "id": "6a566e6a4fbe1978",
         "type": "tabs",
         "children": [
           {
-            "id": "e1801bc1dc5c6fa0",
+            "id": "431106771af3fecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Process control block.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33a06c8138b9fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Process control block.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Process control block.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Process control block.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md"
               }
             }
           },
@@ -221,17 +197,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e1801bc1dc5c6fa0",
+  "active": "431106771af3fecb",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process/Process state.md",
-    "Computer Science/Operating systems/Process management/Process.md",
-    "Computer Science/Computer organization/ISA/Procedure/Stack.md",
-    "Computer Science/Operating systems/Process management.md",
-    "Computer Science/Operating systems/Process management/Process/Thread.md",
-    "Computer Science/Operating systems/Process management/Process/Process control block.md",
     "Computer Science/Operating systems/Process management/Process scheduling.md",
-    "Computer Science/Operating systems/Operating system structures/System call and service/Process control.md",
+    "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems/Process management/Process.md",
+    "Computer Science/Operating systems/Process management/Process/Thread.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Context switch.md",
+    "Computer Science/Operating systems/Process management/Process/Process control block.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Machine learning/Information-based learning/Decision tree.md"
+    "Computer Science/Operating systems/Process management/Process/Process state.md"
   ]
 }
