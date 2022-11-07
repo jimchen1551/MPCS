@@ -37,6 +37,6 @@ Tags:
 ![[Screen Shot 2022-10-21 at 18.50.04.png|500]]
 - 3 ways to pass parameters to the OS
 	1. $\leq$ 5 parameters, pass the **value** of parameters in **register**
-	2. > 5 parameters, pass the **address** of parameters in **memory**
+	2. $>$ 5 parameters, pass the **address** of parameters in **memory**
 	3. **push** the parameters onto a [[Stack]] by the program 
 	   and **pop** off the [[Stack]] by the OS

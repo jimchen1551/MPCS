@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Process scheduling
-
+- maximizing [[CPU uti]]
 - [[Scheduling queue]]
 - [[CPU scheduling]]
 - [[Context switch]]
