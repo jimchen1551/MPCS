@@ -19,3 +19,5 @@ Tags:
 ```MIPS
 ```
 - remove element from stack
+## Activation record
+- Each time a function is called, an activation record containing function parameters, local variables, and the return address is pushed onto the stack. 
