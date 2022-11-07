@@ -7,6 +7,7 @@ Tags:
 ---
 # Process management
 - [[Processor]]
+
 | Process management             | Content                                                      |
 | ------------------------------ | ------------------------------------------------------------ |
 | [[Process]]                    | [[Process state]]<br>[[Process control block]]<br>[[Thread]] |
