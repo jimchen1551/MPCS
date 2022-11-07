@@ -36,7 +36,7 @@ Tags:
 ### Process creation
 ### Process termination
 ## Interprocess communication
-### in shared memory system
+### in a shared memory system
 ### in message-passing system
 ## Communication in Client-Server System
 ### Sockets
