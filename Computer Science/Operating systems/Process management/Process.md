@@ -23,11 +23,7 @@ Tags:
 - needing resources such as [[CPU time]], [[Memory]], [[IO]], and Files
 - executing concurrently by multiplexing on a single [[Processor|CPU]] core
 - reclaiming any reusable resources after termination
-## Process state
-![[Screen Shot 2022-11-07 at 12.41.56.png|500]]
+- [[Process state]]
+- [[Process control block]]
 
-## Process control block
-![[Screen Shot 2022-11-07 at 12.55.16.png]]
-
-![[Screen Shot 2022-11-07 at 13.06.12.png|500]]
 ## Thread
