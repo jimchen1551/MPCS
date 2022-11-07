@@ -16,9 +16,6 @@ Tags:
 | [[Process synchronization]]    |                                                                  |
 | [[Interprocess communication]] |                                                                  |
 
-## Interprocess communication
-### in a shared memory system
-### in message-passing system
 ## Communication in Client-Server System
 ### Sockets
 ### Remote procedure call
