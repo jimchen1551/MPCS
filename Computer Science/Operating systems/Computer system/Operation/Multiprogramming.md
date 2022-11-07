@@ -18,3 +18,5 @@ Tags:
 	- in a **non-multiprogrammed** system, the [[Processor|CPU]] would sit idle. 
 	- in a **multiprogrammed** system, when a process needs to wait, the OS switches to, and executes, another process
 4. 1st process finishes waiting and gets the [[Processor|CPU]] back, if multiprogrammed. 
+
+- **Degree of multiprogramming**: the number of [[process]]es currently in [[memory]]
