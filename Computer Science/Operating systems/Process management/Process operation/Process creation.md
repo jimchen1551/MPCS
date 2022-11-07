@@ -26,3 +26,4 @@ Tags:
 ## UNIX
 `fork()` [[system call]] creates new [[process]]
 `exec()` [[system call]] used after a `fork()` to replace the process' memory space with a new program
+![[Screen Shot 2022-11-08 at 00.17.25.png]]
