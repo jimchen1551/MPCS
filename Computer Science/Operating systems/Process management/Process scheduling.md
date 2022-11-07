@@ -7,9 +7,8 @@ Tags:
 ---
 # Process scheduling
 - maximizing [[Processor|CPU]] utilization
-- switching among [[process]]es for [[program execution]] on a core
-- maintaining [[Scheduling queue]]s of [[process]]es
-- [[CPU scheduling]]
+- selecting a [[process]] from [[Scheduling queue]] by [[CPU scheduling]]
+
 - [[Context switch]]
 
 - **Degree of [[multiprogramming]]**: the # of [[process]]es in [[memory]]

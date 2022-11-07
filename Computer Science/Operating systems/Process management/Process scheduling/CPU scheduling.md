@@ -6,3 +6,6 @@ Tags:
 - 
 ---
 # CPU scheduling
+[[Short-term schedular]]
+[[Medium-term schedular]]
+[[Long-term schedular]]
