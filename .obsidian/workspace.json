@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process.md"
+                "file": "Computer Science/Operating systems/Process management.md"
               }
             }
           },
@@ -196,11 +196,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "25a4a924d99ad45a",
+  "active": "bb79f39005b81cac",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management/Process.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Process management/Process.md",
     "Computer Science/Computer organization/ISA/Procedure/Stack.md",
     "Computer Science/Machine learning/Information-based learning/Decision tree.md",
     "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",

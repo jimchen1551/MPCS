@@ -7,7 +7,11 @@ Tags:
 ---
 # Process management
 - [[Processor]]
-- [[Process]]
+| Process management | Content |
+| ------------------ | ------- |
+| [[Process]]        |         |
+| [[Process scheduling]]                   |         |
+
 
 ## Process scheduling
 ### Scheduling queue
@@ -22,4 +26,3 @@ Tags:
 ## Communication in Client-Server System
 ### Sockets
 ### Remote procedure call
-
