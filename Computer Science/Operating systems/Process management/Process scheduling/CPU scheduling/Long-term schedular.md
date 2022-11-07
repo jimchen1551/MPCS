@@ -7,9 +7,9 @@ Tags:
 ---
 # Long-term schedular
 - invoked least frequently
-- owned by all systems
+- used in batch system
 
-- striving for good **process mix**
+- striving for a good **process mix**
 - selecting the [[process]] **brought into** the ready queue
 
 - controlling the degree of multiprogramming

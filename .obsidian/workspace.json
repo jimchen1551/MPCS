@@ -47,59 +47,22 @@
         "currentTab": 2
       },
       {
-        "id": "6a566e6a4fbe1978",
+        "id": "c7b464aa8dd6ff2d",
         "type": "tabs",
         "children": [
           {
-            "id": "431106771af3fecb",
+            "id": "3335099bbe2f686e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fef19c04e0c046a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Short-term schedular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db249c72115e965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Long-term schedular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f287272a8ce1f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Context switch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Context switch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Context switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Context switch.md"
               }
             }
           },
@@ -247,13 +210,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87f287272a8ce1f0",
+  "active": "3335099bbe2f686e",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Process management/Process scheduling.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Long-term schedular.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Short-term schedular.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Short-term schedular.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Long-term schedular.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
     "Scheduling.md",
     "Computer Science/Operating systems/Process management.md",

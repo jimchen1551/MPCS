@@ -7,10 +7,10 @@ Tags:
 ---
 # Short-term schedular
 - invoked most frequently
-- owned by all systems
+- used in all systems
 
 - allocating [[Processor|CPU]]
 - selecting the [[process]] **to be executed next** from the ready queue
 
-- not controlling the degree of multiprogramming
-- not modifying the ratio of IO-bound process and CPU-bound process
+- **not** controlling the degree of multiprogramming
+- **not** modifying the ratio of IO-bound process and CPU-bound process
