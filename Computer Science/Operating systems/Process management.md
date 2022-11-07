@@ -10,7 +10,9 @@ Tags:
 | Process management             | Content |
 | ------------------------------ | ------- |
 | [[Process]]                    |         |
+| [[Process operation]]          |         |
 | [[Process scheduling]]         |         |
+| [[Process synchronization]]    |         |
 | [[Interprocess communication]] |         |
 
 ## Operation on process
