@@ -32,6 +32,6 @@ Tags:
 | [[Multicore programming]] | Concurrency<br>Parallelism                                                     |
 | [[Multithreading model]]  | Many-to-One model<br>One-to-One model<br>Many-to-Many model<br>Two-level model |
 | [[Thread library]]        | Pthreads<br>Windows threads<br>Java threads                                    |
-| [[Implicit threading]]    |                                                                                |
+| [[Implicit threading]]    | Thread pool<br>Fork-Join<br>OpenMP<br>Grand central dispatch                   |
 
 ## Threading issue
