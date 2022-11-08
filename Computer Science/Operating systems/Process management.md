@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Process management
-- [[Processor]]
+- managing [[processor]] resource
 
 | Process management              | Content                                                          |
 | ------------------------------- | ---------------------------------------------------------------- |
