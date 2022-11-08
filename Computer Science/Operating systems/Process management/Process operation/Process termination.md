@@ -6,6 +6,8 @@ Tags:
 - 
 ---
 # Process termination
+- deallocating resources
+
 ## Cascading termination
 - If a [[process]] terminates, then all its children must also be terminated. 
 - initiated by the OS

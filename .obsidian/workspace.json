@@ -35,59 +35,22 @@
         "currentTab": 1
       },
       {
-        "id": "c7b464aa8dd6ff2d",
+        "id": "c9eab7d645f0bc3f",
         "type": "tabs",
         "children": [
           {
-            "id": "845544b2c560b336",
+            "id": "b6d6eadc30b6e31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c99756c340a1f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Zero capacity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a362b6386c4a3eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Bounded capacity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2a238696e2d241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Unbounded capacity.md",
+                "file": "Computer Science/Operating systems/Process management/Interprocess communication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Unbounded capacity.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Unbounded capacity.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Unbounded capacity.md"
+                "file": "Computer Science/Operating systems/Process management.md"
               }
             }
           },
@@ -235,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a2a238696e2d241",
+  "active": "a2350d1889d83312",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Bounded capacity.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Zero capacity.md",
+    "Computer Science/Operating systems/Process management/Process operation/Process termination.md",
+    "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication.md",
     "Computer Science/Operating systems/Process management/Interprocess communication/Message passing system.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Zero capacity.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Bounded capacity.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Unbounded capacity.md",
     "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Synchronous communication.md",
     "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Asynchronous communication.md",
-    "Computer Science/Operating systems/Process management/Process.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Direct communication.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Indirect communication.md",
-    "Computer Science/Operating systems/Operating system structures/System call.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md"
+    "Computer Science/Operating systems/Process management/Process.md"
   ]
 }
