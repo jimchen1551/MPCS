@@ -19,21 +19,26 @@ Tags:
 	3. OS resources
 - benefits
 	1. Responsiveness
-	   allowing continued execution if part of the process is blocked
+		allowing continued execution if part of the process is blocked
 	2. Resource sharing
-	   easier than [[Shared memory system]] and [[Message passing system]]
+		easier than [[Shared memory system]] and [[Message passing system]]
 	3. Economy
-	   cheaper than process creation and lower overhead than a [[Context switch]]
+		cheaper than process creation and lower overhead than a [[Context switch]]
 	4. Scalability
-	   taking advantage of a [[Multi-processor system]]
-
+		taking advantage of a [[Multi-processor system]]
 
 ## Multicore programming
 - **Concurrency**: supporting more than one task making progress
 ![[Screen Shot 2022-11-08 at 15.36.24.png]]
 - **Parallelism**: performing more than one task simultaneously
 ![[Screen Shot 2022-11-08 at 15.36.58.png]]
-
+### Programming challenges
+1. **Identifying tasks**: dividing into separate and concurrent tasks (parallel better)
+2. **Balance**: tasks in parallel performing equal work of equal value
+3. **Data splitting**: 
+4. **Data dependency**
+5. **Testing and debugging**
+### Types of parallelism
 
 ## Multithreading models
 
