@@ -5,7 +5,6 @@ Types: Card
 Tags: 
 - 
 ---
-
 # Thread
 ## Multicore programming
 ## Multithreading models
