@@ -39,24 +39,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c00a1f9c7b5179f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process operation/Process termination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "663b8e5b12afc15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Operating systems/Process management/Interprocess communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2988e61db5fe132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845544b2c560b336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Message passing system.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication.md",
+                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication.md",
+                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication.md"
+                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md"
               }
             }
           },
@@ -211,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "663b8e5b12afc15b",
+  "active": "d2988e61db5fe132",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management/Interprocess communication.md",
     "Computer Science/Operating systems/Process management/Process operation/Process termination.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing system.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems/Process management/Process operation/Process creation.md",
     "Computer Science/Operating systems/Process management/Process scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Long-term schedular.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Short-term schedular.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling queue.md",
-    "Computer Science/Operating systems/Process management/Process operation.md"
+    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling/Medium-term schedular.md"
   ]
 }

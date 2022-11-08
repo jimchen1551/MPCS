@@ -11,15 +11,9 @@ Tags:
 - **cooperating**: affecting other [[process]]es or affected by other [[process]]es
 
 - allowing [[process]]es to exchange data
+- implemented with [[Shared memory system]] or [[Message passing system]]
 
 ## Reasons
 1. Information sharing
 2. Computation speedup
 3. Modularity
-
-## Models
-### Shared memory
-- a region of [[memory]] shared by the cooperating [[process]]es
-- [[process]]es can exchange info by reading and writing data to the region
-### Message passing
-- 
