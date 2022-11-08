@@ -12,11 +12,11 @@ Tags:
 - implemented using [[system call]]s
 - **communication link**: established by the [[process]]es to communicate
 
-| Logical         | Implementation                                                  |
-| --------------- | --------------------------------------------------------------- |
-| Naming          | [[Direct communication]]<br>[[Indirect communication]]          |
-| Synchronization | [[Synchronous communication]]<br>[[Asynchronous communication]] |
-| Buffering       | [[Automatic buffering]]<br>[[Explicit buffering]]               |
+| Logical         | Implementation                                                      |
+| --------------- | ------------------------------------------------------------------- |
+| Naming          | [[Direct communication]]<br>[[Indirect communication]]              |
+| Synchronization | [[Synchronous communication]]<br>[[Asynchronous communication]]     |
+| Buffering       | [[Zero capacity]]<br>[[Bounded capacity]]<br>[[Unbounded capacity]] |
 
 ## UNIX
 `send(message)`
