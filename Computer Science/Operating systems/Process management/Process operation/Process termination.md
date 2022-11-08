@@ -7,7 +7,11 @@ Tags:
 ---
 # Process termination
 
+## Cascading termination
+- If a [[process]] terminates, then all its children must also be terminated. 
+- initiated by the OS
+
 ## UNIX
 `exit()` [[system call]] deletes the [[process]] after execution
 `wait()` [[system call]] returns data from child to parent
-`abort()`
+`abort()` [[system call]] terminates the execution of children [[process]]es
