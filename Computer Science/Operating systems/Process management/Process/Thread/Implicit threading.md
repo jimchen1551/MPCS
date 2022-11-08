@@ -13,8 +13,9 @@ Tags:
 ## Thread pool
 - creating several threads in a pool where they await work
 - Advantages:
-	1. faster to service a request with an existing thread than creating a new one
-	2. allowing the number of threa
+	1. faster to service a request with an existing thread than create a new one
+	2. allowing the number of threads in the apps to be bound to the size of the pool
+	3. separating task to be performed from mechanics of creating task allows different strategies for running task
 ## Fork-Join
 
 ## OpenMP
