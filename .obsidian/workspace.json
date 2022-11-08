@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+                "file": "Computer Science/Operating systems/Operating system structures/System call.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md"
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "5707491cb7eb092c",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
+    "Computer Science/Operating systems/Operating system structures/System call.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Many-to-One model.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Computer organization/Abstraction/Amdahl's law.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication.md"
+    "Computer Science/Computer organization.md"
   ]
 }

@@ -30,7 +30,7 @@ Tags:
 4. The kernel verifies that the parameters are correct and legal, executes the request, and returns control to the instruction following the system call.
 
 ![[Screen Shot 2022-10-21 at 18.07.52.png|500]]
-- The caller need only obey the [[Application Programming interface|API]] and understand waht the OS will do as a result of the execution of the system call. 
+- The caller needs only to obey the [[Application Programming interface|API]] and understand what the OS will do as a result of the execution of the system call. 
 - Most of the details of the OS interface are hidden from the programmer by the [[Application Programming interface|API]] and managed by the [[Run-time environment|RTE]] (aka [[Run-time environment|system call interface]])
 
 ## System call parameter passing
