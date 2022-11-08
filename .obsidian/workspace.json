@@ -261,15 +261,15 @@
   },
   "active": "5707491cb7eb092c",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
     "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Many-to-One model.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
-    "Computer Science/Operating systems/Process management.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer organization/Abstraction/Amdahl's law.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication.md",
-    "Computational Neuroscience/Nernst Equation.md"
+    "Computer Science/Operating systems/Process management/Interprocess communication.md"
   ]
 }
