@@ -8,11 +8,11 @@ Tags:
 # Algorithms
 - any well-defined **computational procedure** that transforms the **input** into the **output** for solving a well-specified (spec: the relationship b/w input and output) **computational problem**
 
-| Algorithms                  | Comment |
-| --------------------------- | ------- |
-| [[Sorting algorithms]]      |         |
-| [[Searching algorithms]]    |         |
-| [[Graph algorithms]]        |         |
+| Algorithms               | Content |
+| ------------------------ | ------- |
+| [[Sorting algorithms]]   |         |
+| [[Searching algorithms]] |         |
+| [[Graph algorithms]]     |         |
 
 ## Typical problems
 - Shortest path problem

@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "23a25319c0d0f356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2102718469582c10",
             "type": "leaf",
             "state": {
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Operating systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Operating systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms.md"
+                "file": "Computer Science/Operating systems.md"
               }
             }
           },
@@ -222,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23a25319c0d0f356",
+  "active": "2102718469582c10",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Analysis/Instance.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Analysis/Loop invariant.md",
     "Computer Science.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Computer network.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Process management/Process/Thread.md",
-    "Computer Science/Operating systems/Computing environment/Mobile computing.md",
-    "Computer Science/Operating systems/Computing environment/Traditional computing.md"
+    "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Algorithms.md",
+    "Computer Science/Data structures.md",
+    "Computer Science/Algorithms/Divide and conquer.md",
+    "Computer Science/Algorithms/Asymptotic notation.md",
+    "Computer Science/Algorithms/Analysis/Instance.md",
+    "Computer Science/Algorithms/Analysis/Loop invariant.md",
+    "Computer Science/Computer organization.md"
   ]
 }

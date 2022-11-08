@@ -18,6 +18,11 @@ Tags:
 - The equal sign means **set membership**. 
 - When asymptotic notation appears in a formula, it stands for an **anonymous function**. (the right-hand side is coarser than the left-hand side)
 
+## Instance
+$$S_n=\{s_i|i\in[1,n]\}\quad\text{, where } s_i\text{ is an instance (input) of the algorithm}$$
+$$\sum_{s_i\in S_n} Pr\{s_i\}=1$$
+$$t(s_i)\text{ is the time taken by the algorithm on the instance }s_i$$
+
 ## Transitivity
   $f(n)=\Theta(g(n))\text{ and }g(n)=\Theta(h(n))\Rightarrow f(n)=\Theta(h(n))$
   $f(n)=O(g(n))\text{ and }g(n)=O(h(n))\Rightarrow f(n)=O(h(n))$

@@ -38,7 +38,8 @@ else
 $$T(n)=\begin{cases}
 \Theta(1)&\quad \text{if }n\leq c\\
 aT(n/b)+D(n)+C(n)&\quad otherwise
-\end{cases}$$ $aT(n/b)$ is for conquer;
+\end{cases}$$
+$aT(n/b)$ is for conquer;
 $D(n)$ is for divide (usually $\Theta(1)$);
 $C(n)$ is for combine (usually $\Theta(n)$)
 

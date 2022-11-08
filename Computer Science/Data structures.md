@@ -6,10 +6,11 @@ Tags:
 - 
 ---
 # Data structures
+
 | Data structures         | Comment |
 |:----------------------- |:------- |
-| [[Stacks]]              |         |
-| [[Queues]]              |         |
+| [[Stack]]               |         |
+| [[Queue]]               |         |
 | [[Priority queue]]      |         |
 | [[Linked lists]]        |         |
 | [[Heap]]                |         |
