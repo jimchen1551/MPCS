@@ -34,10 +34,10 @@ Tags:
 
 | Computing environment         | Content                                                                                                  |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [[Traditional computing]]     |                                                                                                          |
+| [[Traditional computing]]     | Portal<br>Network computer<br>Mobile computer<br>Firewall<br>Batch system<br>Interactive system          |
 | [[Mobile computing]]          |                                                                                                          |
-| [[Real-time embedded system]] |                                                                                                          |
-| [[Distributed system]]     | [[Clustered system]]<br>[[Client-server computing]]<br>[[Peer-to-peer computing]]<br>[[Cloud computing]] |
+| [[Real-time embedded system]] | Real-time operating system                                                                               |
+| [[Distributed system]]        | [[Clustered system]]<br>[[Client-server computing]]<br>[[Peer-to-peer computing]]<br>[[Cloud computing]] |
 
 ## Score
 - Midterm: 30%
