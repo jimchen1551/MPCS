@@ -39,12 +39,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bfba80f1141799e",
+            "id": "aa1f195104cff517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Client-server communication.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Client-server communication.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Client-server communication.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Client-server communication.md"
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md"
               }
             }
           },
@@ -198,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0bfba80f1141799e",
+  "active": "aa1f195104cff517",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems/Process management/Client-server communication.md",
+    "Computer Science/Operating systems/Process management/Client-server communication/Remote procedure call.md",
+    "Computer Science/Operating systems/Process management/Client-server communication/Socket.md",
     "Computer Science/Computer organization/Processor.md",
     "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Direct communication.md",
     "Computer Science/Operating systems/Process management/Interprocess communication/Message passing system.md",
     "Computer Science/Operating systems/Process management/Interprocess communication.md",
     "Computer Science/Operating systems/Process management/Process operation/Process termination.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Zero capacity.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Bounded capacity.md",
-    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Unbounded capacity.md"
+    "Computer Science/Operating systems/Process management/Interprocess communication/Message passing/Zero capacity.md"
   ]
 }
