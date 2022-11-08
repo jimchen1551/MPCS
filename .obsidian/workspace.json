@@ -68,10 +68,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading models.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "63574baac0955f4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -153,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading models.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading models.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading models.md"
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md"
               }
             }
           },
@@ -237,15 +245,15 @@
   },
   "active": "3818584b2f6955b6",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process/Thread.md",
-    "Computer Science/Operating systems/Process management/Process/Thread/Multithreading models.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Many-to-One model.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
+    "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer organization/Abstraction/Amdahl's law.md",
     "Computer Science/Operating systems/Process management/Interprocess communication.md",
     "Computational Neuroscience/Nernst Equation.md",
-    "Computational Neuroscience/2022-08-10.md",
-    "Computational Neuroscience.md"
+    "Computational Neuroscience/2022-08-10.md"
   ]
 }

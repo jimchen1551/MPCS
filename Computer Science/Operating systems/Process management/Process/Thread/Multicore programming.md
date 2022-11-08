@@ -22,6 +22,7 @@ $$speedup\leq\frac{1}{s+\frac{1-s}{N}}$$
 5. **Testing and debugging**
 
 ## Types of parallelism
+![[Screen Shot 2022-11-08 at 16.21.18.png]]
 1. Data parallelism
 	distributing subsets of the same **data** across multiple cores 
 	and performing the **same** operation on each

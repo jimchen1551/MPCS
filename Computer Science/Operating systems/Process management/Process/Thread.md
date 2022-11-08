@@ -30,9 +30,10 @@ Tags:
 | Issues                    | Content                    |
 | ------------------------- | -------------------------- |
 | [[Multicore programming]] | Concurrency<br>Parallelism |
-| [[Multithreading models]] |                            |
+| [[Multithreading model]]  |                            |
+| [[Thread library]]                          |                            |
 
-## Thread libraries
+## Thread library
 
 ## Implicit threading
 
