@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Thread
+![[Screen Shot 2022-11-08 at 14.04.59.png|500]]
 
 ## Multicore programming
 
