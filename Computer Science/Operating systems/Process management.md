@@ -15,7 +15,4 @@ Tags:
 | [[Process scheduling]]         | [[Scheduling queue]]<br>[[CPU scheduling]]<br>[[Context switch]] |
 | [[Process synchronization]]    |                                                                  |
 | [[Interprocess communication]] |                                                                  |
-
-## Communication in Client-Server System
-### Sockets
-### Remote procedure call
+| [[Client-]]                               |                                                                  |

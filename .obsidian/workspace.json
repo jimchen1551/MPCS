@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md",
+                "file": "Computer Science/Operating systems/Process management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md"
+                "file": "Computer Science/Operating systems/Process management.md"
               }
             }
           },
@@ -223,12 +223,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2988e61db5fe132",
+  "active": "a2350d1889d83312",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Interprocess communication.md",
-    "Computer Science/Operating systems/Process management/Process operation/Process termination.md",
     "Computer Science/Operating systems/Process management/Interprocess communication/Shared memory system.md",
     "Computer Science/Operating systems/Process management/Interprocess communication/Message passing system.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication.md",
+    "Computer Science/Operating systems/Process management/Process operation/Process termination.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems/Process management/Process operation/Process creation.md",
     "Computer Science/Operating systems/Process management/Process scheduling.md",

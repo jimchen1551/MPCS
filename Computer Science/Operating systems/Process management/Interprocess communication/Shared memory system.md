@@ -11,4 +11,8 @@ Tags:
 - faster than [[message passing system]] because a [[system call]] is required only to establish a shared memory region
 
 ## Producer-consumer problem
-- **producer** 
+- **producer** process produces info that is consumed by a **consumer** process
+- providing a useful metaphor for the [[Client-server computing]]
+
+- **unbounded-buffer** places no practical limit on the size of the buffer
+- **bounded-buffer** assumes that there's a fixed buffer size

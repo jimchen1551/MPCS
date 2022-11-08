@@ -10,3 +10,6 @@ Tags:
 - suitable for a small amount of data
 - easier to implement in a [[Distributed system]]
 - implemented using [[system call]]s
+## Naming
+## Synchronization
+## Buffering
