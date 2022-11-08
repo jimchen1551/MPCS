@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ddab1c1dd9cef98c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6caba531e25f2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2102718469582c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2350d1889d83312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "c9eab7d645f0bc3f",
         "type": "tabs",
         "children": [
@@ -69,42 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc3267f48655373e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3818584b2f6955b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82630654a69047d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 259,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -261,10 +183,10 @@
   },
   "active": "5707491cb7eb092c",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management.md",
-    "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
-    "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
+    "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Many-to-One model.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
