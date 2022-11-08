@@ -6,3 +6,6 @@ Tags:
 - 
 ---
 # Client-server communication
+## Socket
+## Remote procedure call
+## Pipe
