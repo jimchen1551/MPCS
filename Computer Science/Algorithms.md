@@ -41,27 +41,23 @@ Tags:
 7. Parameters are **passed** to a procedure **by value**. 
 8. The boolean operators "and" and "or" are short-circuiting. 
 
-## Loop invariant
-- a property of a program loop that is true before (and after) each iteration
-- a logical assertion, sometimes checked within the code by an assertion call
-- used to understand why an algorithm is correct
-1. **Initialization**: It is true prior to the first iteration of the loop.
-2. **Maintenance**: If it is true before an iteration of the loop, it remains true before the next iteration.
-3. **Termination**: When the loop terminates, the invariant gives us a helpful property that helps show that the algorithm is correct.
-### Floyd-Hoare logic
-[Wiki explained](https://en.wikipedia.org/wiki/Hoare_logic)
-
 ## Analysis
+| Analysis                | Content |
+| ----------------------- | ------- |
+| [[Loop invariant]]      |         |
+| [[Asymptotic notation]] |         |
+| [[Standard notation]]   |         |
 - Analyzing an algorithm has come to mean **predicting the resources** (memory, communication bandwidth, or computer hardware) that the algorithm requires. 
 - assuming a generic one-processor, random-access machine (**RAM**) model of computation as implementation technology
 	- No concurrent operations
 	- Not attempt to model the memory hierarchy
 	- Instructions: arithmetic ([[Register operands]]), data movement ([[Memory operands]]), and control ([[Branch]], [[Jump]])
 	- Data types: integer and floating point
-- **Input size**: depending on the problem studied
-  e.g., sorting or discrete Fourier transform: number of items in the inputs; multiplying 2 integers: total number of bits
-- **Running time**: the number of primitive steps executed
-- [[Instance]], [[Asymptotic notation]], [[Standard notation]]
+### Input size
+- depending on the problem studied
+- e.g., sorting or discrete Fourier transform: number of items in the inputs; multiplying 2 integers: total number of bits
+### Running time
+- the number of primitive steps executed
 
 ## Design
 | Algorithms                  | Examples                                                                                                                                         |
