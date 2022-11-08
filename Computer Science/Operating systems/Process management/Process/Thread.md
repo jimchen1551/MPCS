@@ -17,6 +17,15 @@ Tags:
 	1. code section
 	2. data section
 	3. OS resources
+- benefits
+	1. Responsiveness
+	   allowing continued execution if part of the process is blocked
+	2. Resource sharing
+	   easier than [[Shared memory system]] and [[Message passing system]]
+	3. Economy
+	   cheaper than process creation and lower overhead than [[Context switch]]
+	4. Scalability
+	   taking advantage of [[Multi-processor system]]
 
 ## Multicore programming
 

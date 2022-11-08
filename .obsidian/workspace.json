@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fbec9b376eeb624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "c9eab7d645f0bc3f",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+                "file": "Computer Science/Computer organization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+                "file": "Computer Science/Computer organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md"
+                "file": "Computer Science/Computer organization.md"
               }
             }
           },
@@ -210,11 +222,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa1f195104cff517",
+  "active": "9fbec9b376eeb624",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computer Science/Operating systems/Process management/Interprocess communication.md",
     "Computer Science/Operating systems/Process management.md",
-    "Computer Science/Operating systems/Process management/Process/Thread.md",
     "Computational Neuroscience/Nernst Equation.md",
     "Computational Neuroscience/2022-08-10.md",
     "Computational Neuroscience.md",
