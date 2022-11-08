@@ -30,4 +30,4 @@ Tags:
 
 ## Two-level model
 ![[Screen Shot 2022-11-08 at 16.27.14.png]]
-- similar to many-to-many model, except allowi
+- similar to the many-to-many model, except allowing a user thread to be bound to a kernel thread

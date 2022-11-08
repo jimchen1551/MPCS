@@ -63,6 +63,30 @@
             }
           },
           {
+            "id": "5707491cb7eb092c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc3267f48655373e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3818584b2f6955b6",
             "type": "leaf",
             "state": {
@@ -72,14 +96,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "63574baac0955f4c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -161,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md"
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md"
               }
             }
           },
@@ -243,17 +259,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3818584b2f6955b6",
+  "active": "5707491cb7eb092c",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process/Thread/Many-to-One model.md",
-    "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
-    "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
     "Computer Science/Operating systems/Process management/Process/Thread.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Many-to-One model.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer organization/Abstraction/Amdahl's law.md",
     "Computer Science/Operating systems/Process management/Interprocess communication.md",
-    "Computational Neuroscience/Nernst Equation.md",
-    "Computational Neuroscience/2022-08-10.md"
+    "Computational Neuroscience/Nernst Equation.md"
   ]
 }

@@ -27,14 +27,11 @@ Tags:
 	4. Scalability
 		taking advantage of a [[Multi-processor system]]
 
-| Issues                    | Content                    |
-| ------------------------- | -------------------------- |
-| [[Multicore programming]] | Concurrency<br>Parallelism |
-| [[Multithreading model]]  |                            |
-| [[Thread library]]                          |                            |
-
-## Thread library
-
-## Implicit threading
+| Issues                    | Content                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| [[Multicore programming]] | Concurrency<br>Parallelism                                                     |
+| [[Multithreading model]]  | Many-to-One model<br>One-to-One model<br>Many-to-Many model<br>Two-level model |
+| [[Thread library]]        | Pthreads<br>Windows threads<br>Java threads                                    |
+| [[Implicit threading]]    |                                                                                |
 
 ## Threading issue
