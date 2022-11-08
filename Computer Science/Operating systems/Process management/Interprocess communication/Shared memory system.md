@@ -12,7 +12,7 @@ Tags:
 
 ## Producer-consumer problem
 - **producer** process produces info that is consumed by a **consumer** process
-- providing a useful metaphor for the [[Client-server computing]]
+- providing a useful metaphor for the [[Client-server communication]]
 
 - **unbounded-buffer** places no practical limit on the size of the buffer
 - **bounded-buffer** assumes that there's a fixed buffer size
