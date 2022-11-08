@@ -48,16 +48,12 @@ Tags:
 - the work done in a unit of time
 ### Relative performance
 $$\displaystyle\text{Performance} =\frac{1}{\text {Execution time}}=\frac{1}{\text{CPU time}}$$
-- [[Elapsed time]]
-- [[CPU time]]
-
 ### Millions of instructions per second
 $$\displaystyle\text{MIPS}=\frac{\text{Instruction count}}{\text{Execution time}\cdot 10^6}=\frac{IC}{\frac{IC\cdot CPI}{\text{Clock rate}\cdot 10^6}}=\frac{\text{Clock rate}}{CPI\cdot 10^6}$$
 
-## Amdahl's law
-$$\displaystyle T_{improved}=\frac{T_{affected}}{\text{improvement factor}}+T_{unaffected}$$
-- The performance enhancement possible with a given improvement is limited by the amount that the improved feature is used. 
-- Corollary: Make the common cases fast!
+- [[Elapsed time]]
+- [[CPU time]]
+- [[Amdahl's law]]
 
 ## Power wall
 $$\displaystyle\text{Enery}\propto \text{Capacitive load}\cdot \text{Voltage}^2$$

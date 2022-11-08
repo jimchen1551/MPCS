@@ -23,11 +23,17 @@ Tags:
 	2. Resource sharing
 	   easier than [[Shared memory system]] and [[Message passing system]]
 	3. Economy
-	   cheaper than process creation and lower overhead than [[Context switch]]
+	   cheaper than process creation and lower overhead than a [[Context switch]]
 	4. Scalability
-	   taking advantage of [[Multi-processor system]]
+	   taking advantage of a [[Multi-processor system]]
+
 
 ## Multicore programming
+- **Concurrency**: supporting more than one task making progress
+![[Screen Shot 2022-11-08 at 15.36.24.png]]
+- **Parallelism**: performing more than one task simultaneously
+![[Screen Shot 2022-11-08 at 15.36.58.png]]
+
 
 ## Multithreading models
 
