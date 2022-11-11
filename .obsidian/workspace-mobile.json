@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems.md",
-                "mode": "source",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Operating systems.md",
+            "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Operating systems.md"
+            "file": "Computer Science/Operating systems/Process management/Process/Thread.md"
           }
         }
       },
@@ -134,15 +134,15 @@
   },
   "active": "cad6881ef36b5f5e",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Computer system/Computer-system organization.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
+    "Computer Science/Operating systems/Process management/Process/Thread.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
+    "Computer Science/Operating systems/Process management/Process.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Operating system structures.md",
-    "Computer Science/Operating systems/Process management.md",
-    "Computer Science/Operating systems/Operating system structures/Debugging/Tracing.md",
-    "Computer Science/Operating systems/Operating system structures/Debugging/Counters.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel.md",
-    "Computer Science/Operating systems/Operating system structures/System call.md",
-    "Computer Science/Operating systems/Operating system structures/Kernel/Microkernel.md",
-    "Computer Science/Operating systems/Computer system/Operation/Bootstrap program.md"
+    "Computer Science/Operating systems/Process management/Client-server communication.md",
+    "Computer Science/Operating systems/Process management/Client-server communication/Remote procedure call.md",
+    "Computer Science/Operating systems/Process management/Client-server communication/Socket.md",
+    "Computer Science/Operating systems/Process management/Interprocess communication.md"
   ]
 }
