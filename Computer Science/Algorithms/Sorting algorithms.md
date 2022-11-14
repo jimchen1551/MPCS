@@ -18,4 +18,3 @@ Output: $\langle a_1',a_2',\dots, a_n\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a
 | [[Counting sort]]  |                        |                         |
 | [[Radix sort]]     |                        |                         |
 | [[Bucket sort]]    |                        |                         |
-| [[Selection sort]] |                        |                         |

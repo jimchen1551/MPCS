@@ -42,11 +42,12 @@ Tags:
 8. The boolean operators "and" and "or" are short-circuiting. 
 
 ## Analysis
-| Analysis                | Content |
-| ----------------------- | ------- |
-| [[Loop invariant]]      |         |
-| [[Asymptotic notation]] |         |
-| [[Standard notation]]   |         |
+| Analysis                | Content                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [[Loop invariant]]      | Initialization<br>Maintenance<br>Termination                                                                  |
+| [[Asymptotic notation]] | [[Upper bound]]<br>[[Lower bound]]<br>[[Tight bound]]                                                         |
+| [[Standard notation]]   | Monotonicity<br>Ceil and floor<br>Polynomially bounded<br>Polylogarithmic bounded<br>Stirling's approximation |
+
 - Analyzing an algorithm has come to mean **predicting the resources** (memory, communication bandwidth, or computer hardware) that the algorithm requires. 
 - assuming a generic one-processor, random-access machine (**RAM**) model of computation as implementation technology
 	- No concurrent operations
