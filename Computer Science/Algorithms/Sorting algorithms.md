@@ -7,7 +7,7 @@ Tags:
 ---
 # Sorting algorithms
 Input: $\langle a_1, a_2, \dots,a_n\rangle$
-Output: $\langle a_1',a_2',\dots, a_n\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a_n'$
+Output: $\langle a_1',a_2',\dots, a_n'\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a_n'$
 
 | Sorting            | Design                 | [[Asymptotic notation]] |
 | ------------------ | ---------------------- | ----------------------- |
@@ -18,3 +18,6 @@ Output: $\langle a_1',a_2',\dots, a_n\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a
 | [[Counting sort]]  |                        |                         |
 | [[Radix sort]]     |                        |                         |
 | [[Bucket sort]]    |                        |                         |
+
+## Decision-tree model
+![[Screen Shot 2022-11-15 at 08.40.30.png]]
