@@ -13,3 +13,6 @@ Tags:
 ## Loop invariant
 
 ## Analysis
+- given $n$ $d$-digit numbers in which each digit can take up to $k$ possible values, it correctly sorts these numbers in $\Theta(d(n+k))$
+- when $d$ is constant and $k=O(n)$, it runs in linear time
+- given $n$ $b$-bit numbers and any positive integer $r\leq b$, 
