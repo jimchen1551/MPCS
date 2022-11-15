@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Counting sort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Counting sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms.md"
+                "file": "Computer Science/Algorithms/Sorting algorithms/Counting sort.md"
               }
             }
           },
@@ -210,10 +209,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa1f195104cff517",
+  "active": "bc77c5777a0b1c90",
   "lastOpenFiles": [
-    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
+    "Computer Science/Algorithms.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Sorting algorithms/Bucket sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Radix sort.md",

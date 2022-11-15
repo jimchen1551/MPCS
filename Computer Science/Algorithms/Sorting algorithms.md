@@ -26,4 +26,4 @@ Output: $\langle a_1',a_2',\dots, a_n'\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq 
 - the [[Lower bound]] for the [[Worst case]] is the length of the longest path from the root to any reachable leaves
 - any comparison sort algorithm requires $\Omega(n\lg n)$ comparisons in the worst case
 	- considering a decision tree of height $h$ with $l$ reachable leaves corresponding to a comparison sort on $n$ numbers
-	- $n!\leq l\leq 2^h,
+	- $n!\leq l\leq 2^h\Rightarrow h\geq\lg(n!)=\Omega(n\lg n)$
