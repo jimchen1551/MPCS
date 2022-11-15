@@ -31,4 +31,6 @@ return the concatenated lists
 
 ## Analysis
 Running time: 
-$$T(n)=\Theta(n)+\sum_{i=0}^{n-1}O$$
+$$T(n)=\Theta(n)+\sum_{i=0}^{n-1}O(n_i^2)$$
+$$E[T(n)]=\Theta(n)+\sum_{i=0}^{n-1}O(E[n_i^2])$$
+$$\text{if }E[n_i^2]=2-\frac{1}{n}\Rightarrow E[T(n)]=\Theta(n)$$

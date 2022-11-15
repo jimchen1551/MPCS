@@ -9,15 +9,15 @@ Tags:
 Input: $\langle a_1, a_2, \dots,a_n\rangle$
 Output: $\langle a_1',a_2',\dots, a_n'\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq a_n'$
 
-| Sorting            | Design                 | [[Asymptotic notation]] |
-| ------------------ | ---------------------- | ----------------------- |
-| [[Insertion sort]] | Incremental approach   | $\Theta(n^2)$           |
-| [[Merge sort]]     | [[Divide and conquer]] | $\Theta(n\lg n)$        |
-| [[Heap sort]]      | [[Heap]]               | $O(n\lg n)$             |
-| [[Quick sort]]     | [[Divide and conquer]] | Avg: $\Theta(n\lg n)$   |
-| [[Counting sort]]  | For integers           | $\Theta(n)$             |
-| [[Radix sort]]     | By digit               | $\Theta(d(n+k))$        |
-| [[Bucket sort]]    |                        |                         |
+| Sorting            | Design                       | [[Asymptotic notation]] |
+| ------------------ | ---------------------------- | ----------------------- |
+| [[Insertion sort]] | Incremental approach         | $\Theta(n^2)$           |
+| [[Merge sort]]     | [[Divide and conquer]]       | $\Theta(n\lg n)$        |
+| [[Heap sort]]      | [[Heap]]                     | $O(n\lg n)$             |
+| [[Quick sort]]     | [[Divide and conquer]]       | Avg: $\Theta(n\lg n)$   |
+| [[Counting sort]]  | For integers                 | $\Theta(n)$             |
+| [[Radix sort]]     | By digit                     | $\Theta(d(n+k))$        |
+| [[Bucket sort]]    | For [[Uniform distribution]] | Exp: $\Theta(n)$        |
 
 ## Decision-tree model
 ![[Screen Shot 2022-11-15 at 08.40.30.png]]
