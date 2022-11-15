@@ -9,7 +9,8 @@ Tags:
 ![[Screen Shot 2022-11-15 at 09.05.40.png]]
 - assuming all the $n$ input elements integers in the range 0 to $k$
 - for each input element $x$, the number of elements less than $x$
-- **Stable** property: numbers with the same value appear in the output arrau
+- **Stable** property: numbers with the same value appear in the output array in the same order as they do in the input array
+- often used as a subroutine in [[Radix sort]]
 
 ## Pseudocode
 ```Pseudocode
@@ -26,6 +27,7 @@ for j=n down to 1
 	C[A[j]] = C[A[j]] - 1
 return B
 ```
+
 ## Loop invariant
 1. **Initialization**
 2. **Maintenance**
