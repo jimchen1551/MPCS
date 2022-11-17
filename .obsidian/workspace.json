@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning.md"
+                "file": "Computer Science/Machine learning/Information-based learning.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "aa1f195104cff517",
   "lastOpenFiles": [
+    "Computer Science/Machine learning.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Searching algorithms.md",
@@ -176,7 +177,6 @@
     "Computer Science/Algorithms/Sorting algorithms/Select.md",
     "Computer Science/Algorithms/Sorting algorithms/Bucket sort.md",
     "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science/Machine learning.md",
     "Computer Science/Algorithms/Sorting algorithms/Radix sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Counting sort.md"
   ]

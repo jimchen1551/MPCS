@@ -6,10 +6,12 @@ Tags:
 - 
 ---
 # Information-based learning
-[[Decision tree]]
-[[Shannon's entropy model]]
-[[Information gain]]
-[[ID3 algorithm]]
+## Fundamental concepts
+- [[Decision tree]]
+- [[Shannon's entropy model]]
+- [[Information gain]]
+## Algorithms
+- [[ID3 algorithm]]
 
 ## Alternative feature selection
 
