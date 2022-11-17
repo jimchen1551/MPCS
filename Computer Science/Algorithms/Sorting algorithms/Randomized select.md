@@ -27,3 +27,10 @@ else
 ## Loop invariant
 
 ## Analysis
+Indicator random variable: 
+$$X_k=I\{\text{the subarray A[p:q] has exactly k elements}\}$$
+$$E[X_k]$$
+[[Worst case]] running time:
+$$T(n)=\Theta(n^2)$$
+[[Average case]] running time: 
+$$T(n)=O(n)$$
