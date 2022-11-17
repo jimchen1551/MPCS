@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Searching algorithms
+
 | Searching              | Comment |
 | ---------------------- | ------- |
 | [[Sequential search]]  |         |

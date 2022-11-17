@@ -34,3 +34,12 @@ Output: $\langle a_1',a_2',\dots, a_n'\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq 
 - Minimum: $i=1$
 - Lower median: $i=\lfloor (n+1)/2\rfloor$
 - Upper median: $i=\lceil (n+1)/2\rceil$
+
+## Selection problem
+Input: $A=\{a_j|\forall j\in[1, n]\}$ and $i$ for the selected order statistic
+Output: The element $x\in A$ that is larger than exactly $i-1$ other elements of $A$. 
+Solution:
+1. Sorting $A$
+2. Indexing the $i$th element
+Running time: $O(n\lg n)$
+[[Average case]] and [[Worst case]]: $O(n)$

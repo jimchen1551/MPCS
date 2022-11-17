@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c22952d58c138a89",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Searching algorithms.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Searching algorithms.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Searching algorithms.md"
+                "file": "Computer Science/Algorithms/Sorting algorithms.md"
               }
             }
           },
@@ -198,10 +197,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7b3e4c856ac5ea0",
+  "active": "aa1f195104cff517",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Searching algorithms.md",
+    "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Algorithms/Sorting algorithms/Bucket sort.md",
