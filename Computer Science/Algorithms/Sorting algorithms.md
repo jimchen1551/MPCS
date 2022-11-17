@@ -39,7 +39,8 @@ Output: $\langle a_1',a_2',\dots, a_n'\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq 
 Input: $A=\{a_j|\forall j\in[1, n]\}$ and $i$ for the selected order statistic
 Output: The element $x\in A$ that is larger than exactly $i-1$ other elements of $A$. 
 Solution:
-1. Sorting $A$
+1. Sorting $A$ ($O(n\lg n)$)
 2. Indexing the $i$th element
-Running time: $O(n\lg n)$
-[[Average case]] and [[Worst case]]: $O(n)$
+### Selection in expected linear time
+### Selection in worst linear time
+
