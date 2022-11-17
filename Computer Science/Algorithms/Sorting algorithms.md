@@ -29,4 +29,8 @@ Output: $\langle a_1',a_2',\dots, a_n'\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq 
 	- $n!\leq l\leq 2^h\Rightarrow h\geq\lg(n!)=\Omega(n\lg n)$
 
 ## Order statistics
-
+- The $i$th order statistic of a set of $n$ elements is the $i$th smallest element. 
+- Maximum: $i=n$
+- Minimum: $i=1$
+- Lower median: $i=\lfloor (n+1)/2\rfloor$
+- Upper median: $i=\lceil (n+1)/2\rceil$
