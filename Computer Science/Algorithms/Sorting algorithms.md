@@ -41,6 +41,9 @@ Output: The element $x\in A$ that is larger than exactly $i-1$ other elements of
 Solution:
 1. Sorting $A$ ($O(n\lg n)$)
 2. Indexing the $i$th element
-### Selection in expected linear time
-### Selection in worst linear time
+
+| Selection             | Running time               | [[Asymptotic notation]] |
+| --------------------- | -------------------------- | ----------------------- |
+| [[Randomized select]] | Expected linear time       |                         |
+| [[Select]]            | [[Worst case]] linear time |                         |
 
