@@ -45,4 +45,7 @@ else
 
 ## Analysis
 - the number of elements greater than $x$ is at least $3n/10-6$
-$$T(n)\leq\begin{cases}$$
+$$T(n)\leq\begin{cases}
+\Theta(1)&\quad\text{if }n<140\\
+T(\lceil\frac{n}{5}\rceil)+T(7n/10+6)+O(n)&\quad\text{if }n\geq 140\end{cases}$$
+$$\Rightarrow T(n)=O(n)$$
