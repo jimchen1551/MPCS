@@ -48,8 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61181cee3a1f827b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Sorting algorithms/Select.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Randomized select.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Select.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Randomized select.md",
+                "file": "Computer Science/Algorithms/Sorting algorithms/Select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Sorting algorithms/Randomized select.md"
+                "file": "Computer Science/Algorithms/Sorting algorithms/Select.md"
               }
             }
           },
@@ -197,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e59cb31c993b7f6",
+  "active": "61181cee3a1f827b",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Sorting algorithms/Bucket sort.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
+    "Computer Science/Algorithms/Sorting algorithms/Select.md",
+    "Computer Science/Algorithms/Sorting algorithms/Randomized select.md",
+    "Computer Science/Algorithms/Sorting algorithms/Bucket sort.md",
     "Computer Science/Algorithms/Searching algorithms.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Algorithms/Sorting algorithms/Radix sort.md",
     "Computer Science/Algorithms/Sorting algorithms/Counting sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Merge sort.md",
-    "Computer Science/Algorithms.md"
+    "Computer Science/Algorithms/Sorting algorithms/Insertion sort.md"
   ]
 }

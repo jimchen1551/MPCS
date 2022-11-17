@@ -1,7 +1,7 @@
 ---
 Created: [[2022-11-17]]
 Aliases: 
-Types: 
+Types: Card
 Tags: 
 - 
 ---
@@ -38,8 +38,10 @@ $$=\sum_{k=1}^n\frac{1}{n}E[T(max(k-1, n-k))]+O(n)$$
 $$max(k-1, n-k)=\begin{cases}
 k-1&\quad\text{if }k>\lceil n/2\rceil\\
 n-k&\quad\text{if }k\leq\lfloor n/2\rfloor\end{cases}$$
-$$\Rightarrow E[T(n)]\leq\frac{2}{n}\sum_{k=\lfloor n/2\rfloor}^{n-1}E[T(k)]+O(n)$$
-[[Worst case]] running time:
-$$T(n)=\Theta(n^2)$$
+$$\Rightarrow E[T(n)]\leq\frac{2}{n}\sum_{k=\lfloor n/2\rfloor}^{n-1}E[T(k)]+O(n)=\frac{2}{n}\sum_{k=\lfloor n/2\rfloor}^{n-1}ck+an=O(n)\text{, for }n\geq\frac{2c}{c-4a}$$
+
 [[Average case]] running time: 
 $$T(n)=O(n)$$
+
+[[Worst case]] running time:
+$$T(n)=\Theta(n^2)$$

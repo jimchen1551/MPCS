@@ -42,8 +42,7 @@ Solution:
 1. Sorting $A$ ($O(n\lg n)$)
 2. Indexing the $i$th element
 
-| Selection             | Running time               | [[Asymptotic notation]] |
-| --------------------- | -------------------------- | ----------------------- |
-| [[Randomized select]] | Expected linear time       |                         |
-| [[Select]]            | [[Worst case]] linear time |                         |
-
+| Selection             | Running time               | [[Asymptotic notation]]         |
+| --------------------- | -------------------------- | ------------------------------- |
+| [[Randomized select]] | Expected linear time       | Avg: $O(n)$, Wst: $\Theta(n^2)$ |
+| [[Select]]            | [[Worst case]] linear time |                                 |
