@@ -29,7 +29,16 @@ else
 ## Analysis
 Indicator random variable: 
 $$X_k=I\{\text{the subarray A[p:q] has exactly k elements}\}$$
-$$E[X_k]$$
+$$E[X_k]=\frac{1}{n}$$
+$$X_k=1\Rightarrow\text{exactly one value of k}$$
+$$T(n)\leq\sum_{k=1}^nX_k\cdot(T(max(k-1, n-k))+O(n))$$
+$$=\sum_{k=1}^n(X_k\cdot T(max(k-1, n-k))+O(n))$$
+$$E[T(n)]\leq E[\sum_{k=1}^n(X_k\cdot T(max(k-1, n-k))+O(n))]$$
+$$=\sum_{k=1}^n\frac{1}{n}E[T(max(k-1, n-k))]+O(n)$$
+$$max(k-1, n-k)=\begin{cases}
+k-1&\quad\text{if }k>\lceil n/2\rceil\\
+n-k&\quad\text{if }k\leq\lfloor n/2\rfloor\end{cases}$$
+$$\Rightarrow E[T(n)]\leq\frac{2}{n}\sum_{k=\lfloor n/2\rfloor}^{n-1}E[T(k)]+O(n)$$
 [[Worst case]] running time:
 $$T(n)=\Theta(n^2)$$
 [[Average case]] running time: 
