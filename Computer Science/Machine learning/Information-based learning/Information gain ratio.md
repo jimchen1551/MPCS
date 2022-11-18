@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Information gain ratio
-$$GainRatio(d, D)=\frac{IG(d, D)}{-\sum_{l\in levels(d)}(P(d=l)\cdot\lg P(d=l))}$$
+$$GR(d, D)=\frac{IG(d, D)}{-\sum_{l\in levels(d)}(P(d=l)\cdot\lg P(d=l))}$$
 $d$ for feature; $D$ for dataset
 - [[Information gain]] divided by the entropy of the dataset $D$ with respect to the feature $d$
 - e.g., 
