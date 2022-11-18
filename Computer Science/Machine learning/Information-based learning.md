@@ -12,9 +12,12 @@ Tags:
 - [[Information gain]]
 - [[Information gain ratio]]
 - [[Gini index]]
-## Continuous descriptive feature
-
 ## Algorithms
 - [[ID3 algorithm]]
-
+## Continuous descriptive features
+## Continuous target features
+## Tree pruning
+## Model ensembles
+### Boosting
+### Bagging
 

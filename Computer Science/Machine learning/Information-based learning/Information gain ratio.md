@@ -1,7 +1,7 @@
 ---
 Created: [[2022-11-18]]
 Aliases: GR, gain ratio
-Types: 
+Types: Card
 Tags: 
 - 
 ---
