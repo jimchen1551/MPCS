@@ -6,10 +6,13 @@ Tags:
 - 
 ---
 # ID3 algorithm
+- top-down induction of [[Decision tree]]
 - attempting to create the shallowest [[Decision tree]] that is consistent with the data given
+- building the tree in a recursive, depth-first manner, beginnning 
 
 ## Pseudocode
 ```Pseudocode
+ID3(d, D)
 if all the instances in D have the same target level C
 	return a decision tree consisting of a leaf node with label C
 else if d is empty
@@ -19,6 +22,10 @@ else if D is empty
 else
 	d[best]←arg max IG(d, D)
 	make a new node, Node_d[best], and label it with d[best]
+partition D using d[best]
+remove d[best] from d
+for each partition D_i of D
+	grow a branch from Node_d[best] to the decision tree created by rerunning ID3(d, D_i)
 ```
 d: a set of descriptive features
 D: a set of training instances
