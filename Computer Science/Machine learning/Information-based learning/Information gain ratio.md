@@ -7,7 +7,7 @@ Tags:
 ---
 # Information gain ratio
 $$GR(d, D)=\frac{IG(d, D)}{-\sum_{l\in levels(d)}(P(d=l)\cdot\lg P(d=l))}$$
-$d$ for feature; $D$ for dataset
+$d$ for descriptive feature; $D$ for dataset
 - [[Information gain]] divided by the entropy of the dataset $D$ with respect to the feature $d$
 - e.g., 
 $$GR(Slope, D)=\frac{IG(Slope, D)}{-\sum_{l\in\{flat,moderate,steep\}}(P(Slope=l)\cdot\lg P(Slope=l))}$$

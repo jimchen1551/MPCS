@@ -5,7 +5,7 @@ Types: Card
 Tags: 
 - 
 ---
-# ID3 algorithm
+# ID3
 - top-down induction of [[Decision tree]]
 - attempting to create the shallowest [[Decision tree]] that is consistent with the data given
 - building the tree in a recursive, depth-first manner, beginning at the root node and working down to the leaf nodes

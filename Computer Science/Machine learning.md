@@ -12,7 +12,7 @@ Tags:
 | Machine Learning               | Content                                                                                                    |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | [[Data]]                       | Analytic Base Table<br>Data Quality Report<br>Data Quality Issue<br>Data Visualization<br>Data Preparation |
-| [[Information-based learning]] | [[Decision tree]]<br>[[Shannon's entropy model]]<br>[[Information gain]]<br>[[ID3 algorithm]]              |
+| [[Information-based learning]] | [[Decision tree]]<br>[[Shannon's entropy model]]<br>[[Information gain]]<br>[[ID3]]              |
 | [[Similarity-based learning]]  |                                                                                                            |
 | [[Probability-based learning]] |                                                                                                            |
 | [[Error-based learning]]       |                                                                                                            |

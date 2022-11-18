@@ -9,6 +9,7 @@ Tags:
 ![[Screen Shot 2022-10-31 at 19.25.51.png]]
 $$IG(d, D)=H(t, D)-rem(d, D)$$
 $$rem(d, D)=\sum_{l\in levels(d)}\frac{|D_{d=l}|}{|D|}\cdot H(t, D_{d=l})$$
+$d$ for descriptive feature; $t$ for target feature; $D$ for dataset
 - a measure of the **reduction in the overall entropy** of a set of instances that is achieved by testing on a descriptive feature. 
 
 1. Compute the entropy of the original dataset with respect to target feature. 

@@ -6,3 +6,5 @@ Tags:
 - 
 ---
 # Gini index
+$$Gini(t, D)=1=\sum_{l\in levels(t)}P(t=l)^2$$
+D for dataset
