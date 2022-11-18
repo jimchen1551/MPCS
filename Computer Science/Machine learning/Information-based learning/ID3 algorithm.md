@@ -8,7 +8,7 @@ Tags:
 # ID3 algorithm
 - top-down induction of [[Decision tree]]
 - attempting to create the shallowest [[Decision tree]] that is consistent with the data given
-- building the tree in a recursive, depth-first manner, beginning at the root node
+- building the tree in a recursive, depth-first manner, beginning at the root node and working down to the leaf nodes
 
 ## Pseudocode
 ```Pseudocode
@@ -29,3 +29,14 @@ for each partition D_i of D
 ```
 d: a set of descriptive features
 D: a set of training instances
+
+### Steps
+1. beginning with choosing the best descriptive feature to the test using [[Information gain]]
+2. adding a root node to the tree and labeled with the selected test feature
+3. partitioning training dataset with the test feature
+4. growing [[Decision tree]]s from each node with each partitioned dataset
+
+### Time to stop
+1. All instances in the sub-dataset have the same target value
+2. No more descriptive features available for further partition
+3. The sub-dataset is empty

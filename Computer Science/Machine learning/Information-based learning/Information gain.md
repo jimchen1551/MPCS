@@ -23,3 +23,6 @@ $$IG(D, A)=H(D)-\sum_{v\in Values(A)}\frac{|S_v|}{|S|}H(S_v)$$
   $$=[-((\frac{3}{6}\lg\frac{3}{6})+(\frac{3}{6}\lg\frac{3}{6}))]-[\frac{3}{6}(-((\frac{3}{3}\lg\frac{3}{3})+(\frac{0}{3}\lg\frac{0}{3})))+\frac{3}{6}(-((\frac{0}{3}\lg\frac{0}{3})+(\frac{3}{3}\lg\frac{3}{3})))]$$
   $$=1\text{ bit}-0\text{ bit}=1\text{ bit}$$
   
+## Drawback
+1. preferring features with many values
+2. selecting meaningless features for partition and creating too many tiny subsets
