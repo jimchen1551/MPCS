@@ -7,3 +7,8 @@ Tags:
 ---
 # ID3 algorithm
 - attempting to create the shallowest [[Decision tree]] that is consistent with the data given
+
+## Pseudocode
+```Pseudocode
+
+```
