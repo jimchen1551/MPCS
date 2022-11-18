@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning.md",
+                "file": "Computer Science/Machine learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6efd8ca59752980b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/ID3 algorithm.md",
+                "file": "Computer Science/Machine learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/ID3 algorithm.md",
+                "file": "Computer Science/Machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/ID3 algorithm.md"
+                "file": "Computer Science/Machine learning.md"
               }
             }
           },
@@ -185,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448f05f2a6d4c38d",
+  "active": "aa1f195104cff517",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science/Machine learning/Information-based learning/Information gain.md",
+    "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Information-based learning.md",
+    "Computer Science/Machine learning/Information-based learning/ID3 algorithm.md",
+    "Computer Science/Machine learning/Information-based learning/Information gain.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms/Searching algorithms.md",
     "Computer Science/Algorithms/Sorting algorithms/Randomized select.md",
-    "Computer Science/Algorithms/Sorting algorithms/Select.md",
-    "Computer Science/Algorithms/Sorting algorithms/Bucket sort.md",
-    "Computer Science/Algorithms/Sorting algorithms/Radix sort.md"
+    "Computer Science/Algorithms/Sorting algorithms/Select.md"
   ]
 }
