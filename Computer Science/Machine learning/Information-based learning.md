@@ -22,8 +22,11 @@ Tags:
 | CART                  |         |
 
 ## Continuous descriptive features
+
 ## Continuous target features
+
 ## Tree pruning
+
 ## Model ensembles
 ### Boosting
 ### Bagging
