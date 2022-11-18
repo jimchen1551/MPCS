@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "454bcefab2aee4cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e10dce3820967704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b55692d5cae477e8",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain.md"
+                "file": "Computer Science/Machine learning/Information-based learning.md"
               }
             }
           },
@@ -204,13 +179,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e10dce3820967704",
+  "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
-    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
-    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Information-based learning/Information gain.md",
+    "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
+    "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Information-based learning/ID3 algorithm.md",
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Data structures.md",

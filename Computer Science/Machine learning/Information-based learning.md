@@ -11,6 +11,9 @@ Tags:
 - [[Shannon's entropy model]]
 - [[Information gain]]
 - [[Information gain ratio]]
+- [[Gini index]]
+## Continuous descriptive feature
+
 ## Algorithms
 - [[ID3 algorithm]]
 
