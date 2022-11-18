@@ -13,7 +13,7 @@ Tags:
 | [[Shannon's entropy model]] | $H(t, D)=-\sum_iP(t=i)\lg P(t=i)$            |
 | [[Information gain]]        | $IG(d, D)=H(t, D)-rem(d, D)$                 |
 | [[Information gain ratio]]  | $GR(d, D)=\frac{IG(d, D)}{H(d, D)}$          |
-| [[Gini index]]              | $Gini(t, D)=1=\sum_{l\in levels(t)}P(t=l)^2$ |
+| [[Gini index]]              | $Gini(t, D)=1-\sum_{l\in levels(t)}P(t=l)^2$ |
 
 | Algorithms        | Comment |
 | ----------------- | ------- |

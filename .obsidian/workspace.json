@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "49caa92171cc2f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b1394070fd9c6d7",
             "type": "leaf",
             "state": {
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
+                "file": "Computer Science/Machine learning/Information-based learning/Gini index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
+                "file": "Computer Science/Machine learning/Information-based learning/Gini index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md"
+                "file": "Computer Science/Machine learning/Information-based learning/Gini index.md"
               }
             }
           },
@@ -192,14 +180,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49caa92171cc2f10",
+  "active": "7b1394070fd9c6d7",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Information-based learning.md",
+    "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
+    "Computer Science/Machine learning/Information-based learning/Gini index.md",
     "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
     "Computer Science/Machine learning/Information-based learning/Information gain.md",
-    "Computer Science/Machine learning/Information-based learning/Gini index.md",
     "Computer Science/Machine learning/Information-based learning/ID3.md",
-    "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Data structures.md",
