@@ -18,7 +18,7 @@ else if D is empty
 	return a decision tree consisting of a leaf node with the label of the majority target level of the immediate parent node
 else
 	d[best]←arg max IG(d, D)
-	make a new node, Node_d[best], and labv
+	make a new node, Node_d[best], and label it with d[best]
 ```
 d: a set of descriptive features
 D: a set of training instances
