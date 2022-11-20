@@ -23,6 +23,10 @@ Tags:
 
 ## Continuous descriptive features
 - defining a threshold within the range of values to partition the instances
+1. sorting the instances according to the continuous values
+2. identifying the adjacent values with the different classifications
+3. finding the best threshold by [[Information gain]]
+4. letting the 
 ## Continuous target features
 
 ## Tree pruning
