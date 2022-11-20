@@ -22,7 +22,7 @@ Tags:
 | CART                  |         |
 
 ## Continuous descriptive features
-
+- defining a threshold within the range of values to partition the instances
 ## Continuous target features
 
 ## Tree pruning
