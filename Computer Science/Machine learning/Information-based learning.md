@@ -31,7 +31,9 @@ Tags:
 3. finding the best threshold by [[Information gain]]
 4. letting the categorized feature compete with other available features
 5. repeating the same procedure at each node as the tree grows
+
 ## Continuous target features
+
 
 ## Tree pruning
 
