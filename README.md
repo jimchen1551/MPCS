@@ -6,7 +6,7 @@ Highly recommend opening with Obsidian
 https://obsidian.md
 
 ## Math
-1. Discrete math: 
+1. Discrete math: <br>
    [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
    
 2. Graph theory
