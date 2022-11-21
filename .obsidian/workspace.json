@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -180,8 +180,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "001aa5c87e25e12f",
+  "active": "3f5e60c6ea61f88e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Computer Science/Machine learning/Information-based learning/Regression tree.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Physics.md",
     "Mathematics.md",
@@ -189,8 +191,6 @@
     "Computer Science/Machine learning/Information-based learning/Gini index.md",
     "Computer Science/Machine learning/Information-based learning/Shannon's entropy model.md",
     "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
-    "Computer Science/Machine learning/Information-based learning/Information gain.md",
-    "Computer Science/Machine learning/Information-based learning/ID3.md",
-    "Computer Science/Machine learning.md"
+    "Computer Science/Machine learning/Information-based learning/Information gain.md"
   ]
 }
