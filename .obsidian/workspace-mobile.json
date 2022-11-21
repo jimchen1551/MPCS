@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
-                "mode": "preview",
+                "file": "Computer Science/Digital systems.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+            "file": "Computer Science/Digital systems.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+            "file": "Computer Science/Digital systems.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Operating systems/Process management/Process/Thread.md"
+            "file": "Computer Science/Digital systems.md"
           }
         }
       },
@@ -128,9 +128,6 @@
       }
     ],
     "currentTab": 0
-  },
-  "ribbon": {
-    "mostRecentAction": ""
   },
   "active": "cad6881ef36b5f5e",
   "lastOpenFiles": [
