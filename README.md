@@ -35,7 +35,7 @@ Computer science:
 5. Computer organization: [Dr. Jean Shann](https://www.youtube.com/playlist?list=PLQVlxVRlwkisVMS7BjfJoI3A748wp_kSx)
 6. Computer architecture: [Dr. Jean Shann](https://www.youtube.com/watch?v=xNMmBXzjPb4&list=PLj6E8qlqmkFuNeStWpmAZh0Uq1-8Y8PeL)
 7. Computer network
-8. Operating systems: *Operating System Concepts (Wiley)* and [Dr. Jerry Chou](https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV)
+8. Operating systems: *Operating System Concepts (Silberschatz)* and [Dr. Jerry Chou](https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV)
 9. Database systems: *Database System Concepts (McGraw-Hill)*
 10. Machine learning: *Foundations of Machine Learning (MIT)*, *Fundamentals of Machine Learning for Predictive Data Analytics*, and *Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow*
 11. Deep learning: *Deep Learning (MIT)* and *Reinforcement Learning: An Introduction (MIT)*
