@@ -46,8 +46,6 @@ https://obsidian.md
 4. Modern physics<br>
    
 5. Quantum mechanics<br>
-   
-6. Solid-state physics<br>
 
 ## Computer science
 1. Data structures: <br>
