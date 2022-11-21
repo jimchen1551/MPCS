@@ -1,11 +1,11 @@
 # MPCS
 Notes with links for math, physics, and computer science
 
-Highly recommend to open with Obsidian
+Highly recommend opening with Obsidian
 
 https://obsidian.md
 
-Math: 
+## Math
 1. Discrete math: [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 2. Graph theory
 3. Information theory
@@ -19,7 +19,7 @@ Math:
 11. Signals and systems
 12. Mathematical modeling
 
-Physics: 
+## Physics
 1. Electromagnetics
 2. Electromagnetic wave
 3. Thermodynamics
@@ -27,15 +27,22 @@ Physics:
 5. Quantum mechanics
 6. Solid-state physics
 
-Computer science: 
+## Computer science
 1. Data structures: [Dr. Wen-Chih Peng](https://www.youtube.com/watch?v=3503j2L6qNA&list=PLj6E8qlqmkFusQlwukXMUDVdYfd7oPyr3)
+   
 2. Algorithms: *Introduction to Algorithms (Cormen)* and *Algorithm in a Nutshell*
+   
 3. Formal language
+   
 4. Digital systems: [Dr. Chung-Ping Chung](https://www.youtube.com/watch?v=jB5jShUS6mg&list=PLj6E8qlqmkFvLrTINWmRqmc4ORb6ZOvnX)
-5. Computer organization: [Dr. Jean Shann](https://www.youtube.com/playlist?list=PLQVlxVRlwkisVMS7BjfJoI3A748wp_kSx)
-6. Computer architecture: [Dr. Jean Shann](https://www.youtube.com/watch?v=xNMmBXzjPb4&list=PLj6E8qlqmkFuNeStWpmAZh0Uq1-8Y8PeL)
-7. Computer network: *[Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/index.php) (Kurose)* and [Dr. Mitch Davis](https://www.youtube.com/watch?v=csBg_ISJGnA&list=PLW1yb8L3S1njNqzXgaxUAgAxscBef1RfV)
-8. Operating systems: *[Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html) (Silberschatz)*, [Dr. Mitch Davis](https://www.youtube.com/watch?v=zJTqTs7Ujr8&list=PLW1yb8L3S1ngGmtKlI5XYcTNQQ1r3xZvq) and [Dr. Jerry Chou](https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV)
-9. Database systems: *[Database System Concepts](https://db-book.com) (Silberschatz)*, [Dr. Mitch Davis](https://www.youtube.com/watch?v=HqD6sJDNadw&list=PLW1yb8L3S1ngmEQ3q9BsI9Mf37BRahkch) and [Dr. ](https://www.youtube.com/watch?v=h2-S2B9tRk0&list=PLS0SUwlYe8cyln89Srqmmlw42CiCBT6Zn)
+   
+5. Computer organization: *Computer Organization and Design: The Hardware/Software Interface (Patterson)* and [Dr. Jyh-Jiun Shann](https://www.youtube.com/playlist?list=PLQVlxVRlwkisVMS7BjfJoI3A748wp_kSx)
+   
+6. Computer architecture: *Computer Architecture: A Quantitative Approach (Hennessy)*, [Dr. Jyh-Jiun Shann](https://www.youtube.com/watch?v=xNMmBXzjPb4&list=PLj6E8qlqmkFuNeStWpmAZh0Uq1-8Y8PeL)
+   
+7. Computer network: *[Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/index.php) (Kurose)*, [Dr. Mitch Davis](https://www.youtube.com/watch?v=csBg_ISJGnA&list=PLW1yb8L3S1njNqzXgaxUAgAxscBef1RfV) and [Dr. Nen-Fu Huang](https://www.youtube.com/watch?v=gyp2r3FZ_Y8&list=PLS0SUwlYe8cxktXNovos9xleroaWyb-z5)
+   
+8. Operating systems: *[Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html) (Silberschatz)*, [Dr. Mitch Davis](https://www.youtube.com/watch?v=zJTqTs7Ujr8&list=PLW1yb8L3S1ngGmtKlI5XYcTNQQ1r3xZvq) and [Dr. Chi-Yuan Chou](https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV)
+9. Database systems: *[Database System Concepts](https://db-book.com) (Silberschatz)*, [Dr. Mitch Davis](https://www.youtube.com/watch?v=HqD6sJDNadw&list=PLW1yb8L3S1ngmEQ3q9BsI9Mf37BRahkch) and [Dr. Shan-Hung Wu](https://www.youtube.com/watch?v=h2-S2B9tRk0&list=PLS0SUwlYe8cyln89Srqmmlw42CiCBT6Zn)
 10. Machine learning: *Foundations of Machine Learning (Mohri)*, *Fundamentals of Machine Learning for Predictive Data Analytics*, and *Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow*
 11. Deep learning: *Deep Learning (Goodfellow)* and *Reinforcement Learning: An Introduction (Sutton)*
