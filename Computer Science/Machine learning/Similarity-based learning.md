@@ -8,8 +8,9 @@ Tags:
 # Similarity-based learning
 | Fundamental concepts | Comment |
 | -------------------- | ------- |
-|                      |         |
+| [[Feature space]]    |         |
+| [[Distance matric]]  |         |
 
-| Algorithms | Comment |
-| ---------- | ------- |
-|            |         |
+| Algorithms           | Comment |
+| -------------------- | ------- |
+| [[Nearest neighbor]] |         |
