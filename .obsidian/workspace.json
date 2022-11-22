@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "249d2a650d8f45a2",
+            "id": "8cc15a32b8bb38af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 259
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md"
               }
             }
           },
@@ -180,10 +180,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448f05f2a6d4c38d",
+  "active": "8cc15a32b8bb38af",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Information-based learning/Regression tree.md",
