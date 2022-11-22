@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Similarity-based learning
+
 ## Feature space
 
 ## Distance metrics
