@@ -23,7 +23,8 @@ Tags:
 | CART                  |         |
 
 ## Tree pruning
-
+### Prepruning
+### Postpruning
 ## Model ensembles
 ### Boosting
 ### Bagging
