@@ -6,9 +6,10 @@ Tags:
 - 
 ---
 # Similarity-based learning
+| Fundamental concepts | Comment |
+| -------------------- | ------- |
+|                      |         |
 
-## Feature space
-
-## Distance metrics
-
-## Nearest neighbor algorithm
+| Algorithms | Comment |
+| ---------- | ------- |
+|            |         |
