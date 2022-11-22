@@ -9,8 +9,8 @@ Tags:
 
 | Fundamental concepts        | Comment                                      |
 | --------------------------- | -------------------------------------------- |
-| [[Decision tree]]           |                                              |
-| [[Regression tree]]         |                                              |
+| [[Decision tree]]           | for discrete target feature                  |
+| [[Regression tree]]         | for continuous target feature                |
 | [[Shannon's entropy model]] | $H(t, D)=-\sum_iP(t=i)\lg P(t=i)$            |
 | [[Information gain]]        | $IG(d, D)=H(t, D)-rem(d, D)$                 |
 | [[Information gain ratio]]  | $GR(d, D)=\frac{IG(d, D)}{H(d, D)}$          |
@@ -21,9 +21,6 @@ Tags:
 | [[ID3]] |         |
 | C4.5              |         |
 | CART                  |         |
-
-## Continuous target features
-
 
 ## Tree pruning
 

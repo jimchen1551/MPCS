@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "001aa5c87e25e12f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Regression tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Regression tree.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Regression tree.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Regression tree.md"
+                "file": "Computer Science/Machine learning/Information-based learning.md"
               }
             }
           },
@@ -181,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "001aa5c87e25e12f",
+  "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Data.md",
+    "Computer Science/Machine learning/Information-based learning.md",
+    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Information-based learning/Regression tree.md",
     "Computer Science/Computer organization.md",
     "Computer Science/Computer organization/Instruction set architecture.md",
-    "Computer Science/Machine learning/Information-based learning/Regression tree.md",
     "README.md",
     "Mathematics.md",
     "Physics.md",
-    "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science.md",
-    "conflict-files-obsidian-git.md",
-    "Computer Science/Machine learning/Information-based learning/Gini index.md"
+    "Computer Science.md"
   ]
 }
