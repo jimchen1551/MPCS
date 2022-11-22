@@ -25,3 +25,5 @@ Tags:
   1. equipment or medical diagnosis
   2. credit risk prediction
   3. modeling purchase preferences
+## Analysis
+$$T(n)=(n\times m\lg m)$$

@@ -16,11 +16,11 @@ Tags:
 | [[Information gain ratio]]  | $GR(d, D)=\frac{IG(d, D)}{H(d, D)}$          |
 | [[Gini index]]              | $Gini(t, D)=1-\sum_{l\in levels(t)}P(t=l)^2$ |
 
-| Algorithms        | Comment |
-| ----------------- | ------- |
-| [[ID3]] |         |
-| C4.5              |         |
-| CART                  |         |
+| Algorithms | Comment |
+| ---------- | ------- |
+| [[ID3]]    |         |
+| C4.5       |         |
+| [[CART]]   |         |
 
 ## Tree pruning
 ### Prepruning
