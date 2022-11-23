@@ -1,5 +1,5 @@
 # MPCS
-Notes with links for math, physics, and computer science
+Notes for Math, Physics, and Computer Science
 
 ## Environment setup
 Obsidian is a **free** cross-platform markdown editor which peculiarly supports bidirectional linkage between notes and miscellaneous community plugins. 
@@ -8,7 +8,7 @@ OS Supported: Linux, macOS, Windows, iOS, Android.
 <br>
 1. Enter https://obsidian.md
 2. Click the `get Obsidian` button <br>(OS detected automatically)
-3. Run the .dmg (.exe) file
+3. Run the .dmg (.exe/.deb) file
 
 ## Math
 1. Discrete math: <br>

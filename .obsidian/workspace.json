@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "878891433fd76ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md"
+                "file": "README.md"
               }
             }
           },
@@ -186,10 +199,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1299baadff801980",
+  "active": "878891433fd76ee4",
   "lastOpenFiles": [
-    "README.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+    "README.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Information-based learning/CART.md",
     "Computer Science/Machine learning/Information-based learning/Decision tree.md",
