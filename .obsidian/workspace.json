@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md"
               }
             }
           },
@@ -199,8 +199,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "106c72195eb148c6",
+  "active": "1299baadff801980",
   "lastOpenFiles": [
+    "README.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
     "Computer Science/Machine learning/Information-based learning/CART.md",
@@ -209,7 +210,6 @@
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Information-based learning/Regression tree.md",
-    "Computer Science/Computer organization.md",
-    "Computer Science/Computer organization/Instruction set architecture.md"
+    "Computer Science/Computer organization.md"
   ]
 }
