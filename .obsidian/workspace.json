@@ -36,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "878891433fd76ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md"
               }
             }
           },
@@ -199,10 +186,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "878891433fd76ee4",
+  "active": "1299baadff801980",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
     "README.md",
+    "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Information-based learning/CART.md",
     "Computer Science/Machine learning/Information-based learning/Decision tree.md",
