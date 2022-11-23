@@ -7,7 +7,7 @@ Obsidian is a **free** cross-platform markdown editor which peculiarly supports 
 OS Supported: Linux, macOS, Windows, iOS, Android.
 <br>
 1. Enter https://obsidian.md
-2. Click the `get Obsidian` button (OS detected automatically)
+2. Click the `get Obsidian` button <br>(OS detected automatically)
 3. Run the .dmg (.exe) file
 
 ## Math
