@@ -2,10 +2,16 @@
 Notes with links for math, physics, and computer science
 
 ## Environment setup
+Obsidian is a **free** cross-platform markdown editor which peculiarly supports bidirectional linkage between notes and miscellaneous community plugins. 
+
+OS Supported: Linux, macOS, Windows, iOS, Android.
+
 1. Enter https://obsidian.md
    ![[Screen Shot 2022-11-23 at 15.23.58.png]]
 2. Click the `get Obsidian` button (OS detected automatically)
-
+   ![[Screen Shot 2022-11-23 at 15.24.51.png]]
+3. Run the .dmg (.exe) file
+   ![[Screen Shot 2022-11-23 at 15.26.35.png]]
 ## Math
 1. Discrete math: <br>
    [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
