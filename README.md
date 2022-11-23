@@ -1,9 +1,10 @@
 # MPCS
 Notes with links for math, physics, and computer science
 
-Highly recommend opening with Obsidian
-
-https://obsidian.md
+## Environment setup
+1. Enter https://obsidian.md
+   ![[Screen Shot 2022-11-23 at 15.23.58.png]]
+2. Click the `get Obsidian` button (OS detected automatically)
 
 ## Math
 1. Discrete math: <br>

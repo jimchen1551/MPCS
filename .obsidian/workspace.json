@@ -20,7 +20,26 @@
             }
           },
           {
-            "id": "8cc15a32b8bb38af",
+            "id": "106c72195eb148c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "923c50bef1c1b49c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1299baadff801980",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature space.md"
+                "file": "README.md"
               }
             }
           },
@@ -181,13 +199,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8cc15a32b8bb38af",
+  "active": "106c72195eb148c6",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Information-based learning/CART.md",
+    "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+    "Computer Science/Machine learning/Information-based learning/CART.md",
     "Computer Science/Machine learning/Information-based learning/Decision tree.md",
     "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Information-based learning/Regression tree.md",
