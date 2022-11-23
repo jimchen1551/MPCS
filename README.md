@@ -3,9 +3,9 @@ Notes for Math, Physics, and Computer Science
 
 ## Environment setup
 Obsidian is a **free** cross-platform markdown editor which peculiarly supports bidirectional linkage between notes and miscellaneous community plugins. 
-<br>
-OS Supported: Linux, macOS, Windows, iOS, Android.
-<br>
+<br><br>
+OS Supported: <br>Linux, macOS, Windows, iOS, Android.
+<br><br>
 1. Enter https://obsidian.md
 2. Click the `get Obsidian` button <br>(OS detected automatically)
 3. Run the .dmg (.exe/.deb) file
