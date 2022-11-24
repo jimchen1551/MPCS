@@ -19,3 +19,5 @@ $$Manhattan(a, b)=\sum_{i=1}^m abs(a[i]-b[i])$$
 $$Euclidean(a, b)=\sqrt{\sum_{i=1}^m(a[i]-b[i])^2}$$
 ## Minkowski distance
 $$Minkowski(a, b)=(\sum_{i=1}^m abs(a[i]-b[i])^p)^\frac{1}{p}$$
+## Mahalanobis distance
+$$$$
