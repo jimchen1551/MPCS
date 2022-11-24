@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,15 +212,15 @@
   },
   "active": "a73b076c699bc032",
   "lastOpenFiles": [
+    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
     "Mathematics.md",
     "Mathematics/Statistics.md",
-    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
-    "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
     "Computer Science/Machine learning/Data preparation/Data Visualization.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
     "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
-    "Computer Science/Machine learning/Data.md"
+    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md"
   ]
 }
