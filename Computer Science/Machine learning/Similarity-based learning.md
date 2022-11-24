@@ -18,7 +18,7 @@ Tags:
 | [[k-nearest neighbor]] |         |
 
 ## Data normalization
-If the ranges of different descriptive features differ greatly, [[Data Preparation#Normalization]] should be implemented. 
+If the ranges of different descriptive features differ significantly, [[Data Preparation#Normalization]] should be implemented. 
 
 ## For continuous target features
 for [[k-nearest neighbor|k-NN]] returning: 

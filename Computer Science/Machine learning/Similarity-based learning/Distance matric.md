@@ -25,7 +25,11 @@ $$Mahalanobis(a, b)=\sqrt{(a-b)^T\Sigma^{-1}(a-b)}$$
 - similar to [[#Euclidean distance]], also squares the difference of the features
 - but rescale the difference so that all the features have **unit variance** and the effect of **covariance is removed**
 - able to be undertstood as defining an **orthogonal coordinate system** with
-  1. an origin at the instance we are ca
+  1. an origin at the instance we are calculating the distance from
+  2. a primary axis aligned with the direction of the greatest spread in the dataset
+  3. the units of all the axes scaled so that the dataset has unit variance along each axis
+![[Screen Shot 2022-11-24 at 15.33.17.png]]
+Origin: (a) (50, 50), (b) (63, 71), (c) (42, 35)
 ## Cosine similarity
 $$Sim_{\cos}(a, b)=\frac{a\cdot b}{|a|\cdot|b|}$$
 ## For symbolic features

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning.md"
               }
             }
           },
@@ -199,6 +199,7 @@
   },
   "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Data normalization.md",
@@ -207,7 +208,6 @@
     "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
     "Computer Science/Machine learning.md",
     "Computer Science.md",
-    "Mathematics.md",
-    "Mathematics/Statistics.md"
+    "Mathematics.md"
   ]
 }
