@@ -13,6 +13,7 @@ Tags:
 | [[Data normalization]] |                                                                                                                                                                                         |
 | [[Feature selection]]  |                                                                                                                                                                                         |
 
-| Algorithms           | Comment |
-| -------------------- | ------- |
-| [[Nearest neighbor]] |         |
+| Algorithms             | Comment |
+| ---------------------- | ------- |
+| [[Nearest neighbor]]   |         |
+| [[k-nearest neighbor]] |         |
