@@ -27,6 +27,7 @@ Make a prediction for the query instance that is equal to the value of the targe
 - to classify a new data point x
 	1. identifying k nearest neighbors to x
 	2. assigning x to the class by the votes of the k neighbors
+	   if k is not given, k=1
 
 ## When to use
 - relatively small feature set
