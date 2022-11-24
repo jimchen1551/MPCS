@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Information-based learning.md",
     "Data normalization.md",
     "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
     "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",

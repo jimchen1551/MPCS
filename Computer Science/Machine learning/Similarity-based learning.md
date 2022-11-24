@@ -21,5 +21,7 @@ Tags:
 If the ranges of different descriptive features differ greatly, [[Data Preparation#Normalization]] should be implemented. 
 
 ## For continuous target features
-for [[k]]returning the average value in the neighborhood: 
+for [[k-nearest neighbor|k-NN]] returning: 
 $$M_k(q)=\frac{1}{k}\sum_{i=1}^kt_i$$
+for weighted [[k-nearest neighbor|k-NN]] returning: 
+$$M_k(q)=\frac{\sum_{i=1}^k\frac{1}{dist(q, d_i)^2}\times t_i}{\sum_{i=1}^k\frac{1}{dist(q, d_i)^2}}$$
