@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Distance matric
-
+- measuring the distance b/w 2 instances in a [[Feature space]]
 Four criteria: 
 1. Non-negativity: $metric(a, b)\geq 0$
 2. Identity: $metric(a, b)=0\Leftrightarrow a=b$
