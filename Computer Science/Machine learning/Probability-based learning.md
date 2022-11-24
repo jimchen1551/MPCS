@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Probability-based learning
+|||
 ## Bayes' theorem
 ## Bayesian prediction
 ## Conditional independence and factorization
