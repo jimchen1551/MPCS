@@ -20,11 +20,6 @@ Tags:
 ## Data normalization
 If the ranges of different descriptive features differ significantly, [[Data Preparation#Normalization]] should be implemented. 
 
-## Curse of dimensionality
-If the feature set size is pretty large, there may exist 
-1. redundant features
-2. irrelevant features
-3. informative derived features (e.g., $g_k=f_i\otimes f_j$)
 
 ## For continuous target features
 for [[k-nearest neighbor|k-NN]] returning: 
