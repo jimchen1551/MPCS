@@ -6,10 +6,12 @@ Tags:
 - 
 ---
 # Similarity-based learning
-| Fundamental concepts | Comment |
-| -------------------- | ------- |
-| [[Feature space]]    |         |
-| [[Distance matric]]  |         |
+| Fundamental concepts   | Comment |
+| ---------------------- | ------- |
+| [[Feature space]]      |         |
+| [[Distance matric]]    |         |
+| [[Data normalization]] |         |
+| [[Feature selection]]  |         |
 
 | Algorithms           | Comment |
 | -------------------- | ------- |
