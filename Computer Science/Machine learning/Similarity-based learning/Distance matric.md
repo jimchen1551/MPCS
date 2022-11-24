@@ -25,4 +25,19 @@ $$d(a, b)=\sqrt{(a-b)^T\Sigma^{-1}(a-b)}$$
 - similar to [[#Euclidean distance]], also squares the difference of the features
 - but rescale the difference so that all the features have **unit variance** and the effect of **covariance is removed**
 ## Cosine similarity
-$$$$
+$$Sim_{\cos}(a, b)=\frac{a\cdot b}{|a|\cdot|b|}$$
+## For symbolic features
+$$d_1, d_2\text{ is symbolic features}$$
+$$CP(d_1, d_2)=n((d_1==T)and(d_2==T))$$
+$$CA(d_1, d_2)=n((d_1==F)and(d_2==F))$$
+$$PA(d_1, d_2)=n((d_1==T)and(d_2==F))$$
+$$AP(d_1, d_2)=n((d_1==F)and(d_2==T))$$
+- based on Boolean features
+- CP for co-presence
+- CA for co-absence
+- PA for presence-absence
+- AP for absence-presence
+### Russel-Rao similarity
+$$Sim_{RR}=\frac{CP(d_1, d_2)}{|d_1|}$$
+### Sokal-Michener similarity
+$$Sim_{SM}=\frac{CP(d_1, d_2)+CA(d_1, d_2)}{|d_1|}$$
