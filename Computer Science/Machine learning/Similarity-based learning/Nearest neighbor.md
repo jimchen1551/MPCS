@@ -41,3 +41,4 @@ Make a prediction for the query instance that is equal to the value of the targe
 - slow in prediction (query)
 - easily fooled by irrevelant features
 - no predictive models actually contructed
+- sensitive to noisy data
