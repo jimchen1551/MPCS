@@ -1,8 +1,8 @@
 ---
 Created: [[2022-11-24]]
-Aliases: 
-Types: 
+Aliases: NN
+Types: Card
 Tags: 
 - 
 ---
-# Nearest nei
+# Nearest neighbor
