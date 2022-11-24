@@ -41,3 +41,5 @@ $$AP(d_1, d_2)=n((d_1==F)and(d_2==T))$$
 $$Sim_{RR}=\frac{CP(d_1, d_2)}{|d_1|}$$
 ### Sokal-Michener similarity
 $$Sim_{SM}=\frac{CP(d_1, d_2)+CA(d_1, d_2)}{|d_1|}$$
+### Jaccard similarity
+$$Sim_{J}=\frac{CP(d_1, d_2)}{CP(d_1, d_2)+PA(d_1, d_2)+AP(d_1, d_2)}$$

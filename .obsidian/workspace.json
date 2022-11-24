@@ -26,18 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e3e1595a362e52b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "42a640be43604f8b",
             "type": "leaf",
             "state": {
@@ -73,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md"
               }
             }
           },
@@ -221,7 +210,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e3e1595a362e52b",
+  "active": "a73b076c699bc032",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
