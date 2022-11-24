@@ -38,6 +38,42 @@
             }
           },
           {
+            "id": "c4a7e43d3cd01619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3c4e907f9fa8cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3b8f3f5a018371f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Data preparation/Analytics Base Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "42a640be43604f8b",
             "type": "leaf",
             "state": {
@@ -73,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+                "file": "Computer Science/Machine learning/Data.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+                "file": "Computer Science/Machine learning/Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md"
+                "file": "Computer Science/Machine learning/Data.md"
               }
             }
           },
@@ -221,17 +258,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e3e1595a362e52b",
+  "active": "c4a7e43d3cd01619",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
+    "Computer Science/Machine learning/Data preparation/Analytics Base Table.md",
+    "Computer Science/Machine learning/Data.md",
+    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
-    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
     "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
     "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
-    "README.md",
-    "Computer Science/Machine learning/Information-based learning/CART.md",
-    "Computer Science/Machine learning/Information-based learning/Decision tree.md",
-    "Computer Science/Machine learning/Information-based learning.md"
+    "README.md"
   ]
 }

@@ -22,6 +22,11 @@ Tags:
 | Ratios       | capturing the **relationship** b/w 2 or more raw data values                                                                              |
 | Mappings     | converting **continuous** features into **categorical** features <br>and reducing the number of unique values that a model <br>will have to deal with |
 
+| Data handling            | Comment |
+| ------------------------ | ------- |
+| [[Analytics Base Table]] |         |
+| [[Data Quality Report]]  |         |
+
 >**Data availability**
 >1. The key objects in the company's data model and the data available regarding them. 
 >2. The connections that exist b/w key objects in the data model. 
@@ -41,40 +46,18 @@ Tags:
 >>providing an example scenario where the descriptive features are time-dependent but the target feature is not
 >>used to determine the least expensive incentive that needs to be offered to a customer who is considering canceling a service
 
-## Analytics Base Table
-- aka **ABT**
-- the basic structure in which we capture the historical datasets
-- the columns are divided into **a set of descriptive features** (inputs) and **a single target feature** (outcome)
-- each row contains a value for each descriptive feature and the target feature and represents an **instance** about which a prediction can be made
-
-## Data Quality Report
-![[Screen Shot 2022-10-04 at 13.44.27.png|500]]
-![[Screen Shot 2022-10-04 at 13.47.57.png|500]]
-- aka **DQR**
-- most important tool of the data exploration process
-- including **tabular reports** 
-	- describing the characteristics of each feature in an ABT using standard statistical measures of **central tendency** (mean, mode, and median) and **variation** (standard deviation and percentiles)
-	- accompanied by **data visualizations** that illustrate the distribution of the values in each feature in an ABT
-- including a **histogram** ~~for each continuous feature~~
-	- if the cardinality < 10, use **bar plots** instead
-- **continuous** features: 
-	- minimum, 1st quartile, mean, median, 3rd quartile, maximum, and standard deviation, the total number of instances, the percentage of instances missing the feature, and the cardinality of each feature
-	- The shapes of histograms relate to one of the [Probability distribution](Probability#Probability distribution)
-- **categorical** features: 
-	- using descriptive statistics
-	- 2 most frequent levels for the feature (mode and 2nd mode), frequency of appearance, percentage of instances missing the feature, and the cardinality of the feature
 
 ## Data Quality Issues
-- defined as anything unusual about the data in an ABT
+- defined as anything unusual about the data in an [[Analytics Base Table|ABT]]
 - due to
-	1. **invalid data**: by errors in the process of generating an ABT
-	   solution: correct immediately and recreate the DQR
+	1. **invalid data**: by errors in the process of generating an [[Analytics Base Table|ABT]]
+	   solution: correct immediately and recreate the [[Data Quality Report|DQR]]
 	2. **valid data**: arising for a range of domain-specific reasons
 	   solution: not correcting or recording the issue in the **data quality plan** while affecting the training process
 ![[Screen Shot 2022-10-04 at 14.36.12.png|500]]
 ### Missing values
 - some instances may miss values for one or more features
-- % Miss. column in the DQR
+- % Miss. column in the [[Data Quality Report|DQR]]
 - causes are miscellaneous
 
 Classes: 
@@ -119,16 +102,16 @@ Handling:
 
 ### Irregular cardinality
 - unusual number of distinct values for a feature
-- Card. column in the DQR
+- Card. column in the [[Data Quality Report|DQR]]
 
 Identification and classes: 
 1. **cardinality=1** (all the instances bearing the same value of this feature)
-	- If not due to an ABT generation error, correct the error and regenerate the ABT. 
+	- If not due to an [[Analytics Base Table|ABT]] generation error, correct the error and regenerate the [[Analytics Base Table|ABT]]. 
 	- Else, though the feature is valid, it doesn't useful while building predictive model; so, **delete** it! 
 2. **categorical** feature incorrectly labelled as **continuous** feature
 	- If the cardinality of a continuous feature << the number of instances, $\Rightarrow$ investigate it!
 3. **irregularly high cardinalitiy** of a **categorical** feature
-	- Usually because of different labels of the same category, $\Rightarrow$ correct the error and regenerate the ABT. 
+	- Usually because of different labels of the same category, $\Rightarrow$ correct the error and regenerate the [[Analytics Base Table|ABT]]. 
 4. **high cardinality** of a **categorical** feature with **valid** data
 	- learning algorithm might struggle with such high cardinality; so, note it in the **data quality plan**
 
@@ -162,7 +145,7 @@ Handling:
    $$a_i=\begin{cases}lower&\quad\text{if }a_i<lower\\upper&\quad\text{if }a_i>upper\\a_i&\quad \text{otherwise}\end{cases}$$
 
 ## Data Visualization
-- to reduce the size of ABT while two features are strongly related
+- to reduce the size of [[Analytics Base Table|ABT]] while two features are strongly related
 ### Both continuous features
 ![[Screen Shot 2022-10-11 at 16.19.57.png|400]]
 - **scatter plot matrix** (SPLOM)
