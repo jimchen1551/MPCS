@@ -6,8 +6,16 @@ Tags:
 - 
 ---
 # Distance matric
-four criteria: 
+
+Four criteria: 
 1. Non-negativity: $metric(a, b)\geq 0$
-2. Identity: $metric(a, b)$
-3. Symmetry
-4. Triangular inequality
+2. Identity: $metric(a, b)=0\Leftrightarrow a=b$
+3. Symmetry: $metric(a, b)=metric(b, a)$
+4. Triangular inequality: $metric(a, b)\leq metric(a, c)+metric(b, c)$
+
+## Manhattan distance
+$$Manhattan(a, b)=\sum_{i=1}^m abs(a[i]-b[i])$$
+## Euclidean distance
+$$Euclidean(a, b)=\sqrt{\sum_{i=1}^m(a[i]-b[i])^2}$$
+## Minkowski distance
+$$Minkowski(a, b)=(\sum_{i=1}^m abs(a[i]-b[i])^p)^\frac{1}{p}$$
