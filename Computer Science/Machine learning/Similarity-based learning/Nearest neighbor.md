@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Nearest neighbor
+![[Screen Shot 2022-11-24 at 14.43.30.png|500]]
 - similar things belong to the same class
 - considered lazy learners
 - instances mapped to points on $R^n$
