@@ -21,6 +21,6 @@ $$M_k(q)=\arg \max_{l\in levels(t)}\sum_{i=1}^k\delta(t_i, l)$$
 
 ## Weighted k-nearest neighbor
 ![[Screen Shot 2022-11-24 at 14.50.39.png|500]]
-- using all instances instead of $k$ (Shepard's method)
+- able to use all instances instead of $k$ (Shepard's method)
 - here using **distance weighted** to deal with imbalanced dataset
 $$M_k(q)=\arg \max_{l\in levels(t)}\sum_{i=1}^k\frac{1}{dist(q, d_i)^2}\times\delta(t_i, l)$$

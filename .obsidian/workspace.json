@@ -26,30 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42a640be43604f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9115445228952c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a73b076c699bc032",
             "type": "leaf",
             "state": {
@@ -73,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning.md"
               }
             }
           },
@@ -222,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1ca976a01e32e28",
+  "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
-    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+    "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
+    "Data normalization.md",
+    "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
+    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
     "Computer Science/Machine learning.md",
     "Computer Science.md",
     "Mathematics.md",
-    "Mathematics/Statistics.md",
-    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
-    "Computer Science/Machine learning/Data preparation/Data Visualization.md",
-    "Computer Science/Machine learning/Similarity-based learning/Feature space.md"
+    "Mathematics/Statistics.md"
   ]
 }
