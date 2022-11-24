@@ -24,6 +24,8 @@ $$Mahalanobis(a, b)=\sqrt{(a-b)^T\Sigma^{-1}(a-b)}$$
 , where $\Sigma$ is the sample [[Data Preparation#Covariance]] matrix
 - similar to [[#Euclidean distance]], also squares the difference of the features
 - but rescale the difference so that all the features have **unit variance** and the effect of **covariance is removed**
+- able to be undertstood as defining an **orthogonal coordinate system** with
+  1. an origin at the instance we are ca
 ## Cosine similarity
 $$Sim_{\cos}(a, b)=\frac{a\cdot b}{|a|\cdot|b|}$$
 ## For symbolic features
