@@ -22,12 +22,13 @@ Tags:
 | Ratios       | capturing the **relationship** b/w 2 or more raw data values                                                                              |
 | Mappings     | converting **continuous** features into **categorical** features <br>and reducing the number of unique values that a model <br>will have to deal with |
 
-| Data handling            | Comment                                             |
-| ------------------------ | --------------------------------------------------- |
-| [[Analytics Base Table]] |                                                     |
-| [[Data Quality Report]]  | Tabular reports<br>Histograms                       |
-| [[Data Quality Issues]]  | [[Missing values]]<br>[[Irregular cardinality]]<br> |
-| [[Data Visualization]]   | Scatter plot matrix<br>Small multiples<br>Box plots |
+| Data handling            | Comment                                                                     |
+| ------------------------ | --------------------------------------------------------------------------- |
+| [[Analytics Base Table]] | the basic structure of the dataset<br>Descriptive feature<br>Target feature |
+| [[Data Quality Report]]  | Tabular reports<br>Histograms                                               |
+| [[Data Quality Issues]]  | [[Missing values]]<br>[[Irregular cardinality]]<br>                         |
+| [[Data Visualization]]   | Scatter plot matrix<br>Small multiples<br>Box plots                         |
+| [[Data Preparation]]     | Covariance<br>Correlation<br>Normalization<br>Binning<br>Sampling           |
 
 >**Data availability**
 >1. The key objects in the company's data model and the data available regarding them. 

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c4f5ef3b9c658ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Outliers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "923c50bef1c1b49c",
@@ -45,30 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4a7e43d3cd01619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "791dcaaa1e19ebc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Distance matric.md"
               }
             }
           },
@@ -259,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "791dcaaa1e19ebc7",
+  "active": "7e3e1595a362e52b",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Data.md",
+    "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Data preparation/Data Visualization.md",
+    "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
     "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
+    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
+    "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning/Data preparation/Analytics Base Table.md",
     "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Irregular cardinality.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Outliers.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues.md",
-    "Computer Science/Machine learning/Data preparation/Data Visualization.md",
-    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Missing values.md"
+    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Irregular cardinality.md"
   ]
 }
