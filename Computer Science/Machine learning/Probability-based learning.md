@@ -6,8 +6,15 @@ Tags:
 - 
 ---
 # Probability-based learning
-|||
-## Bayes' theorem
-## Bayesian prediction
-## Conditional independence and factorization
-## Naive Bayes model
+| Fundamental concepts         | Content |
+| ---------------------------- | ------- |
+| [[Bayes's theorem]]          |         |
+| [[Bayesian prediction]]      |         |
+| [[Smoothing]]                |         |
+| [[Density function]]         |         |
+| [[Data Preparation#Binning]] |         |
+| [[Bayesian network]]         |         |
+
+| Algorithms            | Comment |
+| --------------------- | ------- |
+| [[Naive Bayes model]] |         |

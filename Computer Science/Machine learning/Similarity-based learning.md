@@ -6,7 +6,7 @@ Tags:
 - 
 ---
 # Similarity-based learning
-| Fundamental concepts  | Comment                                                                                                                                                                                 |
+| Fundamental concepts  | Content                                                                                                                                                                                 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Feature space]]     |                                                                                                                                                                                         |
 | [[Distance matric]]   | Manhattan distance<br>Euclidean distance<br>Minkowski distance<br>Mahalanobis distance<br>Cosine similarity<br>Russel-Rao similarity<br>Sokal-Michener similarity<br>Jaccard similarity |
