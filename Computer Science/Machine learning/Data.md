@@ -26,6 +26,7 @@ Tags:
 | ------------------------ | ------- |
 | [[Analytics Base Table]] |         |
 | [[Data Quality Report]]  |         |
+| [[Data Quality Issues]]  | [[Missing values]]<br>[[Irregular cardinality]]<br>        |
 
 >**Data availability**
 >1. The key objects in the company's data model and the data available regarding them. 
@@ -46,103 +47,6 @@ Tags:
 >>providing an example scenario where the descriptive features are time-dependent but the target feature is not
 >>used to determine the least expensive incentive that needs to be offered to a customer who is considering canceling a service
 
-
-## Data Quality Issues
-- defined as anything unusual about the data in an [[Analytics Base Table|ABT]]
-- due to
-	1. **invalid data**: by errors in the process of generating an [[Analytics Base Table|ABT]]
-	   solution: correct immediately and recreate the [[Data Quality Report|DQR]]
-	2. **valid data**: arising for a range of domain-specific reasons
-	   solution: not correcting or recording the issue in the **data quality plan** while affecting the training process
-![[Screen Shot 2022-10-04 at 14.36.12.png|500]]
-### Missing values
-- some instances may miss values for one or more features
-- % Miss. column in the [[Data Quality Report|DQR]]
-- causes are miscellaneous
-
-Classes: 
-1. Missing completely at random (MCAR)
-	The distribution of an example with a missing value for a certain attribute is **independent** of the observed data and the missing value.
-2. Missing at random (MAR)
-	The distribution of an example with a missing value for a certain attribute **depends on the observed data** but **not depends on the value which is missing**.
-3. Missing not at random (MNAR)
-	The distribution of an example with a missing value for a certain attribute **depends on the value which is missing**.
-
-Handling: 
-1. General approach: 
-   if % Miss. > 60%, **remove** the feature. 
-2. Alternative approach: 
-   deriving a new **missing indicator feature** (aka dummy variable) from them (e.g., 0=absense and 1=presence) and discarding the original feature
-3. **Complete case analysis**: 
-   aka listwise deletion
-   deleting instances missing one or more feature values (usually only for target feature)
-4. **Imputation**: 
-   if % Miss. > 30% (reluctant threshold) or 50% (strongly not recommended threshold), **replacing** missing feature values with a plausible value based on the feature values present 
-	- negatively biasing the relationships b/w a descriptive feature and a target feature $\because$ changing the underlying data and causing the variation with a feature to be underestimated
-	- **Single imputation**: commonly replaced by a measure of the central tendency, e.g., 
-		continuous: median or mean; 
-		categorical:  most common mode
-	- **Multiple imputation**: imputing the missing data several times to produce several different complete-data models and combining these models into and overall one, e.g., MCMC
-	- Methods: 
-	  mean value imputation, 
-	  most frequent value imputation, 
-	  **PCA** (principal component analysis, by linear combination of PC), 
-	  **MICE** (multiple imputation by chained equations), 
-	  **kNN** (k-neariest neighbors, by mean of neighbors), 
-	  **EM** (expectation-maximization), 
-	  **MissForest** (generating a forest of decision tree and using trees to predict), 
-	  **GAIN** (generative adversarial imputation networks)
-
->**Markov chain Monte Carlo** (MCMC): 
->1. initializing parameter values
->2. making regression of variable with missing values on other variables
->3. predicting missing values and adding some random errors to mitigate bias in covariance
->4. recalculating means, covariance matrix from complete-data table
->5. repeating 2~4 times until converge
-
-### Irregular cardinality
-- unusual number of distinct values for a feature
-- Card. column in the [[Data Quality Report|DQR]]
-
-Identification and classes: 
-1. **cardinality=1** (all the instances bearing the same value of this feature)
-	- If not due to an [[Analytics Base Table|ABT]] generation error, correct the error and regenerate the [[Analytics Base Table|ABT]]. 
-	- Else, though the feature is valid, it doesn't useful while building predictive model; so, **delete** it! 
-2. **categorical** feature incorrectly labelled as **continuous** feature
-	- If the cardinality of a continuous feature << the number of instances, $\Rightarrow$ investigate it!
-3. **irregularly high cardinalitiy** of a **categorical** feature
-	- Usually because of different labels of the same category, $\Rightarrow$ correct the error and regenerate the [[Analytics Base Table|ABT]]. 
-4. **high cardinality** of a **categorical** feature with **valid** data
-	- learning algorithm might struggle with such high cardinality; so, note it in the **data quality plan**
-
-### Outliers
-- instances with values far away from the central tendency
-
-Classes: 
-1. **invalid outliers**
-	- inclusion of a sample through error (causes are misillaneous, e.g., ~~fat finger lol~~)
-	- often refered to as noise in the data
-2. **valid outliers**
-	- correct values just far away from the rest of instances
-
-Identification: 
-1. examining the **minimum** and **maximum** values for each feature: 
-	- usually find out the invalid outliers
-2. comparing the gaps b/w the **median, minimum, maximum, 1st quartile, 3rd quartile**
-	- Maximum - 3rd quartile >> 3rd quartile - median, $\Rightarrow$ maximum is unusual and likely to be the outlier. 
-	- 1st quartile - minimum >> median - 1st quartile, $\Rightarrow$ minimum is unusual and likely to be the outlier. 
-	- usually find out the valid outliners, $\Rightarrow$ note it in the **data quality plan**
-3. **Exponential** or **skewed** distribution in histogram
-
-Handling: 
-1. **Clamp transformation**: 
-	- The upper and lower thresholds can be set manually based on domain knowledge or caluculated from data. 
-	- Commonly,
-      $lower=1^{st}\text{quartile}-1.5\times \text{inter-quartile range}$; $upper=3^{rd}\text{quartile}+1.5\times \text{inter-quartile range}$
-      or 
-      $lower=mean-2\times SD$; 
-      $upper=mean+2\times SD$
-   $$a_i=\begin{cases}lower&\quad\text{if }a_i<lower\\upper&\quad\text{if }a_i>upper\\a_i&\quad \text{otherwise}\end{cases}$$
 
 ## Data Visualization
 - to reduce the size of [[Analytics Base Table|ABT]] while two features are strongly related
