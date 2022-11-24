@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4f5ef3b9c658ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Outliers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "923c50bef1c1b49c",
@@ -50,48 +63,12 @@
             }
           },
           {
-            "id": "0cabbc5300af26d6",
+            "id": "791dcaaa1e19ebc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7701f104a4aeedab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Irregular cardinality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3c4e907f9fa8cdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b8f3f5a018371f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Analytics Base Table.md",
+                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
+                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
+                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Data preparation/Data Quality Report.md"
+                "file": "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md"
               }
             }
           },
@@ -282,17 +259,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3c4e907f9fa8cdc",
+  "active": "791dcaaa1e19ebc7",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Data.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Irregular cardinality.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Missing values.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
+    "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
     "Computer Science/Machine learning/Data preparation/Analytics Base Table.md",
+    "Computer Science/Machine learning/Data preparation/Data Quality Report.md",
+    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Irregular cardinality.md",
+    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Outliers.md",
+    "Computer Science/Machine learning/Data preparation/Data Quality Issues.md",
+    "Computer Science/Machine learning/Data preparation/Data Visualization.md",
     "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
-    "Computer Science/Machine learning/Similarity-based learning.md",
-    "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
-    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md"
+    "Computer Science/Machine learning/Data preparation/Data Quality Issues/Missing values.md"
   ]
 }

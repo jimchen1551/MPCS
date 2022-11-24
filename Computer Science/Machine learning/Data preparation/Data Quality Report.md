@@ -8,7 +8,7 @@ Tags:
 # Data Quality Report
 ![[Screen Shot 2022-10-04 at 13.44.27.png|500]]
 ![[Screen Shot 2022-10-04 at 13.47.57.png|500]]
-- most important tool of the data exploration process
+- a most important tool of the data exploration process
 - including **tabular reports** 
 	- describing the characteristics of each feature in an [[Analytics Base Table|ABT]] using standard statistical measures of **central tendency** (mean, mode, and median) and **variation** (standard deviation and percentiles)
 	- accompanied by **data visualizations** that illustrate the distribution of the values in each feature in an [[Analytics Base Table|ABT]]
