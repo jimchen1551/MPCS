@@ -6,3 +6,5 @@ Tags:
 - 
 ---
 # Feature selection
+- the number of descriptive features in a dataset increases → the predictive power of an induced model decreases
+- 
