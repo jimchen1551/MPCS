@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md"
               }
             }
           },
@@ -210,8 +210,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448f05f2a6d4c38d",
+  "active": "a73b076c699bc032",
   "lastOpenFiles": [
+    "Mathematics.md",
+    "Mathematics/Statistics.md",
     "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
@@ -219,8 +221,6 @@
     "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
     "Computer Science/Machine learning/Similarity-based learning/Data normalization.md",
     "Computer Science/Machine learning/Data preparation/Data Quality Issues/Data Preparation.md",
-    "Computer Science/Machine learning/Data.md",
-    "Computer Science/Machine learning/Data preparation/Analytics Base Table.md",
-    "Computer Science/Machine learning/Data preparation/Data Quality Report.md"
+    "Computer Science/Machine learning/Data.md"
   ]
 }

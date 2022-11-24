@@ -19,5 +19,6 @@ Tags:
 | [[Linear algebra]]        | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Numerical analysis]]    | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Probability]]           | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
+| [[Statistics]]            | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Signals and systems]]   | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
 | [[Mathematical modeling]] | <input type="checkbox" /> | <input type="checkbox" /> | <input type="checkbox" /> |
