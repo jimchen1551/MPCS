@@ -40,9 +40,18 @@ $$density=k^{\frac{1}{m}}$$
 - the trade-off b/w the number of descriptive features and the [[#Sampling density]] is known a the **curse of dimensionality**
 
 ## Rank and prune
-- **filters**: measurements of predictiveness of each feature
+- **filters**: measurements of the predictiveness of each feature
   e.g., [[Information gain]]
-1. filtering apparently irrelevant features before learning
+1. filtering irrelevant features before learning
    (independent of learning algorithms)
 2. pruning outside the top $X\%$ of the features
 
+## Wrapper
+- evaluating a feature subset in terms of the potential performance of the models
+- performing an evaluation experiment for each candidate feature subset (embedded w/i the learning algorithms)
+- more computationally expensive than filters
+
+## Forward sequential selection
+- star
+
+## Backward sequential selection
