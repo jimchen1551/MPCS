@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md"
               }
             }
           },
@@ -184,11 +184,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "448f05f2a6d4c38d",
+  "active": "8750886d37d5a79d",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
     "Computer Science/Machine learning/Probability-based learning.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
