@@ -7,9 +7,11 @@ Tags:
 ---
 # Data structures
 
-| Data structures         | Comment |
-|:----------------------- |:------- |
-| [[Stack]]               |         |
-| [[Priority queue]]      |         |
-| [[Heap]]                |         |
-| [[Hash tables]]         |         |
+| Data structures    | Comment |
+|:------------------ |:------- |
+| [[Stack]]          |         |
+| [[Queue]]          |         |
+| [[Priority queue]] |         |
+| [[Linked list]]   |         |
+| [[Heap]]           |         |
+| [[Hash table]]     |         |

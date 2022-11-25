@@ -13,7 +13,7 @@ Tags:
 ## Ready queue
 - set of all [[process]]es in the [[main memory]]
 - ready and waiting to execute
-- stored as a [[Linked lists]]
+- stored as a [[Linked list]]
 	- a **ready-queue header** contains pointers to the first [[Process control block]]
 	- each [[Process control block]] includes a **pointer field** pointing to the next
 ## Wait queue

@@ -5,4 +5,4 @@ Types:
 Tags: 
 - 
 ---
-# Hash tables
+# Hash table
