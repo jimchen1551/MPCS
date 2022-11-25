@@ -22,5 +22,5 @@ Joint probability:
 $$P(q[1],\dots, q[m])=P(q[1])P(q[2]|q[1])\dots P(q[m]|q[m-1]\dots q[1])$$
 Conditional probability: 
 $$P(q[1],\dots, q[m]|t=l)=P(q[1]|t=l)\dots P(q[m]|q[m-1]\dots q[1],t=l)$$
-Posterior probability:
+Posterior probability (prediction):
 $$P(t=l|q[1],\dots, q[m])$$
