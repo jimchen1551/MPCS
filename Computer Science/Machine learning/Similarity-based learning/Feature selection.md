@@ -63,4 +63,4 @@ $$density=k^{\frac{1}{m}}$$
 - more accurate
 1. starting with a feature subset including all the possible features in a dataset
 2. using any approach described above and removing an extra feature in a move
-- terminating when no accessible feature subset is better than the current subset
+3. terminating when no accessible feature subset is better than the current subset

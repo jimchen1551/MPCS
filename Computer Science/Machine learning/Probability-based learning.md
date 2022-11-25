@@ -6,15 +6,12 @@ Tags:
 - 
 ---
 # Probability-based learning
-| Fundamental concepts         | Content |
-| ---------------------------- | ------- |
-| [[Bayes's theorem]]          |         |
-| [[Bayesian prediction]]      |         |
-| [[Smoothing]]                |         |
-| [[Density function]]         |         |
-| [[Data Preparation#Binning]] |         |
-| [[Bayesian network]]         |         |
+| Fundamental concepts    | Content |
+| ----------------------- | ------- |
+| [[Bayes' theorem]]      |         |
+| [[Bayesian prediction]] |         |
 
 | Algorithms            | Comment |
 | --------------------- | ------- |
 | [[Naive Bayes model]] |         |
+| [[Bayesian network]]  |         |
