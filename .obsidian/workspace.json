@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md"
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md"
               }
             }
           },
@@ -196,12 +197,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "545cd1c519d0fc53",
+  "active": "e7d4f715d5abb295",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
     "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
     "Computer Science/Machine learning/Probability-based learning.md",
     "Mathematics/Probability.md",
-    "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
     "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Mathematics/Probability/Probability density function.md",
