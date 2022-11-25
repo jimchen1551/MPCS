@@ -52,6 +52,15 @@ $$density=k^{\frac{1}{m}}$$
 - more computationally expensive than filters
 
 ## Forward sequential selection
-- star
+- used when we expect lots of irrelevant features in the dataset
+- faster
+1. starting in a state with no features
+2. using any approach described above and moving the search process to a new feature subset
+3. teminating when no accessible feature subset is better than the current subset
 
 ## Backward sequential selection
+- taking advantage that allowing the inclusion of sets of interacting featrues
+- more accurate
+1. starting with a feature subset including all the possible features in a dataset
+2. using any approach described above and removing an extra feature in a move
+- terminating when no accessible feature subset is better than the current subset

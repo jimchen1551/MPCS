@@ -10,7 +10,7 @@ Tags:
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Feature space]]     |                                                                                                                                                                                         |
 | [[Distance matric]]   | Manhattan distance<br>Euclidean distance<br>Minkowski distance<br>Mahalanobis distance<br>Cosine similarity<br>Russel-Rao similarity<br>Sokal-Michener similarity<br>Jaccard similarity |
-| [[Feature selection]] | Sampling density<br>Curse of dimensionality<br>Rank and prune<br>Wrapper                                                                                                                |
+| [[Feature selection]] | Sampling density<br>Curse of dimensionality<br>Rank and prune<br>Wrapper<br>Forward sequential selection<br>Backward sequential selection                                               |
 
 | Algorithms             | Comment |
 | ---------------------- | ------- |
