@@ -31,8 +31,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8e1f3c8b5485dc71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd68b3576ad69ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
+                "file": "Computer Science/Machine learning/Probability-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
+                "file": "Computer Science/Machine learning/Probability-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md"
+                "file": "Computer Science/Machine learning/Probability-based learning.md"
               }
             }
           },
@@ -179,17 +196,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "00c70adaa03f2ecc",
+  "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
+    "Mathematics/Probability.md",
     "Computer Science/Machine learning/Probability-based learning.md",
+    "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
+    "Computer Science/Machine learning/Data preparation/Data Visualization.md",
+    "Computer Science/Machine learning/Data.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
     "Computer Science.md",
-    "Computer Science/Machine learning/Data.md",
-    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
-    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
-    "Data normalization.md",
-    "Computer Science/Machine learning/Similarity-based learning/Data normalization.md"
+    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md"
   ]
 }

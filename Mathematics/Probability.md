@@ -47,7 +47,7 @@ $$P(X|Y)=\frac{P(X\cap Y)}{P(Y)}$$
    $P(A)=\Sigma_{i=1}^nP(A|C_i)P(C_i)$
    $\forall \text{ }C_i\text{ and }C_j\text{ are mutually exclusive where i and j }\in [1, n] \text{ and } i\neq j$
    $\text{and }C_1\cup C_2\cup\dots\cup C_n=S$
-5. Bayes' rule
+5. [[Bayes' theorem]]
    $\displaystyle P(C_i|A)=\frac{P(A|C_i)P(C_i)}{\Sigma_{j=1}^nP(A|C_j)P(C_j)}$
 
 ### Independence

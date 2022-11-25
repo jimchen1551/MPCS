@@ -6,10 +6,14 @@ Tags:
 - 
 ---
 # Probability-based learning
-| Fundamental concepts    | Content |
-| ----------------------- | ------- |
-| [[Bayes' theorem]]      |         |
-| [[Bayesian prediction]] |         |
+| Fundamental concepts                 | Content                                  |
+| ------------------------------------ | ---------------------------------------- |
+| [[Probability]]                      |                                          |
+| [[Probability mass function]]        | PMF, <br>for discrete random variables   |
+| [[Probability density function]]     | PDF, <br>for continuous random variables |
+| [[Cumulative distribution function]] |                                          |
+| [[Bayes' theorem]]                   |                                          |
+| [[Bayesian prediction]]              |                                          |
 
 | Algorithms            | Comment |
 | --------------------- | ------- |
