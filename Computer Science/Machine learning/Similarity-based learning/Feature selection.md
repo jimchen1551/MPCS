@@ -6,7 +6,8 @@ Tags:
 - 
 ---
 # Feature selection
-- considered a **search problem**
+![[Screen Shot 2022-11-25 at 10.47.11.png]]
+- considered a **greedy local search problem**
   1. Search space: all possible feature subsets
   2. State: a legal feature subset
   3. Operator: feature subset generator
@@ -39,3 +40,9 @@ $$density=k^{\frac{1}{m}}$$
 - the trade-off b/w the number of descriptive features and the [[#Sampling density]] is known a the **curse of dimensionality**
 
 ## Rank and prune
+- **filters**: measurements of predictiveness of each feature
+  e.g., [[Information gain]]
+1. filtering apparently irrelevant features before learning
+   (independent of learning algorithms)
+2. pruning outside the top $X\%$ of the features
+
