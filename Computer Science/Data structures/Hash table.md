@@ -34,9 +34,15 @@ CHAIN-HASH-INSERT(T, x)
 LIST-PREPEND(T[h(x.key), x])
 
 CHAIN-HASH-DELETE(T, x)
-T[x.key] = NIL
+LIST-DELETE(T[h(x.key)], x)
 ```
 - putting all the elements hashing to the same slot in a [[Linked list]]
+### Analysis
+1. Searching: Proportional to the length of the list
+2. Insertion: $T(n)=O(1)$
+3. Deletion: $T(n)=O(1)$ if the lists are doubly linked
+- **Load factor** $\alpha$ for $T$ as $n/m$: the average number of elements stored in a chain
+- [[Worst case]]: all $n$ keys hash to the same slot
 
 ## Direct addressing
 ![[Screen Shot 2022-11-25 at 14.52.53.png|500]]
