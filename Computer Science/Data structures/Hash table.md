@@ -25,6 +25,18 @@ $$h:U\rightarrow {0, 1, \dots, m-1}$$
 - solution: choosing suitable hash function which appear to be random
 
 ## Chaining
+![[Screen Shot 2022-11-25 at 15.16.22.png|500]]
+```Pseudocode
+CHAIN-HASH-SEARCH(T, k)
+return LIST-SEARCH(T[h(k)], k)
+
+CHAIN-HASH-INSERT(T, x)
+LIST-PREPEND(T[h(x.key), x])
+
+CHAIN-HASH-DELETE(T, x)
+T[x.key] = NIL
+```
+- putting all the elements hashing to the same slot in a [[Linked list]]
 
 ## Direct addressing
 ![[Screen Shot 2022-11-25 at 14.52.53.png|500]]
