@@ -20,8 +20,9 @@ $$\mathbf{M}(q)=\arg\max_{l\in levels(t)}P(q[1],\dots,q[m]|t=l)$$
 - aka **ML** prediction
 - returning the target level with the highest conditional probability given the state of the descriptive features in the query
 ## Minimum description length
-$$\mathbf{M}(q)=\arg\min_{l\in levels(t)}L_{C1}(t=l)+L_{C2}(q[1],\dots,q[m]|t=l)$$
+$$h_{MDL}=\arg\min_{h\in H}L_{C1}(h)+L_{C2}(D|h)$$
 , where $L_C(x)$ is the description length of $x$ under coding $C$; 
-$L_{C1}(l)=$ number 
+$L_{C1}(h)=$ # bits to describe a [[Decision tree]] $h$; 
+$L_{C2}(D|h)=$ # bits to describe training data $D$ given $h$; 
 - aka **MDL** principle
 - preferring the simplest hypothesis

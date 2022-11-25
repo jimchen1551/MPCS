@@ -13,37 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b5022472c5457efa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "545cd1c519d0fc53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7d4f715d5abb295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
+                "file": "Computer Science/Data structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
+                "file": "Computer Science/Data structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
+                "file": "Computer Science/Data structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md"
+                "file": "Computer Science/Data structures.md"
               }
             }
           },
@@ -196,17 +166,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "545cd1c519d0fc53",
+  "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
     "Computer Science/Machine learning/Probability-based learning.md",
+    "Mathematics/Probability.md",
+    "Computer Science/Machine learning/Probability-based learning/Factorization.md",
+    "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
     "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
     "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
-    "Mathematics/Probability.md",
-    "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Mathematics/Probability/Probability density function.md",
-    "Mathematics/Probability/Probability mass function.md",
-    "Mathematics/Probability/Cumulative distribution function.md",
-    "Computer Science/Machine learning/Data preparation/Data Visualization.md"
+    "Mathematics/Probability/Probability mass function.md"
   ]
 }
