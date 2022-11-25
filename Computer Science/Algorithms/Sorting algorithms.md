@@ -15,6 +15,7 @@ Output: $\langle a_1',a_2',\dots, a_n'\rangle$ s.t. $a_1'\leq a_2'\leq\dots\leq 
 | [[Merge sort]]     | [[Divide and conquer]]       | $\Theta(n\lg n)$        |
 | [[Heap sort]]      | [[Heap]]                     | $O(n\lg n)$             |
 | [[Quick sort]]     | [[Divide and conquer]]       | Avg: $\Theta(n\lg n)$   |
+| [[Selection sort]] | [[Greedy algorithms]]        |                         |
 | [[Counting sort]]  | For integers                 | $\Theta(n)$             |
 | [[Radix sort]]     | By digit                     | $\Theta(d(n+k))$        |
 | [[Bucket sort]]    | For [[Uniform distribution]] | Exp: $\Theta(n)$        |
