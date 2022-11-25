@@ -24,3 +24,9 @@ $$M_k(q)=\arg \max_{l\in levels(t)}\sum_{i=1}^k\delta(t_i, l)$$
 - able to use all instances instead of $k$ (Shepard's method)
 - here using **distance weighted** to deal with imbalanced dataset
 $$M_k(q)=\arg \max_{l\in levels(t)}\sum_{i=1}^k\frac{1}{dist(q, d_i)^2}\times\delta(t_i, l)$$
+
+## For continuous target features
+for [[k-nearest neighbor|k-NN]] returning: 
+$$M_k(q)=\frac{1}{k}\sum_{i=1}^kt_i$$
+for weighted [[k-nearest neighbor|k-NN]] returning: 
+$$M_k(q)=\frac{\sum_{i=1}^k\frac{1}{dist(q, d_i)^2}\times t_i}{\sum_{i=1}^k\frac{1}{dist(q, d_i)^2}}$$
