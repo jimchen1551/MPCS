@@ -12,11 +12,17 @@ Tags:
   2. Assigning a query a target value interpolated from the target values of individual training instances that are **near** the query in the feature space
 
 ## Sampling density
-- the average density of training instances across the [[Feature space]]
+$$density=k^{\frac{1}{m}}$$
+, where $k$ is the **number of instances** inside the hypercube
+, and $m$ is the **number of dimensions** of the feature space
+
+- the **average density of training instances** across the [[Feature space]]
 - if too low, large regions of the feature space don't contain any training instances
    → not making sense to associate such region with any cluster of training instances nor to look for training instances that are nearby
 
 ## Curse of dimensionality
+- the dimensionality of [[Feature space]] increases, the [[#Sampling density]] decreases
+- the trade-off b/w the number of descriptive features and the [[#Sampling density]] in the 
 If the feature set size is pretty large, there may exist 
 1. redundant features
 2. irrelevant features
