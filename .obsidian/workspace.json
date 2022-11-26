@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Direct addressing.md",
+                "file": "Computer Science/Data structures/Hash table/Hash function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Direct addressing.md",
+                "file": "Computer Science/Data structures/Hash table/Hash function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Direct addressing.md"
+                "file": "Computer Science/Data structures/Hash table/Hash function.md"
               }
             }
           },
@@ -234,14 +233,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "977b9afa1696822e",
+  "active": "2934c4ad433a889f",
   "lastOpenFiles": [
+    "Computer Science/Data structures/Hash table/Direct addressing.md",
+    "Computer Science/Data structures/Hash table/Hash function.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures/Hash table/Chaining.md",
     "Computer Science/Data structures/Hash table/Collision.md",
-    "Computer Science/Data structures/Hash table/Hash function.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
-    "Computer Science/Data structures/Hash table/Direct addressing.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms.md",
