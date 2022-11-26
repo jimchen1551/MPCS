@@ -22,6 +22,7 @@ Tags:
 - Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brian Mac Namee, and Aoife D'Arcy
 - Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow by Aurelien Geron
 - Foundations of Machine Learning by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
+- Pattern Recognition and Machine Learning by Christopher M. Bishop
 
 ## NCTU
 Homework: 40%
