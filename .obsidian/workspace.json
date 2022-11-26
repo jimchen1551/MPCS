@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5956db6105772629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
+                "file": "Computer Science/Machine learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,52 +22,16 @@
         ]
       },
       {
-        "id": "ded52b2798686ec1",
+        "id": "949ac842a288d8bf",
         "type": "tabs",
         "children": [
           {
-            "id": "2934c4ad433a889f",
+            "id": "de284f92ff63fdbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "498f66a611b31509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Hash table/Collision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb7dc4583662344c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Hash table/Chaining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "977b9afa1696822e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Hash table/Direct addressing.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Factorization.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Factorization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md"
+                "file": "Computer Science/Machine learning/Probability-based learning/Factorization.md"
               }
             }
           },
@@ -233,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2934c4ad433a889f",
+  "active": "de284f92ff63fdbd",
   "lastOpenFiles": [
-    "Computer Science/Data structures/Hash table/Direct addressing.md",
-    "Computer Science/Data structures/Hash table/Hash function.md",
+    "Computer Science/Machine learning.md",
     "Computer Science/Data structures/Hash table.md",
+    "Computer Science/Data structures/Hash table/Direct addressing.md",
     "Computer Science/Data structures/Hash table/Chaining.md",
     "Computer Science/Data structures/Hash table/Collision.md",
+    "Computer Science/Data structures/Hash table/Hash function.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Data structures/Linked list.md"
+    "Computer Science/Algorithms.md"
   ]
 }
