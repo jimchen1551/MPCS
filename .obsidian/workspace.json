@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0613168281b01fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md",
+                "file": "Computer Science/Data structures/Hash table/Hash function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md",
+                "file": "Computer Science/Data structures/Hash table/Hash function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md"
+                "file": "Computer Science/Data structures/Hash table/Hash function.md"
               }
             }
           },
@@ -166,17 +179,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "26f808f36f1ac8f0",
+  "active": "0613168281b01fad",
   "lastOpenFiles": [
+    "Computer Science/Data structures/Hash table.md",
+    "Computer Science/Data structures/Hash table/Hash function.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms.md",
-    "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures/Linked list.md",
     "Computer Science/Data structures/Queue.md",
     "Computer Science/Computer organization/ISA/Procedure/Stack.md",
     "Computer Science/Machine learning/Probability-based learning.md",
-    "Mathematics/Probability.md",
-    "Computer Science/Machine learning/Probability-based learning/Factorization.md"
+    "Mathematics/Probability.md"
   ]
 }

@@ -17,6 +17,10 @@ $$h:U\rightarrow {0, 1, \dots, m-1}$$
 - an element with key $k$ is stored in slot $h(k)$
 - $h$ maps $U$ of keys into the slots of $T[0:m-1]$
 - to reduce the range of array indices that need to be handled
+### Static hashing
+### Random hashing
+### Cryptographic hashing
+### Design
 
 ## Collision
 ![[Screen Shot 2022-11-25 at 15.06.06.png|500]]
@@ -72,3 +76,6 @@ T[x.key] = NIL
 - if $U$ is large, storing $T$ of size $|U|$ is impractical
 
 ## Open addressing
+### Double hashing
+### Linear probing
+### Quadratic probing
