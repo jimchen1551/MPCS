@@ -41,7 +41,7 @@ LIST-DELETE(T[h(x.key)], x)
 1. Searching: Proportional to the length of the list
 2. Insertion: $T(n)=O(1)$
 3. Deletion: $T(n)=O(1)$ if the lists are doubly linked
-- **Load factor** $\alpha$ for $T$ as $n/m$: the average number of elements stored in a chain
+- [[Average case]]: **Load factor** $\alpha$ $n/m$ ; a slot containing $\alpha$ keys in average
 - [[Worst case]]: all $n$ keys hash to the same slot
 
 ## Direct addressing
