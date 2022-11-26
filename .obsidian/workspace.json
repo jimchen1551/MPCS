@@ -20,7 +20,25 @@
             }
           },
           {
-            "id": "0613168281b01fad",
+            "id": "5956db6105772629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ded52b2798686ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2934c4ad433a889f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +48,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "498f66a611b31509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Hash table/Collision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb7dc4583662344c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Hash table/Chaining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "977b9afa1696822e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Hash table/Direct addressing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "file": "Computer Science/Data structures/Hash table/Direct addressing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "file": "Computer Science/Data structures/Hash table/Direct addressing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md"
+                "file": "Computer Science/Data structures/Hash table/Direct addressing.md"
               }
             }
           },
@@ -177,19 +231,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0613168281b01fad",
+  "active": "977b9afa1696822e",
   "lastOpenFiles": [
     "Computer Science/Data structures/Hash table.md",
+    "Computer Science/Data structures/Hash table/Chaining.md",
+    "Computer Science/Data structures/Hash table/Collision.md",
     "Computer Science/Data structures/Hash table/Hash function.md",
+    "Computer Science/Data structures/Hash table/Open addressing.md",
+    "Computer Science/Data structures/Hash table/Direct addressing.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Algorithms.md",
-    "Computer Science/Data structures/Linked list.md",
-    "Computer Science/Data structures/Queue.md",
-    "Computer Science/Computer organization/ISA/Procedure/Stack.md",
-    "Computer Science/Machine learning/Probability-based learning.md",
-    "Mathematics/Probability.md"
+    "Computer Science/Data structures/Linked list.md"
   ]
 }
