@@ -38,4 +38,22 @@ e.g., If C is unknown, B depends on D. To compute $P(b|a, d)$,
 - using a **local search algorithm** to search for the network topology and CPT parameters fitting data best
 1. A seed network is given. 
 2. The network adapts iteratively by adding, removing, or reversing links, accompanied by parameter learning. 
-   - based on **MDL principle** ([[]])
+   - based on the **MDL principle** (Occam's razor, [[Bayesian prediction#Minimum description length]])
+   - often used metic: Akaike information criterion (**AIC**) and Bayesian information criterion (**BIC**)
+
+### Akaike information criterion
+$$AIC(N, D)=2\cdot\log P(D|N)-2d=2\cdot\log P(D|G,\Theta)-2d$$
+, where $N$ is Bayesian network, 
+$D$ is data, 
+$d$ is number of parameters, 
+$G$ is topology, 
+and $\Theta$ is CPT
+### Bayesian information criterion
+$$BIC(N, D)=2\cdot\log P(D|N)-d\cdot\log n=2\cdot\log P(D|G, \Theta)-d\cdot\log n$$
+, where $N$ is Bayesian network, 
+$D$ is data, 
+$d$ is number of parameters, 
+$n$ is $|D|$, 
+$G$ is topology, 
+and $\Theta$ is CPT
+- $\log P(D|G, \Theta)$ can be compted using metrics such as **Bayesian scort**

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Probability-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md"
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md"
               }
             }
           },
@@ -185,9 +185,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26f808f36f1ac8f0",
+  "active": "248aff1b2710ad1a",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Probability-based learning.md",
+    "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
     "Untitled.md",
     "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
@@ -195,7 +196,6 @@
     "Mathematics/Probability/Probability density function.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Data structures/Hash table.md",
-    "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
-    "Computer Science/Machine learning/Similarity-based learning.md"
+    "Computer Science/Machine learning/Probability-based learning/Smoothing.md"
   ]
 }
