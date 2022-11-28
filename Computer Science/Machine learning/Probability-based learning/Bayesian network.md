@@ -69,3 +69,5 @@ $$\mathbf{M}(q)=\arg\max_{l\in levels(t)}BayesianNetwork(t=l, q)$$
 - To resuce complexity of the calculations, [[Dynamic programming]] techniques (**variable elimination algorithm**) can be considered to avoid repeated computations. 
 - Alternative method: **Markov chain Monte Carlo** (**MCMC**) algorithms (**Gibbs sampling** is one of the best known)
 ### Gibbs sampling
+- initializing a Bayesian network by clamping the values of the evidence nodes and randomly assigning values to the non-evidence nodes
+- iteratively generating samples by changing the value of one of the no-evidence nodes

@@ -8,11 +8,11 @@ Tags:
 # Algorithms
 - any well-defined **computational procedure** that transforms the **input** into the **output** for solving a well-specified (spec: the relationship b/w input and output) **computational problem**
 
-| Algorithms               | Content |
-| ------------------------ | ------- |
-| [[Sorting algorithms]]   | [[Insertion sort]]<br>[[Merge sort]]<br>[[Heap sort]]<br>[[Quick sort]]<br>[[Selection sort]]<br>[[Counting]]        |
-| [[Searching algorithms]] |         |
-| [[Graph algorithms]]     |         |
+| Algorithms               | Content                                                                                                                                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sorting algorithms]]   | [[Insertion sort]]<br>[[Merge sort]]<br>[[Heap sort]]<br>[[Quick sort]]<br>[[Selection sort]]<br>[[Counting sort]]<br>[[Radix sort]]<br>[[Bucket sort]]<br>[[Randomized select]]<br>[[Select]] |
+| [[Searching algorithms]] |                                                                                                                                                                                                |
+| [[Graph algorithms]]     |                                                                                                                                                                                                |
 
 ## Typical problems
 - Shortest path problem

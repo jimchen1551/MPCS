@@ -7,10 +7,3 @@ Tags:
 ---
 # Searching algorithms
 
-| Searching              | Comment |
-| ---------------------- | ------- |
-| [[Sequential search]]  |         |
-| [[Binary search]]      |         |
-| [[Hash-based search]]  |         |
-| [[Bloom filter]]       |         |
-| [[Binary tree search]] |         |
