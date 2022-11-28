@@ -24,7 +24,13 @@ Tags:
 ![[Screen Shot 2022-11-28 at 12.35.01.png|600]]
 ![[Screen Shot 2022-11-28 at 12.35.57.png|600]]
 ![[Screen Shot 2022-11-28 at 13.57.57.png|600]]
-- no closed form solution to calculate the parameters to fit a mixture of [[Normal distribution|Gaussian distribution]] to a set of feature values, as there is for the [[Normal distribution]]s and the [[Exponential distribution]]s
-- **guided search** techniques, such as **gradient descent** algorithm, are used to fit
+1. Select which probability distribution we believe will best model the distribution of the values of the feature. 
+   - create a **density histogram** of the feature’s values and **compare the shape** of this histogram to the shapes of the standard distributions
+2. Fit the parameters of the selected distribution to the feature values in the dataset.
+   - fit the parameters, μ and σ (λ), of the [[normal distribution]] ([[exponential distribution]]) to a dataset by using the sample mean and standard deviation of the feature values in a dataset as estimates of μ and σ respectively
+   - use **guided search** techniques, such as **gradient descent** algorithm, to fit other distributions (due to no closed form solution)
+
+![[Screen Shot 2022-11-28 at 14.08.32.png|600]]
+- [[Probability density function|PDF]] is an abstraction over a density histogram
 
 ### [[Data Preparation#Binning]]
