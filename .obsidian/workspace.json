@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning.md"
               }
             }
           },
@@ -185,11 +185,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "248aff1b2710ad1a",
+  "active": "26f808f36f1ac8f0",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
     "Computer Science/Machine learning/Probability-based learning.md",
+    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+    "Untitled.md",
     "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
     "README.md",
     "Mathematics/Probability/Probability density function.md",

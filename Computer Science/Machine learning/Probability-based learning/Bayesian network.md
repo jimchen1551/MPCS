@@ -15,7 +15,7 @@ e.g., $P(a, \neg b, \neg c, d)=P(\neg b|a, \neg c)\times P(a)\times P(\neg c|d)\
    representing each feature in a domain
 2. edges: 
    encoding the influence and conditional independence relationships b/w nodes
-3. conditional probability table (CPT) for each node: 
+3. conditional probability table (**CPT**) for each node: 
    listing the probability distribution of the feature conditioned on the other features  connected by edges
 
 - using a **directed-acyclical-graph**-based representation to encode the structural relationships b/w subsets of features in a domain
@@ -32,4 +32,10 @@ e.g., If C is unknown, B depends on D. To compute $P(b|a, d)$,
 ![[Screen Shot 2022-11-28 at 14.55.50.png]]
 - the set of nodes in a graph that makes a node independent of the rest of the graph
 - the gray nodes define the Markov blanket of the black node
-- the black node is conditionally independent of the white nodes given the state of the gray nodes
+- the black node is conditionally independent of the white nodes, given the state of the gray nodes
+
+## Learning algorithm
+- using a **local search algorithm** to search for the network topology and CPT parameters fitting data best
+1. A seed network is given. 
+2. The network adapts iteratively by adding, removing, or reversing links, accompanied by parameter learning. 
+   - based on **MDL principle** ([[]])
