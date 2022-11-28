@@ -21,6 +21,9 @@ P(h, \neg f, \neg v, \neg m)&P(\neg h, \neg f, \neg v, \neg m)\\
 - the dimension of the matrix depends on the number of features and the number of values in the domains of the features
 - the sum of all elements is 1
 
+- ignoring the structural relationships b/w features
+- not tractable for any domain of reasonable complexity
+
 ## Full joint probability distribution
 - a joint probability distribution over all the features in a domain
 

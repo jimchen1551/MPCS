@@ -6,3 +6,4 @@ Tags:
 - 
 ---
 # Bayesian network
+- using a graph-based representation to encode the structural 
