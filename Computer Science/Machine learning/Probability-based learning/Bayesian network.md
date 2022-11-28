@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Bayesian network
+![[Screen Shot 2022-11-28 at 14.40.04.png]]
 1. nodes: 
    representing each feature in a domain
 2. edges: 
