@@ -63,3 +63,9 @@ and $\Theta$ is CPT
 ## Prediction
 $$\mathbf{M}(q)=\arg\max_{l\in levels(t)}BayesianNetwork(t=l, q)$$
 - if there're misssing values, use **summing out**!
+
+## Calculation
+- The calculation of a probability becomes computationally complex, particularly when we need to sum out one or more features. 
+- To resuce complexity of the calculations, [[Dynamic programming]] techniques (**variable elimination algorithm**) can be considered to avoid repeated computations. 
+- Alternative method: **Markov chain Monte Carlo** (**MCMC**) algorithms (**Gibbs sampling** is one of the best known)
+### Gibbs sampling
