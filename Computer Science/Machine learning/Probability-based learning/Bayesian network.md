@@ -27,6 +27,7 @@ e.g., If C is unknown, B depends on D. To compute $P(b|a, d)$,
 
 - more compact than full [[Joint probability distribution]]
 - not assuming all features are conditional independent like the [[Naive Bayes model]]
+- If the topological structure correctly reflects the causal relationships b/w features in a dataset, the Bayesian network is called a **causal graph**. 
 
 ## Markov blanket
 ![[Screen Shot 2022-11-28 at 14.55.50.png]]
@@ -36,6 +37,7 @@ e.g., If C is unknown, B depends on D. To compute $P(b|a, d)$,
 
 ## Learning algorithm
 - using a **local search algorithm** to search for the network topology and CPT parameters fitting data best
+- training will be easier if topology is given
 1. A seed network is given. 
 2. The network adapts iteratively by adding, removing, or reversing links, accompanied by parameter learning. 
    - based on the **MDL principle** (Occam's razor, [[Bayesian prediction#Minimum description length]])
@@ -56,4 +58,8 @@ $d$ is number of parameters,
 $n$ is $|D|$, 
 $G$ is topology, 
 and $\Theta$ is CPT
-- $\log P(D|G, \Theta)$ can be compted using metrics such as **Bayesian scort**
+- $\log P(D|G, \Theta)$ can be compted using metrics such as **Bayesian score** or the **K2 score**
+
+## Prediction
+$$\mathbf{M}(q)=\arg\max_{l\in levels(t)}BayesianNetwork(t=l, q)$$
+- if there're misssing values, use summing out!
