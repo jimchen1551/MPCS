@@ -11,4 +11,3 @@ $$F_X(x)=\int_{-\infty}^xf_X(u)du$$
 $$P(a\leq X\leq b)=\int_a^bf_X(x)dx$$
 $$\int_{-\infty}^\infty f_X(x)dx=1$$
 $$f_X(x)\geq0$$
-- representing the contino

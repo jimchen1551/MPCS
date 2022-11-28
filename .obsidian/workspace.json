@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a1a4f7d73b7c18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Probability/Probability density function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "949ac842a288d8bf",
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Probability/Probability density function.md",
+                "file": "Computer Science/Machine learning/Probability-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Probability/Probability density function.md",
+                "file": "Computer Science/Machine learning/Probability-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Probability/Probability density function.md"
+                "file": "Computer Science/Machine learning/Probability-based learning.md"
               }
             }
           },
@@ -210,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a1a4f7d73b7c18d",
+  "active": "26f808f36f1ac8f0",
   "lastOpenFiles": [
+    "README.md",
     "Computer Science/Machine learning/Probability-based learning.md",
+    "Mathematics/Probability/Probability density function.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Information-based learning/Model ensembles.md",
-    "Computer Science/Machine learning/Information-based learning/Tree pruning.md",
-    "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
-    "Computer Science/Machine learning/Probability-based learning/Factorization.md"
+    "Computer Science/Machine learning/Information-based learning/Tree pruning.md"
   ]
 }
