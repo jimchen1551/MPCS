@@ -33,6 +33,7 @@ Tags:
 ![[Screen Shot 2022-11-28 at 14.08.32.png|600]]
 - [[Probability density function|PDF]] is an abstraction over a density histogram; therefor, to represent probabilities we need to calculate **area under the curve of [[Probability density function|PDF]]**
 - In a [[Naive Bayes model]], we only need to calculate the relative likelihood of a continuous feature taking a value given different levels of a target feature
+
 ### [[Data Preparation#Binning]]
 - binning to convert a continuous feature into a categorical feature
 - used if it's hardd to tell the distribution from the shape of histogram
