@@ -21,7 +21,9 @@ e.g., $P(a, \neg b, \neg c, d)=P(\neg b|a, \neg c)\times P(a)\times P(\neg c|d)\
 - using a **directed-acyclical-graph**-based representation to encode the structural relationships b/w subsets of features in a domain
 - offering a useful compromise b/w model compactness and predictive accuracy
 - Computing a conditional probability for a node becomes more complex if the value of one or more of the parent nodes is unknown. → use **summing out** in [[Joint probability distribution]]
-e.g., if C is unknown
+e.g., If C is unknown, B depends on D. To compute $P(b|a, d)$, 
+1. $P(c|d)=0.2$ and $P(\neg c|d)=0.8$
+2. $$P(b|a, C)=\sum_iP(b|a, C_i)=\sum_i\frac{P(b, a, C_i)}{P(a, C_i)}=\frac{P(b|a, c)\cdot P(a)\cdot P(c|d)+P(b|a, \neg c)\cdot P(a)\cdot P(\neg c|d)}{P(a)\cdot P(c|d)+P(a)\cdot P(\neg c|d)}$$
 
 - more compact than full [[Joint probability distribution]]
 - not assuming all features are conditional independent like the [[Naive Bayes model]]
