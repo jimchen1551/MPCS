@@ -21,5 +21,7 @@ Tags:
 
 ## For continuous features
 ### [[Probability density function]]
+![[Screen Shot 2022-11-28 at 12.35.01.png|600]]
+![[Screen Shot 2022-11-28 at 12.35.57.png|600]]
 
 ### [[Data Preparation#Binning]]
