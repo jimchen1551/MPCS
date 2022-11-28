@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning.md"
+                "file": "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md"
               }
             }
           },
@@ -197,10 +197,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26f808f36f1ac8f0",
+  "active": "60f37b03b836e7ad",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
     "Computer Science/Machine learning/Probability-based learning.md",
+    "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Probability-based learning/Factorization.md",
     "Mathematics/Probability/Probability mass function.md",

@@ -23,4 +23,4 @@ Tags:
 
 ## Zero probability problem
 - replacing zero with an infinitesimal number $\eta$ (quick but dirty fix)
-- adding pseudocount or using $m$-estimate/Laplace smoothing
+- adding pseudocount ($m$-estimate or Laplace smoothing)
