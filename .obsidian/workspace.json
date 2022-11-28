@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b0a9834b6b41c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Error-based learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "949ac842a288d8bf",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md"
+                "file": "Computer Science/Machine learning/Error-based learning.md"
               }
             }
           },
@@ -185,11 +198,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "248aff1b2710ad1a",
+  "active": "3b0a9834b6b41c12",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
     "Computer Science/Machine learning/Probability-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
-    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
     "Untitled.md",
     "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
     "README.md",

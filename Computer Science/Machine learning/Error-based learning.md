@@ -6,7 +6,10 @@ Tags:
 - 
 ---
 # Error-based learning
-## Simple linear regression
-## Measuring error
-## Error surfaces
-## Multivariable linear regression
+| Fundamental concepts | Content |
+| -------------------- | ------- |
+|                      |         |
+
+| Algorithms | Comment |
+| ---------- | ------- |
+|            |         |

@@ -35,7 +35,7 @@ e.g., If C is unknown, B depends on D. To compute $P(b|a, d)$,
 - the gray nodes define the Markov blanket of the black node
 - the black node is conditionally independent of the white nodes, given the state of the gray nodes
 
-## Learning algorithm
+## Learning
 - using a **local search algorithm** to search for the network topology and CPT parameters fitting data best
 - training will be easier if topology is given
 1. A seed network is given. 
@@ -62,4 +62,4 @@ and $\Theta$ is CPT
 
 ## Prediction
 $$\mathbf{M}(q)=\arg\max_{l\in levels(t)}BayesianNetwork(t=l, q)$$
-- if there're misssing values, use summing out!
+- if there're misssing values, use **summing out**!
