@@ -21,3 +21,7 @@ Tags:
 | --------------------- | ------- |
 | [[Naive Bayes model]] |         |
 | [[Bayesian network]]  |         |
+
+## Zero probability problem
+- replacing zero with an infinitesimal number $\eta$ (quick but dirty fix)
+- adding pseudocount or using $m$-estimate/Laplace smoothing
