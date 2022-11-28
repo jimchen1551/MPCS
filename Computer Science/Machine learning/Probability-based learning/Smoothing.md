@@ -13,5 +13,8 @@ Tags:
 $$P(f=l|t)=\frac{count(f=l|t)+k}{count(f|t)+k\times |Domain(f)|}$$
 , where $|Domain(f)|$ is the number of levels in the domain of the feature
 , and $k$ is a predetermined parameter
-- larger $k$ → more smoothing (taking more probability mass from the larger to the )
+- larger $k$ → more smoothing 
+  (taking more probability mass from the larger to the smaller)
+- typically, $k=1, 2, 3$
+
 ## m-estimate

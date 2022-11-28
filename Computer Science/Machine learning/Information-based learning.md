@@ -15,6 +15,8 @@ Tags:
 | [[Information gain]]        | $IG(d, D)=H(t, D)-rem(d, D)$                 |
 | [[Information gain ratio]]  | $GR(d, D)=\frac{IG(d, D)}{H(d, D)}$          |
 | [[Gini index]]              | $Gini(t, D)=1-\sum_{l\in levels(t)}P(t=l)^2$ |
+| [[Tree pruning]]            | Pre-pruning<br>Post-pruning                  |
+| [[Model ensembles]]         | Boosting<br>Bagging                          |
 
 | Algorithms | Comment |
 | ---------- | ------- |
@@ -22,10 +24,4 @@ Tags:
 | C4.5       |         |
 | [[CART]]   |         |
 
-## Tree pruning
-### Prepruning
-### Postpruning
-## Model ensembles
-### Boosting
-### Bagging
 

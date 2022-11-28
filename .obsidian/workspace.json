@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a1a4f7d73b7c18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Probability/Probability density function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "949ac842a288d8bf",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
+                "file": "Mathematics/Probability/Probability density function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
+                "file": "Mathematics/Probability/Probability density function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Smoothing.md"
+                "file": "Mathematics/Probability/Probability density function.md"
               }
             }
           },
@@ -197,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a85a749b5f00bf9",
+  "active": "5a1a4f7d73b7c18d",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Probability-based learning.md",
-    "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
     "Computer Science/Machine learning.md",
-    "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
-    "Computer Science/Machine learning/Probability-based learning/Factorization.md",
-    "Mathematics/Probability/Probability mass function.md",
-    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
     "Computer Science/Data structures/Hash table.md",
-    "Computer Science/Data structures/Hash table/Direct addressing.md",
-    "Computer Science/Data structures/Hash table/Chaining.md"
+    "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
+    "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Information-based learning.md",
+    "Computer Science/Machine learning/Information-based learning/Model ensembles.md",
+    "Computer Science/Machine learning/Information-based learning/Tree pruning.md",
+    "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
+    "Computer Science/Machine learning/Probability-based learning/Factorization.md"
   ]
 }
