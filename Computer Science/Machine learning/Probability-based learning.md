@@ -23,5 +23,8 @@ Tags:
 ### [[Probability density function]]
 ![[Screen Shot 2022-11-28 at 12.35.01.png|600]]
 ![[Screen Shot 2022-11-28 at 12.35.57.png|600]]
+![[Screen Shot 2022-11-28 at 13.57.57.png|600]]
+- no closed form solution to calculate the parameters to fit a mixture of [[Normal distribution|Gaussian distribution]] to a set of feature values, as there is for the [[Normal distribution]]s and the [[Exponential distribution]]s
+- **guided search** techniques, such as **gradient descent** algorithm, are used to fit
 
 ### [[Data Preparation#Binning]]
