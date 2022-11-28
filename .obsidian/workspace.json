@@ -26,12 +26,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60f37b03b836e7ad",
+            "id": "1a85a749b5f00bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md"
+                "file": "Computer Science/Machine learning/Probability-based learning/Smoothing.md"
               }
             }
           },
@@ -197,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60f37b03b836e7ad",
+  "active": "1a85a749b5f00bf9",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Probability-based learning.md",
-    "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
     "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
+    "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
     "Computer Science/Machine learning/Probability-based learning/Factorization.md",
     "Mathematics/Probability/Probability mass function.md",
     "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures/Hash table/Direct addressing.md",
-    "Computer Science/Data structures/Hash table/Chaining.md",
-    "Computer Science/Data structures/Hash table/Collision.md"
+    "Computer Science/Data structures/Hash table/Chaining.md"
   ]
 }

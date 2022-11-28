@@ -15,12 +15,9 @@ Tags:
 | [[Joint probability distribution]]   | a prob. dist. over multiple features                                                                                            |
 | [[Bayes' theorem]]                   | $P(A\text{ given }B)=\frac{P(B\text{ given }A)P(A)}{P(B)}$                                                                      |
 | [[Bayesian prediction]]              | False positive paradox<br>Maximum a posteriori (**MAP**)<br>Maximum likelihood (**ML**)<br>Minimum description length (**MDL**) |
+| [[Smoothing]]                        | zero probability problem                                                                                                        |
 
 | Algorithms            | Comment |
 | --------------------- | ------- |
 | [[Naive Bayes model]] |         |
 | [[Bayesian network]]  |         |
-
-## Zero probability problem
-- replacing zero with an infinitesimal number $\eta$ (quick but dirty fix)
-- adding pseudocount ($m$-estimate or Laplace smoothing)
