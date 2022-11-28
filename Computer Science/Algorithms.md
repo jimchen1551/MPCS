@@ -10,7 +10,7 @@ Tags:
 
 | Algorithms               | Content |
 | ------------------------ | ------- |
-| [[Sorting algorithms]]   |         |
+| [[Sorting algorithms]]   | [[Insertion sort]]<br>[[Merge sort]]<br>[[Heap sort]]<br>[[Quick sort]]<br>[[Selection sort]]<br>[[Counting]]        |
 | [[Searching algorithms]] |         |
 | [[Graph algorithms]]     |         |
 
