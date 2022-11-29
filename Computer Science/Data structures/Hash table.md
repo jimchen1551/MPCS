@@ -17,5 +17,5 @@ Tags:
 | [[Hash function]]     | $h:U\rightarrow {0, 1, \dots, m-1}$            |
 | [[Collision]]         | 2 keys hash to the same slot                   |
 | [[Chaining]]          | storing collided elements in a [[Linked list]] |
-| [[Direct addressing]] |                                                |
+| [[Direct addressing]] | $T[x.key]=x$                                   |
 | [[Open addressing]]   |                                                |
