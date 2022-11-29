@@ -41,7 +41,7 @@ e.g., If C is unknown, B depends on D. To compute $P(b|a, d)$,
 1. A seed network is given. 
 2. The network adapts iteratively by adding, removing, or reversing links, accompanied by parameter learning. 
    - based on the **MDL principle** (Occam's razor, [[Bayesian prediction#Minimum description length]])
-   - often used metic: Akaike information criterion (**AIC**) and Bayesian information criterion (**BIC**)
+   - often used metric to avoid overfitting: Akaike information criterion (**AIC**) and Bayesian information criterion (**BIC**)
 
 ### Akaike information criterion
 $$AIC(N, D)=2\cdot\log P(D|N)-2d=2\cdot\log P(D|G,\Theta)-2d$$
@@ -78,7 +78,7 @@ $$\mathbf{M}(q)=\arg\max_{l\in levels(t)}BayesianNetwork(t=l, q)$$
 #### Technical requirement
 1. The sampling distribution must be a **stationary distribution**. 
 2. The Markov chain must be **ergodic**. 
-3. The generated state should be independent of each other. 
+3. The generated state should be **independent** of each other. 
 #### Iteration
 1. Select one node for update at random or in a predefined order
 2. Updated value of the selected node is then drawn from the distribution for that node conditioned on the current values of all the other nodes

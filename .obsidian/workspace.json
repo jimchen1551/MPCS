@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "57aff95a7dc60bcf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dbcc4b5d81548bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+                "file": "Computer Science/Machine learning/Evaluation.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 259
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+                "file": "Computer Science/Machine learning/Evaluation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+                "file": "Computer Science/Machine learning/Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Probability-based learning/Bayesian network.md"
+                "file": "Computer Science/Machine learning/Evaluation.md"
               }
             }
           },
@@ -186,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbcc4b5d81548bfb",
+  "active": "448f05f2a6d4c38d",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Machine learning/Probability-based learning.md",
+    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
     "Computer Science/Machine learning/Probability-based learning/Naive Bayes model.md",
     "Computer Science/Machine learning/Probability-based learning/Smoothing.md",
     "Computer Science/Machine learning/Probability-based learning/Bayesian prediction.md",
     "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
     "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
     "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
-    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
-    "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
-    "Computer Science/Machine learning.md"
+    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md"
   ]
 }
