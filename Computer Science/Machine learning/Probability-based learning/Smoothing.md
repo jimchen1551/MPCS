@@ -17,4 +17,4 @@ $$P(f=l|t)=\frac{count(f=l|t)+k}{count(f|t)+k\times |Domain(f)|}$$
   (taking more probability mass from the larger to the smaller)
 - typically, $k=1, 2, 3$
 
-## m-estimate
+## $m$-estimate
