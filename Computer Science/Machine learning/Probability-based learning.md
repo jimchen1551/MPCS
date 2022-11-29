@@ -36,5 +36,5 @@ Tags:
 
 ### [[Data Preparation#Binning]]
 - binning to convert a continuous feature into a categorical feature
-- used if it's hardd to tell the distribution from the shape of histogram
+- used if it's hard to tell the distribution from the shape of the histogram
   or if it's a relatively small dataset
