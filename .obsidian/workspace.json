@@ -26,42 +26,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90e2a2a8686af653",
+            "id": "5bc9dbb776d4188d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88506bf022a18e30",
+            "id": "df54dabaad82e60b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4db5774fcb7da740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md"
+                "file": "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md"
               }
             }
           },
@@ -210,17 +199,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90e2a2a8686af653",
+  "active": "df54dabaad82e60b",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Probability-based learning.md",
-    "Computer Science/Machine learning.md",
-    "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Probability-based learning/Joint probability distribution.md",
     "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
     "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
+    "Computer Science/Machine learning/Probability-based learning/Bayes' theorem.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
-    "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
-    "Computer Science/Machine learning/Information-based learning/CART.md",
-    "Computer Science/Machine learning/Information-based learning/Decision tree.md"
+    "Computer Science/Machine learning/Similarity-based learning/Feature space.md"
   ]
 }

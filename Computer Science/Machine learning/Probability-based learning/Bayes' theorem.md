@@ -16,11 +16,11 @@ $$\eta=\frac{1}{P(B)}=\frac{1}{\Sigma_{j=1}^nP(B|A_j)P(A_j)}$$
 $$P(t=l|q[1],\dots, q[m])=\frac{P(q[1],\dots, q[m]|t=l)P(t=l)}{P(q[1],\dots, q[m])}$$
 , where $t$ for target feature and $q$ for a set of descriptive features from a query instance
 
-Prior probability: 
-$$P(t=l)$$
-Joint probability: 
-$$P(q[1],\dots, q[m])=P(q[1])P(q[2]|q[1])\dots P(q[m]|q[m-1]\dots q[1])$$
-Conditional probability: 
-$$P(q[1],\dots, q[m]|t=l)=P(q[1]|t=l)\dots P(q[m]|q[m-1]\dots q[1],t=l)$$
-Posterior probability (prediction):
-$$P(t=l|q[1],\dots, q[m])$$
+1. Prior probability: 
+   $$P(t=l)$$
+2. Joint probability: 
+   $$P(q[1],\dots, q[m])=P(q[1])P(q[2]|q[1])\dots P(q[m]|q[m-1]\dots q[1])$$
+3. Conditional probability: 
+   $$P(q[1],\dots, q[m]|t=l)=P(q[1]|t=l)\dots P(q[m]|q[m-1]\dots q[1],t=l)$$
+4. Posterior probability (prediction):
+   $$P(t=l|q[1],\dots, q[m])$$

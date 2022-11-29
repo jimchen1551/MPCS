@@ -37,7 +37,7 @@ $$density=k^{\frac{1}{m}}$$
 ## Curse of dimensionality
 ![[Screen Shot 2022-11-25 at 10.24.21.png|500]]
 - the dimensionality of [[Feature space]] increases, the [[#Sampling density]] decreases
-- the trade-off b/w the number of descriptive features and the [[#Sampling density]] is known a the **curse of dimensionality**
+- the trade-off b/w the number of descriptive features and the [[#Sampling density]] is known as the **curse of dimensionality**
 
 ## Rank and prune
 - **filters**: measurements of the predictiveness of each feature
