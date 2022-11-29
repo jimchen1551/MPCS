@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26f808f36f1ac8f0",
+            "id": "448f05f2a6d4c38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,22 +22,47 @@
         ]
       },
       {
-        "id": "cd83497f0ea37340",
+        "id": "57aff95a7dc60bcf",
         "type": "tabs",
         "children": [
           {
-            "id": "36b529ead99eab5c",
+            "id": "90e2a2a8686af653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88506bf022a18e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4db5774fcb7da740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 259,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -103,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Hash function.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md"
               }
             }
           },
@@ -164,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -185,17 +211,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36b529ead99eab5c",
+  "active": "4db5774fcb7da740",
   "lastOpenFiles": [
-    "Computer Science/Data structures/Hash table.md",
-    "Computer Science/Data structures/Hash table/Hash function.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Machine learning/Probability-based learning.md",
-    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
-    "Computer Science/Algorithms/Searching algorithms.md",
-    "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
-    "Untitled.md"
+    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
+    "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+    "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
+    "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
+    "Computer Science/Machine learning/Information-based learning/CART.md",
+    "Computer Science/Machine learning/Information-based learning/Decision tree.md",
+    "Computer Science/Machine learning/Information-based learning.md",
+    "Computer Science/Machine learning/Data.md",
+    "Computer Science/Machine learning.md"
   ]
 }
