@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning.md",
+                "file": "Computer Science/Machine learning/Probability-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md"
+                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md"
               }
             }
           },
@@ -190,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -211,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4db5774fcb7da740",
+  "active": "90e2a2a8686af653",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Probability-based learning.md",
+    "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
     "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
     "Computer Science/Machine learning/Similarity-based learning/Distance matric.md",
     "Computer Science/Machine learning/Similarity-based learning/Feature space.md",
     "Computer Science/Machine learning/Information-based learning/CART.md",
-    "Computer Science/Machine learning/Information-based learning/Decision tree.md",
-    "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science/Machine learning/Data.md",
-    "Computer Science/Machine learning.md"
+    "Computer Science/Machine learning/Information-based learning/Decision tree.md"
   ]
 }
