@@ -15,7 +15,12 @@ $$h:U\rightarrow {0, 1, \dots, m-1}$$
 
 ## Static hashing
 - independent of any patterns that might exist in the data
+- using a single, fixed hash function
+- randomized distribution of input keys
 ### Division method
+$$h(k)=k\bmod m$$
+- $m$ must not be a power of 2, since if $m=2^p$, then $h(k)$ is just the $p$ lowest-order bits of $k$
+- 
 ### Multiplication method
 ### Multiply-shift method
 
