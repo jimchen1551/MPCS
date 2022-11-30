@@ -42,6 +42,7 @@ return NIL
   1. marking the slot by storing in ti the special value DELETED instead of NIL, 
   2. if storing a NIL, we might be unable to retrieve any key $k$ during whose insertion we had probed slot $i$ and found it occupies. 
 ## Double hashing
-$$h(k, i)=(h_1())$$
+$$h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$$
+
 ## Linear probing
 ## Quadratic probing
