@@ -15,7 +15,30 @@ Tags:
 - The sequence of positions probed depends upon the key being inserted. 
 - To determine which slots to probe, the [[Hash function]] includes the probe number as a second input. 
 $$h:U\times\{0, 1, \dots, m-1\}\rightarrow\{0, 1, \dots, m-1\}$$
+- For every key $k$, the **probe sequence** $\langle h(k, 0), h(k, 1), \dots, h(k, m-1)\rangle$ be a permutation of $\langle 0, 1, \dots, m-1\rangle$
+```Pseudocode
+HASH-INSERT(T, k)
+i=0
+repeat
+	q=h(k, i)
+	if T[q]==NIL
+		T[q]=k
+		return q
+	else i=i+1
+until i==m
+error "hash table overflow"
 
+HASH-SEARCH(T, k)
+i=0
+repeat
+	q=h(k, i)
+	if T[q]==k
+		return q
+	i=i+1
+until T[q]==NIL or i==m
+return NIL
+```
+- for deletion, 1)marking the slot by storing in ti the special value DELETED instead of NIL, 2)if storing a NIL, we might be unable to retrieve any key
 ## Double hashing
 ## Linear probing
 ## Quadratic probing
