@@ -38,7 +38,7 @@ repeat
 until T[q]==NIL or i==m
 return NIL
 ```
-- for deletion, 1)marking the slot by storing in ti the special value DELETED instead of NIL, 2)if storing a NIL, we might be unable to retrieve any key
+- for deletion, 1)marking the slot by storing in ti the special value DELETED instead of NIL, 2)if storing a NIL, we might be unable to retrieve any key $k$ during 
 ## Double hashing
 ## Linear probing
 ## Quadratic probing
