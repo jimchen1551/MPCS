@@ -10,6 +10,7 @@ Tags:
 - Each table entry contains either an element of the dynamic set of NIL
 - When searching for an element, examine table slots until the desired element is found, or not in the table. 
 - Instead of following pointers, we compute the sequence of slots be examined. 
+
 ## Probe
 - To perform insertion using open addressing, successively examine the hash table until you find an empty slot in which to put the key. 
 - The sequence of positions probed depends upon the key being inserted. 
@@ -41,8 +42,15 @@ return NIL
 - for deletion, 
   1. marking the slot by storing in ti the special value DELETED instead of NIL, 
   2. if storing a NIL, we might be unable to retrieve any key $k$ during whose insertion we had probed slot $i$ and found it occupies. 
+- True uniform hashing is difficult to implement
+  - Commonly used techniques to compute the probe sequences
+    1. [[#Double hashing]]
+    2. [[#Linear probing]]
+    3. [[#Quadratic probing]]
+  - None of them is capable of generating more than $m^2$ different probe sequences
 ## Double hashing
 $$h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$$
 
 ## Linear probing
+
 ## Quadratic probing

@@ -18,4 +18,4 @@ Tags:
 | [[Collision]]         | 2 keys hash to the same slot                                            |
 | [[Chaining]]          | storing collided elements in a [[Linked list]]                          |
 | [[Direct addressing]] | $T[x.key]=x$                                                            |
-| [[Open addressing]]   |                                                                         |
+| [[Open addressing]]   | Probe<br>Double hashing<br>Linear probing<br>Quadratic probing          |
