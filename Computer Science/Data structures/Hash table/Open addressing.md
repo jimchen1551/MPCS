@@ -50,7 +50,11 @@ return NIL
   - None of them is capable of generating more than $m^2$ different probe sequences
 ## Double hashing
 $$h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$$
-
+, where $h_1$ and $h_2$ are **auxiliary hash functions**
+![[Screen Shot 2022-12-02 at 14.57.29.png]]
+- The initial probe goes to position $T[h_1(k)]$. 
+- The successive probe positions are offset from previous positions by the amount $h_2(k)$, modulo $m$. 
+- 
 ## Linear probing
 
 ## Quadratic probing
