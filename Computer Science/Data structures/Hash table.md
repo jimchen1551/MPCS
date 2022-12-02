@@ -12,10 +12,10 @@ Tags:
   e.g., a [[Compiler]] maintaining a **symbol table**
 - an efficient data structure for implementing dictionaries
 
-| Issue                 | Comment                                                                 |
-| --------------------- | ----------------------------------------------------------------------- |
-| [[Hash function]]     | $h:U\rightarrow {0, 1, \dots, m-1}$<br>Static hashing<br>Random hashing |
-| [[Collision]]         | 2 keys hash to the same slot                                            |
-| [[Chaining]]          | storing collided elements in a [[Linked list]]                          |
-| [[Direct addressing]] | $T[x.key]=x$                                                            |
-| [[Open addressing]]   | Probe<br>Double hashing<br>Linear probing<br>Quadratic probing          |
+| Issue                 | Comment                                                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------------------- |
+| [[Hash function]]     | $h:U\rightarrow {0, 1, \dots, m-1}$<br>Static hashing<br>Random hashing                                 |
+| [[Collision]]         | 2 keys hash to the same slot                                                                            |
+| [[Chaining]]          | storing collided elements in a [[Linked list]]                                                          |
+| [[Direct addressing]] | $T[x.key]=x$                                                                                            |
+| [[Open addressing]]   | Probe<br>Double hashing: $h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$<br>Linear probing<br>Quadratic probing |
