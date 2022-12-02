@@ -59,7 +59,7 @@ $$h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$$
   - Implementation 1: let $m$ be an exact power of 2 and design $h_2$ so that it always produces an odd number
   - Implementation 2: let $m$ be prime and design $h_2$ so that it always returns a positive integer less than $m$. 
 
-- producing $\Theta(m^2)$ probe sequences, since
+- producing $\Theta(m^2)$ probe sequences, since each possible
 ## Linear probing
 
 ## Quadratic probing
