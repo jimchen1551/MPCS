@@ -54,9 +54,12 @@ $$h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$$
 ![[Screen Shot 2022-12-02 at 14.57.29.png]]
 - The initial probe goes to position $T[h_1(k)]$. 
 - The successive probe positions are offset from previous positions by the amount $h_2(k)$, modulo $m$. 
+
 - In order for the entire [[Hash table]] to be searched, the value $h_2(k)$ must be relatively prime to the [[Hash table]] size $m$. 
   - Implementation 1: let $m$ be an exact power of 2 and design $h_2$ so that it always produces an odd number
   - Implementation 2: let $m$ be prime and design $h_2$ so that it always returns a positive integer less than $m$. 
+
+- producing $\Theta(m^2)$ probe sequences, since
 ## Linear probing
 
 ## Quadratic probing
