@@ -61,10 +61,10 @@ $$h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$$
 
 - producing $\Theta(m^2)$ probe sequences, since each possible
 ## Linear probing
-
+$$h_2(k)=1,\forall k$$
+$$h(k, i)=(h_1(k)+i)\bmod m$$
 - a special case of [[#Double hashing]]
 - the simplest open addressing approach to resolving collisions
 - If slot $T[h_1(k)]$ is already occupied, probe the next position $T[h_1(k)+1]$
-- Keep going as necessary, on up to slot $T[m-1]$, and then wrap around to slot $T[0]$, $T[1]$, and so on, but never going past slot $T
-
+- Keep going as necessary, on up to slot $T[m-1]$, and then wrap around to slot $T[0]$, $T[1]$, and so on, but never going past slot $T[h_1(k)+1]$
 ## Quadratic probing
