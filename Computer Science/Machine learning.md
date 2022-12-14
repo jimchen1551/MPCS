@@ -9,7 +9,7 @@ Tags:
 - an automatic process that extracts patterns from data (or past experiences)
 - A computer program is said to learn from **experience** ***E*** with respect to some class of **tasks** ***T*** and **performance** measure ***P***, if its performance at tasks in *T*, as measured by  *P*, improves with *E*. 
 
-| Machine Learning               | Content                                                                                                                                                                  |
+| Fundamentals                   | Content                                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Data]]                       | [[Analytics Base Table]]<br>[[Data Quality Report]]<br>[[Data Quality Issues]]<br>[[Data Visualization]]<br>[[Data Preparation]]                                         |
 | [[Information-based learning]] | [[Decision tree]]<br>[[Shannon's entropy model]]<br>[[Information gain]]<br>[[ID3]]                                                                                      |
@@ -17,6 +17,19 @@ Tags:
 | [[Probability-based learning]] | [[Probability]]<br>[[Joint probability distribution]]<br>[[Smoothing]]<br>[[Bayes' theorem]]<br>[[Bayesian prediction]]<br>[[Naive Bayes model]]<br>[[Bayesian network]] |
 | [[Error-based learning]]       |                                                                                                                                                                          |
 | [[Evaluation]]                 |                                                                                                                                                                          |
+
+| Machine learning               | Content |
+| ------------------------------ | ------- |
+| [[Linear model]]               |         |
+| [[Neural network]]             |         |
+| [[Kernel method]]              |         |
+| [[Graphical model]]            |         |
+| [[Mixture model]]              |         |
+| [[Approximate inference]]      |         |
+| [[Sampling method]]            |         |
+| [[Continuous latent variable]] |         |
+| [[Sequential data]]            |         |
+| [[Combining models]]           |         |
 
 ## Reference book
 - Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brian Mac Namee, and Aoife D'Arcy

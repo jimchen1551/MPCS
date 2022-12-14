@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf59ab1b0d4b645f",
+        "id": "1441279f8191fda5",
         "type": "tabs",
         "children": [
           {
-            "id": "26f808f36f1ac8f0",
+            "id": "72603990ab408b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md",
+                "file": "Computer Science/Machine learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "cd83497f0ea37340",
+        "id": "c108f0d0d47e37e2",
         "type": "tabs",
         "children": [
           {
-            "id": "63b1384e2fbe97d3",
+            "id": "8c4aa8635a11760a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
+                "file": "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
+                "file": "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
+                "file": "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Hash table/Open addressing.md"
+                "file": "Computer Science/Machine learning/Models and methods/Continuous latent variable.md"
               }
             }
           },
@@ -185,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63b1384e2fbe97d3",
+  "active": "8c4aa8635a11760a",
   "lastOpenFiles": [
+    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Error-based learning.md",
+    "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
     "Computer Science/Data structures/Hash table/Hash function.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Machine learning/Probability-based learning.md",
     "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
-    "Computer Science/Algorithms/Searching algorithms.md",
-    "Computer Science/Algorithms/Sorting algorithms.md",
-    "Computer Science/Machine learning/Error-based learning.md",
-    "Computer Science/Machine learning/Similarity-based learning.md"
+    "Computer Science/Algorithms/Searching algorithms.md"
   ]
 }
