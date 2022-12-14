@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Machine learning.md",
+            "file": "Mathematics/Linear algebra/Singular value decomposition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Machine learning.md",
+            "file": "Mathematics/Linear algebra/Singular value decomposition.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Machine learning.md"
+            "file": "Mathematics/Linear algebra/Singular value decomposition.md"
           }
         }
       },
@@ -129,8 +129,9 @@
     ],
     "currentTab": 0
   },
-  "active": "6a9b06ba599bbbe7",
+  "active": "cad6881ef36b5f5e",
   "lastOpenFiles": [
+    "Computer Science/Machine learning.md",
     "Computer Science/Digital systems.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
     "Computer Science/Operating systems/Process management/Process/Thread.md",
@@ -139,7 +140,6 @@
     "Computer Science/Operating systems/Process management/Process.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Process management/Client-server communication.md",
-    "Computer Science/Operating systems/Process management/Client-server communication/Remote procedure call.md",
-    "Computer Science/Operating systems/Process management/Client-server communication/Socket.md"
+    "Computer Science/Operating systems/Process management/Client-server communication/Remote procedure call.md"
   ]
 }
