@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f7565a9dcab4e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Models and methods/Continuous latent variable.md"
+                "file": "Mathematics/Linear algebra/Singular value decomposition.md"
               }
             }
           },
@@ -185,11 +198,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c4aa8635a11760a",
+  "active": "6f7565a9dcab4e46",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Error-based learning.md",
-    "Computer Science/Machine learning/Models and methods/Continuous latent variable.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
     "Computer Science/Data structures/Hash table/Hash function.md",
