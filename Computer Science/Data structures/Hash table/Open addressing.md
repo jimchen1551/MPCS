@@ -70,5 +70,8 @@ $$h(k, i)=(h_1(k)+i)\bmod m$$
 ## Quadratic probing
 $$h(k,i)=(h'(k)+c_1i+c_2i^2)\bmod m,\ for\ i\in[0,m-1],c_1>0, c_2>0$$
 - initial probe is $T[h'(k)]$
-- to make full use of hash table, the values of $c_1, c_2$ and $k
+- to make full use of hash table, the values of $c_1, c_2$ and $m$ are constrained
+- **Secondary clustering**: 
+  - If 2 keys have the same initial probe position, then their probe sequences are the same, since $h(k_1,0)=h(k_2,0)$ implies $h(k_1, i)=h(k_2, i)$
+  - only $m$ distinct probe sequences are used
 ## Analysis
