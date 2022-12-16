@@ -69,4 +69,5 @@ $$h(k, i)=(h_1(k)+i)\bmod m$$
 - Keep going as necessary, on up to slot $T[m-1]$, and then wrap around to slot $T[0]$, $T[1]$, and so on, but never going past slot $T[h_1(k)+1]$
 ## Quadratic probing
 $$h(k,i)=(h'(k)+c_1i+c_2i^2)\bmod m,\ for\ i\in[0,m-1]$$
+
 ## Analysis
