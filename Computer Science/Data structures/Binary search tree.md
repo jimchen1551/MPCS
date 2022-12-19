@@ -96,8 +96,29 @@ else y.right = z
 ![[Screen Shot 2022-12-19 at 13.04.34.png|500]]
 ```Pseudocode
 TREE-DELETE(T, z)
-if z.
+if z.left==NIL
+	TRANSPLANT(T, z, z.right)
+else if z.right==NIL
+	TRANSPLANT(T, z, z.left)
+else y = TREE-MINIMUM(z.right)
+	if y!=z.right
+		TRANSPLANT(T, y, y.right)
+		y.right = z.right
+		y.right.p = y
+	TRANSPLANT(T, z, y)
+	y.left = z.left
+	t.left.p = y
+
+TRANSPLANT(T, u, v)
+if u.p==NIL
+	T.root = v
+else if u==u.p.left
+	y.p.left = v
+else u.p.right = v
+if v!=NIL
+	v.p = u.p
 ```
 Case 1: If the node has no child
 Case 2: If the node has only a single child
 Case 3: If the node has two children
+- running in $O(h)$ time, where $h$ is the height of the tree
