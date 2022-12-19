@@ -18,4 +18,13 @@ Attributes:
 4. right 
 5. parent
 ## Inorder tree walk
-- visiting all the keys in sorted order by a simple recusive algorithm because of binary-search-tree prop
+```Pseudocode
+INORDER-TREE-WALK(x)
+if x!=NIL
+	INORDER-TREE-WALK(x.left)
+	visit x.key
+	INORDER-TREE-WALL(x.right)
+```
+- visiting all the keys in **sorted** order by a simple recusive algorithm because of binary-search-tree property
+- visiting the root b/w visiting its left subtree and its right subtree (so called inorder)
+- 
