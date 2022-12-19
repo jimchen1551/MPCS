@@ -74,8 +74,22 @@ return y
 ## Tree insert
 ```Pseudocode
 TREE-INSERT(T, z)
-
+x = T.root
+y = NIL
+while x!=NIL
+	y = x
+	if z.key<x.key
+		x = x.left
+	else x = x.right
+z.p = y
+if y==NIL
+	T.root = z
+else if z.key
+	y.left = z
+else y.right = z
 ```
+- the pointer $x$ tracing a simple path downward looking for a NIL to replace with the input node $z$
+- maintaining the **trailing pointer** $y$ as the parent of $x$
 ## Tree delete
 ```Pseudocode
 
