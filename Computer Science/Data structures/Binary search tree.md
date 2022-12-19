@@ -90,6 +90,7 @@ else y.right = z
 ```
 - the pointer $x$ tracing a simple path downward looking for a NIL to replace with the input node $z$
 - maintaining the **trailing pointer** $y$ as the parent of $x$
+- running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree delete
 ```Pseudocode
 
