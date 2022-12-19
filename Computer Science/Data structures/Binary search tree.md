@@ -57,7 +57,7 @@ while x.right!=NIL
 	x = x.right
 return x
 ```
-
+- running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree successor and predecessor
 ## Tree insert
 ## Tree delete
