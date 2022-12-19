@@ -29,7 +29,35 @@ if x!=NIL
 - visiting the root b/w visiting its left subtree and its right subtree (so called inorder)
 - taking $\Theta(n)$ time to walk an $n$-node binary search tree
 ## Tree search
+```Pseudocode
+TREE-SEARCH(x, k)
+if x==NIL or k==x.key
+	return x
+if k<x.key
+	return TREE-SEARCH(x.left, k)
+else return TREE-SEARCH(x.right, k)
+
+ITERATIVE-TREE-SEARCH(x, k)
+while x!=NIL and k!=x.key
+	if k<x.key
+		x = x.left
+	else x = x.right
+return x
+```
+- running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree minimum and maximum
+```Pseudocode
+TREE-MINIMUM(x)
+while x.left!=NIL
+	x = x.left
+return x
+
+TREE-MAXIMUM(x)
+while x.right!=NIL
+	x = x.right
+return x
+```
+
 ## Tree successor and predecessor
 ## Tree insert
 ## Tree delete
