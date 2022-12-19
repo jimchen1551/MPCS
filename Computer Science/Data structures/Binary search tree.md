@@ -72,6 +72,7 @@ return y
 - the successor of a node is the next node visited in an inorder tree walk
 - running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree insert
+![[Screen Shot 2022-12-19 at 13.02.21.png]]
 ```Pseudocode
 TREE-INSERT(T, z)
 x = T.root
@@ -92,6 +93,11 @@ else y.right = z
 - maintaining the **trailing pointer** $y$ as the parent of $x$
 - running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree delete
+![[Screen Shot 2022-12-19 at 13.04.34.png|500]]
 ```Pseudocode
+TREE-DELETE(T, z)
 
 ```
+Case 1: If the node has no child
+Case 2: If the node has only a single child
+Case 3: If the node has two children
