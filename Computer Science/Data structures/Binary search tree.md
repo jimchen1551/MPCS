@@ -59,5 +59,15 @@ return x
 ```
 - running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree successor and predecessor
+```Pseudocode
+TREE-SUCCESSOR(x)
+if x.right!=NIL
+	return TREE-MINIMUM(x.right)
+y = x.p
+while y!=NIL and x==y.right
+	x = y
+	y = y.p
+return y
+```
 ## Tree insert
 ## Tree delete
