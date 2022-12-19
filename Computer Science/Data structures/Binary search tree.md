@@ -73,6 +73,7 @@ return y
 - running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree insert
 ```Pseudocode
+TREE-INSERT(T, z)
 
 ```
 ## Tree delete
