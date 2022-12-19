@@ -69,6 +69,6 @@ while y!=NIL and x==y.right
 	y = y.p
 return y
 ```
-
+- the successor of a node is the next node visited in an inorder tree walk
 ## Tree insert
 ## Tree delete
