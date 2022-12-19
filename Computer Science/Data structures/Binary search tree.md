@@ -96,7 +96,7 @@ else y.right = z
 ![[Screen Shot 2022-12-19 at 13.04.34.png|500]]
 ```Pseudocode
 TREE-DELETE(T, z)
-
+if z.
 ```
 Case 1: If the node has no child
 Case 2: If the node has only a single child
