@@ -72,4 +72,10 @@ return y
 - the successor of a node is the next node visited in an inorder tree walk
 - running in $O(h)$ time, where $h$ is the height of the tree
 ## Tree insert
+```Pseudocode
+
+```
 ## Tree delete
+```Pseudocode
+
+```
