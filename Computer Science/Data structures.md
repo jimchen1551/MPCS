@@ -16,3 +16,4 @@ Tags:
 | [[Heap]]               |         |
 | [[Hash table]]         |         |
 | [[Binary search tree]] |         |
+| [[Red-black tree]]     |         |
