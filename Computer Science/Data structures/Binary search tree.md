@@ -69,5 +69,6 @@ while y!=NIL and x==y.right
 	y = y.p
 return y
 ```
+
 ## Tree insert
 ## Tree delete
