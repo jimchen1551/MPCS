@@ -27,4 +27,9 @@ if x!=NIL
 ```
 - visiting all the keys in **sorted** order by a simple recusive algorithm because of binary-search-tree property
 - visiting the root b/w visiting its left subtree and its right subtree (so called inorder)
-- 
+- taking $\Theta(n)$ time to walk an $n$-node binary search tree
+## Tree search
+## Tree minimum and maximum
+## Tree successor and predecessor
+## Tree insert
+## Tree delete
