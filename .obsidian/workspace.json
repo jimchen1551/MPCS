@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5c7aa520f8f2f680",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eccfcf4de5062209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Binary search tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5a017b6c13d191a8",
         "type": "tabs",
         "children": [
@@ -79,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 259,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",

@@ -45,7 +45,46 @@ x.parent = y
 ## Insertion
 ```Pseudocode
 RB-INSERT(T, z)
+x = T.root
+y = T.nil
+while x!=T.nil
+	y = x
+	if z.key<x.key
+		x = x.left
+	else x = x.right
+z.p = y
+if y==T.nil
+	T.root = z
+else if z.key<y.key
+	y.left = z
+else y.right = z
+z.left = T.nil
+z.right = T.nil
+z.color = RED
+RB-INSERT-FIXUP(T, z)
 
 RB-INSERT-FIXUP(T, z)
+while z.parent.color==RED
+	if z.parent==z.parent.parent.left
+		y = z.parent.parent.right
+		if y.color==RED
+			z.parent.color = BLACK
+			y.color = BLACK
+			z.parent.parent.color = RED
+			z = z.parent.parent
+		else
+			if z==z.parent.right
+				z = z.parent
+				LEFT-ROTATE(T, z)
+			z.parent.color = BLACK
+			z.parent.parent.color = RED
+			RIGHT-ROTATE(T, z.parent.parent)
+	else
+		y = z.parent.parent.left
+		if y.color==RED
+			z.parent.color = BLACK
+			y.color = BLACK
+			z.parent.parent.color = RED
+			
 ```
 ## Deletion
