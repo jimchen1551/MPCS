@@ -43,6 +43,12 @@ x.parent = y
 - a local operation preserves the **binary-search-tree property**
 - changing the pointer structure
 ## Insertion
+![[Screen Shot 2022-12-20 at 14.08.12.png|500]]
+Case 1: z's uncle y is red
+![[Screen Shot 2022-12-20 at 14.09.31.png|500]]
+Case 2: z's uncle y is black and z is a right child
+Case 3: z's uncle y is black and z is a left child
+![[Screen Shot 2022-12-20 at 14.10.14.png|500]]
 ```Pseudocode
 RB-INSERT(T, z)
 x = T.root
@@ -100,5 +106,4 @@ T.root.color = BLACK
   2. lines 14-15 set z.left and z.right to T.nil, in order to maintain the proper tree structure
   3. line 16 colors z red
   4. because coloring z red may cause a violation of one of the red-black properties, line 17 calls RB-INSERT-FIXUP(T, z) in order to restore the red-black properties
-- 
 ## Deletion
