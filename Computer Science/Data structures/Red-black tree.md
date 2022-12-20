@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Red-black tree
+![[Screen Shot 2022-12-20 at 10.26.33.png]]
 Attributes:
 1. key
 2. color
@@ -19,3 +20,5 @@ Attributes:
 4. left 
 5. right 
 6. parent
+- the number of black nodes on any simple path from, but not including, a node $x$ down to a leaf the **black-height** of the node, denoted $bh(x)$
+- 
