@@ -21,4 +21,5 @@ Attributes:
 5. right 
 6. parent
 - the number of black nodes on any simple path from, but not including, a node $x$ down to a leaf the **black-height** of the node, denoted $bh(x)$
-- 
+- having height at most $2\lg(n+1)$ with $n$ internal nodes
+## Rotation
