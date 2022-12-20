@@ -99,5 +99,6 @@ T.root.color = BLACK
   1. T.nil replaces all instances of NIL in TREE-INSERT
   2. lines 14-15 set z.left and z.right to T.nil, in order to maintain the proper tree structure
   3. line 16 colors z red
-  4. because coloring z red may cause a violation of one of the red-black properties
+  4. because coloring z red may cause a violation of one of the red-black properties, line 17 calls RB-INSERT-FIXUP(T, z) in order to restore the red-black properties
+- 
 ## Deletion
