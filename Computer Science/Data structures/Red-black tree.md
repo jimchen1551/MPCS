@@ -85,6 +85,20 @@ while z.parent.color==RED
 			z.parent.color = BLACK
 			y.color = BLACK
 			z.parent.parent.color = RED
-			
+			z - z.parent.parent
+		else
+			if z==z.parent.left
+				z = z.parent
+				RIGHT-ROTATE(T, z)
+			z.parent.color = BLACK
+			z.parent.parent.color = RED
+			LEFT-ROTATE(T, z.parent.parent)
+T.root.color = BLACK
 ```
 ## Deletion
+我是來自台灣的尖子班學生
+在台灣這叫資優班或科學班
+我從小學五年級進入教育部辦資優班
+剛進入確實是萬年倒數第一
+但在補習班我都是和小我一屆的資優班學生一起上課
+而
