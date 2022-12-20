@@ -95,5 +95,9 @@ while z.parent.color==RED
 			LEFT-ROTATE(T, z.parent.parent)
 T.root.color = BLACK
 ```
-
+- differing TREE-INSERT in 4 ways
+  1. T.nil replaces all instances of NIL in TREE-INSERT
+  2. lines 14-15 set z.left and z.right to T.nil, in order to maintain the proper tree structure
+  3. line 16 colors z red
+  4. because coloring z red may cause a violation of one of the red-black properties
 ## Deletion
