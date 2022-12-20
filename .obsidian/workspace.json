@@ -13,14 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures.md",
+                "file": "Computer Science/Data structures/Binary search tree.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5a017b6c13d191a8",
+        "type": "tabs",
+        "children": [
           {
-            "id": "95d979f9de495fcb",
+            "id": "9ab43f1eb82cc6d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +185,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95d979f9de495fcb",
+  "active": "9ab43f1eb82cc6d8",
   "lastOpenFiles": [
-    "Computer Science/Data structures.md",
     "Computer Science/Data structures/Binary search tree.md",
+    "Computer Science/Data structures.md",
     "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
