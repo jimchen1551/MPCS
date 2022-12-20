@@ -15,7 +15,7 @@ Tags:
 - Advantages:
 	1. faster to service a request with an existing thread than create a new one
 	2. allowing the number of threads in the apps to be bound to the size of the pool
-	3. separating task to be performed from mechanics of creating task allows different strategies for running task
+	3. separating the task to be performed from the mechanics of creating the task allows different strategies for running the task
 ## Fork-Join
 
 ## OpenMP
