@@ -23,7 +23,8 @@ Attributes:
 - the number of black nodes on any simple path from, but not including, a node $x$ down to a leaf the **black-height** of the node, denoted $bh(x)$
 - having height at most $2\lg(n+1)$ with $n$ internal nodes
 ## Rotation
-![[Screen Shot 2022-12-20 at 12.50.33.png]]
+![[Screen Shot 2022-12-20 at 12.50.33.png|500]]
+![[Screen Shot 2022-12-20 at 12.59.50.png|500]]
 ```Pseudocode
 LEFT-ROTATION(T, x)
 y = x.right
@@ -35,7 +36,12 @@ if x.parent==T.nil
 	T.root = y
 else if x==x.parent.left
 	x.parent.left = y
-else x.parent.ri
+else x.parent.right = y
+y.left = x
+x.parent = y
 ```
 - a local operation preserves the **binary-search-tree property**
 - changing the pointer structure
+## Insertion
+
+## Deletion
