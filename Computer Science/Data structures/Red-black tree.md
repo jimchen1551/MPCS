@@ -43,5 +43,9 @@ x.parent = y
 - a local operation preserves the **binary-search-tree property**
 - changing the pointer structure
 ## Insertion
+```Pseudocode
+RB-INSERT(T, z)
 
+RB-INSERT-FIXUP(T, z)
+```
 ## Deletion
