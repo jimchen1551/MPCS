@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md"
               }
             }
           },
@@ -180,10 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f12596506ef20b2",
+  "active": "0fc978acd2d9a4e6",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
     "Syntax.md",
     "README.md",
