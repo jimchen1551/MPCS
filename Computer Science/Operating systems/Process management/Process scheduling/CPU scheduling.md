@@ -16,7 +16,7 @@ Tags:
 | ------------------------- | -------------------------------------------------------------------------------- |
 | [[CPU-IO burst cycle]]    | CPU burst<br>IO burst                                                            |
 | [[CPU scheduler]]         | [[Short-term schedular]]<br>[[Medium-term schedular]]<br>[[Long-term schedular]] |
-| [[Preemptive scheduling]] |                                                                                  |
+| [[Preemptive scheduling]] | Preemptive scheduling<br>Non-preemptive scheduling                               |
 | [[Dispatcher]]            |                                                                                  |
 
 | Scheduling algorithms                    | Explanation |
