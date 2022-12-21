@@ -71,6 +71,7 @@ Link to heading [[#Heading level 1]]
 if True:
 	print("Hello World!")
 ```
+
 ```mermaid
 gitGraph
 	commit
