@@ -9,6 +9,7 @@ Tags:
 ![[Screen Shot 2022-12-21 at 21.13.11.png]]
 - preemptive (shortest-remaining-time-first) or non-preemptive
 - **shortest-next-CPU-burst** algorithm
+- a special case of the general [[Priority scheduling]] algorithm
 - depending on the **length of the next CPU burst** of a process, rather than its total length
 - not implemented at the level of CPU scheduling 
   (there's no way to know the length of the next CPU burst)
