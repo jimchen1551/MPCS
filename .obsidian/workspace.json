@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "73361cea59bcfe3a",
+            "id": "0312eb79e0f81f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Shortest-job-first scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Shortest-job-first scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Shortest-job-first scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Shortest-job-first scheduling.md"
               }
             }
           },
@@ -181,12 +181,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73361cea59bcfe3a",
+  "active": "0312eb79e0f81f31",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel feedback queue scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel queue scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Priority scheduling.md",
