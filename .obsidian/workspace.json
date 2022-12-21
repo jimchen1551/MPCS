@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfb80610be8f990e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel queue scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel queue scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel queue scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel queue scheduling.md"
               }
             }
           },
@@ -168,13 +181,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3eb7eb8ff95c587a",
+  "active": "dfb80610be8f990e",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Shortest-job-first scheduling.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Priority scheduling.md",
-    "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Priority scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Round-robin scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Shortest-job-first scheduling.md",
+    "Computer Science/Algorithms/Sorting algorithms.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling.md",
     "Computer Science/Operating systems.md",
