@@ -36,7 +36,9 @@ Tags:
 5. **Response time**: time for a request to be responded
 
 ## Thread scheduling
-
+- most modern [[Operating systems|OS]] scheduling [[kernel]]-level [[thread]]s
+- and [[thread library]] managing user-level [[thread]]s (independent of [[kernel]])
+- ultimately user-level [[thread]]s are mapped to an associated [[kernel]]-level [[thread]] indirectly or by using a **lightweight process** (LQP)
 ## Multi-processor issue
 ### Multiple processors
 ### Multicore processor
