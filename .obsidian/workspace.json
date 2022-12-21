@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Computer Science/Operating systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1e0bd0dd2d01fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb7eb8ff95c587a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
                 "mode": "source",
                 "source": false
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f12596506ef20b2",
+  "active": "3eb7eb8ff95c587a",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel feedback queue scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel queue scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Priority scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Round-robin scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Shortest-job-first scheduling.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU schedulers/Medium-term schedular.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md"
+    "Computer Science/Operating systems/Process management/Process scheduling/CPU schedulers/Medium-term schedular.md"
   ]
 }

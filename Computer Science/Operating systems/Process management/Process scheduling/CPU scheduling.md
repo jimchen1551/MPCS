@@ -34,17 +34,22 @@ Tags:
 3. **Turnaround time**: time to execute a particular process
 4. **Waiting time**: time for a [[process]] waiting in the **ready** queue
 5. **Response time**: time for a request to be responded
+
 ## Thread scheduling
 
-## Multi-processor scheduling
+## Multi-processor issue
+### Multiple processors
 ### Multicore processor
 ### Load balancing
 ### Processor affinity
 ### Heterogeneous multiprocessing
-## Real-time CPU scheduling
+## Real-time computing issue
 ### Minimizing latency
-### Priority-based scheduling
-### Rate-monotonic scheduling
+| Scheduling algorithm          | Explanation |
+| ----------------------------- | ----------- |
+| [[Priority-based scheduling]] |             |
+| [[Rate-monotonic scheduling]]                              |             |
+
 ### Earliest-deadline-first scheduling
 ### Proportional share scheduling
 ## Algorithm evaluation
