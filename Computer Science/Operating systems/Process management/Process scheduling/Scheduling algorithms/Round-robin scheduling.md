@@ -15,5 +15,9 @@ Tags:
   2. Sets a timer to interrupt after 1 time quantum
   3. Dispatches the process
 - **time quantum** (time slice): a small unit of time, generally 10~100 milliseconds
-  1. time quantum too long → 
-  2. time quantum too short → 
+  1. time quantum too large → same as the [[First-come, first-served scheduling|FCFS]]
+  2. time quantum too small → substantial [[context switch]]es 
+- in practice, the [[context switch]] takes 10 microseconds
+- a rule of thumb is that 80% of the CPU bursts should be shorter than the time quantum
+- the size of the time quantum also affects **turnaround time**
+![[Screen Shot 2022-12-21 at 21.27.19.png]]
