@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Shortest-job-first scheduling
+![[Screen Shot 2022-12-21 at 21.13.11.png]]
 - preemptive (shortest-remaining-time-first) or non-preemptive
 - **shortest-next-CPU-burst** algorithm
 - depending on the **length of the next CPU burst** of a process, rather than its total length
