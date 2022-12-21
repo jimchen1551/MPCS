@@ -21,7 +21,7 @@ Tags:
 	1. Responsiveness
 		allowing continued execution if part of the process is blocked
 	2. Resource sharing
-		easier than [[Shared memory system]] and [[Message passing system]]
+		easier than a [[Shared memory system]] and [[Message passing system]]
 	3. Economy
 		cheaper than process creation and lower overhead than a [[Context switch]]
 	4. Scalability
