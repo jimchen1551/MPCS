@@ -17,7 +17,7 @@ Tags:
 	2. allowing the number of threads in the apps to be bound to the size of the pool
 	3. separating the task to be performed from the mechanics of creating the task allows different strategies for running the task
 ## Fork-Join
-
+![[Screen Shot 2022-12-21 at 16.34.44.png|500]]
 ## OpenMP
 
 ## Grand central dispatch

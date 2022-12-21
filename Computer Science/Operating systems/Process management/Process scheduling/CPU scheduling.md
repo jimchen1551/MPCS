@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # CPU scheduling
+- switching the [[Processor|CPU]] among [[Process]]es
 
 | CPU schedular             | Explanation     |
 | ------------------------- | --------------- |

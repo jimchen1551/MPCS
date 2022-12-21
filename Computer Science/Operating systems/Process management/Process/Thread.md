@@ -35,3 +35,8 @@ Tags:
 | [[Implicit threading]]    | Thread pool<br>Fork-Join<br>OpenMP<br>Grand central dispatch                   |
 
 ## Threading issue
+### fork and exec system calls
+### Signal handling
+### Thread cancellation
+### Thread-local storage
+### Scheduler activations
