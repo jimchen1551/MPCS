@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "1825e5712f28a4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0fc978acd2d9a4e6",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md"
               }
             }
           },
@@ -205,8 +193,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1825e5712f28a4e1",
+  "active": "04a0a1ab98845272",
   "lastOpenFiles": [
+    "Syntax.md",
     "README.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
@@ -215,7 +204,6 @@
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduler.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/CPU-IO burst cycle.md",
     "Computer Science/Operating systems/Process management/Process.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md",
-    "Computer Science/Operating systems.md"
+    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md"
   ]
 }

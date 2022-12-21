@@ -85,6 +85,7 @@ gitGraph
 	merge develop
 	commit
 ```
+
 ``type `class class_name:` to define a class``
 type `def function_name(variables):` to set a function
 More Markdown syntax in [this website](https://www.markdownguide.org). 
