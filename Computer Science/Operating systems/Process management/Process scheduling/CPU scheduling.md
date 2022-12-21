@@ -44,14 +44,14 @@ Tags:
 ### Processor affinity
 ### Heterogeneous multiprocessing
 ## Real-time computing issue
-### Minimizing latency
-| Scheduling algorithm          | Explanation |
-| ----------------------------- | ----------- |
-| [[Priority-based scheduling]] |             |
-| [[Rate-monotonic scheduling]]                              |             |
 
-### Earliest-deadline-first scheduling
-### Proportional share scheduling
+| Scheduling algorithm                   | Explanation |
+| -------------------------------------- | ----------- |
+| [[Priority-based scheduling]]          |             |
+| [[Rate-monotonic scheduling]]          |             |
+| [[Earliest-deadline-first scheduling]] |             |
+| [[Proportional share scheduling]]      |             |
+
 ## Algorithm evaluation
 ### Deterministic modeling
 ### Queueing models

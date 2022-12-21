@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f12596506ef20b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1e0bd0dd2d01fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3eb7eb8ff95c587a",
             "type": "leaf",
             "state": {
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md"
               }
             }
           },
@@ -205,10 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3eb7eb8ff95c587a",
+  "active": "73361cea59bcfe3a",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/First-come, first-served scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Scheduling algorithms/Multilevel feedback queue scheduling.md",
