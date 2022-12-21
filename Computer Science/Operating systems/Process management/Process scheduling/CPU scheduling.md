@@ -29,11 +29,11 @@ Tags:
 | [[Multilevel feedback queue scheduling]] |             |
 
 ## Scheduling criteria
-1. **CPU utilization**: 
-2. **Throughput**
-3. **Turnaround time**
-4. **Waiting time**
-5. **Response time**
+1. **CPU utilization**: keep the [[Processor|CPU]] as busy as possible
+2. **Throughput**: number of processes completed per time unit
+3. **Turnaround time**: time to execute a particular process
+4. **Waiting time**: time for a [[process]] waiting in the **ready** queue
+5. **Response time**: time for a request to be responded
 ## Thread scheduling
 
 ## Multi-processor scheduling
