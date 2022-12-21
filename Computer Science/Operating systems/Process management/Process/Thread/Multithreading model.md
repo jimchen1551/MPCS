@@ -23,6 +23,7 @@ Tags:
 - providing more concurrency than the many-to-one model
 - allowing multiple threads to run in parallel on a [[Multi-processor system]]
 - Drawback: creating a user thread requires creating the corresponding kernel thread
+
 ## Many-to-Many model
 ![[Screen Shot 2022-11-08 at 16.26.32.png]]
 - many user-level threads multiplexed to a smaller or equal number of kernel threads

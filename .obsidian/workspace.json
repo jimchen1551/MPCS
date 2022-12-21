@@ -26,6 +26,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2420861c13a7edde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e80152f612b7dace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f12596506ef20b2",
             "type": "leaf",
             "state": {
@@ -103,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md",
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process/Thread.md"
+                "file": "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md"
               }
             }
           },
@@ -185,17 +209,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ab43f1eb82cc6d8",
+  "active": "2420861c13a7edde",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
     "Computer Science/Operating systems/Process management/Process/Thread.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Multicore programming.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Multithreading model.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Thread library.md",
+    "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
     "Computer Science/Operating systems/Process management/Process.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Data structures/Binary search tree.md",
-    "Computer Science/Data structures.md",
-    "Computer Science/Data structures/Hash table.md",
-    "Computer Science/Data structures/Hash table/Open addressing.md",
-    "Mathematics/Linear algebra/Singular value decomposition.md"
+    "Computer Science/Data structures.md"
   ]
 }

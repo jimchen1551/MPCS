@@ -20,7 +20,7 @@ Tags:
 - benefits
 	1. Responsiveness
 		allowing continued execution if part of the process is blocked
-	2. Resource sharing
+	2. Resource Sharing
 		easier than a [[Shared memory system]] and [[Message passing system]]
 	3. Economy
 		cheaper than process creation and lower overhead than a [[Context switch]]
