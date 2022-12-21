@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "0a6ebeaf1e047182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04a0a1ab98845272",
             "type": "leaf",
             "state": {
@@ -55,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md"
               }
             }
           },
@@ -204,14 +193,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f12596506ef20b2",
+  "active": "04a0a1ab98845272",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduler.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduler.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/CPU-IO burst cycle.md",
     "Computer Science/Operating systems/Process management/Process.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Dispatcher.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Fundamentals/Preemptive scheduling.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Process management/Process/Thread/Implicit threading.md",
     "Computer Science/Operating systems/Process management.md",
