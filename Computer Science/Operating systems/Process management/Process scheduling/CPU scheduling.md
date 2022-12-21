@@ -7,6 +7,9 @@ Tags:
 ---
 # CPU scheduling
 - switching the [[Processor|CPU]] among [[Process]]es to make the computer more productive
+- A [[process]] is executed until it must wait. 
+  In a simple computer system, the [[Processor|CPU]] then sits **idle**.
+  With [[Multiprogramming]], when one [[process]] has to wait, another [[process]] can **take over** the use of the [[Processor|CPU]]. 
 
 | Fundamentals              | Explanation |
 | ------------------------- | ----------- |
