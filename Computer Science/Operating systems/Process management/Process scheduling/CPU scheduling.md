@@ -37,8 +37,11 @@ Tags:
 
 ## Thread scheduling
 - most modern [[Operating systems|OS]] scheduling [[kernel]]-level [[thread]]s
-- and [[thread library]] managing user-level [[thread]]s (independent of [[kernel]])
-- ultimately user-level [[thread]]s are mapped to an associated [[kernel]]-level [[thread]] indirectly or by using a **lightweight process** (LQP)
+- and [[thread library]] managing user-level [[thread]]s (independent of the [[kernel]])
+- ultimately user-level [[thread]]s are mapped to an associated [[kernel]]-level [[thread]] indirectly or by using a **lightweight process** (LWP)
+- **Process-contention scope** (PCS): 
+  In **many-to-one** and **many-to-many** models, the [[thread library]] schedules user-level [[thread]]s to run on an available LWP
+- To decide which [[kernel]]-level [[thread]] to schedule onto a [[Processor|CPU]], the [[kernel]] uses **system-contention scope** (SCS)
 ## Multi-processor issue
 ### Multiple processors
 ### Multicore processor
