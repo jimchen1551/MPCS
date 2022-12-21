@@ -9,10 +9,10 @@ Tags:
 
 | Data structures        | Comment |
 |:---------------------- |:------- |
+| [[Linked list]]        |         |
 | [[Stack]]              |         |
 | [[Queue]]              |         |
 | [[Priority queue]]     |         |
-| [[Linked list]]        |         |
 | [[Heap]]               |         |
 | [[Hash table]]         |         |
 | [[Binary search tree]] |         |
