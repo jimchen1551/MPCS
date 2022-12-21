@@ -17,7 +17,7 @@ Tags:
 	1. code section
 	2. data section
 	3. OS resources
-- benefits
+- benefits: 
 	1. Responsiveness
 		allowing continued execution if part of the process is blocked
 	2. Resource Sharing
