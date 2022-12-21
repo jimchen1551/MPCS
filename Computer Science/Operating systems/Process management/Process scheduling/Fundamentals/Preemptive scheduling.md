@@ -24,8 +24,14 @@ For cases 2 and 3, it's **preemptive** scheduling
   (during the processing of a [[system call]], 
   the [[kernel]] may be busy with activity on behalf of a [[process]], 
   and such activities may involve changing important [[kernel]] data)
-  → a non-preemptive [[kernel]] will wait 
+  
+  → a **non-preemptive** [[kernel]] will wait 
   1. for a [[system call]] to complete or 
   2. for a [[process]] to block while waiting for IO to complete
   before doing a [[context switch]]
+  
   → a simple structure to ensure not preempting a [[process]] while the [[kernel]] data structures are in an inconsistent state
+  (a poor model for supporting real-time computing, where tasks must complete execution within a given time frame)
+  
+  → a **preemptive** [[kernel]] requires mechanisms such as mutex locks to prevent **race conditions** when accessing shared [[kernel]] data structures
+  (modern [[Operating systems|OS]] are fully preemptive when running in [[kernel]] mode)
