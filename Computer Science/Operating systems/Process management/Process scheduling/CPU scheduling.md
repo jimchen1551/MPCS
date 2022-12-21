@@ -25,7 +25,7 @@ Tags:
 | [[Shortest-job-first scheduling]]        | shortest CPU burst |
 | [[Round-robin scheduling]]               | time quantum       |
 | [[Priority scheduling]]                  | priority           |
-| [[Multilevel queue scheduling]]          |                    |
+| [[Multilevel queue scheduling]]          | multi-queues       |
 | [[Multilevel feedback queue scheduling]] |                    |
 
 ## Scheduling criteria
