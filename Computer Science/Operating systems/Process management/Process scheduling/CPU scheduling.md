@@ -42,6 +42,8 @@ Tags:
 - **Process-contention scope** (PCS): 
   In **many-to-one** and **many-to-many** models, the [[thread library]] schedules user-level [[thread]]s to run on an available LWP
 - To decide which [[kernel]]-level [[thread]] to schedule onto a [[Processor|CPU]], the [[kernel]] uses **system-contention scope** (SCS)
+- Typically, PCS is done according to priority and preempts the current thread in favor of a higher-priority thread. 
+
 ## Multi-processor issue
 ### Multiple processors
 ### Multicore processor
