@@ -20,7 +20,32 @@ Tags:
 | [[Medium-term schedular]] | ready → wait    |
 | [[Long-term schedular]]   | new → ready     |
 
+| Scheduling algorithms                    | Explanation |
+| ---------------------------------------- | ----------- |
+| [[First-come, first-served scheduling]]  |             |
+| [[Shortest-job-first scheduling]]        |             |
+| [[Round-robin scheduling]]               |             |
+| [[Priority scheduling]]                  |             |
+| [[Multilevel queue scheduling]]          |             |
+| [[Multilevel feedback queue scheduling]] |             |
+
 ## Scheduling criteria
-## Scheduling algorithms
-### First-come, first-served
-### Shortest-job-first
+
+## Thread scheduling
+
+## Multi-processor scheduling
+### Multicore processor
+### Load balancing
+### Processor affinity
+### Heterogeneous multiprocessing
+## Real-time CPU scheduling
+### Minimizing latency
+### Priority-based scheduling
+### Rate-monotonic scheduling
+### Earliest-deadline-first scheduling
+### Proportional share scheduling
+## Algorithm evaluation
+### Deterministic modeling
+### Queueing models
+### Simulations
+### Implementation
