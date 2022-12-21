@@ -7,9 +7,10 @@ Tags:
 ---
 # CPU scheduling
 - switching the [[Processor|CPU]] among [[Process]]es to make the computer more productive
-- A [[process]] is executed until it must wait. 
-  In a simple computer system, the [[Processor|CPU]] then sits **idle**.
-  With [[Multiprogramming]], when one [[process]] has to wait, another [[process]] can **take over** the use of the [[Processor|CPU]]. 
+- Basic concepts: 
+  1. A [[process]] is executed until it must wait. 
+  2. In a simple computer system, the [[Processor|CPU]] then sits **idle**.
+  3. With [[Multiprogramming]], when one [[process]] has to wait, another [[process]] can **take over** the use of the [[Processor|CPU]]. 
 
 | Fundamentals              | Explanation |
 | ------------------------- | ----------- |
@@ -17,7 +18,7 @@ Tags:
 | [[Preemptive scheduling]] |             |
 | [[Dispatcher]]            |             |
 
-| [[CPU schedular]]         | Explanation     |
+| [[CPU scheduler]]         | Explanation     |
 | ------------------------- | --------------- |
 | [[Short-term schedular]]  | ready → running |
 | [[Medium-term schedular]] | ready → wait    |
