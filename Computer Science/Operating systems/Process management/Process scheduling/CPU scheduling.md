@@ -19,14 +19,14 @@ Tags:
 | [[Preemptive scheduling]] | Preemptive scheduling<br>Non-preemptive scheduling                               |
 | [[Dispatcher]]            | Dispatch latency                                                                 |
 
-| Scheduling algorithms                    | Explanation        |
-| ---------------------------------------- | ------------------ |
-| [[First-come, first-served scheduling]]  | FIFO [[queue]]     |
-| [[Shortest-job-first scheduling]]        | shortest CPU burst |
-| [[Round-robin scheduling]]               | time quantum       |
-| [[Priority scheduling]]                  | priority           |
-| [[Multilevel queue scheduling]]          | multi-queues       |
-| [[Multilevel feedback queue scheduling]] |                    |
+| Scheduling algorithms                    | Explanation                  |
+| ---------------------------------------- | ---------------------------- |
+| [[First-come, first-served scheduling]]  | FIFO [[queue]]               |
+| [[Shortest-job-first scheduling]]        | shortest CPU burst           |
+| [[Round-robin scheduling]]               | time quantum                 |
+| [[Priority scheduling]]                  | priority                     |
+| [[Multilevel queue scheduling]]          | multiple fixed [[queue]]s    |
+| [[Multilevel feedback queue scheduling]] | allowing to cross [[queue]]s |
 
 ## Scheduling criteria
 1. **CPU utilization**: keep the [[Processor|CPU]] as busy as possible
