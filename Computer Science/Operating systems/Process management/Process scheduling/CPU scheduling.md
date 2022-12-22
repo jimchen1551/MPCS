@@ -45,6 +45,7 @@ Tags:
 - Typically, PCS is done according to priority and preempts the current thread in favor of a higher-priority thread. 
 
 ## Multi-processor issue
+
 ### Multiple processors
 ### Multicore processor
 ### Load balancing
