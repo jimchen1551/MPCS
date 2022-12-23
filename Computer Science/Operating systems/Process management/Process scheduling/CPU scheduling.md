@@ -47,10 +47,15 @@ Tags:
 ## Multi-processor issue
 
 ### Multiple processors
+
 ### Multicore processor
+
 ### Load balancing
+
 ### Processor affinity
+
 ### Heterogeneous multiprocessing
+
 ## Real-time computing issue
 
 | Scheduling algorithm                   | Explanation |
