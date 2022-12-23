@@ -66,7 +66,11 @@ Tags:
 | [[Proportional share scheduling]]      |             |
 
 ## Algorithm evaluation
+
 ### Deterministic modeling
+
 ### Queueing models
+
 ### Simulations
+
 ### Implementation
