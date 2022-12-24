@@ -66,6 +66,12 @@ Tags:
 - **Soft real-time systems** provide no guarantee when a critical real-time process is scheduled but guarantee the process will be given preference over noncritical processes. 
 - **Hard real-time systems** restrict that a task must be serviced by its deadline; service, after the deadline has expired, is the same as no service at all. 
 - The system is waiting for an event in real-time to occur. 
+- When an event occurs, the system must respond to and service it as quickly as possible. 
+- **Event latency**: the time that elapses from when an event occurs to when it is serviced. 
+  ![[Screen Shot 2022-12-24 at 12.03.31.png]]
+  1. **Interrupt latency**: the time from the arrival of an [[interrupt]] at the [[Processor|CPU]] to the start of the routine that services the [[interrupt]]
+     ![[Screen Shot 2022-12-24 at 12.09.16.png|500]]
+  2.. **Dispatch latency**
 
 | Scheduling algorithm                   | Explanation |
 | -------------------------------------- | ----------- |
