@@ -62,6 +62,9 @@ Tags:
 | [[Heterogeneous multiprocessing]]  |                                                                                                                                                                   |
 
 ## Real-time computing issue
+[[Real-time embedded system]]
+- **Soft real-time systems** provide no guarantee when a critical real-time process is scheduled but guarantee the process will be given preference over noncritical processes. 
+- **Hard real-time systems** restrict that a task must be serviced by its deadline; service, after the deadline has expired, is the same as no service at all. 
 
 | Scheduling algorithm                   | Explanation |
 | -------------------------------------- | ----------- |
