@@ -57,7 +57,8 @@ Tags:
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Multiple processors scheduling]] | Asymmetric multiprocessing<br>[[Symmetric multiprocessing]]                                                                                                       |
 | [[Multicore processor scheduling]] | Memory stall<br>Software thread<br>Hardware thread<br>Chip multithreading<br>Hyper-multithreading<br>Coarse-grained multithreading<br>Fine-grained multithreading |
-| [[Load balancing]]                 |                                                                                                                                                                   |
+| [[Load balancing]]                 | Push migration<br>Pull migration                                                                                                                                  |
+| [[Processor affinity]]             | Soft affinity<br>Hard affinity                                                                                                                                    |
 | [[Heterogeneous multiprocessing]]  |                                                                                                                                                                   |
 
 ## Real-time computing issue
