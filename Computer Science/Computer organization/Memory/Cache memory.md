@@ -1,6 +1,6 @@
 ---
 Created: [[2022-09-23]]
-Aliases: 
+Aliases: cache
 Types: Card
 Tags: 
 - 
