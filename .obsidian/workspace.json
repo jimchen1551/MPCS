@@ -30,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c08a3bec878cb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Processor affinity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md"
               }
             }
           },
@@ -203,10 +192,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "3eb7eb8ff95c587a",
+  "active": "ff38d5e0cd55c0fe",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Multicore processor scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Multicore processor scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Processor affinity.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Load balancing.md",
