@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -180,7 +179,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "3eb7eb8ff95c587a",
+  "active": "3b6843f217acca32",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
