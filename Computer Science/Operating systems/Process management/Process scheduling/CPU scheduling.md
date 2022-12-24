@@ -68,10 +68,12 @@ Tags:
 - The system is waiting for an event in real-time to occur. 
 - When an event occurs, the system must respond to and service it as quickly as possible. 
 - **Event latency**: the time that elapses from when an event occurs to when it is serviced. 
-  ![[Screen Shot 2022-12-24 at 12.03.31.png]]
+  ![[Screen Shot 2022-12-24 at 12.03.31.png|400]]
   1. **Interrupt latency**: the time from the arrival of an [[interrupt]] at the [[Processor|CPU]] to the start of the routine that services the [[interrupt]]
-     ![[Screen Shot 2022-12-24 at 12.09.16.png|500]]
-  2.. **Dispatch latency**
+     - crucial for real-time systems to **minimize** interrupt latency to ensure that real-time tasks receive immediate attention
+     - one important factor is the time interrupts may be disabled while kernel data structures are being updated
+     ![[Screen Shot 2022-12-24 at 12.09.16.png|400]]
+  2. **Dispatch latency**: the time for the [[dispatcher]] to stop one [[process]] and start another one
 
 | Scheduling algorithm                   | Explanation |
 | -------------------------------------- | ----------- |
