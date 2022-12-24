@@ -14,7 +14,7 @@ Tags:
   2 strategies for organizing the [[thread]]s eligible to be scheduled: 
   1. all [[thread]]s may be in a common **ready** [[queue]]
      - having a possible **race condition** on the shared ready queue
-     - must ensuring that 2 separate processor do not choose to schedule the same thread and that threads are not lost from the queue
+     - must ensure that 2 separate processors do not choose to schedule the same thread and that threads are not lost from the queue
   2. each [[processor]] may have its own private queue of [[thread]]
      - not suffering from the possible performance problems associated with a shared run queue
      - more efficient use of [[cache memory]]
