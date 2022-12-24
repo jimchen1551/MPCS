@@ -75,7 +75,7 @@ Tags:
      ![[Screen Shot 2022-12-24 at 12.09.16.png|400]]
   2. **Dispatch latency**: the time for the [[dispatcher]] to stop one [[process]] and start another one
      - providing **preemptive kernels** to lower the dispatch latency
-     - **Conflict phase** of dispatch latency has 2 components:
+     - The **conflict phase** of dispatch latency has 2 components:
        1. Preemption of any [[process]] running in the [[kernel]]
        2. Release by low-priority [[process]]es of resources needed by a high-priority [[process]]
        ![[Screen Shot 2022-12-24 at 12.23.41.png|400]]

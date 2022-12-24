@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8821860822dc49ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md"
               }
             }
           },
@@ -179,17 +193,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "3b6843f217acca32",
+  "active": "8821860822dc49ca",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Earliest-deadline-first scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Multicore processor scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Processor affinity.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Load balancing.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Multiple processors scheduling.md",
-    "Computer Science/Operating systems/Computer system/Architecture/Symmetric multiprocessing.md",
-    "Computer Science/Computer organization/Memory/Cache memory.md",
-    "Computer Science/Operating systems/File-system management.md",
-    "Computer Science/Operating systems/Cache management.md"
+    "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Load balancing.md"
   ]
 }
