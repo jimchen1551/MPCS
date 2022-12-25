@@ -19,4 +19,4 @@ Tags:
 ## Bounded-buffer problem
 ## Readers-writers problem
 ## Dining-philosophers problem
-## Alternative 
+## Alternative approaches
