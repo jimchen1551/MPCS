@@ -95,6 +95,19 @@ Tags:
 ### Queueing models
 - the distribution of [[CPU-IO burst cycle]]s can be determined
 - the computer system is described as a network of servers
-- each server has a [[quq]]
+- each server has a [[queue]] of **waiting** [[process]]es
+- the [[Processor|CPU]] is a server with its **ready** [[queue]], as is the [[IO]] system with its device [[queue]]s
+- **Queueing-network analysis**: knowing the arrival rate and service rate, we can compute utilization, average queue length, average wait time, and so on. 
+- **Little's formula**: $n=\lambda\times W$, where $n$ is the average long-term queue length, $\lambda$ is the average arrival rate, and $W$ is the average waiting time in the queue. 
 ### Simulations
+![[Screen Shot 2022-12-26 at 02.30.37.png|500]]
+- more accurate than queueing models
+- programmed model of computer system
+- clock is a variable
+- garthering statistics indicating algorithm performance
+- data to drive simulation gathered via
+  1. random number generator
+  2. distribution defined
+  3. trace tapes record sequence of real events in real systems
 ### Implementation
+- implementing new scheduler and testing in real systems
