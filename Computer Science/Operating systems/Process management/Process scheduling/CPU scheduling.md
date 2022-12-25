@@ -90,7 +90,11 @@ Tags:
 ## Algorithm evaluation
 ### Deterministic modeling
 - one type of **analytic evaluation**
-- 
+- taking a particular predetermined workload
+- defining the performance of each algorithm for that workload
 ### Queueing models
+- the distribution of [[CPU-IO burst cycle]]s can be determined
+- the computer system is described as a network of servers
+- each server has a [[quq]]
 ### Simulations
 ### Implementation
