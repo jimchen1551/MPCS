@@ -12,3 +12,4 @@ Tags:
 - assuming that the processing time of a periodic process is the same for each CPU burst
 - scheduling periodic tasks using a static priority policy with preemption
 - the shorter the period, the higher the priority
+- worst-case CPU utilization for scheduling $N$ processes is $N(2^{1/N}-1)$

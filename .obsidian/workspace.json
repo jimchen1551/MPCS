@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "8977aedbd54343e6",
+            "id": "302359bca34cd106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1dd0f0af8400abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Earliest-deadline-first scheduling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Earliest-deadline-first scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Earliest-deadline-first scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Earliest-deadline-first scheduling.md"
               }
             }
           },
@@ -205,10 +193,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d1dd0f0af8400abf",
+  "active": "302359bca34cd106",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md",
     "Computer Science/Operating systems/Process management/Process.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",

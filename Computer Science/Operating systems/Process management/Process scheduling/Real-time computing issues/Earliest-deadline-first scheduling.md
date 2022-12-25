@@ -1,6 +1,6 @@
 ---
 Created: [[2022-12-24]]
-Aliases: 
+Aliases: EDF
 Types: Card
 Tags: 
 - 
