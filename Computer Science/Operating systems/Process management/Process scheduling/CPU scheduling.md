@@ -89,6 +89,8 @@ Tags:
 
 ## Algorithm evaluation
 ### Deterministic modeling
+- one type of **analytic evaluation**
+- 
 ### Queueing models
 ### Simulations
 ### Implementation
