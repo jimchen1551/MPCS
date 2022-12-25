@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "910090a29240c739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md"
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
               }
             }
           },
@@ -193,14 +180,14 @@
       "publish:Publish changes": false
     }
   },
-  "active": "910090a29240c739",
+  "active": "3eb7eb8ff95c587a",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Earliest-deadline-first scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md",
     "Computer Science/Operating systems/Process management/Process.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Heterogeneous multiprocessing.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Multicore processor scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Multi-processor issues/Processor affinity.md",
