@@ -32,18 +32,19 @@
             }
           },
           {
-            "id": "c9799ce07468eaf2",
+            "id": "648319e88998fd50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Error-based learning/Linear regression.md",
+                "file": "Computer Science/Machine learning/Error-based learning/Error function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Error-based learning/Error function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Error-based learning/Error function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning.md"
+                "file": "Computer Science/Machine learning/Error-based learning/Error function.md"
               }
             }
           },
@@ -203,10 +204,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "2ab7f776afc5c068",
+  "active": "648319e88998fd50",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Error-based learning/Linear regression.md",
     "Computer Science/Machine learning/Error-based learning.md",
+    "Computer Science/Machine learning/Error-based learning/Linear regression.md",
     "Computer Science/Machine learning.md",
     "Multivariable linear regression.md",
     "Computer Science/Operating systems.md",
