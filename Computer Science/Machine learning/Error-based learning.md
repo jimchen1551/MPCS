@@ -6,12 +6,11 @@ Tags:
 - 
 ---
 # Error-based learning
-| Fundamental concepts  | Content |
-| --------------------- | ------- |
-| [[Error function]]    |         |
-| [[Error surface]]     |         |
-| [[Gradient descent]]                 |         |
-| [[Initial weight and learning rate]] |         |
+| Fundamental concepts | Content |
+| -------------------- | ------- |
+| [[Error function]]   |         |
+| [[Error surface]]    |         |
+| [[Gradient descent]] |         |
 
 | Algorithms                           | Comment |
 | ------------------------------------ | ------- |

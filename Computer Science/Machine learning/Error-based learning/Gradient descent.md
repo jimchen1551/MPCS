@@ -19,5 +19,10 @@ repeat
 until convergence occurs
 ```
 ![[Screen Shot 2022-12-26 at 18.45.35.png|500]]
-$$\frac{\partial}{\partial w[j]}L_2(\mathbf{M}_w, D)=\frac{\partial}{\partial w[j]}\frac{1}{2}(t-\mathbf{M}_w(d))^2=\frac{\partial}{\partial w[j]}\frac{1}{2}\|t-w^Td\|_2^2$$
-$$=(t-w^Td)\frac{\partial}{\partial w[j]}(t-w^Td)=(t-w^Td)\cdot-d[j]$$
+$$errorDelta(D, w[j])=\frac{\partial}{\partial w[j]}L_2(\mathbf{M}_w, D)=\frac{\partial}{\partial w[j]}\frac{1}{2}\|t-w^Td\|_2^2$$
+$$=\sum_{i=1}^n(t_i-w^Td_i)\frac{\partial}{\partial w[j]}(t_i-w^Td_i)=\sum_{i=1}^n(t_i-w^Td_i)\cdot-d_i[j]$$
+- **batch gradient descent**: one adjustment is made to each weight at each iteration of the algorithm based on summing the squared error
+## Learning rate
+![[Screen Shot 2022-12-26 at 19.20.44.png|500]]
+
+## Initial weight
