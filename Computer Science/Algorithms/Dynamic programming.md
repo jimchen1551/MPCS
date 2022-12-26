@@ -33,10 +33,43 @@ MEMOIZED-CUT-ROD(p, n)
 let r[0:n] be a new array
 for i=0 to n
 	r[i] = -infty
-return MEMOIZED-CUT
+return MEMOIZED-CUT-ROD-AUX(p, n, r)
+
+MEMOIZED-CUT-ROD-AUX(p, n, r)
+if r[n]>=0
+	return r[n]
+if n==0
+	q = 0
+esle 
+	q = -infty
+	for i=1 to n
+		q = max(q, p[i]+MEMOIZED-CUT-ROD-AUX(p, n-i, r))
+r[n] = q
+return q
 ```
 - writing the procedure recursively in a natural manner, but modified to save the result of each subproblem
 ### Bottom-up method
+```Pseudocode
+BOTTOM-UP-CUT-ROD(p, n)
+let r[0:n] be a new array
+r[0] = 0
+for j=1 to n
+	q = -infty
+	for i=1 to j
+		q = max(q, p[i]+r[j-i])
+	r[j] = q
+return r[n]
+
+EXTENDED-BOTTOM-UP-CUT-ROD(p, n)
+let r[0:n] and s[0:n] be new arrays
+```
+- solving any particular subproblem depends only on solving smaller subproblems
+### Subproblem graph
+![[Screen Shot 2022-12-26 at 23.17.34.png]]
+- describing the set of subproblems involved and how subproblems depend on one another
+- the time to compute the solution to a subproblem si proportional to the degree of the corresponding vertex in the subproblem graph
+- the number of subproblems is equal to the number of vertices in the subproblem graph
+- the running time of dynamic programming is linear in the number of vertices and edges
 ## Matrix-chain multiplication
 
 ## Longest common subsequence
