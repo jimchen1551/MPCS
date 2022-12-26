@@ -6,5 +6,6 @@ Tags:
 - 
 ---
 # Gradient descent
-$$\frac{\partial}{\partial w[j]}L_2(\mathbf{M}_w, D)=\frac{\partial}{\partial w[j]}\frac{1}{2}\|t-w^Td\|_2^2$$
-$$=\sum_{i=1}^n(t_i-w^Td_i)\frac{\partial}{\partial w[j]}(t_i-w^Td_i)=\sum_{i=1}^n(t_i-w^Td_i)\cdot-d_j^i$$
+![[Screen Shot 2022-12-26 at 18.28.50.png]]
+$$\frac{\partial}{\partial w[j]}L_2(\mathbf{M}_w, D)=\frac{\partial}{\partial w[j]}\frac{1}{2}(t-\mathbf{M}_w(d))^2=\frac{\partial}{\partial w[j]}\frac{1}{2}\|t-w^Td\|_2^2$$
+$$=(t-w^Td)\frac{\partial}{\partial w[j]}(t-w^Td)=(t-w^Td)\cdot-d[j]$$
