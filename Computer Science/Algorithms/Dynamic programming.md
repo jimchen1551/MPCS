@@ -80,8 +80,15 @@ return r and s
 - the time to compute the solution to a subproblem si proportional to the degree of the corresponding vertex in the subproblem graph
 - the number of subproblems is equal to the number of vertices in the subproblem graph
 - the running time of dynamic programming is linear in the number of vertices and edges
-## Matrix-chain multiplication
-
+## Matrix-chain multiplication problem
+- given a sequence $\langle A_1, \dots A_n\rangle$ of $n$ matrices to be multiplied, and we wish to compute the product $A_1A_2\dots A_n$
+- **fully parenthesized**: a product of matrices is fully parenthesized if it is either a single matrix or the product of 2 fully parenthesized matrix products
+- determine an order for multiplying matrices that has the lowest cost
+- counting the number of parenthesizations
+  - let $P(n)$ denote the number of alternative parenthesizations of a sequence of $n$ matrices
+  - the split b/w 2 subproducts may occur b/w the $k$th and $k+1$ st matrices, for $k\in[1:n-1]$
+  - $P(n)=\begin{cases}1&\text{if }n=1\\\sum_{k=1}^{n-1}P(k)P(n-k)&\text{if }n\geq 2\end{cases}$
+  - 
 ## Longest common subsequence
 
 ## Optimal binary search tree
