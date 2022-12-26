@@ -17,3 +17,6 @@ signal(S){
 	S++;
 }
 ```
+- an integer variable that is accessed only through 2 standard atomic operations: `wait()` and `signal()`
+- **counting semaphore**: ranging over an unrestricted domain
+- **binary semaphore**: ranging only b/w 0 and 1
