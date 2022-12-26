@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Process synchronization
+
 ## Critical-section problem
 ## Peterson's solution
 ## Memory barriers
