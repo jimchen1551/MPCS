@@ -32,12 +32,24 @@
             }
           },
           {
-            "id": "e4b4f58ffef39787",
+            "id": "a991c369a9a8bb39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Machine learning/Error-based learning/Gradient descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2a5470beac34c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Error-based learning/Multivariable linear regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,12 +216,12 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e4b4f58ffef39787",
+  "active": "a991c369a9a8bb39",
   "lastOpenFiles": [
     "Computer Science/Machine learning/Error-based learning.md",
+    "Computer Science/Machine learning/Error-based learning/Multivariable linear regression.md",
     "Computer Science/Machine learning/Error-based learning/Gradient descent.md",
     "Computer Science/Machine learning/Error-based learning/Error surface.md",
-    "Computer Science/Machine learning/Error-based learning/Multivariable linear regression.md",
     "Computer Science/Machine learning/Error-based learning/Error function.md",
     "Computer Science/Machine learning/Error-based learning/Linear regression.md",
     "Computer Science/Machine learning.md",

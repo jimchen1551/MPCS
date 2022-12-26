@@ -24,5 +24,6 @@ $$=\sum_{i=1}^n(t_i-w^Td_i)\frac{\partial}{\partial w[j]}(t_i-w^Td_i)=\sum_{i=1}
 - **batch gradient descent**: one adjustment is made to each weight at each iteration of the algorithm based on summing the squared error
 ## Learning rate
 ![[Screen Shot 2022-12-26 at 19.20.44.png|500]]
-
-## Initial weight
+- based on rules of thumb or trial and error
+- **learning rate decay**: starting with a larger learning rate and then decaying according to a prespecified schedule
+  e.g., $\alpha_t=\alpha_0\frac{c}{c+t}$, where $c$ is a control parameter for rate decay
