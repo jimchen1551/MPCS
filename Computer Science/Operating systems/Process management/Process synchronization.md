@@ -15,18 +15,18 @@ Tags:
 | [[Readers-writers problem]]     |             |
 | [[Dining-philosophers problem]] |             |
 
-| Hardware solutions        | Explanation                          |
-| ------------------------- | ------------------------------------ |
-| [[Memory barriers]]       | force to propagate                   |
-| [[Hardware instructions]] | `test_and_set`<br>`compare_and_swap` |
-| [[Atomic variables]]      | mutual exclsingle variable               |
+| Hardware solutions        | Explanation                           |
+| ------------------------- | ------------------------------------- |
+| [[Memory barriers]]       | force to propagate                    |
+| [[Hardware instructions]] | `test_and_set`<br>`compare_and_swap`  |
+| [[Atomic variables]]      | mutual exclusion of a single variable |
 
-| Software solutions       | Explanation |
-| ------------------------ | ----------- |
-| [[Peterson's solution]]  |             |
-| [[Mutex locks]]          |             |
-| [[Semaphores]]           |             |
-| [[Monitors]]             |             |
+| Software solutions      | Explanation                  |
+| ----------------------- | ---------------------------- |
+| [[Peterson's solution]] | `int turn`<br>`bool flag[2]` |
+| [[Mutex locks]]         |                              |
+| [[Semaphores]]          |                              |
+| [[Monitors]]            |                              |
 
 | Liveness failure       | Explanation |
 | ---------------------- | ----------- |

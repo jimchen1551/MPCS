@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization.md"
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md"
               }
             }
           },
@@ -217,12 +217,12 @@
       "publish:Publish changes": false
     }
   },
-  "active": "400c5770af3c23d8",
+  "active": "b443f70b8623b0d9",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management/Process synchronization.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems/Process management/Process scheduling.md",
-    "Computer Science/Operating systems/Process management/Process synchronization.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Atomic variables.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Memory barriers.md",
