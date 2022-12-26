@@ -26,7 +26,7 @@ Tags:
 | [[Peterson's solution]] | `int turn`<br>`bool flag[2]` |
 | [[Mutex locks]]         | `acquire()`<br>`release()`   |
 | [[Semaphores]]          | `wait()`<br>`signal()`       |
-| [[Monitors]]            |                              |
+| [[Monitors]]            | skipped                      |
 
 | Liveness failure       | Explanation |
 | ---------------------- | ----------- |

@@ -44,19 +44,19 @@
             }
           },
           {
-            "id": "dae1eb33557e577b",
+            "id": "02cfc757e24e1714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization.md"
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md"
               }
             }
           },
@@ -217,11 +216,11 @@
       "publish:Publish changes": false
     }
   },
-  "active": "400c5770af3c23d8",
+  "active": "02cfc757e24e1714",
   "lastOpenFiles": [
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
     "Computer Science/Operating systems/Process management/Process synchronization.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Semaphores.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md",
     "Computer Science/Operating systems/Process management.md",
