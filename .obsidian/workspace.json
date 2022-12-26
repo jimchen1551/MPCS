@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md",
+                "file": "Computer Science/Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f4c83224ab7d5cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md"
+                "file": "Computer Science/Algorithms/Dynamic programming.md"
               }
             }
           },
@@ -179,17 +193,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "2ab7f776afc5c068",
+  "active": "4f4c83224ab7d5cf",
   "lastOpenFiles": [
-    "Computer Science/Data structures.md",
     "Computer Science/Algorithms.md",
+    "Computer Science/Data structures/Red-black tree.md",
+    "Computer Science/Data structures.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Machine learning/Error-based learning/Multinominal logistic regression.md",
     "Computer Science/Machine learning/Error-based learning/Error surface.md",
     "Computer Science/Machine learning/Error-based learning/Logistic function.md",
     "Computer Science/Machine learning/Error-based learning/Logistic regression.md",
-    "Computer Science/Machine learning/Error-based learning/Multivariable linear regression.md",
-    "Computer Science/Machine learning/Error-based learning/Gradient descent.md"
+    "Computer Science/Machine learning/Error-based learning/Multivariable linear regression.md"
   ]
 }

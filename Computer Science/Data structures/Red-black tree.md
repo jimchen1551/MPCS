@@ -164,6 +164,7 @@ while x!=T.root and x.color==BLACK
 		w.right.color = BLACK
 		LEFT-ROTATE(T, x.p)
 		x = T.root
-	else ()
+	else (same as then clause with right and left exchanged)
+x.color = BLACK
 ```
 - taking $O(\lg n)$ time
