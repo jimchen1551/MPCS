@@ -16,3 +16,18 @@ Tags:
 - She cannot pick up a chopstick that is already in the hand of a neighbor.
 - When a hungry philosopher has both her chopsticks at the same time, she eats without releasing the chopsticks.
 - When she is finished eating, she puts down both chopsticks and starts thinking again.
+```C
+while (true){
+	wait(chopstick[i]);
+	wait(chopstick[(i+1)%5]);
+	/*eat for a while*/
+	signal(chopstick[i]);
+	signal(chopstick[(i+1)%5]);
+	/*think for a while*/
+}
+```
+- to allocate several resources among several processes in a deadlock-free and starvation-free manner
+## Solutions
+1. [[Semaphores]]
+   
+2. [[Monitors]]
