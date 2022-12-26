@@ -11,6 +11,7 @@ Tags:
 | [[Producer-consumer problem]] |             |
 | [[Critical-section problem]]  |             |
 
+|Hardware solutions| Explanation|
 ## Peterson's solution
 ## Memory barriers
 ## Hardware instructions
