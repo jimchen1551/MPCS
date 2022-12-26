@@ -34,3 +34,4 @@ while (true){
    2. Allow a philosopher to pick up her chopsticks only if both chopsticks are available. 
    3. Use an asymmetric solution. 
 2. [[Monitors]]
+   
