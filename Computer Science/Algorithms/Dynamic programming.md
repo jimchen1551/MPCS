@@ -21,10 +21,18 @@ Tags:
   2. Suppose for a given problem, you are given a choice that leads to an optimal solution. 
   3. Given this choice, determine which subproblems ensue and how to characterize the resulting space of subproblems best. 
   4. Use the **cut-and-paste** technique to show that the solutions to the subproblems used within the optimal solution to the problem must themselves be optimal. 
+## Overlapping subproblem
+- 2 subproblems overlap if they are the same subproblem that occurs as a subproblem of different problems. 
+- Dynamic programming solves each subproblem once and stores the solution in a table where it can be looked up when needed. 
 ## Cut-and-paste
 - Suppose that one of the subproblem solutions is not optimal
 - **Cut** it out and **Paste** in an optimal solution. 
 - Get a better solution to the original problem. 
+## Memoization
+- making a table indexed by subproblem
+1. lookup in table
+2. if answer exists, use it
+3. else, compute the answer and store it
 ## Running time
 - depending on the product of:
   1. the number of subproblems overall
