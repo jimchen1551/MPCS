@@ -30,8 +30,8 @@ Tags:
 - Get a better solution to the original problem. 
 ## Memoization
 - making a table indexed by subproblem
-1. lookup in table
-2. if answer exists, use it
+1. lookup in the table
+2. if the answer exists, use it
 3. else, compute the answer and store it
 ## Running time
 - depending on the product of:
@@ -151,6 +151,15 @@ return m and s
 - Using 2 subproblems
 - $j-i$ choices to determine which way yields an optimal solution
 → $T(n)=\Theta(n^2)$
-## Longest common subsequence
-
+## Longest common subsequence problem
+- aka LCS
+- given 2 sequences $X$ and $Y$, find a maximum-length common subsequence of $X$ and $Y$
+Step 1: 
+- given a sequence $X$, the $i$th prefix of $X$, for $i=1, 2,\dots, m$ is $X_i=\langle x_1, \dots, x_i\rangle$
+- Optimal substructure:
+  Let $X=X_m$ and $Y=Y_n$ be sequences, and let $Z=Z_k$ be any LCS of $X$ and $Y$
+  1. If $x_m=y_n$, then $z_k=x_m=y_n$ and $Z_{k-1}$ is an LCS of
+Step 2: 
+Step 3: 
+Step 4: 
 ## Optimal binary search tree
