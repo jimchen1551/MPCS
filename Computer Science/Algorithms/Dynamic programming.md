@@ -167,6 +167,7 @@ Step 2:
 Step 3: 
 - storing the $c[i, j]$ values in a table $c[0:m, 0:n]$ whose entries are computed in **row-major** order
 - $b[i, j]$ points to the table entry corresponding to the optimal subproblem solution chosen when computing $c[i, j]$
+![[Screen Shot 2022-12-27 at 06.39.06.png]]
 ```Pseudocode
 LCS-LENGTH(X, Y)
 m = X.length
@@ -181,7 +182,18 @@ for i=1 to m
 		if x_i==y_j
 			c[i, j] = c[i-1, j-1]+1
 			b[i, j] = "left-up"
-		else if c[i-1, j]>=c[i, j]
+		else if c[i-1, j]>=c[i, j-1]
+			c[i, j] = c[i-1, j]
+			b[i, j] = "up"
+		else
+			c[i, j] = c[i, j-1]
+			b[i, j] = "left"
+return c and b
 ```
-Step 4: 
+→ $T(m, n) = O(mn)$
 ## Optimal binary search tree
+- given a sorted sequence $K=k_1, k_2, \dots, k_n$ of $n$ distinct keys
+- to build a [[Binary search tree]] from the keys
+- for $k_i$, have probability $p_i$ that a search is for $k_i$
+- for unsuccessful search, we have $n+1$ dummy keys $d_0, \dots, d_n$
+- for $d_i$, have probability $q_i$
