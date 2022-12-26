@@ -20,17 +20,17 @@ Tags:
 
 ![[Screen Shot 2022-10-21 at 12.33.44.png]]
 
-| Resource management        | Content                                                                                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Process management]]     | [[Process]]<br>[[Process operation]]<br>[[Process scheduling]]<br>[[Process synchronization]]<br>[[Interprocess communication]]<br>[[Client-server communication]] |
-| [[Cache management]]       |                                                                                                                                                                    |
-| [[Memory management]]      | [[Main memory]]<br>[[Virtual memory]]                                                                                                                              |
-| [[Storage management]]     | [[Mass-storage structure]]                                                                                                                                         |
-| [[File-system management]] | [[File-system interface]]<br>[[File-system internal]]                                                                                                              |
-| [[IO-system management]]   | [[IO system]]                                                                                                                                                      |
-| [[Protection]]             |                                                                                                                                                                    |
-| [[Security]]               |                                                                                                                                                                    |
-| [[Virtualization]]         |                                                                                                                                                                    |
+| Resource management        | Content                                                                                                                                   |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Process management]]     | [[Process]]<br>[[Process scheduling]]<br>[[Process synchronization]]<br>[[Interprocess communication]]<br>[[Client-server communication]] |
+| [[Cache management]]       |                                                                                                                                           |
+| [[Memory management]]      | [[Main memory]]<br>[[Virtual memory]]                                                                                                     |
+| [[Storage management]]     | [[Mass-storage structure]]                                                                                                                |
+| [[File-system management]] | [[File-system interface]]<br>[[File-system internal]]                                                                                     |
+| [[IO-system management]]   | [[IO system]]                                                                                                                             |
+| [[Protection]]             |                                                                                                                                           |
+| [[Security]]               |                                                                                                                                           |
+| [[Virtualization]]         |                                                                                                                                           |
 
 | Computing environment         | Content                                                                                                  |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------- |

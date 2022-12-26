@@ -28,4 +28,5 @@ Tags:
 
 - [[Process state]]: the state of a process, e.g., new, ready, running, etc.
 - [[Process control block]]: the repository for data to (re)start a process
-- [[Thread]]: the lightweight process
+- [[Process operation]]: [[Process creation]] and [[Process termination]]
+- [[Thread]]: lightweight process
