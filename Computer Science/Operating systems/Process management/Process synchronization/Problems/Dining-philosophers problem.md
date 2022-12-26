@@ -29,5 +29,8 @@ while (true){
 - to allocate several resources among several processes in a deadlock-free and starvation-free manner
 ## Solutions
 1. [[Semaphores]]
-   
+   to remedy the [[deadlock]] problem,
+   1. Allow at most four philosophers to be sitting simultaneously at the table.
+   2. Allow a philosopher to pick up her chopsticks only if both chopsticks are available. 
+   3. Use an asymmetric solution. 
 2. [[Monitors]]

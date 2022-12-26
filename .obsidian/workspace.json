@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1016b96cd82cbadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md"
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md"
               }
             }
           },
@@ -217,8 +229,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a98d107fb7a75f98",
+  "active": "1016b96cd82cbadc",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
     "Computer Science/Operating systems/Process management/Process synchronization.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Problems/Readers-writers problem.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Problems/Bounded-buffer problem.md",
@@ -227,7 +240,6 @@
     "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Semaphores.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md",
-    "Computer Science/Operating systems/Process management.md"
+    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md"
   ]
 }
