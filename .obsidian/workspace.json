@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "3ade074c85821fe6",
+            "id": "070f90b7ec4e8de6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,9 +192,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "3ade074c85821fe6",
+  "active": "070f90b7ec4e8de6",
   "lastOpenFiles": [
     "Computer Science/Machine learning.md",
+    "Multivariable linear regression.md",
     "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Process management.md",
@@ -202,7 +203,6 @@
     "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Problems/Readers-writers problem.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Problems/Bounded-buffer problem.md"
+    "Computer Science/Operating systems/Process management/Process synchronization/Problems/Readers-writers problem.md"
   ]
 }

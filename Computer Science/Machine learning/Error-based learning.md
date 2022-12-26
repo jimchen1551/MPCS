@@ -6,10 +6,17 @@ Tags:
 - 
 ---
 # Error-based learning
-| Fundamental concepts | Content |
-| -------------------- | ------- |
-|                      |         |
+| Fundamental concepts  | Content |
+| --------------------- | ------- |
+| [[Error function]]    |         |
+| [[Error surface]]     |         |
 
-| Algorithms | Comment |
-| ---------- | ------- |
-|            |         |
+| Algorithms                           | Comment |
+| ------------------------------------ | ------- |
+|[[[[Linear regression]]]\\||
+| [[Multivariable linear regression]]  |         |
+| [[Gradient descent]]                 |         |
+| [[Initial weight and learning rate]] |         |
+| [[Logistic regression]]              |         |
+
+## For categorical features
