@@ -15,5 +15,10 @@ Tags:
 - $n$ activities require **exclusive** use of a common resource
 - $a_i$ needs resource during period $[s_i, f_i)$, which is a half-open interval, where $s_i$ = start time and $f_i$ = finish time, where $0\leq s_i\leq f_i\leq\infty$
 - If $a_i$ and $a_j$ are **compatible**, the intervals $[s_i, f_i)$ and $[s_j, f_j)$ do not overlap. 
+- Selecting the largest possible set of **mutually compatible** activities
+## Knapsack problem
 ## Huffman codes
-## Offline caching
+- very effective technique for compressing data
+- considering the data to be a sequence of characters
+### Huffman's greedy algorithm
+- using a table of the frequencies of occurrence of t

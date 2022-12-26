@@ -65,8 +65,8 @@ Tags:
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Incremental method      | [[Insertion sort]]                                                                                                                               |
 | [[Divide and conquer]]  | [[Merge sort]]<br>[[Strassen's algorithm]]<br>[[Substitution method]]<br>[[Recursion-tree method]]<br>[[Master method]]<br>[[Akra-Bazzi method]] |
-| [[Greedy algorithms]]   | [[Selection sort]]                                                                                                                               |
 | [[Dynamic programming]] |                                                                                                                                                  |
+| [[Greedy algorithms]]   | [[Selection sort]]                                                                                                                               |
 
 ## Reference book
 - Algorithms in a nutshell by George T. Heineman, Gary Pollice, and Stanley Selkow

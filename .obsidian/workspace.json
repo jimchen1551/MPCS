@@ -30,30 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f4c83224ab7d5cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Dynamic programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44438881894e293b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -220,9 +196,9 @@
   "active": "111a829782eacfa7",
   "lastOpenFiles": [
     "Computer Science/Algorithms.md",
-    "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Algorithms/Greedy algorithms.md",
     "Computer Science/Algorithms/Dynamic programming.md",
+    "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Data structures/Binary search tree.md",
     "Computer Science/Data structures.md",
     "Computer Science/Machine learning.md",
