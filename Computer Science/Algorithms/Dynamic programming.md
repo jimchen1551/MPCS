@@ -203,4 +203,7 @@ return c and b
   $E[\text{search cost in T}]=\sum_{i=1}^n(depth_T(k_i)+1)\cdot p_i+\sum_{i=0}^n(depth_T(d_i)+1)\cdot q_i$
   ![[Screen Shot 2022-12-27 at 07.07.03.png]]
   ![[Screen Shot 2022-12-27 at 07.06.51.png]]
-  
+Step 1:
+Step 2:
+Step 3:
+Step 4:
