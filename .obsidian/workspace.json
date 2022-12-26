@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "111a829782eacfa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Greedy algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4f4c83224ab7d5cf",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md",
+                "file": "Computer Science/Algorithms/Greedy algorithm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md",
+                "file": "Computer Science/Algorithms/Greedy algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Red-black tree.md"
+                "file": "Computer Science/Algorithms/Greedy algorithm.md"
               }
             }
           },
@@ -205,13 +217,13 @@
       "publish:Publish changes": false
     }
   },
-  "active": "44438881894e293b",
+  "active": "111a829782eacfa7",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
+    "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Data structures/Binary search tree.md",
-    "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Data structures.md",
-    "Computer Science/Algorithms.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Machine learning/Error-based learning/Multinominal logistic regression.md",
