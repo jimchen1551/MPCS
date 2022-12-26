@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Error-based learning/Logistic regression.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Error-based learning/Logistic regression.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Error-based learning/Logistic regression.md"
+                "file": "Computer Science/Machine learning/Error-based learning.md"
               }
             }
           },
@@ -204,8 +204,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "6706d2afd77e4cdd",
+  "active": "070f90b7ec4e8de6",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Error-based learning/Logistic regression.md",
     "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Machine learning/Error-based learning/Multivariable linear regression.md",
     "Computer Science/Machine learning/Error-based learning/Gradient descent.md",
@@ -214,7 +215,6 @@
     "Computer Science/Machine learning/Error-based learning/Linear regression.md",
     "Computer Science/Machine learning.md",
     "Multivariable linear regression.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Process management.md"
+    "Computer Science/Operating systems.md"
   ]
 }
