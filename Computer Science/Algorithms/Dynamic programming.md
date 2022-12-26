@@ -15,7 +15,8 @@ Tags:
 2. Recursively define the value of an optimal solution
 3. Compute the value of an optimal solution, typically in a bottom-up fashion
 4. Construct an optimal solution from computed information
-- **Optimal substructure**: optimal solutions to a problem incorporate optimal solutions to related subproblems, which we may solve independently. 
+## Optimal substructure
+- optimal solutions to a problem incorporate optimal solutions to related subproblems, which we may solve independently. 
   1. A solution to the problem consists of making a choice. Making this choice leaves one or more subproblems to be solved. 
   2. Suppose for a given problem, you are given a choice that leads to an optimal solution. 
   3. Given this choice, determine which subproblems ensue and how to characterize the resulting space of subproblems best. 
@@ -23,7 +24,11 @@ Tags:
 ## Cut-and-paste
 - Suppose that one of the subproblem solutions is not optimal
 - **Cut** it out and **Paste** in an optimal solution. 
-- Get a better 
+- Get a better solution to the original problem. 
+## Running time
+- depending on the product of:
+  1. the number of subproblems overall
+  2. how many choices to look at for each subproblem
 ## Rod cutting problem
 - given a rod of length $n$ inches and a table of prices $p_i$, for $i=1, 2, \dots, n$
 - determine the maximum revenue $r_n$ obtainable by cutting up the rod and selling the pieces
@@ -35,6 +40,9 @@ Tags:
   - $r_n=p_{i1}+p_{i2}+\dots+p_{ik}$
 ![[Screen Shot 2022-12-26 at 22.59.59.png|500]]
 → $r_n=\max_{1\leq i\leq n}(p_i+r_{n-i})$
+- a rod of size $n$ uses just one subproblem
+- $n$ choices for $i$ in order to determine which one yields an optimal solution
+→ $T(n)=\Theta(n)$
 ### Top-down method with memoization
 ```Pseudocode
 MEMOIZED-CUT-ROD(p, n)
@@ -132,6 +140,9 @@ return m and s
   1. each entry $s[i, j]$ records a value of $k$ such that an optimal parenthesization of $A_iA_{i+1}\dots A_j$ splits the product b/w $A_k$ and $A_{k+1}$
 ![[Screen Shot 2022-12-27 at 00.32.00.png|500]]
 ![[Screen Shot 2022-12-27 at 00.32.54.png|500]]
+- Using 2 subproblems
+- $j-i$ choices to determine which way yields an optimal solution
+→ $T(n)=\Theta(n^2)$
 ## Longest common subsequence
 
 ## Optimal binary search tree
