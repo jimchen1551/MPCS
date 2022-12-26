@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "192c7f00546ca623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "847f85359775e27f",
             "type": "leaf",
             "state": {
@@ -86,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Critical-section problem.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Critical-section problem.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Critical-section problem.md"
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md"
               }
             }
           },
@@ -205,9 +216,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "847f85359775e27f",
+  "active": "192c7f00546ca623",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Process management/Process synchronization.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Problems/Critical-section problem.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Problems/Producer-consumer problem.md",
     "Computer Science/Operating systems/Process management.md",
@@ -215,7 +227,6 @@
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Proportional share scheduling.md",
     "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Earliest-deadline-first scheduling.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Rate-monotonic scheduling.md"
+    "Computer Science/Operating systems/Process management/Process scheduling/Real-time computing issues/Priority-based scheduling.md"
   ]
 }

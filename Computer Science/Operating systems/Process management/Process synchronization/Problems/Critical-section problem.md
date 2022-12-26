@@ -30,5 +30,7 @@ while (true){
 1. **preemptive kernels**: allowing a [[process]] to be preempted while it is running in kernel mode
    - needing to be designed against race conditions
    - difficult to design for [[Symmetric multiprocessing|SMP]] system, since it is possible for 2 kernel-mode [[process]]es to run simultaneously on different [[Processor|CPU]] cores
+   - more responsive, since there is less risk that a kernel-mode [[process]] will run for an arbitrarily long period before relinquishing the processor to waiting processes
+   - more suitable for [[Real-time embedded system]], as it will allow a real-time [[process]] to preempt a [[process]] currently running in the kernel
 2. **nonpreemptive kernels**: not allowing a [[process]] running in kernel mode to be preempted; the [[process]] will run until it exits kernel mode, blocks, or voluntarily yields control of the [[Processor|CPU]]
    - free from race conditions
