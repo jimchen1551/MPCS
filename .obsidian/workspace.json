@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithm.md",
+                "file": "Computer Science/Algorithms/Greedy algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithm.md",
+                "file": "Computer Science/Algorithms/Greedy algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithm.md",
+                "file": "Computer Science/Algorithms/Greedy algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithm.md"
+                "file": "Computer Science/Algorithms/Greedy algorithms.md"
               }
             }
           },
@@ -221,13 +221,13 @@
   "lastOpenFiles": [
     "Computer Science/Algorithms.md",
     "Computer Science/Data structures/Red-black tree.md",
+    "Computer Science/Algorithms/Greedy algorithms.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Data structures/Binary search tree.md",
     "Computer Science/Data structures.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Machine learning/Error-based learning/Multinominal logistic regression.md",
-    "Computer Science/Machine learning/Error-based learning/Error surface.md",
-    "Computer Science/Machine learning/Error-based learning/Logistic function.md"
+    "Computer Science/Machine learning/Error-based learning/Error surface.md"
   ]
 }

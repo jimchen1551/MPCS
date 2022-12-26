@@ -5,4 +5,7 @@ Types: Card
 Tags: 
 - 
 ---
-# Greedy algorithm
+# Greedy algorithms
+
+## Huffman codes
+## Offline caching
