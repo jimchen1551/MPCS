@@ -21,12 +21,12 @@ Tags:
 | [[Hardware instructions]] | `test_and_set`<br>`compare_and_swap`  |
 | [[Atomic variables]]      | mutual exclusion of a single variable |
 
-| Software solutions      | Explanation                  |
-| ----------------------- | ---------------------------- |
-| [[Peterson's solution]] | `int turn`<br>`bool flag[2]` |
-| [[Mutex locks]]         | `acquire()`<br>`release()`   |
-| [[Semaphores]]          | `wait()`<br>`signal()`       |
-| [[Monitors]]            | monitor type                      |
+| Software solutions      | Explanation                                       |
+| ----------------------- | ------------------------------------------------- |
+| [[Peterson's solution]] | `int turn`<br>`bool flag[2]`                      |
+| [[Mutex locks]]         | `acquire()`<br>`release()`                        |
+| [[Semaphores]]          | `wait()`<br>`signal()`                            |
+| [[Monitors]]            | monitor type<br>`wait`<br>`signal`<br>`broadcast` |
 
 | Liveness failure       | Explanation                                    |
 | ---------------------- | ---------------------------------------------- |

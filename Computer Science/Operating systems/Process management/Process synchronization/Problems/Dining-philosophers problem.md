@@ -34,4 +34,21 @@ while (true){
    2. Allow a philosopher to pick up her chopsticks only if both chopsticks are available. 
    3. Use an asymmetric solution. 
 2. [[Monitors]]
-   
+```C
+if ((state[(i+4)%5]!=EATING)&&(state[(i+1)%5]!=EATING))
+   state[i]=EATING
+
+monitor DiningPhilosophers
+{
+	enum{THINKING, HUNGRY, EATING}state[5];
+	condition self[5];
+	void pickup(int i){
+		state[i] = HUNGRY;
+		test(i);
+		if (state[i]!=EATING){
+			self[i].wait();
+		}
+	}
+	
+}
+```
