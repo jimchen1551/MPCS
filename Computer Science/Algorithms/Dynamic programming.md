@@ -84,11 +84,15 @@ return r and s
 - given a sequence $\langle A_1, \dots A_n\rangle$ of $n$ matrices to be multiplied, and we wish to compute the product $A_1A_2\dots A_n$
 - **fully parenthesized**: a product of matrices is fully parenthesized if it is either a single matrix or the product of 2 fully parenthesized matrix products
 - determine an order for multiplying matrices that has the lowest cost
-- counting the number of parenthesizations
+
+- Naive method: counting the number of parenthesizations
   - let $P(n)$ denote the number of alternative parenthesizations of a sequence of $n$ matrices
   - the split b/w 2 subproducts may occur b/w the $k$th and $k+1$ st matrices, for $k\in[1:n-1]$
   - $P(n)=\begin{cases}1&\text{if }n=1\\\sum_{k=1}^{n-1}P(k)P(n-k)&\text{if }n\geq 2\end{cases}$
-  - 
+  - the solution to the recurrence is $\Omega(2^n)$
+
+- Dynamic programming: 
+  1. adopting $A_{i\dots j}$, where $i\leq j$, for the matrix resulting from evaluating the product $A_iA_{i+1}\dots A_j$
 ## Longest common subsequence
 
 ## Optimal binary search tree
