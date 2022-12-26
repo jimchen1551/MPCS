@@ -1,6 +1,6 @@
 ---
 Created: [[2022-12-26]]
-Aliases: 
+Aliases: spinlock
 Types: Card
 Tags: 
 - 
@@ -28,4 +28,5 @@ release(){
 - protecting critical sections and preventing race conditions
 - `acquire()` acquires the lock
 - `release()` releases the lock 
+- Advantages: no need to do [[Context switch]]
 - Flaws: **busy waiting** blocks the other [[process]]es while unavailable

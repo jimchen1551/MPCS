@@ -24,7 +24,7 @@ Tags:
 | Software solutions      | Explanation                  |
 | ----------------------- | ---------------------------- |
 | [[Peterson's solution]] | `int turn`<br>`bool flag[2]` |
-| [[Mutex locks]]         |                              |
+| [[Mutex locks]]         | `acquire()`<br>`release()`   |
 | [[Semaphores]]          |                              |
 | [[Monitors]]            |                              |
 
