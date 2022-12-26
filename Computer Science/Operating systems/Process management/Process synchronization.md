@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Process synchronization
+
 | Problems of synchronization     | Explanation |
 | ------------------------------- | ----------- |
 | [[Producer-consumer problem]]   |             |

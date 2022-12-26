@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Peterson's solution
+![[Screen Shot 2022-12-26 at 12.17.13.png]]
 ```C
 while (true){
 	flag[i] = true;
