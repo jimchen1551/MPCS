@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44438881894e293b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Red-black tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -195,15 +207,15 @@
   },
   "active": "4f4c83224ab7d5cf",
   "lastOpenFiles": [
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Data structures.md",
+    "Computer Science/Data structures/Binary search tree.md",
+    "Computer Science/Algorithms/Dynamic programming.md",
+    "Computer Science/Algorithms.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Error-based learning.md",
     "Computer Science/Machine learning/Error-based learning/Multinominal logistic regression.md",
     "Computer Science/Machine learning/Error-based learning/Error surface.md",
-    "Computer Science/Machine learning/Error-based learning/Logistic function.md",
-    "Computer Science/Machine learning/Error-based learning/Logistic regression.md"
+    "Computer Science/Machine learning/Error-based learning/Logistic function.md"
   ]
 }
