@@ -122,6 +122,8 @@ return m and s
 ```
   Step 4: 
   1. each entry $s[i, j]$ records a value of $k$ such that an optimal parenthesization of $A_iA_{i+1}\dots A_j$ splits the product b/w $A_k$ and $A_{k+1}$
+![[Screen Shot 2022-12-27 at 00.32.00.png|500]]
+![[Screen Shot 2022-12-27 at 00.32.54.png|500]]
 ## Longest common subsequence
 
 ## Optimal binary search tree
