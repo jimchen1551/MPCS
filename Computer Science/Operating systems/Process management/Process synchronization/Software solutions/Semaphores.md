@@ -7,15 +7,20 @@ Tags:
 ---
 # Semaphores
 ```C
-wait(S){
-	while(S<=0){
-		/*busy wait*/
+wait(semaphore* S){
+	S->value--;
+	if (S->value<0){
+		add this process to S->list;
+		sleep();
 	}
-	S--;
 }
 
-signal(S){
-	S++;
+signal(semaphore* S){
+	S->value++;
+	if (S->value<=0){
+		remove a process P from S->list;
+		wakeup(P);
+	}
 }
 
 typedef struct{
