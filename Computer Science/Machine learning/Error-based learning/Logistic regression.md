@@ -11,4 +11,4 @@ Tags:
 $$\mathbf{M}_w(d)=logistic(w\cdot d)$$
 - [[gradient descent]] works
 $$errorDelta(D, w[j])=\frac{\partial}{\partial w[j]}L_2(logistic(w\cdot d), D)$$
-$$$$
+$$=(t-logistic(w\cdot d))\cdot logistic(w\cdot d)(1-logistic(w\cdot d))\cdot d[j]$$

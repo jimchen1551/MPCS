@@ -27,3 +27,8 @@ Tags:
 - using the **[[logistic function]]** to solve
   1. [[gradient descent]] not working
   2. faraway point prediction problems
+
+## For non-linear relationships
+1. define $b$ basis functions ($\phi_k(d)$) and use them to transform data to capture non-linear relationships. 
+2. define the model as a linear combination of the $b$ basis functions. 
+   $\mathbf{M}_w(d_i)=\sum_{k=0}^bw_k\cdot\phi_k(d_i)$, where $d_i$ is a data entity described by $m$ descriptive features, and $\phi_k$ is a basis function
