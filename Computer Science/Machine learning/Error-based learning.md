@@ -18,7 +18,6 @@ Tags:
 | [[Multivariable linear regression]]  |         |
 | [[Logistic regression]]              |         |
 | [[Multinominal logistic regression]] |         |
-| [[Support vector machine]]           |         |
 
 ## For categorical features
 ![[Screen Shot 2022-12-26 at 19.57.08.png|500]]
