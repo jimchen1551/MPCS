@@ -92,7 +92,16 @@ return r and s
   - the solution to the recurrence is $\Omega(2^n)$
 
 - Dynamic programming: 
+  Step 1:
   1. adopting $A_{i\dots j}$, where $i\leq j$, for the matrix resulting from evaluating the product $A_iA_{i+1}\dots A_j$
+  2. supposing that to optimally parenthesize $A_iA_{i+1}\dots A_j$, split the product b/w $A_k$ and $A_{k+1}$
+  3. subchains $A_iA_{i+1}\dots A_k$ and $A_{k+1}A_{k+2}\dots A_j$ must be optimal parenthesization respectively
+  Step 2: 
+  1. determining the minimum cost of a parenthesization of $A_iA_{i+1}\dots A_j$ for $1\leq i\leq j\leq n$
+  2. $m[i, j]$: the minimum number of scalar multiplications needed to compute the matrix $A_{i\dots j}$
+     $m[i, j]=\begin{cases}0&\text{if }i=j\\\min_{i\leq k<j}(m[i, k]+m[k+1, j]+p_{i-1}p_kp_j)&\text{if }i<j\end{cases}$
+  Step 3:
+
 ## Longest common subsequence
 
 ## Optimal binary search tree
