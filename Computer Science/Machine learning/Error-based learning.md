@@ -6,11 +6,11 @@ Tags:
 - 
 ---
 # Error-based learning
-| Fundamental concepts | Content |
-| -------------------- | ------- |
-| [[Error function]]   |         |
-| [[Error surface]]    |         |
-| [[Gradient descent]] |         |
+| Fundamental concepts  | Content |
+| --------------------- | ------- |
+| [[Error function]]    |         |
+| [[Error surface]]     |         |
+| [[Gradient descent]]  |         |
 
 | Algorithms                           | Comment |
 | ------------------------------------ | ------- |
@@ -24,5 +24,6 @@ Tags:
 ![[Screen Shot 2022-12-26 at 19.57.08.png|500]]
 - one-hot encoding
 - for target features, $\mathbf{M}_w(d)=\begin{cases}1\ \text{if }w\cdot d\geq0\\0\ otherwise\end{cases}$, and convert the prediction surface to the decision surface. 
-- using the **logistic function** to solve
-  1. [[gradient descent]] not work
+- using the **[[logistic function]]** to solve
+  1. [[gradient descent]] not working
+  2. faraway point prediction problems
