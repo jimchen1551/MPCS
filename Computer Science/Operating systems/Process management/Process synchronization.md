@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Process synchronization
+## Producer-consumer problem
 
 ## Critical-section problem
 ## Peterson's solution
