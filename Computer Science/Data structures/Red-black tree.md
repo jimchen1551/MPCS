@@ -107,3 +107,25 @@ T.root.color = BLACK
   3. line 16 colors z red
   4. because coloring z red may cause a violation of one of the red-black properties, line 17 calls RB-INSERT-FIXUP(T, z) in order to restore the red-black properties
 ## Deletion
+```Pseudocode
+RB-TRANSPLANT(T, u, v)
+if u.p==T.nil
+	T.root = v
+else if u==u.p.left
+	u.p.left = v
+else u.p.right = v
+v.p = u.p
+
+RB-DELETE(T, z)
+y = z
+y-original-color = y.color
+if z.left==T.nil
+	x = z.right
+	RB-TRANSPLANT(T, z, t.right)
+else if z.right==T.nil
+	x = z.left
+	RB-TRANSPLANT(T, z, z.left)
+else
+	y = TREE-MINIMUM(z.right)
+	y-
+```
