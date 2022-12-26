@@ -127,5 +127,43 @@ else if z.right==T.nil
 	RB-TRANSPLANT(T, z, z.left)
 else
 	y = TREE-MINIMUM(z.right)
-	y-
+	y-original-color = y.color
+	x = y.right
+	if y.p==z
+		x.p = y
+	else
+		RB-TRANSPLANT(T, y, y.right)
+		y.right = z.right
+		y.right.p = y
+	RB-TRANSPLANT(T, z, y)
+	y.left = z.left
+	y.left.p = y
+	y.color = z.color
+if y-original-color==BLACK
+	RB-DELETE-FIXUP(T, x)
+
+RB-DELETE-FIXUP(T, x)
+while x!=T.root and x.color==BLACK
+	if x==x.p.left
+		w = x.p.right
+		if w.color==RED
+			w.color = BLACK
+			x.p.color = RED
+			LEFT-ROTATE(T, x, p)
+			w = x.p.right
+		if w.left.color==BLACK and w.right.color==BLACK
+			w.color = RED
+			x = x.p
+		else if w.right.color==BLACK
+			w.left.color = BLACK
+			w.color = RED
+			RIGHT-ROTATE(T, w)
+			w = x.p.right
+		w.color = x.p.right
+		x.p.color = BLACK
+		w.right.color = BLACK
+		LEFT-ROTATE(T, x.p)
+		x = T.root
+	else ()
 ```
+- taking $O(\lg n)$ time
