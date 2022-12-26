@@ -18,8 +18,13 @@ Tags:
 - given a rod of length $n$ inches and a table of prices $p_i$, for $i=1, 2, \dots, n$
 - determine the maximum revenue $r_n$ obtainable by cutting up the rod and selling the pieces
 - rod lengths are always an integral number of inches
-![[Screen Shot 2022-12-26 at 22.35.52.png]]
-- there're $2^{n-1}$ d
+![[Screen Shot 2022-12-26 at 22.35.52.png|500]]
+- there're $2^{n-1}$ different ways to cut a rod
+- an optimal solution cuts the rod into $k$ pieces, for some $1\leq k\leq n$, then
+  - $n=i_1+i_2+\dots+i_k$
+  - $r_n=p_{i1}+p_{i2}+\dots+p_{ik}$
+![[Screen Shot 2022-12-26 at 22.59.59.png|500]]
+→ $r_n=max(p_n, r_1+r_{n-1}, r_2)
 ## Matrix-chain multiplication
 
 ## Longest common subsequence
