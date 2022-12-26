@@ -6,7 +6,8 @@ Tags:
 - 
 ---
 # Dynamic programming
-
+- solving problems by combining the solutions to subproblems
+- 
 ## Rod cutting
 
 ## Matrix-chain multiplication
