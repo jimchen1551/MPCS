@@ -15,11 +15,11 @@ Tags:
 | [[Readers-writers problem]]     |             |
 | [[Dining-philosophers problem]] |             |
 
-| Hardware solutions        | Explanation |
-| ------------------------- | ----------- |
-| [[Memory barriers]]       |             |
-| [[Hardware instructions]] |             |
-| [[Atomic variables]]      |             |
+| Hardware solutions        | Explanation                          |
+| ------------------------- | ------------------------------------ |
+| [[Memory barriers]]       | force to propagate                   |
+| [[Hardware instructions]] | `test_and_set`<br>`compare_and_swap` |
+| [[Atomic variables]]      | mutual exclsingle variable               |
 
 | Software solutions       | Explanation |
 | ------------------------ | ----------- |
