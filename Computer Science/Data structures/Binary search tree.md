@@ -1,7 +1,7 @@
 ---
 Created: [[2022-12-17]]
-Aliases: 
-Types: 
+Aliases: BST
+Types: Note
 Tags: 
 - 
 ---
