@@ -13,9 +13,15 @@ wait(S){
 	}
 	S--;
 }
+
 signal(S){
 	S++;
 }
+
+typedef struct{
+	int value;
+	struct process* list;
+}semaphore;
 ```
 - an integer variable that is accessed only through 2 standard atomic operations: `wait()` and `signal()`
 - **counting semaphore**: ranging over an unrestricted domain
