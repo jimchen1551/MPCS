@@ -6,3 +6,11 @@ Tags:
 - 
 ---
 # Dynamic programming
+
+## Rod cutting
+
+## Matrix-chain multiplication
+
+## Longest common subsequence
+
+## Optimal binary search tree
