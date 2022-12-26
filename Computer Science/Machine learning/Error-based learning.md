@@ -10,13 +10,15 @@ Tags:
 | --------------------- | ------- |
 | [[Error function]]    |         |
 | [[Error surface]]     |         |
+| [[Gradient descent]]                 |         |
+| [[Initial weight and learning rate]] |         |
 
 | Algorithms                           | Comment |
 | ------------------------------------ | ------- |
-|[[[[Linear regression]]]\\||
+| [[Linear regression]]                |         |
 | [[Multivariable linear regression]]  |         |
-| [[Gradient descent]]                 |         |
-| [[Initial weight and learning rate]] |         |
 | [[Logistic regression]]              |         |
+| [[Multinominal logistic regression]] |         |
+| [[Support vector machine]]           |         |
 
 ## For categorical features
