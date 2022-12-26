@@ -14,7 +14,11 @@ Tags:
 2. Recursively define the value of an optimal solution
 3. Compute the value of an optimal solution, typically in a bottom-up fashion
 4. Construct an optimal solution from computed information
-## Rod cutting
+## Rod cutting problem
+- given a rod of length $n$ inches and a table of prices $p_i$, for $i=1, 2, \dots, n$
+- determine the maximum revenue $r_n$ obtainable by cutting up the rod and selling the pieces
+- rod lengths are always an integral number of inches
+![[Screen Shot 2022-12-26 at 22.35.52.png]]
 
 ## Matrix-chain multiplication
 
