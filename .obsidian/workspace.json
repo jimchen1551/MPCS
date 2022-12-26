@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa427f3b9505b2f",
+        "id": "b173fda0f00919fd",
         "type": "tabs",
         "children": [
           {
-            "id": "70cd6fd1d99a75cd",
+            "id": "2ab7f776afc5c068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Machine learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3eb7eb8ff95c587a",
+            "id": "3ade074c85821fe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "400c5770af3c23d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a98d107fb7a75f98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md"
+                "file": "Computer Science/Machine learning/Error-based learning.md"
               }
             }
           },
@@ -217,17 +192,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a98d107fb7a75f98",
+  "active": "3ade074c85821fe6",
   "lastOpenFiles": [
+    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Error-based learning.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems/Process management/Process synchronization.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Problems/Dining-philosophers problem.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Problems/Readers-writers problem.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Problems/Bounded-buffer problem.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Priority inversion.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Semaphores.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md"
+    "Computer Science/Operating systems/Process management/Process synchronization/Problems/Bounded-buffer problem.md"
   ]
 }

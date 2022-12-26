@@ -35,9 +35,6 @@ while (true){
    3. Use an asymmetric solution. 
 2. [[Monitors]]
 ```C
-if ((state[(i+4)%5]!=EATING)&&(state[(i+1)%5]!=EATING))
-   state[i]=EATING
-
 monitor DiningPhilosophers
 {
 	enum{THINKING, HUNGRY, EATING}state[5];
@@ -49,6 +46,23 @@ monitor DiningPhilosophers
 			self[i].wait();
 		}
 	}
-	
+	void putdown(int i){
+		state[i] = THINKING;
+		test((i+4)%5);
+		test((i+1)%5);
+	}
+	void test(int i){
+		if ((state[(i+4)%5]!=EATING)&&
+			(state[(i+1)%5]!=EATING)&&
+			(state[i]==HUNGRY)){
+			state[i] = EATING;
+			self[i].signal();
+		}
+	}
+	initialization(){
+		for (int i=0; i<5; i++){
+			state[i] = THINKING;
+		}
+	}
 }
 ```
