@@ -6,22 +6,31 @@ Tags:
 - 
 ---
 # Process synchronization
-| Problems of synchronization   | Explanation |
-| ----------------------------- | ----------- |
-| [[Producer-consumer problem]] |             |
-| [[Critical-section problem]]  |             |
+| Problems of synchronization     | Explanation |
+| ------------------------------- | ----------- |
+| [[Producer-consumer problem]]   |             |
+| [[Critical-section problem]]    |             |
+| [[Bounded-buffer problem]]      |             |
+| [[Readers-writers problem]]     |             |
+| [[Dining-philosophers problem]] |             |
 
-|Hardware solutions| Explanation|
-## Peterson's solution
-## Memory barriers
-## Hardware instructions
-## Atomic variables
-## Mutex locks
-## Semaphores
-## Monitors
-## Liveness
+| Hardware solutions        | Explanation |
+| ------------------------- | ----------- |
+| [[Memory barriers]]       |             |
+| [[Hardware instructions]] |             |
+| [[Atomic variables]]      |             |
+
+| Software solutions       | Explanation |
+| ------------------------ | ----------- |
+| [[Peterson's solution]]  |             |
+| [[Mutex locks]]          |             |
+| [[Semaphores]]           |             |
+| [[Monitors]]             |             |
+
+| Liveness failure       | Explanation |
+| ---------------------- | ----------- |
+| [[Deadlock]]           |             |
+| [[Priority inversion]] |             |
+
 ## Evaluation
-## Bounded-buffer problem
-## Readers-writers problem
-## Dining-philosophers problem
-## Alternative approaches
+
