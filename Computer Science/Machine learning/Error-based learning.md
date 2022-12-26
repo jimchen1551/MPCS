@@ -21,3 +21,4 @@ Tags:
 | [[Support vector machine]]           |         |
 
 ## For categorical features
+- one-hot encoding
