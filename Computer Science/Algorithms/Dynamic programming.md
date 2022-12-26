@@ -19,7 +19,7 @@ Tags:
 - determine the maximum revenue $r_n$ obtainable by cutting up the rod and selling the pieces
 - rod lengths are always an integral number of inches
 ![[Screen Shot 2022-12-26 at 22.35.52.png]]
-
+- there're $2^{n-1}$ d
 ## Matrix-chain multiplication
 
 ## Longest common subsequence
