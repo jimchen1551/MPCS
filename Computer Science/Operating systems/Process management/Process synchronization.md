@@ -28,10 +28,10 @@ Tags:
 | [[Semaphores]]          | `wait()`<br>`signal()`       |
 | [[Monitors]]            | skipped                      |
 
-| Liveness failure       | Explanation |
-| ---------------------- | ----------- |
-| [[Deadlock]]           |             |
-| [[Priority inversion]] |             |
+| Liveness failure       | Explanation                                    |
+| ---------------------- | ---------------------------------------------- |
+| [[Deadlock]]           | waiting for an event caused by other processes |
+| [[Priority inversion]] | access resources from lower-priority processes |
 
 ## Evaluation
 
