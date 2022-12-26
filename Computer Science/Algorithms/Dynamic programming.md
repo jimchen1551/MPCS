@@ -15,6 +15,15 @@ Tags:
 2. Recursively define the value of an optimal solution
 3. Compute the value of an optimal solution, typically in a bottom-up fashion
 4. Construct an optimal solution from computed information
+- **Optimal substructure**: optimal solutions to a problem incorporate optimal solutions to related subproblems, which we may solve independently. 
+  1. A solution to the problem consists of making a choice. Making this choice leaves one or more subproblems to be solved. 
+  2. Suppose for a given problem, you are given a choice that leads to an optimal solution. 
+  3. Given this choice, determine which subproblems ensue and how to characterize the resulting space of subproblems best. 
+  4. Use the **cut-and-paste** technique to show that the solutions to the subproblems used within the optimal solution to the problem must themselves be optimal. 
+## Cut-and-paste
+- Suppose that one of the subproblem solutions is not optimal
+- **Cut** it out and **Paste** in an optimal solution. 
+- Get a better 
 ## Rod cutting problem
 - given a rod of length $n$ inches and a table of prices $p_i$, for $i=1, 2, \dots, n$
 - determine the maximum revenue $r_n$ obtainable by cutting up the rod and selling the pieces
@@ -26,7 +35,6 @@ Tags:
   - $r_n=p_{i1}+p_{i2}+\dots+p_{ik}$
 ![[Screen Shot 2022-12-26 at 22.59.59.png|500]]
 → $r_n=\max_{1\leq i\leq n}(p_i+r_{n-i})$
-- **Optimal substructure**: optimal solutions to a problem incorporate optimal solutions to related subproblems, which we may solve independently. 
 ### Top-down method with memoization
 ```Pseudocode
 MEMOIZED-CUT-ROD(p, n)
