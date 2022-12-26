@@ -62,8 +62,18 @@ return r[n]
 
 EXTENDED-BOTTOM-UP-CUT-ROD(p, n)
 let r[0:n] and s[0:n] be new arrays
+r[0] = 0
+for j=1 to n
+	q = -infty
+	for i=1 to j
+		if q<p[i]+r[j-1]
+			q = p[i]+r[j-1]
+			s[j] = i
+	r[j] = q
+return r and s
 ```
 - solving any particular subproblem depends only on solving smaller subproblems
+- extended method record not only the optimal value but also the choice that led to the optimal value
 ### Subproblem graph
 ![[Screen Shot 2022-12-26 at 23.17.34.png]]
 - describing the set of subproblems involved and how subproblems depend on one another
