@@ -101,7 +101,27 @@ return r and s
   2. $m[i, j]$: the minimum number of scalar multiplications needed to compute the matrix $A_{i\dots j}$
      $m[i, j]=\begin{cases}0&\text{if }i=j\\\min_{i\leq k<j}(m[i, k]+m[k+1, j]+p_{i-1}p_kp_j)&\text{if }i<j\end{cases}$
   Step 3:
-
+  1. there're relative few distinct subproblems: one subproblem for each choice of $i$ and $j$ satisfying $1\leq i\leq j\leq n$, $C_2^n+n=(n^2)$
+  2. implementing the bottom-up method
+```Pseudocode
+MATRIX-CHAIN-ORDER(p)
+n = p.length-1
+let m[1:n, 1:n] and s[1:n-1, 2:n] be new tables
+for i=1 to n
+	m[i, j] = 0
+for l=2 to n
+	for i=1 to n-l+1
+		j = i+l-1
+		m[i, j] = infty
+		for k=i to j-1
+			q = m[i, k]+m[k+1, j]+p_{i-1}p_kp_j
+			if q<m[i, j]
+				m[i, j] = q
+				s[i, j] = k
+return m and s
+```
+  Step 4: 
+  1. each entry $s[i, j]$ records a value of $k$ such that an optimal pare
 ## Longest common subsequence
 
 ## Optimal binary search tree
