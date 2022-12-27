@@ -23,7 +23,6 @@ Tags:
 | Resource management        | Content                                                                                                                                   |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Process management]]     | [[Process]]<br>[[Process scheduling]]<br>[[Process synchronization]]<br>[[Interprocess communication]]<br>[[Client-server communication]] |
-| [[Cache management]]       |                                                                                                                                           |
 | [[Memory management]]      |                                                                                                                                           |
 | [[Storage management]]     |                                                                                                                                           |
 | [[File-system management]] |                                                                                                                                           |
