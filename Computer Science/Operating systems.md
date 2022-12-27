@@ -25,9 +25,9 @@ Tags:
 | [[Process management]]     | [[Process]]<br>[[Process scheduling]]<br>[[Process synchronization]]<br>[[Interprocess communication]]<br>[[Client-server communication]] |
 | [[Cache management]]       |                                                                                                                                           |
 | [[Memory management]]      |                                                                                                                                           |
-| [[Storage management]]     | [[Mass-storage structure]]                                                                                                                |
-| [[File-system management]] | [[File-system interface]]<br>[[File-system internal]]                                                                                     |
-| [[IO-system management]]   | [[IO system]]                                                                                                                             |
+| [[Storage management]]     |                                                                                                                                           |
+| [[File-system management]] |                                                                                                                                           |
+| [[IO-system management]]   |                                                                                                                                           |
 | [[Protection]]             |                                                                                                                                           |
 | [[Security]]               |                                                                                                                                           |
 | [[Virtualization]]         |                                                                                                                                           |
