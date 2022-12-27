@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Evaluation.md",
+                "file": "Computer Science/Machine learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Evaluation.md",
+                "file": "Computer Science/Machine learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Evaluation.md",
+                "file": "Computer Science/Machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Evaluation.md"
+                "file": "Computer Science/Machine learning.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Evaluation.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
     "Computer Science/Algorithms/Dynamic programming.md",
@@ -178,7 +179,6 @@
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures.md",
     "Computer Science/Data structures/Red-black tree.md",
-    "Computer Science/Data structures/Binary search tree.md",
-    "Computer Science/Machine learning/Error-based learning.md"
+    "Computer Science/Data structures/Binary search tree.md"
   ]
 }
