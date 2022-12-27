@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d2e659f7a2317a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "111a829782eacfa7",
             "type": "leaf",
             "state": {
@@ -74,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md",
+                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md",
+                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md"
+                "file": "Computer Science/Data structures/Hash table/Open addressing.md"
               }
             }
           },
@@ -181,29 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes": false
-    }
-  },
-  "active": "111a829782eacfa7",
+  "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
+    "Computer Science/Data structures/Hash table.md",
+    "Computer Science/Data structures.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Greedy algorithms.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Data structures/Binary search tree.md",
-    "Computer Science/Data structures.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Error-based learning.md",
-    "Computer Science/Machine learning/Error-based learning/Multinominal logistic regression.md",
-    "Computer Science/Machine learning/Error-based learning/Error surface.md"
+    "Computer Science/Machine learning/Error-based learning/Multinominal logistic regression.md"
   ]
 }
