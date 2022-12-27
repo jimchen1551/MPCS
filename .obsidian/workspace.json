@@ -26,18 +26,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f8f3946eea53c9a",
+            "id": "dfc71c74eee0f9ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+                "file": "Computer Science/Machine learning/Probability-based learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e6da14f79cdfdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
+                "file": "Computer Science/Machine learning/Error-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Similarity-based learning/Feature selection.md"
+                "file": "Computer Science/Machine learning/Error-based learning.md"
               }
             }
           },
@@ -186,17 +199,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f8f3946eea53c9a",
+  "active": "2e6da14f79cdfdaa",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Similarity-based learning.md",
     "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Probability-based learning.md",
+    "Computer Science/Machine learning/Similarity-based learning.md",
+    "Computer Science/Machine learning/Similarity-based learning/k-nearest neighbor.md",
+    "Computer Science/Machine learning/Similarity-based learning/Nearest neighbor.md",
+    "Computer Science/Machine learning/Similarity-based learning/Feature selection.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Evaluation.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
-    "Computer Science/Algorithms/Dynamic programming.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Greedy algorithms.md",
-    "Computer Science/Data structures/Hash table.md",
-    "Computer Science/Data structures.md"
+    "Computer Science/Algorithms/Dynamic programming.md"
   ]
 }
