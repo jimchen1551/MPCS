@@ -18,6 +18,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ca7ca000760e6d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Information-based learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f053d1c4e2ad761e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1fd292b5e6506fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Machine learning/Information-based learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -86,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning.md"
+                "file": "Computer Science/Machine learning/Information-based learning.md"
               }
             }
           },
@@ -168,10 +199,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2e659f7a2317a56",
+  "active": "1ca7ca000760e6d9",
   "lastOpenFiles": [
-    "Computer Science/Machine learning/Evaluation.md",
     "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Evaluation.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Algorithms.md",
