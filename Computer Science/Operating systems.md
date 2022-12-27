@@ -23,7 +23,7 @@ Tags:
 | Resource management        | Content                                                                                                                                   |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Process management]]     | [[Process]]<br>[[Process scheduling]]<br>[[Process synchronization]]<br>[[Interprocess communication]]<br>[[Client-server communication]] |
-| [[Memory management]]      |                                                                                                                                           |
+| [[Memory management]]      | Dynamic binding<br>Dynamic loading<br>Dynamic linking<br>Contiguous memory allocation<br>Paging                                           |
 | [[Storage management]]     |                                                                                                                                           |
 | [[File-system management]] |                                                                                                                                           |
 | [[IO-system management]]   |                                                                                                                                           |
