@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md"
+                "file": "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md"
               }
             }
           },
@@ -182,14 +182,14 @@
   "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
     "Computer Science/Operating systems/Process management/Process synchronization.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Semaphores.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Peterson's solution.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Atomic variables.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Memory barriers.md",
     "Computer Science/Operating systems.md",
-    "Computer Science/Machine learning.md",
-    "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science/Machine learning/Information-based learning/CART.md",
-    "Computer Science/Machine learning/Information-based learning/ID3.md",
-    "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
-    "Computer Science/Machine learning/Information-based learning/Information gain.md",
-    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
-    "Computer Science/Machine learning/Probability-based learning.md"
+    "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md",
+    "Computer Science/Operating systems/Process management/Process synchronization/Liveness failure/Deadlock.md",
+    "Computer Science/Machine learning.md"
   ]
 }
