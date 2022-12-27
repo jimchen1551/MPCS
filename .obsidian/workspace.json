@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems/Memory management.md",
+                "file": "Computer Science/Operating systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating systems/Memory management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Operating systems/Memory management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Operating systems/Memory management.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,17 +174,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d2e659f7a2317a56",
+  "active": "6fe36bea0bcd2363",
   "lastOpenFiles": [
-    "Computer Science.md",
     "Computer Science/Operating systems.md",
+    "Computer Science.md",
+    "Computer Science/Operating systems/Memory management.md",
     "Computer Science/Operating systems/File-system management 2.md",
     "Computer Science/Operating systems/Cache management 2.md",
     "Computer Science/Operating systems/Cache management.md",
     "Computer Science/Operating systems/Process management/Process synchronization.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
     "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Semaphores.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Mutex locks.md"
+    "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md"
   ]
 }
