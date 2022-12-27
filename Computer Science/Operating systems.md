@@ -24,7 +24,7 @@ Tags:
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Process management]]     | [[Process]]<br>[[Process scheduling]]<br>[[Process synchronization]]<br>[[Interprocess communication]]<br>[[Client-server communication]] |
 | [[Cache management]]       |                                                                                                                                           |
-| [[Memory management]]      | [[Main memory]]<br>[[Virtual memory]]                                                                                                     |
+| [[Memory management]]      |                                                                                                                                           |
 | [[Storage management]]     | [[Mass-storage structure]]                                                                                                                |
 | [[File-system management]] | [[File-system interface]]<br>[[File-system internal]]                                                                                     |
 | [[IO-system management]]   | [[IO system]]                                                                                                                             |
