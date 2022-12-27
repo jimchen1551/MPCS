@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ab7f776afc5c068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d2e659f7a2317a56",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "111a829782eacfa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,15 +169,15 @@
   },
   "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Dynamic programming.md",
+    "Computer Science/Algorithms.md",
+    "Computer Science/Data structures/Hash table/Open addressing.md",
+    "Computer Science/Algorithms/Greedy algorithms.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Data structures.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Greedy algorithms.md",
-    "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Data structures/Red-black tree.md",
     "Computer Science/Data structures/Binary search tree.md",
     "Computer Science/Machine learning.md",
-    "Computer Science/Machine learning/Error-based learning.md",
-    "Computer Science/Machine learning/Error-based learning/Multinominal logistic regression.md"
+    "Computer Science/Machine learning/Error-based learning.md"
   ]
 }
