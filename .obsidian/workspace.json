@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Operating systems.md",
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+              }
             }
           },
           {
@@ -160,31 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes": false
-    }
-  },
-  "active": "6fe36bea0bcd2363",
+  "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management.md",
     "Computer Science/Operating systems.md",
-    "Computer Science.md",
-    "Computer Science/Operating systems/Memory management.md",
-    "Computer Science/Operating systems/File-system management 2.md",
-    "Computer Science/Operating systems/Cache management 2.md",
-    "Computer Science/Operating systems/Cache management.md",
-    "Computer Science/Operating systems/Process management/Process synchronization.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Monitors.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Software solutions/Semaphores.md",
-    "Computer Science/Operating systems/Process management/Process synchronization/Hardware solutions/Hardware instructions.md"
+    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Information-based learning.md",
+    "Computer Science/Machine learning/Information-based learning/CART.md",
+    "Computer Science/Machine learning/Information-based learning/ID3.md",
+    "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
+    "Computer Science/Machine learning/Information-based learning/Information gain.md",
+    "Computer Science/Machine learning/Probability-based learning/Bayesian network.md",
+    "Computer Science/Machine learning/Probability-based learning.md"
   ]
 }
