@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms.md"
+                "file": "Computer Science/Algorithms/Dynamic programming.md"
               }
             }
           },
@@ -257,15 +257,15 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d2e659f7a2317a56",
+  "active": "4868ce34796e21a8",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Algorithms/Design/Rod cutting problem.md",
     "Computer Science/Algorithms/Design/Optimal binary search tree.md",
     "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
     "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
     "Computer Science/Algorithms/Divide and conquer.md",
-    "Computer Science/Algorithms.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
     "Computer Science/Operating systems/Process management.md"
