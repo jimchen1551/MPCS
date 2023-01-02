@@ -18,4 +18,4 @@ Tags:
 | [[Collision]]         | 2 keys hash to the same slot                                                                            |
 | [[Chaining]]          | storing collided elements in a [[Linked list]]                                                          |
 | [[Direct addressing]] | $T[x.key]=x$                                                                                            |
-| [[Open addressing]]   | Probe<br>Double hashing: $h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$<br>Linear probing<br>Quadratic probing |
+| [[Open addressing]]   | Probe<br>Double hashing: $h(k, i)=(h_1(k)+i\cdot h_2(k))\bmod m$<br>Linear probing: $h(k, i)=(h_1(k)+i)\mod m$<br>Quadratic probing: $h(k, i)=$ |
