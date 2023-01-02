@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "47b30db2f87e9482",
@@ -44,6 +45,18 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Algorithms/Dynamic programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4078cc224fc11956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Rod cutting problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms.md"
+                "file": "Computer Science/Algorithms/Dynamic programming.md"
               }
             }
           },
@@ -210,17 +222,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d2e659f7a2317a56",
+  "active": "4868ce34796e21a8",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Design/Rod cutting problem.md",
+    "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
     "Computer Science/Operating systems/Process management.md",
     "Computer Science/Machine learning.md",
     "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science/Machine learning/Information-based learning/CART.md",
-    "Computer Science/Machine learning/Information-based learning/ID3.md"
+    "Computer Science/Machine learning/Information-based learning/CART.md"
   ]
 }
