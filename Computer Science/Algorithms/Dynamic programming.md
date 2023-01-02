@@ -28,7 +28,7 @@ To develop a dynamic-programming algorithm,
 ## Optimal substructure
 - optimal solutions to a problem incorporate optimal solutions to related subproblems, which we may solve independently. 
   1. A solution to the problem consists of making a choice. Making this choice leaves one or more subproblems to be solved. 
-  2. Suppose for a given problem, you are given a choice that leads to an optimal solution. 
+  2. Suppose for a given problem you are given a choice that leads to an optimal solution. 
   3. Given this choice, determine which subproblems ensue and how to characterize the resulting space of subproblems best. 
   4. Use the **cut-and-paste** technique to show that the solutions to the subproblems used within the optimal solution to the problem must themselves be optimal. 
 
