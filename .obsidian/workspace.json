@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Rod cutting problem.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md",
+                "file": "Computer Science/Algorithms/Dynamic programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md"
+                "file": "Computer Science/Algorithms/Dynamic programming.md"
               }
             }
           },
@@ -259,17 +259,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "add65c6df0a35bca",
+  "active": "4868ce34796e21a8",
   "lastOpenFiles": [
-    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Design/Rod cutting problem.md",
     "Computer Science/Algorithms/Dynamic programming.md",
+    "Computer Science/Algorithms/Greedy algorithms.md",
+    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms/Sorting algorithms/Selection sort.md",
     "Computer Science/Algorithms/Design/Optimal binary search tree.md",
     "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
     "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md"
+    "Computer Science/Operating systems.md"
   ]
 }
