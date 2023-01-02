@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md",
+                "file": "Computer Science/Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md",
+                "file": "Computer Science/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Greedy algorithms.md"
+                "file": "Computer Science/Algorithms.md"
               }
             }
           },
@@ -218,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,10 +234,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "add65c6df0a35bca",
+  "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
-    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Greedy algorithms.md",
+    "Computer Science/Algorithms.md",
     "Computer Science/Algorithms/Design/Activity-selection problem.md",
     "Computer Science/Algorithms/Design/Huffman codes.md",
     "Computer Science/Algorithms/Design/Knapsack problem.md",
