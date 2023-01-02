@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "47b30db2f87e9482",
@@ -45,6 +44,42 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Algorithms/Dynamic programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c532fae046537230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Optimal binary search tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ead2855b3c835385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f48d53f535eb24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Dynamic programming.md",
+                "file": "Computer Science/Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Dynamic programming.md",
+                "file": "Computer Science/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Dynamic programming.md"
+                "file": "Computer Science/Algorithms.md"
               }
             }
           },
@@ -222,17 +257,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "4868ce34796e21a8",
+  "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Design/Rod cutting problem.md",
     "Computer Science/Algorithms/Dynamic programming.md",
+    "Computer Science/Algorithms/Design/Rod cutting problem.md",
+    "Computer Science/Algorithms/Design/Optimal binary search tree.md",
+    "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
+    "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
     "Computer Science/Algorithms/Divide and conquer.md",
     "Computer Science/Algorithms.md",
     "Computer Science/Operating systems.md",
     "Computer Science/Operating systems/Process management/Process scheduling/CPU scheduling.md",
-    "Computer Science/Operating systems/Process management.md",
-    "Computer Science/Machine learning.md",
-    "Computer Science/Machine learning/Information-based learning.md",
-    "Computer Science/Machine learning/Information-based learning/CART.md"
+    "Computer Science/Operating systems/Process management.md"
   ]
 }
