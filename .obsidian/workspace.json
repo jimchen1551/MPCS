@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "47b30db2f87e9482",
+        "type": "tabs",
+        "children": [
           {
             "id": "add65c6df0a35bca",
             "type": "leaf",
@@ -30,100 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e84d24755b49f2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Binary search tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "47b30db2f87e9482",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4868ce34796e21a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Dynamic programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c532fae046537230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Design/Optimal binary search tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ead2855b3c835385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f48d53f535eb24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4078cc224fc11956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Design/Rod cutting problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f796926fe247e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data structures/Hash table/Open addressing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Binary search tree.md",
+                "file": "Computer Science/Algorithms/Greedy algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Binary search tree.md",
+                "file": "Computer Science/Algorithms/Greedy algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Binary search tree.md"
+                "file": "Computer Science/Algorithms/Greedy algorithms.md"
               }
             }
           },
@@ -283,17 +197,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e84d24755b49f2c9",
+  "active": "add65c6df0a35bca",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Dynamic programming.md",
+    "Computer Science/Algorithms/Design/Optimal binary search tree.md",
+    "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
+    "Computer Science/Data structures/Binary search tree.md",
     "Computer Science/Data structures.md",
     "Computer Science/Data structures/Hash table.md",
     "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
     "Computer Science/Data structures/Hash table/Open addressing.md",
-    "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Algorithms/Design/Rod cutting problem.md",
-    "Computer Science/Algorithms/Greedy algorithms.md",
-    "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Divide and conquer.md",
-    "Computer Science/Algorithms/Sorting algorithms/Selection sort.md"
+    "Computer Science/Algorithms/Greedy algorithms.md"
   ]
 }
