@@ -65,7 +65,7 @@ Tags:
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Incremental method      | [[Insertion sort]]                                                                                                                               |
 | [[Divide and conquer]]  | [[Merge sort]]<br>[[Strassen's algorithm]]<br>[[Substitution method]]<br>[[Recursion-tree method]]<br>[[Master method]]<br>[[Akra-Bazzi method]] |
-| [[Dynamic programming]] | [[Rod cutting problem]]<br>[[Matrix-chain multiplication problem]]<br>[[Longest common subsequence problem]]<br>[[Optimal binary tree]]          |
+| [[Dynamic programming]] | [[Rod cutting problem]]<br>[[Matrix-chain multiplication problem]]<br>[[Longest common subsequence problem]]<br>[[Optimal binary search tree]]   |
 | [[Greedy algorithms]]   | [[Selection sort]]                                                                                                                               |
 
 ## Reference book

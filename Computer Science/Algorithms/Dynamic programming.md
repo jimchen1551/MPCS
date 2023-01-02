@@ -47,7 +47,7 @@ To develop a dynamic-programming algorithm,
 2. if the answer exists, use it
 3. else, compute the answer and store it
 
-## Running time
-- depending on the product of:
+## Analysis
+- running time depends on the product of:
   1. the number of subproblems overall
   2. how many choices to look at for each subproblem
