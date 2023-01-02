@@ -101,7 +101,7 @@ return r and s
 ### Subproblem graph
 ![[Screen Shot 2022-12-26 at 23.17.34.png]]
 - describing the set of subproblems involved and how subproblems depend on one another
-- the time to compute the solution to a subproblem is proportional to the degree of the corresponding vertex in the subproblem graph
+- the time to compute the solution to a subproblem si proportional to the degree of the corresponding vertex in the subproblem graph
 - the number of subproblems is equal to the number of vertices in the subproblem graph
 - the running time of dynamic programming is linear in the number of vertices and edges
 ## Matrix-chain multiplication problem

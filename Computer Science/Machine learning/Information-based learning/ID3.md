@@ -20,7 +20,7 @@ else if d is empty
 else if D is empty
 	return a decision tree consisting of a leaf node with the label of the majority target level of the immediate parent node
 else
-	d[best]←arg max IG(d, D)
+	d[best] ← arg max IG(d, D)
 	make a new node, Node_d[best], and label it with d[best]
 partition D using d[best]
 remove d[best] from d

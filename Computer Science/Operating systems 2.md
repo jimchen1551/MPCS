@@ -23,11 +23,10 @@ Tags:
 | Resource management        | Content                                                                                                                                   |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Process management]]     | [[Process]]<br>[[Process scheduling]]<br>[[Process synchronization]]<br>[[Interprocess communication]]<br>[[Client-server communication]] |
-| [[Cache management]]       |                                                                                                                                           |
-| [[Memory management]]      | [[Main memory]]<br>[[Virtual memory]]                                                                                                     |
-| [[Storage management]]     | [[Mass-storage structure]]                                                                                                                |
-| [[File-system management]] | [[File-system interface]]<br>[[File-system internal]]                                                                                     |
-| [[IO-system management]]   | [[IO system]]                                                                                                                             |
+| [[Memory management]]      | Contiguous memory allocation<br>Paging<br>Virtual memory                                                                                  |
+| [[Storage management]]     |                                                                                                                                           |
+| [[File-system management]] |                                                                                                                                           |
+| [[IO-system management]]   |                                                                                                                                           |
 | [[Protection]]             |                                                                                                                                           |
 | [[Security]]               |                                                                                                                                           |
 | [[Virtualization]]         |                                                                                                                                           |
