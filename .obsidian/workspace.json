@@ -36,6 +36,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56afd969c9525bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Huffman codes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c257b04aaeb8d28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Knapsack problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e7de289a380a20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms/Design/Activity-selection problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -182,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,15 +234,15 @@
   },
   "active": "add65c6df0a35bca",
   "lastOpenFiles": [
+    "Computer Science/Algorithms.md",
+    "Computer Science/Algorithms/Greedy algorithms.md",
+    "Computer Science/Algorithms/Design/Activity-selection problem.md",
+    "Computer Science/Algorithms/Design/Huffman codes.md",
+    "Computer Science/Algorithms/Design/Knapsack problem.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Algorithms/Design/Optimal binary search tree.md",
     "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
     "Computer Science/Data structures/Binary search tree.md",
-    "Computer Science/Data structures.md",
-    "Computer Science/Data structures/Hash table.md",
-    "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
-    "Computer Science/Data structures/Hash table/Open addressing.md",
-    "Computer Science/Algorithms/Design/Rod cutting problem.md",
-    "Computer Science/Algorithms/Greedy algorithms.md"
+    "Computer Science/Data structures.md"
   ]
 }

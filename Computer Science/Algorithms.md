@@ -12,7 +12,6 @@ Tags:
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sorting algorithms]]   | [[Insertion sort]]<br>[[Merge sort]]<br>[[Heap sort]]<br>[[Quick sort]]<br>[[Selection sort]]<br>[[Counting sort]]<br>[[Radix sort]]<br>[[Bucket sort]]<br>[[Randomized select]]<br>[[Select]] |
 | [[Searching algorithms]] |                                                                                                                                                                                                |
-| [[Graph algorithms]]     |                                                                                                                                                                                                |
 
 ## Typical problems
 - Shortest path problem
@@ -66,7 +65,7 @@ Tags:
 | Incremental method      | [[Insertion sort]]                                                                                                                               |
 | [[Divide and conquer]]  | [[Merge sort]]<br>[[Strassen's algorithm]]<br>[[Substitution method]]<br>[[Recursion-tree method]]<br>[[Master method]]<br>[[Akra-Bazzi method]] |
 | [[Dynamic programming]] | [[Rod cutting problem]]<br>[[Matrix-chain multiplication problem]]<br>[[Longest common subsequence problem]]<br>[[Optimal binary search tree]]   |
-| [[Greedy algorithms]]   | [[Selection sort]]                                                                                                                               |
+| [[Greedy algorithms]]   | [[Selection sort]]<br>[[Activity-selection problem]]<br>[[Knapsack problem]]<br>[[Huffman codes]]                                                |
 
 ## Reference book
 - Algorithms in a nutshell by George T. Heineman, Gary Pollice, and Stanley Selkow
