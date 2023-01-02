@@ -38,7 +38,7 @@ To develop a dynamic-programming algorithm,
 
 ## Cut-and-paste
 - Suppose that one of the subproblem solutions is not optimal
-- **Cut** it out and **Paste** into an optimal solution. 
+- **Cut** it out and **Paste** it into an optimal solution. 
 - Get a better solution to the original problem. 
 
 ## Memoization
