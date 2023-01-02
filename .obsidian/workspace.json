@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md",
+                "file": "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md",
+                "file": "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data structures/Hash table.md"
+                "file": "Computer Science/Algorithms/Design/Matrix-chain multiplication problem.md"
               }
             }
           },
@@ -283,10 +283,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e84d24755b49f2c9",
+  "active": "a7f48d53f535eb24",
   "lastOpenFiles": [
-    "Computer Science/Data structures/Hash table/Open addressing.md",
     "Computer Science/Data structures/Hash table.md",
+    "Computer Science/Data structures/Hash table/Open addressing.md",
     "Computer Science/Data structures.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Algorithms/Design/Rod cutting problem.md",
