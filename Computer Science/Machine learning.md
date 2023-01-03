@@ -16,20 +16,10 @@ Tags:
 | [[Similarity-based learning]]  | [[Feature space]]<br>[[Distance matric]]<br>[[Feature selection]]<br>[[Nearest neighbor]]<br>[[k-nearest neighbor]]                                                                                               |
 | [[Probability-based learning]] | [[Probability]]<br>[[Joint probability distribution]]<br>[[Smoothing]]<br>[[Bayes' theorem]]<br>[[Bayesian prediction]]<br>[[Naive Bayes model]]<br>[[Bayesian network]]                                          |
 | [[Error-based learning]]       | [[Error function]]<br>[[Error surface]]<br>[[Gradient descent]]<br>[[Linear regression]]<br>[[Multivariable linear regression]]<br>[[Logistic regression]]<br>[[Multinominal logistic regression]]                |
-| [[Evaluation]]                 |                                                                                                                                                                                                                   |
 
-| Machine learning               | Content |
-| ------------------------------ | ------- |
-| [[Linear model]]               |         |
-| [[Neural network]]             |         |
-| [[Kernel method]]              |         |
-| [[Graphical model]]            |         |
-| [[Mixture model]]              |         |
-| [[Approximate inference]]      |         |
-| [[Sampling method]]            |         |
-| [[Continuous latent variable]] |         |
-| [[Sequential data]]            |         |
-| [[Combining models]]           |         |
+| Machine learning | Content |
+| ---------------- | ------- |
+|                  |         |
 
 ## Reference book
 - Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brian Mac Namee, and Aoife D'Arcy
