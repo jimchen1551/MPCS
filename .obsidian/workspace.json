@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Huffman codes.md",
+                "file": "Computer Science/Algorithms/Design/Activity-selection problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Huffman codes.md",
+                "file": "Computer Science/Algorithms/Design/Activity-selection problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms/Design/Huffman codes.md"
+                "file": "Computer Science/Algorithms/Design/Activity-selection problem.md"
               }
             }
           },
@@ -235,13 +235,13 @@
       "publish:Publish changes": false
     }
   },
-  "active": "56afd969c9525bd6",
+  "active": "1e7de289a380a20d",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Design/Knapsack problem.md",
+    "Computer Science/Algorithms/Design/Huffman codes.md",
     "Computer Science/Algorithms/Design/Activity-selection problem.md",
     "Computer Science/Algorithms/Greedy algorithms.md",
     "Computer Science/Algorithms.md",
-    "Computer Science/Algorithms/Design/Huffman codes.md",
-    "Computer Science/Algorithms/Design/Knapsack problem.md",
     "Computer Science/Algorithms/Dynamic programming.md",
     "Computer Science/Algorithms/Design/Optimal binary search tree.md",
     "Computer Science/Algorithms/Design/Longest common subsequence problem.md",
