@@ -26,7 +26,7 @@ Tags:
 | ------------------------ | --------------------------------------------------------------------------- |
 | [[Analytics Base Table]] | the basic structure of the dataset<br>Descriptive feature<br>Target feature |
 | [[Data Quality Report]]  | Tabular reports<br>Histograms                                               |
-| [[Data Quality Issues]]  | [[Missing values]]<br>[[Irregular cardinality]]<br>                         |
+| [[Data Quality Issues]]  | [[Missing values]]<br>[[Irregular cardinality]]<br>[[Outliers]]             |
 | [[Data Visualization]]   | Scatter plot matrix<br>Small multiples<br>Box plots                         |
 | [[Data Preparation]]     | Covariance<br>Correlation<br>Normalization<br>Binning<br>Sampling           |
 
