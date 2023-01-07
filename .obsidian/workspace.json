@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
+                "file": "Computer Science/Machine learning/Information-based learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Machine learning/Information-based learning/Information gain ratio.md"
+                "file": "Computer Science/Machine learning/Information-based learning.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "d2e659f7a2317a56",
   "lastOpenFiles": [
+    "Computer Science/Machine learning/Information-based learning/Information gain ratio.md",
     "Computer Science/Machine learning/Information-based learning.md",
     "Computer Science/Machine learning/Information-based learning/Information gain.md",
     "Computer Science.md",
@@ -188,7 +189,6 @@
     "Computer Science/Machine learning/Data/Data Quality Issues/Missing values.md",
     "Computer Science/Machine learning/Data/Data Quality Issues/Outliers.md",
     "Physics.md",
-    "Mathematics.md",
-    "Computer Science/Machine learning.md"
+    "Mathematics.md"
   ]
 }
